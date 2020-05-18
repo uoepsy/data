@@ -6,8 +6,8 @@ Datasets for teaching data analysis in psychology
 
 ### Courses
 
-- [dapr1](uoepsy.github.io/data/dapr1/)
-- [dapr2](uoepsy.github.io/data/dapr2/)
+- [dapr1](https://uoepsy.github.io/data/dapr1/)
+- [dapr2](https://uoepsy.github.io/data/dapr2/)
 - dapr3 (coming soon...)
-- [usmr](uoepsy.github.io/data/usmr/)
-- [msmr](uoepsy.github.io/data/msmr/)
+- [usmr](https://uoepsy.github.io/data/usmr/)
+- [msmr](https://uoepsy.github.io/data/msmr/)
