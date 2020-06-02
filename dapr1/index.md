@@ -62,3 +62,20 @@ TOC here
 | mismatching  | Self-reported time (seconds) to say out loud the colour of all words in the mismatching set |
 | height | Height in cm |
 
+### [cycling_mmwalk.csv](cycling_mmwalk.csv)
+
+| Variable Name | Meaning            |
+|---------------|--------------------|
+| month   | Month (first three letters) |
+| day    | Day of the month (1 - 31) |
+| hour  | Hour of the dat (0 - 24) |
+| cyclists  | Number of cyclists recorded by the bike counters (in either direction) on Middle Meadow Walk, Edinburgh |
+
+### [cycling_invrow.csv](cycling_invrow.csv)
+
+| Variable Name | Meaning            |
+|---------------|--------------------|
+| year    | Year (2014 - 2016) |
+| month   | Month (first three letters) |
+| cyclists  | Number of cyclists recorded by the bike counters (in either direction) on Inverleith Row, Edinburgh |
+| rainfall_mm  | Rainfall (in millimetres) recorded at the Royal Botanic Gardens, Edinburgh |
