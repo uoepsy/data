@@ -15,4 +15,4 @@ ggplot(df, aes(stress, performance)) +
 
 plot(lm(performance ~ stress, data = df), which = 1)
 
-# write_csv(df, path = '~/R/uoepsy/data/stress_performance.csv')
+write_csv(df, path = '~/R/uoepsy/data/stress_performance.csv')
