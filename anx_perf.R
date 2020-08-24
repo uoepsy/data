@@ -10,14 +10,10 @@ df <- tibble(
     mutate(
         x = 10 + x * (30 - 10),
         x = x %>% round(2),
-    ) %>%
-    bind_rows(
-        tibble(x = 33, y = 8)
-    ) %>%
-    bind_rows(
-        tibble(x = 15, y = 51)
     )
 
+df[99, ] <- tibble(x = 33, y = 8)
+df[100, ] <- tibble(x = 15, y = 51)
 df <- slice_sample(df, n = nrow(df), replace = FALSE)
 
 ggplot(df, aes(x, y)) +
