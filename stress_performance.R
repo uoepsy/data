@@ -1,5 +1,4 @@
 library(tidyverse)
-library(ggfortify)
 
 set.seed(1)
 
