@@ -18,6 +18,8 @@ df <- tibble(
         tibble(x = 15, y = 51)
     )
 
+df <- slice_sample(df, n = nrow(df), replace = FALSE)
+
 ggplot(df, aes(x, y)) +
     geom_point() +
     geom_smooth(method = lm, se = FALSE)
