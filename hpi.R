@@ -23,4 +23,4 @@ df <- df %>%
 
 head(df)
 
-write_csv('~/R/uoepsy/data/hpi.csv')
+write_csv(df, '~/R/uoepsy/data/hpi.csv')
