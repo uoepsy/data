@@ -1,0 +1,151 @@
+sub,bilingualism,age,score
+subject_1,bilingual,65,85.3691294643098
+subject_1,bilingual,75,76.4702522754624
+subject_1,bilingual,85,72.565214160585
+subject_2,bilingual,65,89.1636310516389
+subject_2,bilingual,75,69.5358019980982
+subject_2,bilingual,85,78.549093445349
+subject_3,bilingual,65,83.8670061077057
+subject_3,bilingual,75,78.3985363159959
+subject_3,bilingual,85,80.1229112594489
+subject_4,bilingual,65,97.5602869100645
+subject_4,bilingual,75,74.6398719913689
+subject_4,bilingual,85,56.4478706771317
+subject_5,not bilingual,65,89.1315963413633
+subject_5,not bilingual,75,70.3170776612883
+subject_5,not bilingual,85,73.1618165265863
+subject_6,bilingual,65,92.2034359371503
+subject_6,bilingual,75,78.4455425436019
+subject_6,bilingual,85,80.3137207610461
+subject_7,not bilingual,65,83.7779182746617
+subject_7,not bilingual,75,64.1524766676354
+subject_7,not bilingual,85,63.4742146837793
+subject_8,bilingual,65,82.5309666419067
+subject_8,bilingual,75,70.3889683661977
+subject_8,bilingual,85,68.2500652177651
+subject_9,not bilingual,65,90.1775159385628
+subject_9,not bilingual,75,81.1913746586518
+subject_9,not bilingual,85,87.41762289429
+subject_10,not bilingual,65,86.4267944544605
+subject_10,not bilingual,75,55.8237217582614
+subject_10,not bilingual,85,63.1160222564183
+subject_11,not bilingual,65,66.3649624604157
+subject_11,not bilingual,75,54.2114156050934
+subject_11,not bilingual,85,53.3058492090029
+subject_12,bilingual,65,68.4438587279409
+subject_12,bilingual,75,64.1186196947845
+subject_12,bilingual,85,58.9015305961195
+subject_13,not bilingual,65,80.5856961475232
+subject_13,not bilingual,75,61.6984657429493
+subject_13,not bilingual,85,45.9573838422414
+subject_14,bilingual,65,82.9617758947847
+subject_14,bilingual,75,74.0176978834466
+subject_14,bilingual,85,52.1976653035335
+subject_15,not bilingual,65,72.291940034799
+subject_15,not bilingual,75,55.1715556772141
+subject_15,not bilingual,85,43.8161743192624
+subject_16,bilingual,65,82.9134288955204
+subject_16,bilingual,75,78.5678473166768
+subject_16,bilingual,85,56.7409525747608
+subject_17,not bilingual,65,74.958011652895
+subject_17,not bilingual,75,61.3111901637251
+subject_17,not bilingual,85,73.0807238676921
+subject_18,not bilingual,65,85.6068538232757
+subject_18,not bilingual,75,66.298605944343
+subject_18,not bilingual,85,54.3615343834528
+subject_19,not bilingual,65,68.2723858646722
+subject_19,not bilingual,75,53.6476987192862
+subject_19,not bilingual,85,60.1869691452284
+subject_20,not bilingual,65,100
+subject_20,not bilingual,75,92.3686375575094
+subject_20,not bilingual,85,92
+subject_21,bilingual,65,81.9259367406328
+subject_21,bilingual,75,68.7180717617516
+subject_21,bilingual,85,81.1942852447697
+subject_22,bilingual,65,65.6389299014157
+subject_22,bilingual,75,56.3741985051515
+subject_22,bilingual,85,44.4986048769398
+subject_23,not bilingual,65,73.159394043434
+subject_23,not bilingual,75,56.016890076444
+subject_23,not bilingual,85,51.5751784463745
+subject_24,not bilingual,65,84.4697390462956
+subject_24,not bilingual,75,68.8163100307951
+subject_24,not bilingual,85,79.7297814749226
+subject_25,bilingual,65,68.1272331267056
+subject_25,bilingual,75,54.1691371707304
+subject_25,bilingual,85,56.710259462452
+subject_26,not bilingual,65,90.8935822821605
+subject_26,not bilingual,75,82.9671085340979
+subject_26,not bilingual,85,78.4600206775145
+subject_27,not bilingual,65,69.0904656911144
+subject_27,not bilingual,75,58.6884482073867
+subject_27,not bilingual,85,59.2137033713247
+subject_28,not bilingual,65,74.5703554059697
+subject_28,not bilingual,75,58.1034270993284
+subject_28,not bilingual,85,68.0569048778629
+subject_29,not bilingual,65,69.089629437962
+subject_29,not bilingual,75,45.6240413716298
+subject_29,not bilingual,85,35.8614596494102
+subject_30,not bilingual,65,79.7641526301053
+subject_30,not bilingual,75,74.0833072293139
+subject_30,not bilingual,85,76.3702050961552
+subject_31,bilingual,65,80.9513692254739
+subject_31,bilingual,75,71.0336783876954
+subject_31,bilingual,85,83.685910381193
+subject_32,bilingual,65,89.7714944728392
+subject_32,bilingual,75,82.4157297702584
+subject_32,bilingual,85,93.3409645450777
+subject_33,bilingual,65,77.4404601824978
+subject_33,bilingual,75,81.3516636947514
+subject_33,bilingual,85,76.3037160704646
+subject_34,bilingual,65,87.5735112240734
+subject_34,bilingual,75,95.4346286179174
+subject_34,bilingual,85,92.4886551859919
+subject_35,not bilingual,65,92.8251119875129
+subject_35,not bilingual,75,73.5020967725444
+subject_35,not bilingual,85,86.1307618621106
+subject_36,not bilingual,65,93.5565541784813
+subject_36,not bilingual,75,77.1552933985132
+subject_36,not bilingual,85,73.768049660911
+subject_37,bilingual,65,91.1980292713234
+subject_37,bilingual,75,84.9201957233954
+subject_37,bilingual,85,77.4343382150253
+subject_38,not bilingual,65,68.7613568296154
+subject_38,not bilingual,75,49.3827513213063
+subject_38,not bilingual,85,35.103709603657
+subject_39,not bilingual,65,80.7848880278198
+subject_39,not bilingual,75,69.7098245933042
+subject_39,not bilingual,85,68.7909468564858
+subject_40,not bilingual,65,95.9128719942523
+subject_40,not bilingual,75,93
+subject_40,not bilingual,85,75.5917031905724
+subject_41,bilingual,65,69.538663878144
+subject_41,bilingual,75,68.7941044719094
+subject_41,bilingual,85,80.1961910529461
+subject_42,bilingual,65,71.8599657531038
+subject_42,bilingual,75,51.5551811921925
+subject_42,bilingual,85,43.1364054157284
+subject_43,bilingual,65,80.7410915441214
+subject_43,bilingual,75,72.0281515681171
+subject_43,bilingual,85,68.4591718687332
+subject_44,bilingual,65,77.0520438275442
+subject_44,bilingual,75,68.5786937147499
+subject_44,bilingual,85,64.0109661528076
+subject_45,bilingual,65,78.1793873078569
+subject_45,bilingual,75,66.6052650749151
+subject_45,bilingual,85,56.185931272892
+subject_46,not bilingual,65,80.9001829391651
+subject_46,not bilingual,75,61.0229431493971
+subject_46,not bilingual,85,49.2838356966219
+subject_47,bilingual,65,71.3926055894434
+subject_47,bilingual,75,66.7687175862701
+subject_47,bilingual,85,82.2070369022398
+subject_48,bilingual,65,82.2896816507134
+subject_48,bilingual,75,82.8299139121916
+subject_48,bilingual,85,92.1973754439409
+subject_49,not bilingual,65,79.0916392723118
+subject_49,not bilingual,75,63.4541643870408
+subject_49,not bilingual,85,51.5699506105849
+subject_50,bilingual,65,80.6576969792909
+subject_50,bilingual,75,80.7183717619491
+subject_50,bilingual,85,91.2946768989934
