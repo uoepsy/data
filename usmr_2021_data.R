@@ -89,15 +89,18 @@ df$screentime[sample(1:N,1)]<-68
 if(rnorm(1)<0){
   caffhr <- -round((scale(df$sleep_qual)[,1] + rnorm(N,0,1.5))/0.4)
   df$hrs_caff <- caffhr + abs(min(caffhr))
+  df$hrs_caff <- paste0(df$hrs_caff,", ",sample(c("coffee","tea","energy drink","espresso"),N, replace=T, prob=c(.4,.3,.2,.1)))
   df$hrs_caff[sample(1:N, N/2.5)] <- NA
 } else {
   caffhr <- round((scale(df$sleep_qual)[,1] + rnorm(N,0,1.5))/0.4)
   df$hrs_caff <- caffhr + abs(min(caffhr))
+  df$hrs_caff <- paste0(df$hrs_caff,", ",sample(c("coffee","tea","energy drink","espresso"),N, replace=T, prob=c(.4,.3,.2,.1)))
   df$hrs_caff[sample(1:N, N/2.5)] <- NA
 }
 
 
 rm(list=ls()[ls()!="df"])
 
+df
 
 
