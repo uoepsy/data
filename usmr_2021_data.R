@@ -103,8 +103,9 @@ if(rnorm(1)<0){
   df$hrs_caff[sample(1:N, N/2.5)] <- NA
 }
 
+dfsleep <- df
 
-rm(list=ls()[ls()!="df"])
+rm(list=ls()[ls()!="dfsleep"])
 
 
 
