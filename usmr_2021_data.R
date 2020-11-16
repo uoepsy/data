@@ -1,10 +1,10 @@
 require(tidyverse)
 if(exists("params")){set.seed(params$examnumber)}else{set.seed(8675309)}
-# N x k matrix of covariates
+# N 
 N = 150
 
 
-# model matrix
+# N x k matrix of covariates (model matrix)
 Xmatrix = tibble(
   int=1,
   age = rnorm(n=N, mean=25,sd=6),
@@ -85,6 +85,16 @@ df$light[sample(1:N,3)]<-NA
 df$sleep_qual[sample(1:N,1)]<-108
 df$screentime[sample(1:N,1)]<-68
 
+
+if(rnorm(1)<0){
+  caffhr <- -round((scale(df$sleep_qual)[,1] + rnorm(N,0,1.5))/0.4)
+  df$hrs_caff <- caffhr + abs(min(caffhr))
+  df$hrs_caff[sample(1:N, N/2.5)] <- NA
+} else {
+  caffhr <- round((scale(df$sleep_qual)[,1] + rnorm(N,0,1.5))/0.4)
+  df$hrs_caff <- caffhr + abs(min(caffhr))
+  df$hrs_caff[sample(1:N, N/2.5)] <- NA
+}
 
 
 rm(list=ls()[ls()!="df"])
