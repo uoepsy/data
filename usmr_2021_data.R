@@ -1,5 +1,10 @@
 require(tidyverse)
-if(exists("params")){set.seed(params$examnumber)}else{set.seed(8675309)}
+source("https://raw.githubusercontent.com/cran/Hmisc/master/R/cut2.s")
+if(exists("params")){
+  set.seed(as.numeric(gsub("[^\\d]+", "", params$examnumber, perl=TRUE)))
+}else{
+  set.seed(8675309)
+}
 # N 
 N = 150
 
@@ -48,7 +53,7 @@ srout <-
   tibble(
     id = 1:N,
     sr_sleepqual = rnorm(N,0,10) + 7*df$exercise + 3*df$sleep_dur - 1*df$age,
-    cuts = factor(Hmisc::cut2(sr_sleepqual, g=2, levels.mean=T))
+    cuts = factor(cut2(sr_sleepqual, g=2, levels.mean=T))
   ) 
 levels(srout$cuts)<-c("below average","above average")
 shuf = sample(1:N, 50)
@@ -101,6 +106,6 @@ if(rnorm(1)<0){
 
 rm(list=ls()[ls()!="df"])
 
-df
+
 
 
