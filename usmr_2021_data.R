@@ -1,8 +1,10 @@
 require(tidyverse)
 source("https://raw.githubusercontent.com/cran/Hmisc/master/R/cut2.s")
 if(exists("params")){
-  set.seed(as.numeric(gsub("[^\\d]+", "", params$examnumber, perl=TRUE)))
-}else{
+  tryCatch(
+    set.seed(as.numeric(gsub("[^\\d]+", "", params$examnumber, perl=TRUE))),
+    error = print("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 10"))
+  } else{
   set.seed(8675309)
 }
 # N 
