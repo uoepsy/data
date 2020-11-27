@@ -8,7 +8,7 @@ n     <- 49863
 
 df <- tibble(
     id = 1:n,
-    length_preg = rnorm(n, mu, sigma)
+    gest_period = rnorm(n, mu, sigma)
 )
 
 write_csv(df, file = '../../data/pregnancies.csv')
