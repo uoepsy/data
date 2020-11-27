@@ -1,8 +1,10 @@
 library(tidyverse)
 
+set.seed(1)
+
 mu    <- 266
 sigma <- 16
-n     <- 121650
+n     <- 49863
 
 df <- tibble(
     id = 1:n,
