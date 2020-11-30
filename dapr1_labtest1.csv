@@ -1,0 +1,5 @@
+damage,payout,prob
+None,0,0.9465666666666667
+Accidental,500,0.05
+Minor,20000,0.0033333333333333335
+Major,100000,1e-4
