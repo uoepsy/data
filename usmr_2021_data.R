@@ -23,7 +23,7 @@ Xmatrix %>%
     mutate(
         nolightsc = ifelse(light == 0, screentime, 0),
         lightsc = ifelse(light == 1, screentime, 0)
-    ) %>% select(-screentime) -> Xmatrix
+    ) %>% dplyr::select(-screentime) -> Xmatrix
 
 Xmatrix %>% head
 
@@ -43,7 +43,7 @@ df <- data.frame(cbind(y, Xmatrix[,-1])) %>%
     screentime = ifelse((screentime + 30)<0, 0, screentime+30),
     screentime = round(screentime/max(screentime)*60),
     y = round((y+56)/max(y+56)*100)
-  ) %>% select(-lightsc, -nolightsc) %>%
+  ) %>% dplyr::select(-lightsc, -nolightsc) %>%
   rename(sleep_qual = y)
 
 df$screentime[df$screentime<=3]<-0
@@ -59,7 +59,7 @@ levels(srout$cuts)<-c("below average","above average")
 shuf = sample(1:N, 50)
 srout$cuts[shuf] <- sample(levels(srout$cuts), size = 50, replace = T, prob = c(.6,.4))
 
-left_join(df, srout %>% select(id, cuts) %>% rename(sr_qual = cuts)) -> df
+left_join(df, srout %>% dplyr::select(id, cuts) %>% rename(sr_qual = cuts)) -> df
 
 df %>% mutate(
   role = case_when(
@@ -75,11 +75,11 @@ df$role[sample(which(df$role == "S"),2)] <- "UG"
 df$role[sample(which(df$role == "S"),5)] <- "O"
 df$role[sample(which(df$role == "S"),10)] <- "PG"
 
-df %>% filter(role == "UG") %>% select(-sr_qual) %>%
+df %>% dplyr::filter(role == "UG") %>% dplyr::select(-sr_qual) %>%
   arrange(desc(sleep_qual+rnorm(n(),0,10))) -> ug
 ug$sr_qual <- sample(c("below average","above average"), size = nrow(ug), replace = T, prob = c(.6,.4)) %>% sort(.,decreasing = T)
 
-bind_rows(df %>% filter(role!="UG"),
+bind_rows(df %>% dplyr::filter(role!="UG"),
           ug) -> df
 
 ## make some outliers etc.
