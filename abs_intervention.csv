@@ -1,1529 +1,1529 @@
-"","schoolid","ppt","age","ABS","interv"
-"1","Blue River High School",1,12,64.8648265128316,1
-"2","Blue River High School",1,13,54.7335510928756,1
-"3","Blue River High School",1,14,45.6961337890226,1
-"4","Blue River High School",1,15,48.8779926811806,1
-"5","Blue River High School",1,16,38.9939235076111,1
-"6","Blue River High School",1,17,32.3251887432822,1
-"7","Blue River High School",1,18,52.0734712524916,1
-"8","Blue River High School",1,19,40.5946030454702,1
-"9","Blue River High School",2,12,47.9693382233885,1
-"10","Blue River High School",2,13,63.2740399605129,1
-"11","Blue River High School",2,14,48.4856288333142,1
-"12","Blue River High School",2,15,69.4041920190158,1
-"13","Blue River High School",2,16,66.2452295267995,1
-"14","Blue River High School",2,17,55.5201098676744,1
-"15","Blue River High School",2,18,NA,1
-"16","Blue River High School",2,19,NA,1
-"17","Blue River High School",3,12,65.6292245456527,1
-"18","Blue River High School",3,13,40.9929335442622,1
-"19","Blue River High School",3,14,49.8958190636707,1
-"20","Blue River High School",3,15,66.3648850125001,1
-"21","Blue River High School",3,16,68.8528419679115,1
-"22","Blue River High School",3,17,48.8367685417093,1
-"23","Blue River High School",3,18,NA,1
-"24","Blue River High School",3,19,NA,1
-"25","Blue River High School",4,12,64.5454365857493,1
-"26","Blue River High School",4,13,53.0866988676034,1
-"27","Blue River High School",4,14,59.0582367370665,1
-"28","Blue River High School",4,15,NA,1
-"29","Blue River High School",4,16,NA,1
-"30","Blue River High School",4,17,NA,1
-"31","Blue River High School",4,18,NA,1
-"32","Blue River High School",4,19,NA,1
-"33","Blue River High School",5,12,47.4844935940237,1
-"34","Blue River High School",5,13,64.110710142118,1
-"35","Blue River High School",5,14,56.4389414540532,1
-"36","Blue River High School",5,15,43.9357900546577,1
-"37","Blue River High School",5,16,50.210724063864,1
-"38","Blue River High School",5,17,64.1848354156266,1
-"39","Blue River High School",5,18,NA,1
-"40","Blue River High School",5,19,NA,1
-"41","Blue River High School",6,12,49.7608169105114,1
-"42","Blue River High School",6,13,51.5587604071108,1
-"43","Blue River High School",6,14,54.4914108120212,1
-"44","Blue River High School",6,15,60.2147612170382,1
-"45","Blue River High School",6,16,58.9328851725486,1
-"46","Blue River High School",6,17,NA,1
-"47","Blue River High School",6,18,NA,1
-"48","Blue River High School",6,19,NA,1
-"49","Blue River High School",7,12,60.8731372440628,1
-"50","Blue River High School",7,13,57.0088410133311,1
-"51","Blue River High School",7,14,48.9350468572897,1
-"52","Blue River High School",7,15,24.0013122801514,1
-"53","Blue River High School",7,16,22.9492825836536,1
-"54","Blue River High School",7,17,NA,1
-"55","Blue River High School",7,18,NA,1
-"56","Blue River High School",7,19,NA,1
-"57","Blue River High School",8,12,49.7060793787698,1
-"58","Blue River High School",8,13,52.7273061823531,1
-"59","Blue River High School",8,14,47.6045959593078,1
-"60","Blue River High School",8,15,28.2135749147397,1
-"61","Blue River High School",8,16,25.0021511451341,1
-"62","Blue River High School",8,17,27.0427255690558,1
-"63","Blue River High School",8,18,40.3663933479255,1
-"64","Blue River High School",8,19,NA,1
-"65","South Fork Conservatory",1,12,66.5924923607561,0
-"66","South Fork Conservatory",1,13,60.809552334995,0
-"67","South Fork Conservatory",1,14,42.2158544764878,0
-"68","South Fork Conservatory",1,15,45.0849317427978,0
-"69","South Fork Conservatory",1,16,52.5019302560789,0
-"70","South Fork Conservatory",1,17,53.6497641055763,0
-"71","South Fork Conservatory",1,18,52.6826693993593,0
-"72","South Fork Conservatory",1,19,NA,0
-"73","South Fork Conservatory",2,12,37.3809086487569,0
-"74","South Fork Conservatory",2,13,50.705216264305,0
-"75","South Fork Conservatory",2,14,41.4707813402532,0
-"76","South Fork Conservatory",2,15,33.3481662005496,0
-"77","South Fork Conservatory",2,16,38.7325346560689,0
-"78","South Fork Conservatory",2,17,34.4702424423342,0
-"79","South Fork Conservatory",2,18,42.0167346512187,0
-"80","South Fork Conservatory",2,19,NA,0
-"81","South Fork Conservatory",3,12,54.1193547382623,0
-"82","South Fork Conservatory",3,13,42.075307514096,0
-"83","South Fork Conservatory",3,14,51.4298364267696,0
-"84","South Fork Conservatory",3,15,23.614487233122,0
-"85","South Fork Conservatory",3,16,53.6670545291371,0
-"86","South Fork Conservatory",3,17,45.3270437782514,0
-"87","South Fork Conservatory",3,18,53.5909005856541,0
-"88","South Fork Conservatory",3,19,NA,0
-"89","South Fork Conservatory",4,12,56.5679422205107,0
-"90","South Fork Conservatory",4,13,53.2418371748881,0
-"91","South Fork Conservatory",4,14,66.1676967428033,0
-"92","South Fork Conservatory",4,15,60.543886824045,0
-"93","South Fork Conservatory",4,16,66.2989958777971,0
-"94","South Fork Conservatory",4,17,77.8561123046554,0
-"95","South Fork Conservatory",4,18,NA,0
-"96","South Fork Conservatory",4,19,NA,0
-"97","South Fork Conservatory",5,12,54.2278209102275,0
-"98","South Fork Conservatory",5,13,50.422149066813,0
-"99","South Fork Conservatory",5,14,37.1102985822765,0
-"100","South Fork Conservatory",5,15,28.3965521102781,0
-"101","South Fork Conservatory",5,16,34.90354769083,0
-"102","South Fork Conservatory",5,17,NA,0
-"103","South Fork Conservatory",5,18,NA,0
-"104","South Fork Conservatory",5,19,NA,0
-"105","South Fork Conservatory",6,12,52.8453912490948,0
-"106","South Fork Conservatory",6,13,33.5522774281847,0
-"107","South Fork Conservatory",6,14,46.686048921612,0
-"108","South Fork Conservatory",6,15,48.3360747724086,0
-"109","South Fork Conservatory",6,16,NA,0
-"110","South Fork Conservatory",6,17,NA,0
-"111","South Fork Conservatory",6,18,NA,0
-"112","South Fork Conservatory",6,19,NA,0
-"113","South Fork Conservatory",7,12,83.4364520063328,0
-"114","South Fork Conservatory",7,13,63.3731524889878,0
-"115","South Fork Conservatory",7,14,73.5338541039884,0
-"116","South Fork Conservatory",7,15,97.3937842009182,0
-"117","South Fork Conservatory",7,16,88.3235954187735,0
-"118","South Fork Conservatory",7,17,NA,0
-"119","South Fork Conservatory",7,18,NA,0
-"120","South Fork Conservatory",7,19,NA,0
-"121","South Fork Conservatory",8,12,46.2477056079689,0
-"122","South Fork Conservatory",8,13,42.3385018541424,0
-"123","South Fork Conservatory",8,14,43.9073015674797,0
-"124","South Fork Conservatory",8,15,37.7162680190796,0
-"125","South Fork Conservatory",8,16,31.7291160247553,0
-"126","South Fork Conservatory",8,17,54.8869762362237,0
-"127","South Fork Conservatory",8,18,NA,0
-"128","South Fork Conservatory",8,19,NA,0
-"129","South Fork Conservatory",9,12,56.836001781776,0
-"130","South Fork Conservatory",9,13,34.4784098446912,0
-"131","South Fork Conservatory",9,14,40.4429685358906,0
-"132","South Fork Conservatory",9,15,37.7801412437829,0
-"133","South Fork Conservatory",9,16,14.2391058135895,0
-"134","South Fork Conservatory",9,17,32.7595728711304,0
-"135","South Fork Conservatory",9,18,NA,0
-"136","South Fork Conservatory",9,19,NA,0
-"137","South Fork Conservatory",10,12,74.0495398281178,0
-"138","South Fork Conservatory",10,13,63.6263793385819,0
-"139","South Fork Conservatory",10,14,82.801334686514,0
-"140","South Fork Conservatory",10,15,81.9755804632922,0
-"141","South Fork Conservatory",10,16,96.022297280747,0
-"142","South Fork Conservatory",10,17,NA,0
-"143","South Fork Conservatory",10,18,NA,0
-"144","South Fork Conservatory",10,19,NA,0
-"145","South Fork Conservatory",11,12,51.780273817461,0
-"146","South Fork Conservatory",11,13,43.5290845593085,0
-"147","South Fork Conservatory",11,14,34.9756544629688,0
-"148","South Fork Conservatory",11,15,18.7622895303246,0
-"149","South Fork Conservatory",11,16,12.7943130620884,0
-"150","South Fork Conservatory",11,17,NA,0
-"151","South Fork Conservatory",11,18,NA,0
-"152","South Fork Conservatory",11,19,NA,0
-"153","Central High",1,12,48.6581974774194,1
-"154","Central High",1,13,42.2555553237537,1
-"155","Central High",1,14,40.7375577962882,1
-"156","Central High",1,15,31.2837529568284,1
-"157","Central High",1,16,31.5746352118499,1
-"158","Central High",1,17,7.11926283512501,1
-"159","Central High",1,18,23.7938207702753,1
-"160","Central High",1,19,NA,1
-"161","Central High",2,12,44.5402367062331,1
-"162","Central High",2,13,56.4363089763529,1
-"163","Central High",2,14,35.3027184205599,1
-"164","Central High",2,15,38.706289494409,1
-"165","Central High",2,16,NA,1
-"166","Central High",2,17,NA,1
-"167","Central High",2,18,NA,1
-"168","Central High",2,19,NA,1
-"169","Central High",3,12,64.9537354922656,1
-"170","Central High",3,13,33.3056939027767,1
-"171","Central High",3,14,44.0413703619499,1
-"172","Central High",3,15,42.1375892011486,1
-"173","Central High",3,16,NA,1
-"174","Central High",3,17,NA,1
-"175","Central High",3,18,NA,1
-"176","Central High",3,19,NA,1
-"177","Central High",4,12,59.4970078217213,1
-"178","Central High",4,13,65.6389540787562,1
-"179","Central High",4,14,53.0364960826753,1
-"180","Central High",4,15,47.0125851405158,1
-"181","Central High",4,16,NA,1
-"182","Central High",4,17,NA,1
-"183","Central High",4,18,NA,1
-"184","Central High",4,19,NA,1
-"185","Central High",5,12,46.9993985211215,1
-"186","Central High",5,13,61.6678191855308,1
-"187","Central High",5,14,40.9755018857984,1
-"188","Central High",5,15,45.1382366303822,1
-"189","Central High",5,16,54.3835899618357,1
-"190","Central High",5,17,44.9746900788058,1
-"191","Central High",5,18,NA,1
-"192","Central High",5,19,NA,1
-"193","Central High",6,12,55.283995880567,1
-"194","Central High",6,13,54.475842201909,1
-"195","Central High",6,14,12.1385747289376,1
-"196","Central High",6,15,37.4775003691433,1
-"197","Central High",6,16,31.4436576202594,1
-"198","Central High",6,17,27.2558213932929,1
-"199","Central High",6,18,NA,1
-"200","Central High",6,19,NA,1
-"201","Central High",7,12,50.6425448134061,1
-"202","Central High",7,13,38.8670310126617,1
-"203","Central High",7,14,26.3089807871992,1
-"204","Central High",7,15,32.5541827446615,1
-"205","Central High",7,16,23.452082972691,1
-"206","Central High",7,17,22.1460957525171,1
-"207","Central High",7,18,NA,1
-"208","Central High",7,19,NA,1
-"209","Central High",8,12,38.5712932924222,1
-"210","Central High",8,13,40.2252091801249,1
-"211","Central High",8,14,23.3228232488534,1
-"212","Central High",8,15,19.1869889181927,1
-"213","Central High",8,16,16.0582623564067,1
-"214","Central High",8,17,NA,1
-"215","Central High",8,18,NA,1
-"216","Central High",8,19,NA,1
-"217","Central High",9,12,40.8213441743886,1
-"218","Central High",9,13,62.5289434920243,1
-"219","Central High",9,14,55.6990874455078,1
-"220","Central High",9,15,49.0472336865026,1
-"221","Central High",9,16,42.5498259596389,1
-"222","Central High",9,17,NA,1
-"223","Central High",9,18,NA,1
-"224","Central High",9,19,NA,1
-"225","Central High",10,12,45.1475834686992,1
-"226","Central High",10,13,40.0866995168153,1
-"227","Central High",10,14,27.3346801688157,1
-"228","Central High",10,15,22.3089093154536,1
-"229","Central High",10,16,0,1
-"230","Central High",10,17,3.88370928486208,1
-"231","Central High",10,18,NA,1
-"232","Central High",10,19,NA,1
-"233","Central High",11,12,41.8506065113115,1
-"234","Central High",11,13,42.7192176258055,1
-"235","Central High",11,14,24.6310843428507,1
-"236","Central High",11,15,44.7704272172196,1
-"237","Central High",11,16,NA,1
-"238","Central High",11,17,NA,1
-"239","Central High",11,18,NA,1
-"240","Central High",11,19,NA,1
-"241","Central High",12,12,45.1192705574895,1
-"242","Central High",12,13,65.5750761345109,1
-"243","Central High",12,14,48.057235108008,1
-"244","Central High",12,15,54.753466686201,1
-"245","Central High",12,16,60.6799286132655,1
-"246","Central High",12,17,50.3757644277329,1
-"247","Central High",12,18,NA,1
-"248","Central High",12,19,NA,1
-"249","Central High",13,12,56.6373135248858,1
-"250","Central High",13,13,52.5069063996738,1
-"251","Central High",13,14,56.5920868299879,1
-"252","Central High",13,15,46.5971836216644,1
-"253","Central High",13,16,71.2378868614896,1
-"254","Central High",13,17,NA,1
-"255","Central High",13,18,NA,1
-"256","Central High",13,19,NA,1
-"257","Central High",14,12,32.7665755998182,1
-"258","Central High",14,13,50.2239899517743,1
-"259","Central High",14,14,41.5650571153935,1
-"260","Central High",14,15,39.6128515142269,1
-"261","Central High",14,16,NA,1
-"262","Central High",14,17,NA,1
-"263","Central High",14,18,NA,1
-"264","Central High",14,19,NA,1
-"265","Elk Grove School",1,12,47.3183509857893,0
-"266","Elk Grove School",1,13,50.5121359497005,0
-"267","Elk Grove School",1,14,50.2950694006307,0
-"268","Elk Grove School",1,15,39.1889999719113,0
-"269","Elk Grove School",1,16,16.7205837216654,0
-"270","Elk Grove School",1,17,NA,0
-"271","Elk Grove School",1,18,NA,0
-"272","Elk Grove School",1,19,NA,0
-"273","Elk Grove School",2,12,48.6645044707848,0
-"274","Elk Grove School",2,13,36.5636231888537,0
-"275","Elk Grove School",2,14,52.273621312978,0
-"276","Elk Grove School",2,15,41.9910792831647,0
-"277","Elk Grove School",2,16,NA,0
-"278","Elk Grove School",2,17,NA,0
-"279","Elk Grove School",2,18,NA,0
-"280","Elk Grove School",2,19,NA,0
-"281","Elk Grove School",3,12,50.6918272211017,0
-"282","Elk Grove School",3,13,50.3115049958196,0
-"283","Elk Grove School",3,14,38.2584004257173,0
-"284","Elk Grove School",3,15,47.1057412920927,0
-"285","Elk Grove School",3,16,32.0861078883751,0
-"286","Elk Grove School",3,17,NA,0
-"287","Elk Grove School",3,18,NA,0
-"288","Elk Grove School",3,19,NA,0
-"289","Elk Grove School",4,12,48.8855777528861,0
-"290","Elk Grove School",4,13,34.0194495532421,0
-"291","Elk Grove School",4,14,53.7091501923657,0
-"292","Elk Grove School",4,15,43.9957839721566,0
-"293","Elk Grove School",4,16,NA,0
-"294","Elk Grove School",4,17,NA,0
-"295","Elk Grove School",4,18,NA,0
-"296","Elk Grove School",4,19,NA,0
-"297","Elk Grove School",5,12,36.4313465838912,0
-"298","Elk Grove School",5,13,38.3500418742814,0
-"299","Elk Grove School",5,14,56.8918474617838,0
-"300","Elk Grove School",5,15,60.5149854417164,0
-"301","Elk Grove School",5,16,32.307142862664,0
-"302","Elk Grove School",5,17,40.1270319655749,0
-"303","Elk Grove School",5,18,NA,0
-"304","Elk Grove School",5,19,NA,0
-"305","Elk Grove School",6,12,59.849362625518,0
-"306","Elk Grove School",6,13,42.4300680374907,0
-"307","Elk Grove School",6,14,54.4093848432853,0
-"308","Elk Grove School",6,15,64.9298358741284,0
-"309","Elk Grove School",6,16,77.4657655001003,0
-"310","Elk Grove School",6,17,76.5542605484456,0
-"311","Elk Grove School",6,18,NA,0
-"312","Elk Grove School",6,19,NA,0
-"313","Elk Grove School",7,12,61.5748105289345,0
-"314","Elk Grove School",7,13,55.2960920230648,0
-"315","Elk Grove School",7,14,60.0998091541541,0
-"316","Elk Grove School",7,15,50.239727446785,0
-"317","Elk Grove School",7,16,44.2008448566938,0
-"318","Elk Grove School",7,17,NA,0
-"319","Elk Grove School",7,18,NA,0
-"320","Elk Grove School",7,19,NA,0
-"321","Woodside University",1,12,55.0581113020087,1
-"322","Woodside University",1,13,50.3302580794238,1
-"323","Woodside University",1,14,58.9063448932613,1
-"324","Woodside University",1,15,36.8199840404243,1
-"325","Woodside University",1,16,20.9886051156427,1
-"326","Woodside University",1,17,31.2118212403605,1
-"327","Woodside University",1,18,41.1602694636041,1
-"328","Woodside University",1,19,NA,1
-"329","Woodside University",2,12,54.9192159390083,1
-"330","Woodside University",2,13,20.2515683476415,1
-"331","Woodside University",2,14,26.5144254971291,1
-"332","Woodside University",2,15,25.7484793079632,1
-"333","Woodside University",2,16,NA,1
-"334","Woodside University",2,17,NA,1
-"335","Woodside University",2,18,NA,1
-"336","Woodside University",2,19,NA,1
-"337","Woodside University",3,12,47.4983983878078,1
-"338","Woodside University",3,13,42.7008703245434,1
-"339","Woodside University",3,14,30.3776805584133,1
-"340","Woodside University",3,15,43.6470218511807,1
-"341","Woodside University",3,16,47.7438200654486,1
-"342","Woodside University",3,17,NA,1
-"343","Woodside University",3,18,NA,1
-"344","Woodside University",3,19,NA,1
-"345","Woodside University",4,12,41.0071868221082,1
-"346","Woodside University",4,13,43.0432804203875,1
-"347","Woodside University",4,14,33.6255318116169,1
-"348","Woodside University",4,15,46.8232660425729,1
-"349","Woodside University",4,16,NA,1
-"350","Woodside University",4,17,NA,1
-"351","Woodside University",4,18,NA,1
-"352","Woodside University",4,19,NA,1
-"353","Woodside University",5,12,47.2046752246617,1
-"354","Woodside University",5,13,53.3349310775415,1
-"355","Woodside University",5,14,54.6488325720334,1
-"356","Woodside University",5,15,36.2315542953012,1
-"357","Woodside University",5,16,42.382629765709,1
-"358","Woodside University",5,17,29.2388870164139,1
-"359","Woodside University",5,18,NA,1
-"360","Woodside University",5,19,NA,1
-"361","Woodside University",6,12,49.9589514086174,1
-"362","Woodside University",6,13,51.5614841997799,1
-"363","Woodside University",6,14,50.1023414320632,1
-"364","Woodside University",6,15,37.4826113020524,1
-"365","Woodside University",6,16,48.868101006252,1
-"366","Woodside University",6,17,NA,1
-"367","Woodside University",6,18,NA,1
-"368","Woodside University",6,19,NA,1
-"369","Woodside University",7,12,45.0078098897159,1
-"370","Woodside University",7,13,36.7510607138469,1
-"371","Woodside University",7,14,31.8994107434118,1
-"372","Woodside University",7,15,43.993079261495,1
-"373","Woodside University",7,16,NA,1
-"374","Woodside University",7,17,NA,1
-"375","Woodside University",7,18,NA,1
-"376","Woodside University",7,19,NA,1
-"377","Woodside University",8,12,57.6280000773214,1
-"378","Woodside University",8,13,61.0541240367878,1
-"379","Woodside University",8,14,54.7994721887495,1
-"380","Woodside University",8,15,48.6886616704735,1
-"381","Woodside University",8,16,50.9206666824236,1
-"382","Woodside University",8,17,NA,1
-"383","Woodside University",8,18,NA,1
-"384","Woodside University",8,19,NA,1
-"385","Woodside University",9,12,42.4965262855292,1
-"386","Woodside University",9,13,43.6149864849218,1
-"387","Woodside University",9,14,46.9134202162111,1
-"388","Woodside University",9,15,NA,1
-"389","Woodside University",9,16,NA,1
-"390","Woodside University",9,17,NA,1
-"391","Woodside University",9,18,NA,1
-"392","Woodside University",9,19,NA,1
-"393","Woodside University",10,12,43.7290086117614,1
-"394","Woodside University",10,13,40.2436692884441,1
-"395","Woodside University",10,14,32.5783952680901,1
-"396","Woodside University",10,15,37.2895561080563,1
-"397","Woodside University",10,16,NA,1
-"398","Woodside University",10,17,NA,1
-"399","Woodside University",10,18,NA,1
-"400","Woodside University",10,19,NA,1
-"401","Eastwood Institute",1,12,59.27991369079,0
-"402","Eastwood Institute",1,13,52.2904408510283,0
-"403","Eastwood Institute",1,14,39.7251898459816,0
-"404","Eastwood Institute",1,15,46.6374536920533,0
-"405","Eastwood Institute",1,16,56.3185136945217,0
-"406","Eastwood Institute",1,17,48.5189841474696,0
-"407","Eastwood Institute",1,18,46.4562714372212,0
-"408","Eastwood Institute",1,19,NA,0
-"409","Eastwood Institute",2,12,43.4863420985779,0
-"410","Eastwood Institute",2,13,46.9347786016109,0
-"411","Eastwood Institute",2,14,25.8560662519794,0
-"412","Eastwood Institute",2,15,27.0070299065385,0
-"413","Eastwood Institute",2,16,26.1613109665353,0
-"414","Eastwood Institute",2,17,NA,0
-"415","Eastwood Institute",2,18,NA,0
-"416","Eastwood Institute",2,19,NA,0
-"417","Eastwood Institute",3,12,56.2923696945822,0
-"418","Eastwood Institute",3,13,44.4059899493686,0
-"419","Eastwood Institute",3,14,44.0206549750191,0
-"420","Eastwood Institute",3,15,57.961300194397,0
-"421","Eastwood Institute",3,16,NA,0
-"422","Eastwood Institute",3,17,NA,0
-"423","Eastwood Institute",3,18,NA,0
-"424","Eastwood Institute",3,19,NA,0
-"425","Eastwood Institute",4,12,53.9703361337206,0
-"426","Eastwood Institute",4,13,39.1317181788178,0
-"427","Eastwood Institute",4,14,47.2910761869691,0
-"428","Eastwood Institute",4,15,48.1059251164001,0
-"429","Eastwood Institute",4,16,NA,0
-"430","Eastwood Institute",4,17,NA,0
-"431","Eastwood Institute",4,18,NA,0
-"432","Eastwood Institute",4,19,NA,0
-"433","Eastwood Institute",5,12,39.1748048818662,0
-"434","Eastwood Institute",5,13,37.8479411409885,0
-"435","Eastwood Institute",5,14,43.5095664393803,0
-"436","Eastwood Institute",5,15,NA,0
-"437","Eastwood Institute",5,16,NA,0
-"438","Eastwood Institute",5,17,NA,0
-"439","Eastwood Institute",5,18,NA,0
-"440","Eastwood Institute",5,19,NA,0
-"441","Eastwood Institute",6,12,41.3556241187311,0
-"442","Eastwood Institute",6,13,59.1665032132413,0
-"443","Eastwood Institute",6,14,48.2530528761751,0
-"444","Eastwood Institute",6,15,50.4804909798519,0
-"445","Eastwood Institute",6,16,41.0395878671884,0
-"446","Eastwood Institute",6,17,NA,0
-"447","Eastwood Institute",6,18,NA,0
-"448","Eastwood Institute",6,19,NA,0
-"449","Eastwood Institute",7,12,29.3337453884028,0
-"450","Eastwood Institute",7,13,36.9824519552711,0
-"451","Eastwood Institute",7,14,40.5408407429739,0
-"452","Eastwood Institute",7,15,47.1501777068955,0
-"453","Eastwood Institute",7,16,51.9550261006149,0
-"454","Eastwood Institute",7,17,NA,0
-"455","Eastwood Institute",7,18,NA,0
-"456","Eastwood Institute",7,19,NA,0
-"457","Eastwood Institute",8,12,71.9945224589111,0
-"458","Eastwood Institute",8,13,51.7061179419486,0
-"459","Eastwood Institute",8,14,63.1265667352458,0
-"460","Eastwood Institute",8,15,76.8348466283367,0
-"461","Eastwood Institute",8,16,85.9551905513685,0
-"462","Eastwood Institute",8,17,NA,0
-"463","Eastwood Institute",8,18,NA,0
-"464","Eastwood Institute",8,19,NA,0
-"465","Oak Park Technical School",1,12,40.1152512967313,1
-"466","Oak Park Technical School",1,13,40.432959012026,1
-"467","Oak Park Technical School",1,14,19.6754375593847,1
-"468","Oak Park Technical School",1,15,28.9340808259629,1
-"469","Oak Park Technical School",1,16,NA,1
-"470","Oak Park Technical School",1,17,NA,1
-"471","Oak Park Technical School",1,18,NA,1
-"472","Oak Park Technical School",1,19,NA,1
-"473","Oak Park Technical School",2,12,52.3936333090488,1
-"474","Oak Park Technical School",2,13,54.301310173299,1
-"475","Oak Park Technical School",2,14,51.7555167377086,1
-"476","Oak Park Technical School",2,15,53.7718326992632,1
-"477","Oak Park Technical School",2,16,66.8775596480239,1
-"478","Oak Park Technical School",2,17,NA,1
-"479","Oak Park Technical School",2,18,NA,1
-"480","Oak Park Technical School",2,19,NA,1
-"481","Oak Park Technical School",3,12,49.1394760042251,1
-"482","Oak Park Technical School",3,13,62.0034105665075,1
-"483","Oak Park Technical School",3,14,52.4183994063665,1
-"484","Oak Park Technical School",3,15,62.2005934748809,1
-"485","Oak Park Technical School",3,16,73.465706934911,1
-"486","Oak Park Technical School",3,17,59.9872333211836,1
-"487","Oak Park Technical School",3,18,NA,1
-"488","Oak Park Technical School",3,19,NA,1
-"489","Oak Park Technical School",4,12,53.6671853758827,1
-"490","Oak Park Technical School",4,13,50.697916996664,1
-"491","Oak Park Technical School",4,14,40.3770868752132,1
-"492","Oak Park Technical School",4,15,48.6624762226591,1
-"493","Oak Park Technical School",4,16,55.8578933338814,1
-"494","Oak Park Technical School",4,17,NA,1
-"495","Oak Park Technical School",4,18,NA,1
-"496","Oak Park Technical School",4,19,NA,1
-"497","Oak Park Technical School",5,12,68.4769219474521,1
-"498","Oak Park Technical School",5,13,53.4713541673171,1
-"499","Oak Park Technical School",5,14,55.2888958497747,1
-"500","Oak Park Technical School",5,15,51.8420622973866,1
-"501","Oak Park Technical School",5,16,62.1076536307353,1
-"502","Oak Park Technical School",5,17,NA,1
-"503","Oak Park Technical School",5,18,NA,1
-"504","Oak Park Technical School",5,19,NA,1
-"505","Oak Park Technical School",6,12,43.7484279140195,1
-"506","Oak Park Technical School",6,13,58.5328100534469,1
-"507","Oak Park Technical School",6,14,66.4399643633397,1
-"508","Oak Park Technical School",6,15,61.5223410179707,1
-"509","Oak Park Technical School",6,16,48.8613019474625,1
-"510","Oak Park Technical School",6,17,NA,1
-"511","Oak Park Technical School",6,18,NA,1
-"512","Oak Park Technical School",6,19,NA,1
-"513","Central Grammar School",1,12,52.0565524483855,0
-"514","Central Grammar School",1,13,52.9333847856711,0
-"515","Central Grammar School",1,14,71.8608578586902,0
-"516","Central Grammar School",1,15,64.5452341679283,0
-"517","Central Grammar School",1,16,68.8472581417083,0
-"518","Central Grammar School",1,17,NA,0
-"519","Central Grammar School",1,18,NA,0
-"520","Central Grammar School",1,19,NA,0
-"521","Central Grammar School",2,12,35.9003207553687,0
-"522","Central Grammar School",2,13,66.4914359064862,0
-"523","Central Grammar School",2,14,64.958616145935,0
-"524","Central Grammar School",2,15,36.5885507378982,0
-"525","Central Grammar School",2,16,NA,0
-"526","Central Grammar School",2,17,NA,0
-"527","Central Grammar School",2,18,NA,0
-"528","Central Grammar School",2,19,NA,0
-"529","Central Grammar School",3,12,47.1977962008288,0
-"530","Central Grammar School",3,13,36.8374656347531,0
-"531","Central Grammar School",3,14,49.7582597315161,0
-"532","Central Grammar School",3,15,45.7361932061287,0
-"533","Central Grammar School",3,16,44.0189255726597,0
-"534","Central Grammar School",3,17,NA,0
-"535","Central Grammar School",3,18,NA,0
-"536","Central Grammar School",3,19,NA,0
-"537","Central Grammar School",4,12,33.6339489400444,0
-"538","Central Grammar School",4,13,24.44822273665,0
-"539","Central Grammar School",4,14,36.1754924841741,0
-"540","Central Grammar School",4,15,38.4306516257926,0
-"541","Central Grammar School",4,16,43.7483567280334,0
-"542","Central Grammar School",4,17,51.783424843239,0
-"543","Central Grammar School",4,18,NA,0
-"544","Central Grammar School",4,19,NA,0
-"545","Central Grammar School",5,12,50.2241095486362,0
-"546","Central Grammar School",5,13,47.2489679234241,0
-"547","Central Grammar School",5,14,47.5598913432841,0
-"548","Central Grammar School",5,15,43.3410849490318,0
-"549","Central Grammar School",5,16,NA,0
-"550","Central Grammar School",5,17,NA,0
-"551","Central Grammar School",5,18,NA,0
-"552","Central Grammar School",5,19,NA,0
-"553","Central Grammar School",6,12,47.9860164568432,0
-"554","Central Grammar School",6,13,51.6468349389112,0
-"555","Central Grammar School",6,14,58.0675264496744,0
-"556","Central Grammar School",6,15,49.468088141336,0
-"557","Central Grammar School",6,16,61.4821056498286,0
-"558","Central Grammar School",6,17,NA,0
-"559","Central Grammar School",6,18,NA,0
-"560","Central Grammar School",6,19,NA,0
-"561","Central Grammar School",7,12,32.6234479719836,0
-"562","Central Grammar School",7,13,59.5532334674099,0
-"563","Central Grammar School",7,14,74.449235342975,0
-"564","Central Grammar School",7,15,74.4939060284031,0
-"565","Central Grammar School",7,16,87.293602797779,0
-"566","Central Grammar School",7,17,90.6168158723611,0
-"567","Central Grammar School",7,18,89.1011380527798,0
-"568","Central Grammar School",7,19,NA,0
-"569","Central Grammar School",8,12,61.2397044639945,0
-"570","Central Grammar School",8,13,35.3138776651583,0
-"571","Central Grammar School",8,14,73.238461316256,0
-"572","Central Grammar School",8,15,55.7620438049068,0
-"573","Central Grammar School",8,16,84.0564577868648,0
-"574","Central Grammar School",8,17,NA,0
-"575","Central Grammar School",8,18,NA,0
-"576","Central Grammar School",8,19,NA,0
-"577","Central Grammar School",9,12,51.0433837238703,0
-"578","Central Grammar School",9,13,42.191434746473,0
-"579","Central Grammar School",9,14,51.7303670109752,0
-"580","Central Grammar School",9,15,NA,0
-"581","Central Grammar School",9,16,NA,0
-"582","Central Grammar School",9,17,NA,0
-"583","Central Grammar School",9,18,NA,0
-"584","Central Grammar School",9,19,NA,0
-"585","Central Grammar School",10,12,68.1906417911601,0
-"586","Central Grammar School",10,13,34.1179920474019,0
-"587","Central Grammar School",10,14,33.7836677379816,0
-"588","Central Grammar School",10,15,51.1791415103095,0
-"589","Central Grammar School",10,16,46.6871757953584,0
-"590","Central Grammar School",10,17,54.1334113849997,0
-"591","Central Grammar School",10,18,NA,0
-"592","Central Grammar School",10,19,NA,0
-"593","Central Grammar School",11,12,48.2081879491322,0
-"594","Central Grammar School",11,13,53.5754128656221,0
-"595","Central Grammar School",11,14,49.3126771388032,0
-"596","Central Grammar School",11,15,48.958062595616,0
-"597","Central Grammar School",11,16,38.4188615959443,0
-"598","Central Grammar School",11,17,NA,0
-"599","Central Grammar School",11,18,NA,0
-"600","Central Grammar School",11,19,NA,0
-"601","Clearwater Charter School",1,12,19.845308229942,1
-"602","Clearwater Charter School",1,13,42.2055909129281,1
-"603","Clearwater Charter School",1,14,35.4577157718229,1
-"604","Clearwater Charter School",1,15,36.1475462045074,1
-"605","Clearwater Charter School",1,16,NA,1
-"606","Clearwater Charter School",1,17,NA,1
-"607","Clearwater Charter School",1,18,NA,1
-"608","Clearwater Charter School",1,19,NA,1
-"609","Clearwater Charter School",2,12,49.4343191653271,1
-"610","Clearwater Charter School",2,13,58.9907522192888,1
-"611","Clearwater Charter School",2,14,35.1831558195637,1
-"612","Clearwater Charter School",2,15,52.5630123988727,1
-"613","Clearwater Charter School",2,16,NA,1
-"614","Clearwater Charter School",2,17,NA,1
-"615","Clearwater Charter School",2,18,NA,1
-"616","Clearwater Charter School",2,19,NA,1
-"617","Clearwater Charter School",3,12,51.5672022777029,1
-"618","Clearwater Charter School",3,13,55.6086349898031,1
-"619","Clearwater Charter School",3,14,51.8546264239715,1
-"620","Clearwater Charter School",3,15,NA,1
-"621","Clearwater Charter School",3,16,NA,1
-"622","Clearwater Charter School",3,17,NA,1
-"623","Clearwater Charter School",3,18,NA,1
-"624","Clearwater Charter School",3,19,NA,1
-"625","Clearwater Charter School",4,12,55.4414246701201,1
-"626","Clearwater Charter School",4,13,47.923410217094,1
-"627","Clearwater Charter School",4,14,58.5526164537028,1
-"628","Clearwater Charter School",4,15,61.6366680470783,1
-"629","Clearwater Charter School",4,16,60.9134853990735,1
-"630","Clearwater Charter School",4,17,NA,1
-"631","Clearwater Charter School",4,18,NA,1
-"632","Clearwater Charter School",4,19,NA,1
-"633","Clearwater Charter School",5,12,35.906059901671,1
-"634","Clearwater Charter School",5,13,48.5214135610601,1
-"635","Clearwater Charter School",5,14,30.0691158751348,1
-"636","Clearwater Charter School",5,15,31.6667877489108,1
-"637","Clearwater Charter School",5,16,29.3515036700952,1
-"638","Clearwater Charter School",5,17,NA,1
-"639","Clearwater Charter School",5,18,NA,1
-"640","Clearwater Charter School",5,19,NA,1
-"641","Clearwater Charter School",6,12,29.9688297568344,1
-"642","Clearwater Charter School",6,13,43.9551270337064,1
-"643","Clearwater Charter School",6,14,28.0718944331009,1
-"644","Clearwater Charter School",6,15,44.4669711948111,1
-"645","Clearwater Charter School",6,16,36.5198781665895,1
-"646","Clearwater Charter School",6,17,NA,1
-"647","Clearwater Charter School",6,18,NA,1
-"648","Clearwater Charter School",6,19,NA,1
-"649","Clearwater Charter School",7,12,35.6984144108321,1
-"650","Clearwater Charter School",7,13,53.2663644823971,1
-"651","Clearwater Charter School",7,14,29.6212065038571,1
-"652","Clearwater Charter School",7,15,76.0249716752247,1
-"653","Clearwater Charter School",7,16,44.5123526790488,1
-"654","Clearwater Charter School",7,17,NA,1
-"655","Clearwater Charter School",7,18,NA,1
-"656","Clearwater Charter School",7,19,NA,1
-"657","Clearwater Charter School",8,12,36.0406343247266,1
-"658","Clearwater Charter School",8,13,44.3348298008478,1
-"659","Clearwater Charter School",8,14,35.7261438200759,1
-"660","Clearwater Charter School",8,15,44.6562545997142,1
-"661","Clearwater Charter School",8,16,45.472781884696,1
-"662","Clearwater Charter School",8,17,22.8808482026527,1
-"663","Clearwater Charter School",8,18,NA,1
-"664","Clearwater Charter School",8,19,NA,1
-"665","Clearwater Charter School",9,12,38.1530170594599,1
-"666","Clearwater Charter School",9,13,33.4500643168326,1
-"667","Clearwater Charter School",9,14,14.8778962932574,1
-"668","Clearwater Charter School",9,15,20.1839424174843,1
-"669","Clearwater Charter School",9,16,14.6134129600148,1
-"670","Clearwater Charter School",9,17,NA,1
-"671","Clearwater Charter School",9,18,NA,1
-"672","Clearwater Charter School",9,19,NA,1
-"673","Clearwater Charter School",10,12,45.5467943744582,1
-"674","Clearwater Charter School",10,13,55.5798313895932,1
-"675","Clearwater Charter School",10,14,56.6179941624591,1
-"676","Clearwater Charter School",10,15,57.8491457475,1
-"677","Clearwater Charter School",10,16,64.5178842013892,1
-"678","Clearwater Charter School",10,17,NA,1
-"679","Clearwater Charter School",10,18,NA,1
-"680","Clearwater Charter School",10,19,NA,1
-"681","Clearwater Charter School",11,12,50.7242959622726,1
-"682","Clearwater Charter School",11,13,48.3666323827005,1
-"683","Clearwater Charter School",11,14,63.1953080452519,1
-"684","Clearwater Charter School",11,15,45.6739476900922,1
-"685","Clearwater Charter School",11,16,47.5691894004321,1
-"686","Clearwater Charter School",11,17,NA,1
-"687","Clearwater Charter School",11,18,NA,1
-"688","Clearwater Charter School",11,19,NA,1
-"689","Coral Coast Institute",1,12,50.5719060542411,0
-"690","Coral Coast Institute",1,13,48.963380960835,0
-"691","Coral Coast Institute",1,14,57.0933049856994,0
-"692","Coral Coast Institute",1,15,68.7690128586566,0
-"693","Coral Coast Institute",1,16,62.8537928443448,0
-"694","Coral Coast Institute",1,17,70.740672983718,0
-"695","Coral Coast Institute",1,18,75.7319439784091,0
-"696","Coral Coast Institute",1,19,NA,0
-"697","Coral Coast Institute",2,12,57.8433275931128,0
-"698","Coral Coast Institute",2,13,47.2047391274361,0
-"699","Coral Coast Institute",2,14,54.658875788429,0
-"700","Coral Coast Institute",2,15,41.5298492679968,0
-"701","Coral Coast Institute",2,16,NA,0
-"702","Coral Coast Institute",2,17,NA,0
-"703","Coral Coast Institute",2,18,NA,0
-"704","Coral Coast Institute",2,19,NA,0
-"705","Coral Coast Institute",3,12,54.3200029801092,0
-"706","Coral Coast Institute",3,13,51.3150011172203,0
-"707","Coral Coast Institute",3,14,55.5446764767908,0
-"708","Coral Coast Institute",3,15,45.80385813986,0
-"709","Coral Coast Institute",3,16,69.7152444449363,0
-"710","Coral Coast Institute",3,17,NA,0
-"711","Coral Coast Institute",3,18,NA,0
-"712","Coral Coast Institute",3,19,NA,0
-"713","Coral Coast Institute",4,12,40.4732184247974,0
-"714","Coral Coast Institute",4,13,55.1619835306333,0
-"715","Coral Coast Institute",4,14,36.8070233988357,0
-"716","Coral Coast Institute",4,15,51.7711355601722,0
-"717","Coral Coast Institute",4,16,29.6296063792605,0
-"718","Coral Coast Institute",4,17,NA,0
-"719","Coral Coast Institute",4,18,NA,0
-"720","Coral Coast Institute",4,19,NA,0
-"721","Coral Coast Institute",5,12,57.1369949781728,0
-"722","Coral Coast Institute",5,13,60.0011191183184,0
-"723","Coral Coast Institute",5,14,45.948417030976,0
-"724","Coral Coast Institute",5,15,47.6645821252021,0
-"725","Coral Coast Institute",5,16,NA,0
-"726","Coral Coast Institute",5,17,NA,0
-"727","Coral Coast Institute",5,18,NA,0
-"728","Coral Coast Institute",5,19,NA,0
-"729","Coral Coast Institute",6,12,47.5645707147576,0
-"730","Coral Coast Institute",6,13,40.2532283119416,0
-"731","Coral Coast Institute",6,14,60.1226176863239,0
-"732","Coral Coast Institute",6,15,30.6628224585949,0
-"733","Coral Coast Institute",6,16,34.3638468606094,0
-"734","Coral Coast Institute",6,17,35.5614609785133,0
-"735","Coral Coast Institute",6,18,22.5934423223179,0
-"736","Coral Coast Institute",6,19,NA,0
-"737","Coral Coast Institute",7,12,59.0195998735173,0
-"738","Coral Coast Institute",7,13,60.1107073579866,0
-"739","Coral Coast Institute",7,14,56.0911337599455,0
-"740","Coral Coast Institute",7,15,66.7619250712323,0
-"741","Coral Coast Institute",7,16,65.7096901006348,0
-"742","Coral Coast Institute",7,17,63.1982872937137,0
-"743","Coral Coast Institute",7,18,NA,0
-"744","Coral Coast Institute",7,19,NA,0
-"745","Coral Coast Institute",8,12,41.4100602861037,0
-"746","Coral Coast Institute",8,13,26.7965867325829,0
-"747","Coral Coast Institute",8,14,35.252335271807,0
-"748","Coral Coast Institute",8,15,26.0909530501478,0
-"749","Coral Coast Institute",8,16,NA,0
-"750","Coral Coast Institute",8,17,NA,0
-"751","Coral Coast Institute",8,18,NA,0
-"752","Coral Coast Institute",8,19,NA,0
-"753","Coral Coast Institute",9,12,48.8107437839421,0
-"754","Coral Coast Institute",9,13,41.5723250785253,0
-"755","Coral Coast Institute",9,14,62.1339371755808,0
-"756","Coral Coast Institute",9,15,71.2769969847038,0
-"757","Coral Coast Institute",9,16,70.7052400507577,0
-"758","Coral Coast Institute",9,17,NA,0
-"759","Coral Coast Institute",9,18,NA,0
-"760","Coral Coast Institute",9,19,NA,0
-"761","Edgewood Grammar School",1,12,51.9803570676793,1
-"762","Edgewood Grammar School",1,13,53.8253486226947,1
-"763","Edgewood Grammar School",1,14,61.213117681611,1
-"764","Edgewood Grammar School",1,15,73.2725469523635,1
-"765","Edgewood Grammar School",1,16,46.3006269844347,1
-"766","Edgewood Grammar School",1,17,67.1653087390421,1
-"767","Edgewood Grammar School",1,18,66.8577954081887,1
-"768","Edgewood Grammar School",1,19,NA,1
-"769","Edgewood Grammar School",2,12,72.0636501868134,1
-"770","Edgewood Grammar School",2,13,59.5971258381165,1
-"771","Edgewood Grammar School",2,14,66.6654166090474,1
-"772","Edgewood Grammar School",2,15,69.6223262430472,1
-"773","Edgewood Grammar School",2,16,66.4831654348294,1
-"774","Edgewood Grammar School",2,17,NA,1
-"775","Edgewood Grammar School",2,18,NA,1
-"776","Edgewood Grammar School",2,19,NA,1
-"777","Edgewood Grammar School",3,12,43.975140542273,1
-"778","Edgewood Grammar School",3,13,43.4434680186323,1
-"779","Edgewood Grammar School",3,14,47.3360873235262,1
-"780","Edgewood Grammar School",3,15,48.4867524665201,1
-"781","Edgewood Grammar School",3,16,43.8354278860639,1
-"782","Edgewood Grammar School",3,17,51.2350744898591,1
-"783","Edgewood Grammar School",3,18,NA,1
-"784","Edgewood Grammar School",3,19,NA,1
-"785","Edgewood Grammar School",4,12,48.7652885175945,1
-"786","Edgewood Grammar School",4,13,48.1459489553603,1
-"787","Edgewood Grammar School",4,14,59.7698122014526,1
-"788","Edgewood Grammar School",4,15,53.8046840813101,1
-"789","Edgewood Grammar School",4,16,54.2864389927292,1
-"790","Edgewood Grammar School",4,17,NA,1
-"791","Edgewood Grammar School",4,18,NA,1
-"792","Edgewood Grammar School",4,19,NA,1
-"793","Edgewood Grammar School",5,12,37.4268279964936,1
-"794","Edgewood Grammar School",5,13,47.3949989246335,1
-"795","Edgewood Grammar School",5,14,57.3618153889194,1
-"796","Edgewood Grammar School",5,15,39.714933229196,1
-"797","Edgewood Grammar School",5,16,65.7933497508458,1
-"798","Edgewood Grammar School",5,17,53.2347564185225,1
-"799","Edgewood Grammar School",5,18,NA,1
-"800","Edgewood Grammar School",5,19,NA,1
-"801","Edgewood Grammar School",6,12,63.1561282084619,1
-"802","Edgewood Grammar School",6,13,57.0341626514853,1
-"803","Edgewood Grammar School",6,14,30.5172405406918,1
-"804","Edgewood Grammar School",6,15,51.7155626968615,1
-"805","Edgewood Grammar School",6,16,45.1074395576432,1
-"806","Edgewood Grammar School",6,17,44.2127829083534,1
-"807","Edgewood Grammar School",6,18,NA,1
-"808","Edgewood Grammar School",6,19,NA,1
-"809","Edgewood Grammar School",7,12,57.7288915978212,1
-"810","Edgewood Grammar School",7,13,40.3281051157807,1
-"811","Edgewood Grammar School",7,14,30.7504063672378,1
-"812","Edgewood Grammar School",7,15,41.2101582501787,1
-"813","Edgewood Grammar School",7,16,43.3040397790269,1
-"814","Edgewood Grammar School",7,17,NA,1
-"815","Edgewood Grammar School",7,18,NA,1
-"816","Edgewood Grammar School",7,19,NA,1
-"817","Edgewood Grammar School",8,12,77.5969007027025,1
-"818","Edgewood Grammar School",8,13,72.4857817120257,1
-"819","Edgewood Grammar School",8,14,74.0530571934849,1
-"820","Edgewood Grammar School",8,15,64.5720033113365,1
-"821","Edgewood Grammar School",8,16,87.9924556145173,1
-"822","Edgewood Grammar School",8,17,96.2511346411465,1
-"823","Edgewood Grammar School",8,18,NA,1
-"824","Edgewood Grammar School",8,19,NA,1
-"825","Liberty High",1,12,46.1875854823353,0
-"826","Liberty High",1,13,56.4198064155892,0
-"827","Liberty High",1,14,49.8512580331811,0
-"828","Liberty High",1,15,30.9204819321312,0
-"829","Liberty High",1,16,38.8562379873785,0
-"830","Liberty High",1,17,23.8265236380882,0
-"831","Liberty High",1,18,NA,0
-"832","Liberty High",1,19,NA,0
-"833","Liberty High",2,12,39.7450612495674,0
-"834","Liberty High",2,13,62.86089938142,0
-"835","Liberty High",2,14,59.7672468212769,0
-"836","Liberty High",2,15,69.2181220176344,0
-"837","Liberty High",2,16,52.4319509000963,0
-"838","Liberty High",2,17,61.9162304927327,0
-"839","Liberty High",2,18,NA,0
-"840","Liberty High",2,19,NA,0
-"841","Liberty High",3,12,34.4694131846484,0
-"842","Liberty High",3,13,34.375748776737,0
-"843","Liberty High",3,14,24.5633451186532,0
-"844","Liberty High",3,15,29.0777714379018,0
-"845","Liberty High",3,16,34.7152260899511,0
-"846","Liberty High",3,17,NA,0
-"847","Liberty High",3,18,NA,0
-"848","Liberty High",3,19,NA,0
-"849","Liberty High",4,12,51.6844624631358,0
-"850","Liberty High",4,13,53.1593478907053,0
-"851","Liberty High",4,14,53.996163069878,0
-"852","Liberty High",4,15,49.8647328719803,0
-"853","Liberty High",4,16,66.5030530071604,0
-"854","Liberty High",4,17,66.3439606976968,0
-"855","Liberty High",4,18,NA,0
-"856","Liberty High",4,19,NA,0
-"857","Liberty High",5,12,42.2784869348701,0
-"858","Liberty High",5,13,56.9161291486809,0
-"859","Liberty High",5,14,42.8373075037844,0
-"860","Liberty High",5,15,32.73180381205,0
-"861","Liberty High",5,16,47.1947054951201,0
-"862","Liberty High",5,17,44.1782878960603,0
-"863","Liberty High",5,18,NA,0
-"864","Liberty High",5,19,NA,0
-"865","Liberty High",6,12,57.6446022882093,0
-"866","Liberty High",6,13,70.3944840150086,0
-"867","Liberty High",6,14,46.3613920310699,0
-"868","Liberty High",6,15,NA,0
-"869","Liberty High",6,16,NA,0
-"870","Liberty High",6,17,NA,0
-"871","Liberty High",6,18,NA,0
-"872","Liberty High",6,19,NA,0
-"873","Liberty High",7,12,61.7687494306974,0
-"874","Liberty High",7,13,64.2352426892393,0
-"875","Liberty High",7,14,64.7329261052255,0
-"876","Liberty High",7,15,75.6209427422778,0
-"877","Liberty High",7,16,64.0798584189502,0
-"878","Liberty High",7,17,68.299828873041,0
-"879","Liberty High",7,18,80.8692332705037,0
-"880","Liberty High",7,19,NA,0
-"881","Liberty High",8,12,38.0542516745535,0
-"882","Liberty High",8,13,62.7163978161674,0
-"883","Liberty High",8,14,51.1331825895097,0
-"884","Liberty High",8,15,71.4901341658118,0
-"885","Liberty High",8,16,55.4530108866052,0
-"886","Liberty High",8,17,NA,0
-"887","Liberty High",8,18,NA,0
-"888","Liberty High",8,19,NA,0
-"889","Liberty High",9,12,55.9816159685151,0
-"890","Liberty High",9,13,73.1590867370961,0
-"891","Liberty High",9,14,49.5921526875333,0
-"892","Liberty High",9,15,63.0584884920603,0
-"893","Liberty High",9,16,61.5229794104572,0
-"894","Liberty High",9,17,NA,0
-"895","Liberty High",9,18,NA,0
-"896","Liberty High",9,19,NA,0
-"897","Liberty High",10,12,38.4694151003115,0
-"898","Liberty High",10,13,28.1928069880266,0
-"899","Liberty High",10,14,55.9762237358846,0
-"900","Liberty High",10,15,49.7785126226614,0
-"901","Liberty High",10,16,NA,0
-"902","Liberty High",10,17,NA,0
-"903","Liberty High",10,18,NA,0
-"904","Liberty High",10,19,NA,0
-"905","Liberty High",11,12,44.0185226750142,0
-"906","Liberty High",11,13,58.7583150414976,0
-"907","Liberty High",11,14,55.4274925707501,0
-"908","Liberty High",11,15,37.3124598887006,0
-"909","Liberty High",11,16,27.5329714614616,0
-"910","Liberty High",11,17,37.8061678613505,0
-"911","Liberty High",11,18,NA,0
-"912","Liberty High",11,19,NA,0
-"913","Grand Mountain Elementary",1,12,36.408350819079,1
-"914","Grand Mountain Elementary",1,13,46.5719578065413,1
-"915","Grand Mountain Elementary",1,14,38.3430611083801,1
-"916","Grand Mountain Elementary",1,15,42.1674029956972,1
-"917","Grand Mountain Elementary",1,16,38.1733081729795,1
-"918","Grand Mountain Elementary",1,17,NA,1
-"919","Grand Mountain Elementary",1,18,NA,1
-"920","Grand Mountain Elementary",1,19,NA,1
-"921","Grand Mountain Elementary",2,12,43.1174177511323,1
-"922","Grand Mountain Elementary",2,13,26.2718621719834,1
-"923","Grand Mountain Elementary",2,14,39.4733821163309,1
-"924","Grand Mountain Elementary",2,15,50.4771208066695,1
-"925","Grand Mountain Elementary",2,16,32.2409094329466,1
-"926","Grand Mountain Elementary",2,17,28.6934302989434,1
-"927","Grand Mountain Elementary",2,18,27.1042582670068,1
-"928","Grand Mountain Elementary",2,19,NA,1
-"929","Grand Mountain Elementary",3,12,50.4684502542075,1
-"930","Grand Mountain Elementary",3,13,58.359675025776,1
-"931","Grand Mountain Elementary",3,14,50.7333403005378,1
-"932","Grand Mountain Elementary",3,15,37.837051563393,1
-"933","Grand Mountain Elementary",3,16,52.4052894432049,1
-"934","Grand Mountain Elementary",3,17,62.8563660005043,1
-"935","Grand Mountain Elementary",3,18,NA,1
-"936","Grand Mountain Elementary",3,19,NA,1
-"937","Grand Mountain Elementary",4,12,40.9142691550136,1
-"938","Grand Mountain Elementary",4,13,40.3693600023713,1
-"939","Grand Mountain Elementary",4,14,39.7260969790358,1
-"940","Grand Mountain Elementary",4,15,13.216489246791,1
-"941","Grand Mountain Elementary",4,16,26.4285433033395,1
-"942","Grand Mountain Elementary",4,17,27.7316380927746,1
-"943","Grand Mountain Elementary",4,18,NA,1
-"944","Grand Mountain Elementary",4,19,NA,1
-"945","Grand Mountain Elementary",5,12,66.7823666984815,1
-"946","Grand Mountain Elementary",5,13,44.6589005205449,1
-"947","Grand Mountain Elementary",5,14,54.1777661674786,1
-"948","Grand Mountain Elementary",5,15,46.2580251428716,1
-"949","Grand Mountain Elementary",5,16,59.7365385097272,1
-"950","Grand Mountain Elementary",5,17,NA,1
-"951","Grand Mountain Elementary",5,18,NA,1
-"952","Grand Mountain Elementary",5,19,NA,1
-"953","Grand Mountain Elementary",6,12,45.7867575029597,1
-"954","Grand Mountain Elementary",6,13,52.4954819760922,1
-"955","Grand Mountain Elementary",6,14,36.3286528926686,1
-"956","Grand Mountain Elementary",6,15,44.9802581461781,1
-"957","Grand Mountain Elementary",6,16,NA,1
-"958","Grand Mountain Elementary",6,17,NA,1
-"959","Grand Mountain Elementary",6,18,NA,1
-"960","Grand Mountain Elementary",6,19,NA,1
-"961","Grand Mountain Elementary",7,12,43.9669384348267,1
-"962","Grand Mountain Elementary",7,13,33.4655284308435,1
-"963","Grand Mountain Elementary",7,14,62.9697884657113,1
-"964","Grand Mountain Elementary",7,15,47.5547483851948,1
-"965","Grand Mountain Elementary",7,16,70.7785897199424,1
-"966","Grand Mountain Elementary",7,17,56.381074830087,1
-"967","Grand Mountain Elementary",7,18,NA,1
-"968","Grand Mountain Elementary",7,19,NA,1
-"969","Grand Mountain Elementary",8,12,48.5778171830262,1
-"970","Grand Mountain Elementary",8,13,48.7654110475584,1
-"971","Grand Mountain Elementary",8,14,40.9547955732482,1
-"972","Grand Mountain Elementary",8,15,43.2250621819492,1
-"973","Grand Mountain Elementary",8,16,21.0384486055124,1
-"974","Grand Mountain Elementary",8,17,NA,1
-"975","Grand Mountain Elementary",8,18,NA,1
-"976","Grand Mountain Elementary",8,19,NA,1
-"977","Long Beach School",1,12,30.0106470212216,0
-"978","Long Beach School",1,13,28.9839138689899,0
-"979","Long Beach School",1,14,25.1629496477376,0
-"980","Long Beach School",1,15,2.20860977426549,0
-"981","Long Beach School",1,16,18.6165756635467,0
-"982","Long Beach School",1,17,NA,0
-"983","Long Beach School",1,18,NA,0
-"984","Long Beach School",1,19,NA,0
-"985","Long Beach School",2,12,58.3971336546792,0
-"986","Long Beach School",2,13,58.752456653911,0
-"987","Long Beach School",2,14,22.0324108873904,0
-"988","Long Beach School",2,15,NA,0
-"989","Long Beach School",2,16,NA,0
-"990","Long Beach School",2,17,NA,0
-"991","Long Beach School",2,18,NA,0
-"992","Long Beach School",2,19,NA,0
-"993","Long Beach School",3,12,42.1997756973878,0
-"994","Long Beach School",3,13,35.0013602711645,0
-"995","Long Beach School",3,14,39.8389453632015,0
-"996","Long Beach School",3,15,53.4196528667143,0
-"997","Long Beach School",3,16,34.7335238529531,0
-"998","Long Beach School",3,17,NA,0
-"999","Long Beach School",3,18,NA,0
-"1000","Long Beach School",3,19,NA,0
-"1001","Long Beach School",4,12,38.006658396169,0
-"1002","Long Beach School",4,13,57.1086032621421,0
-"1003","Long Beach School",4,14,35.4031496546855,0
-"1004","Long Beach School",4,15,50.8880352271036,0
-"1005","Long Beach School",4,16,55.3304902360689,0
-"1006","Long Beach School",4,17,NA,0
-"1007","Long Beach School",4,18,NA,0
-"1008","Long Beach School",4,19,NA,0
-"1009","Long Beach School",5,12,41.8696147848221,0
-"1010","Long Beach School",5,13,18.0268548561533,0
-"1011","Long Beach School",5,14,21.1478925868617,0
-"1012","Long Beach School",5,15,39.3780387356587,0
-"1013","Long Beach School",5,16,19.256424171046,0
-"1014","Long Beach School",5,17,NA,0
-"1015","Long Beach School",5,18,NA,0
-"1016","Long Beach School",5,19,NA,0
-"1017","Long Beach School",6,12,59.7136352808465,0
-"1018","Long Beach School",6,13,41.3354990692924,0
-"1019","Long Beach School",6,14,37.8142760874542,0
-"1020","Long Beach School",6,15,21.3332448142315,0
-"1021","Long Beach School",6,16,29.409543153905,0
-"1022","Long Beach School",6,17,32.0617249889911,0
-"1023","Long Beach School",6,18,40.7210001234721,0
-"1024","Long Beach School",6,19,NA,0
-"1025","Long Beach School",7,12,52.3239940417016,0
-"1026","Long Beach School",7,13,51.0868010165441,0
-"1027","Long Beach School",7,14,60.9005478401818,0
-"1028","Long Beach School",7,15,50.6247226673415,0
-"1029","Long Beach School",7,16,59.5155726074582,0
-"1030","Long Beach School",7,17,NA,0
-"1031","Long Beach School",7,18,NA,0
-"1032","Long Beach School",7,19,NA,0
-"1033","Long Beach School",8,12,47.2738735555638,0
-"1034","Long Beach School",8,13,49.2225581084025,0
-"1035","Long Beach School",8,14,64.9675075318004,0
-"1036","Long Beach School",8,15,56.2666455315538,0
-"1037","Long Beach School",8,16,31.6467067905349,0
-"1038","Long Beach School",8,17,NA,0
-"1039","Long Beach School",8,18,NA,0
-"1040","Long Beach School",8,19,NA,0
-"1041","Long Beach School",9,12,47.6005819098637,0
-"1042","Long Beach School",9,13,38.6049609728491,0
-"1043","Long Beach School",9,14,36.9157206107596,0
-"1044","Long Beach School",9,15,38.8778270582675,0
-"1045","Long Beach School",9,16,42.4941161171984,0
-"1046","Long Beach School",9,17,NA,0
-"1047","Long Beach School",9,18,NA,0
-"1048","Long Beach School",9,19,NA,0
-"1049","Long Beach School",10,12,47.4898006513579,0
-"1050","Long Beach School",10,13,38.5005807584559,0
-"1051","Long Beach School",10,14,45.8777624587282,0
-"1052","Long Beach School",10,15,48.6618224235771,0
-"1053","Long Beach School",10,16,45.7146763738916,0
-"1054","Long Beach School",10,17,NA,0
-"1055","Long Beach School",10,18,NA,0
-"1056","Long Beach School",10,19,NA,0
-"1057","Long Beach School",11,12,51.420983668474,0
-"1058","Long Beach School",11,13,48.5956581402169,0
-"1059","Long Beach School",11,14,59.1018051956024,0
-"1060","Long Beach School",11,15,41.4297747006421,0
-"1061","Long Beach School",11,16,42.1070484994548,0
-"1062","Long Beach School",11,17,59.7145746551471,0
-"1063","Long Beach School",11,18,NA,0
-"1064","Long Beach School",11,19,NA,0
-"1065","Long Beach School",12,12,46.557872206007,0
-"1066","Long Beach School",12,13,52.3078682424332,0
-"1067","Long Beach School",12,14,40.7011445855251,0
-"1068","Long Beach School",12,15,78.4526255536484,0
-"1069","Long Beach School",12,16,60.9454214090544,0
-"1070","Long Beach School",12,17,NA,0
-"1071","Long Beach School",12,18,NA,0
-"1072","Long Beach School",12,19,NA,0
-"1073","Eagle Mountain Technical School",1,12,45.9172559889692,1
-"1074","Eagle Mountain Technical School",1,13,59.2181644572791,1
-"1075","Eagle Mountain Technical School",1,14,49.9386240661421,1
-"1076","Eagle Mountain Technical School",1,15,47.2415398094809,1
-"1077","Eagle Mountain Technical School",1,16,70.7012787094946,1
-"1078","Eagle Mountain Technical School",1,17,66.6178382738393,1
-"1079","Eagle Mountain Technical School",1,18,NA,1
-"1080","Eagle Mountain Technical School",1,19,NA,1
-"1081","Eagle Mountain Technical School",2,12,52.4555904450676,1
-"1082","Eagle Mountain Technical School",2,13,44.586909257434,1
-"1083","Eagle Mountain Technical School",2,14,56.2773938682477,1
-"1084","Eagle Mountain Technical School",2,15,46.5524608858784,1
-"1085","Eagle Mountain Technical School",2,16,44.9337797251616,1
-"1086","Eagle Mountain Technical School",2,17,NA,1
-"1087","Eagle Mountain Technical School",2,18,NA,1
-"1088","Eagle Mountain Technical School",2,19,NA,1
-"1089","Eagle Mountain Technical School",3,12,58.8234459912086,1
-"1090","Eagle Mountain Technical School",3,13,62.1115972086853,1
-"1091","Eagle Mountain Technical School",3,14,39.4904109314382,1
-"1092","Eagle Mountain Technical School",3,15,47.3724095673686,1
-"1093","Eagle Mountain Technical School",3,16,38.7506232549245,1
-"1094","Eagle Mountain Technical School",3,17,47.5446639594123,1
-"1095","Eagle Mountain Technical School",3,18,NA,1
-"1096","Eagle Mountain Technical School",3,19,NA,1
-"1097","Eagle Mountain Technical School",4,12,49.9092966422251,1
-"1098","Eagle Mountain Technical School",4,13,39.8470593673302,1
-"1099","Eagle Mountain Technical School",4,14,39.7995535279279,1
-"1100","Eagle Mountain Technical School",4,15,42.725482406305,1
-"1101","Eagle Mountain Technical School",4,16,33.1042292343542,1
-"1102","Eagle Mountain Technical School",4,17,NA,1
-"1103","Eagle Mountain Technical School",4,18,NA,1
-"1104","Eagle Mountain Technical School",4,19,NA,1
-"1105","Eagle Mountain Technical School",5,12,58.6917047237473,1
-"1106","Eagle Mountain Technical School",5,13,79.1419360779114,1
-"1107","Eagle Mountain Technical School",5,14,71.445119853221,1
-"1108","Eagle Mountain Technical School",5,15,52.846581672944,1
-"1109","Eagle Mountain Technical School",5,16,55.0379171264759,1
-"1110","Eagle Mountain Technical School",5,17,NA,1
-"1111","Eagle Mountain Technical School",5,18,NA,1
-"1112","Eagle Mountain Technical School",5,19,NA,1
-"1113","Eagle Mountain Technical School",6,12,61.0959744626662,1
-"1114","Eagle Mountain Technical School",6,13,61.1704997657716,1
-"1115","Eagle Mountain Technical School",6,14,54.867267957693,1
-"1116","Eagle Mountain Technical School",6,15,61.6054633059379,1
-"1117","Eagle Mountain Technical School",6,16,82.1940587191399,1
-"1118","Eagle Mountain Technical School",6,17,NA,1
-"1119","Eagle Mountain Technical School",6,18,NA,1
-"1120","Eagle Mountain Technical School",6,19,NA,1
-"1121","Eagle Mountain Technical School",7,12,50.8401195504798,1
-"1122","Eagle Mountain Technical School",7,13,43.9139232448265,1
-"1123","Eagle Mountain Technical School",7,14,57.2751553306738,1
-"1124","Eagle Mountain Technical School",7,15,68.260992290777,1
-"1125","Eagle Mountain Technical School",7,16,44.7202945906854,1
-"1126","Eagle Mountain Technical School",7,17,61.7075571352266,1
-"1127","Eagle Mountain Technical School",7,18,NA,1
-"1128","Eagle Mountain Technical School",7,19,NA,1
-"1129","Eagle Mountain Technical School",8,12,66.295115228335,1
-"1130","Eagle Mountain Technical School",8,13,62.9639572093002,1
-"1131","Eagle Mountain Technical School",8,14,51.6208077003036,1
-"1132","Eagle Mountain Technical School",8,15,53.4700120665714,1
-"1133","Eagle Mountain Technical School",8,16,66.1061131388149,1
-"1134","Eagle Mountain Technical School",8,17,NA,1
-"1135","Eagle Mountain Technical School",8,18,NA,1
-"1136","Eagle Mountain Technical School",8,19,NA,1
-"1137","Eagle Mountain Technical School",9,12,49.0616280745383,1
-"1138","Eagle Mountain Technical School",9,13,43.0905034337568,1
-"1139","Eagle Mountain Technical School",9,14,57.00607746236,1
-"1140","Eagle Mountain Technical School",9,15,46.5129146561002,1
-"1141","Eagle Mountain Technical School",9,16,NA,1
-"1142","Eagle Mountain Technical School",9,17,NA,1
-"1143","Eagle Mountain Technical School",9,18,NA,1
-"1144","Eagle Mountain Technical School",9,19,NA,1
-"1145","Tranquillity Middle School",1,12,32.194310254596,0
-"1146","Tranquillity Middle School",1,13,48.2142368092764,0
-"1147","Tranquillity Middle School",1,14,53.2709556714185,0
-"1148","Tranquillity Middle School",1,15,77.613764698364,0
-"1149","Tranquillity Middle School",1,16,67.1741981602252,0
-"1150","Tranquillity Middle School",1,17,NA,0
-"1151","Tranquillity Middle School",1,18,NA,0
-"1152","Tranquillity Middle School",1,19,NA,0
-"1153","Tranquillity Middle School",2,12,57.751028341032,0
-"1154","Tranquillity Middle School",2,13,45.7308376167577,0
-"1155","Tranquillity Middle School",2,14,68.8618607527404,0
-"1156","Tranquillity Middle School",2,15,67.7536914717547,0
-"1157","Tranquillity Middle School",2,16,80.9703627443809,0
-"1158","Tranquillity Middle School",2,17,NA,0
-"1159","Tranquillity Middle School",2,18,NA,0
-"1160","Tranquillity Middle School",2,19,NA,0
-"1161","Tranquillity Middle School",3,12,47.8922766822749,0
-"1162","Tranquillity Middle School",3,13,29.192587469321,0
-"1163","Tranquillity Middle School",3,14,32.2487677711933,0
-"1164","Tranquillity Middle School",3,15,25.1703466532654,0
-"1165","Tranquillity Middle School",3,16,30.3512620782382,0
-"1166","Tranquillity Middle School",3,17,31.1712777919532,0
-"1167","Tranquillity Middle School",3,18,26.2106372693469,0
-"1168","Tranquillity Middle School",3,19,NA,0
-"1169","Tranquillity Middle School",4,12,51.5027646370505,0
-"1170","Tranquillity Middle School",4,13,52.6912099724931,0
-"1171","Tranquillity Middle School",4,14,61.1152166673768,0
-"1172","Tranquillity Middle School",4,15,42.3060339179575,0
-"1173","Tranquillity Middle School",4,16,68.9495230441081,0
-"1174","Tranquillity Middle School",4,17,NA,0
-"1175","Tranquillity Middle School",4,18,NA,0
-"1176","Tranquillity Middle School",4,19,NA,0
-"1177","Tranquillity Middle School",5,12,56.6480343693481,0
-"1178","Tranquillity Middle School",5,13,62.6947928982124,0
-"1179","Tranquillity Middle School",5,14,71.7238703052733,0
-"1180","Tranquillity Middle School",5,15,87.2648092647716,0
-"1181","Tranquillity Middle School",5,16,85.5300914227037,0
-"1182","Tranquillity Middle School",5,17,78.7727156093446,0
-"1183","Tranquillity Middle School",5,18,100,0
-"1184","Tranquillity Middle School",5,19,NA,0
-"1185","Tranquillity Middle School",6,12,64.0159944843892,0
-"1186","Tranquillity Middle School",6,13,66.9793667619034,0
-"1187","Tranquillity Middle School",6,14,78.5110007229759,0
-"1188","Tranquillity Middle School",6,15,93.0146536684993,0
-"1189","Tranquillity Middle School",6,16,NA,0
-"1190","Tranquillity Middle School",6,17,NA,0
-"1191","Tranquillity Middle School",6,18,NA,0
-"1192","Tranquillity Middle School",6,19,NA,0
-"1193","Tranquillity Middle School",7,12,57.7080683982093,0
-"1194","Tranquillity Middle School",7,13,59.5181737336075,0
-"1195","Tranquillity Middle School",7,14,52.5387741516892,0
-"1196","Tranquillity Middle School",7,15,50.5119975262005,0
-"1197","Tranquillity Middle School",7,16,32.9465906625217,0
-"1198","Tranquillity Middle School",7,17,41.4647105696534,0
-"1199","Tranquillity Middle School",7,18,NA,0
-"1200","Tranquillity Middle School",7,19,NA,0
-"1201","Tranquillity Middle School",8,12,65.1587545236555,0
-"1202","Tranquillity Middle School",8,13,60.5851569477199,0
-"1203","Tranquillity Middle School",8,14,66.323216037529,0
-"1204","Tranquillity Middle School",8,15,44.8642608953329,0
-"1205","Tranquillity Middle School",8,16,63.8288513695142,0
-"1206","Tranquillity Middle School",8,17,56.3376093207912,0
-"1207","Tranquillity Middle School",8,18,NA,0
-"1208","Tranquillity Middle School",8,19,NA,0
-"1209","Seal Bay Middle School",1,12,34.3009436778632,1
-"1210","Seal Bay Middle School",1,13,59.7189296061095,1
-"1211","Seal Bay Middle School",1,14,38.9798930832018,1
-"1212","Seal Bay Middle School",1,15,58.261287245671,1
-"1213","Seal Bay Middle School",1,16,42.9300865494801,1
-"1214","Seal Bay Middle School",1,17,39.3860621032854,1
-"1215","Seal Bay Middle School",1,18,NA,1
-"1216","Seal Bay Middle School",1,19,NA,1
-"1217","Seal Bay Middle School",2,12,49.2534141677672,1
-"1218","Seal Bay Middle School",2,13,58.0836022030833,1
-"1219","Seal Bay Middle School",2,14,35.4809324316098,1
-"1220","Seal Bay Middle School",2,15,35.1661146541086,1
-"1221","Seal Bay Middle School",2,16,NA,1
-"1222","Seal Bay Middle School",2,17,NA,1
-"1223","Seal Bay Middle School",2,18,NA,1
-"1224","Seal Bay Middle School",2,19,NA,1
-"1225","Seal Bay Middle School",3,12,53.8796661126232,1
-"1226","Seal Bay Middle School",3,13,46.787426242122,1
-"1227","Seal Bay Middle School",3,14,60.2065987632788,1
-"1228","Seal Bay Middle School",3,15,41.9536866867003,1
-"1229","Seal Bay Middle School",3,16,47.1441072178575,1
-"1230","Seal Bay Middle School",3,17,NA,1
-"1231","Seal Bay Middle School",3,18,NA,1
-"1232","Seal Bay Middle School",3,19,NA,1
-"1233","Seal Bay Middle School",4,12,30.0936522917867,1
-"1234","Seal Bay Middle School",4,13,42.1054391682095,1
-"1235","Seal Bay Middle School",4,14,31.6403035898648,1
-"1236","Seal Bay Middle School",4,15,14.7761316454243,1
-"1237","Seal Bay Middle School",4,16,17.8672503395168,1
-"1238","Seal Bay Middle School",4,17,5.59447514172835,1
-"1239","Seal Bay Middle School",4,18,NA,1
-"1240","Seal Bay Middle School",4,19,NA,1
-"1241","Seal Bay Middle School",5,12,63.3644595904124,1
-"1242","Seal Bay Middle School",5,13,40.3626421359671,1
-"1243","Seal Bay Middle School",5,14,57.3978251247479,1
-"1244","Seal Bay Middle School",5,15,NA,1
-"1245","Seal Bay Middle School",5,16,NA,1
-"1246","Seal Bay Middle School",5,17,NA,1
-"1247","Seal Bay Middle School",5,18,NA,1
-"1248","Seal Bay Middle School",5,19,NA,1
-"1249","Seal Bay Middle School",6,12,49.1704883960307,1
-"1250","Seal Bay Middle School",6,13,42.7792280249153,1
-"1251","Seal Bay Middle School",6,14,34.5324351815956,1
-"1252","Seal Bay Middle School",6,15,46.239380804223,1
-"1253","Seal Bay Middle School",6,16,41.369488705953,1
-"1254","Seal Bay Middle School",6,17,NA,1
-"1255","Seal Bay Middle School",6,18,NA,1
-"1256","Seal Bay Middle School",6,19,NA,1
-"1257","Seal Bay Middle School",7,12,36.6417759366686,1
-"1258","Seal Bay Middle School",7,13,58.3444230190279,1
-"1259","Seal Bay Middle School",7,14,63.744598369008,1
-"1260","Seal Bay Middle School",7,15,NA,1
-"1261","Seal Bay Middle School",7,16,NA,1
-"1262","Seal Bay Middle School",7,17,NA,1
-"1263","Seal Bay Middle School",7,18,NA,1
-"1264","Seal Bay Middle School",7,19,NA,1
-"1265","Seal Bay Middle School",8,12,34.8920903639636,1
-"1266","Seal Bay Middle School",8,13,33.0320213435172,1
-"1267","Seal Bay Middle School",8,14,25.4936301770418,1
-"1268","Seal Bay Middle School",8,15,29.6364977679165,1
-"1269","Seal Bay Middle School",8,16,6.8713158114242,1
-"1270","Seal Bay Middle School",8,17,NA,1
-"1271","Seal Bay Middle School",8,18,NA,1
-"1272","Seal Bay Middle School",8,19,NA,1
-"1273","Seal Bay Middle School",9,12,44.8761293401085,1
-"1274","Seal Bay Middle School",9,13,46.3577259778724,1
-"1275","Seal Bay Middle School",9,14,42.4056365739044,1
-"1276","Seal Bay Middle School",9,15,41.0872414355126,1
-"1277","Seal Bay Middle School",9,16,36.1473657814638,1
-"1278","Seal Bay Middle School",9,17,24.367545027378,1
-"1279","Seal Bay Middle School",9,18,NA,1
-"1280","Seal Bay Middle School",9,19,NA,1
-"1281","Seal Bay Middle School",10,12,53.8676250999273,1
-"1282","Seal Bay Middle School",10,13,40.8516193676333,1
-"1283","Seal Bay Middle School",10,14,50.0146035613189,1
-"1284","Seal Bay Middle School",10,15,40.0970197135588,1
-"1285","Seal Bay Middle School",10,16,NA,1
-"1286","Seal Bay Middle School",10,17,NA,1
-"1287","Seal Bay Middle School",10,18,NA,1
-"1288","Seal Bay Middle School",10,19,NA,1
-"1289","Clearwater School of Fine Arts",1,12,78.8707612188012,0
-"1290","Clearwater School of Fine Arts",1,13,63.886371263142,0
-"1291","Clearwater School of Fine Arts",1,14,67.9208745159431,0
-"1292","Clearwater School of Fine Arts",1,15,58.9377687534082,0
-"1293","Clearwater School of Fine Arts",1,16,NA,0
-"1294","Clearwater School of Fine Arts",1,17,NA,0
-"1295","Clearwater School of Fine Arts",1,18,NA,0
-"1296","Clearwater School of Fine Arts",1,19,NA,0
-"1297","Clearwater School of Fine Arts",2,12,44.7432193841783,0
-"1298","Clearwater School of Fine Arts",2,13,43.6235305160901,0
-"1299","Clearwater School of Fine Arts",2,14,42.0805303809982,0
-"1300","Clearwater School of Fine Arts",2,15,39.6363726198397,0
-"1301","Clearwater School of Fine Arts",2,16,NA,0
-"1302","Clearwater School of Fine Arts",2,17,NA,0
-"1303","Clearwater School of Fine Arts",2,18,NA,0
-"1304","Clearwater School of Fine Arts",2,19,NA,0
-"1305","Clearwater School of Fine Arts",3,12,65.6751924211264,0
-"1306","Clearwater School of Fine Arts",3,13,55.492264329639,0
-"1307","Clearwater School of Fine Arts",3,14,56.2138040767016,0
-"1308","Clearwater School of Fine Arts",3,15,61.7274681998167,0
-"1309","Clearwater School of Fine Arts",3,16,82.9774897872819,0
-"1310","Clearwater School of Fine Arts",3,17,NA,0
-"1311","Clearwater School of Fine Arts",3,18,NA,0
-"1312","Clearwater School of Fine Arts",3,19,NA,0
-"1313","Clearwater School of Fine Arts",4,12,46.4292276047412,0
-"1314","Clearwater School of Fine Arts",4,13,56.7094842798155,0
-"1315","Clearwater School of Fine Arts",4,14,58.4393933658001,0
-"1316","Clearwater School of Fine Arts",4,15,66.1607537586274,0
-"1317","Clearwater School of Fine Arts",4,16,67.609077803088,0
-"1318","Clearwater School of Fine Arts",4,17,NA,0
-"1319","Clearwater School of Fine Arts",4,18,NA,0
-"1320","Clearwater School of Fine Arts",4,19,NA,0
-"1321","Clearwater School of Fine Arts",5,12,58.5081833814361,0
-"1322","Clearwater School of Fine Arts",5,13,56.478759994292,0
-"1323","Clearwater School of Fine Arts",5,14,51.5975924126369,0
-"1324","Clearwater School of Fine Arts",5,15,45.9884573957497,0
-"1325","Clearwater School of Fine Arts",5,16,49.2701085879738,0
-"1326","Clearwater School of Fine Arts",5,17,41.2419518634409,0
-"1327","Clearwater School of Fine Arts",5,18,NA,0
-"1328","Clearwater School of Fine Arts",5,19,NA,0
-"1329","Clearwater School of Fine Arts",6,12,54.3711464640128,0
-"1330","Clearwater School of Fine Arts",6,13,65.3123923208878,0
-"1331","Clearwater School of Fine Arts",6,14,61.6274593297151,0
-"1332","Clearwater School of Fine Arts",6,15,62.0804090301989,0
-"1333","Clearwater School of Fine Arts",6,16,29.5119561494846,0
-"1334","Clearwater School of Fine Arts",6,17,57.8707808879351,0
-"1335","Clearwater School of Fine Arts",6,18,NA,0
-"1336","Clearwater School of Fine Arts",6,19,NA,0
-"1337","Clearwater School of Fine Arts",7,12,60.0936134413854,0
-"1338","Clearwater School of Fine Arts",7,13,75.7814108581955,0
-"1339","Clearwater School of Fine Arts",7,14,64.6222280223205,0
-"1340","Clearwater School of Fine Arts",7,15,85.2478361012273,0
-"1341","Clearwater School of Fine Arts",7,16,83.3314946780737,0
-"1342","Clearwater School of Fine Arts",7,17,NA,0
-"1343","Clearwater School of Fine Arts",7,18,NA,0
-"1344","Clearwater School of Fine Arts",7,19,NA,0
-"1345","Clearwater School of Fine Arts",8,12,58.9340298991273,0
-"1346","Clearwater School of Fine Arts",8,13,71.634075706354,0
-"1347","Clearwater School of Fine Arts",8,14,73.999045167106,0
-"1348","Clearwater School of Fine Arts",8,15,57.3744386853369,0
-"1349","Clearwater School of Fine Arts",8,16,75.6853561934878,0
-"1350","Clearwater School of Fine Arts",8,17,NA,0
-"1351","Clearwater School of Fine Arts",8,18,NA,0
-"1352","Clearwater School of Fine Arts",8,19,NA,0
-"1353","Clearwater School of Fine Arts",9,12,47.7847758081035,0
-"1354","Clearwater School of Fine Arts",9,13,56.7230585052928,0
-"1355","Clearwater School of Fine Arts",9,14,61.1097986008959,0
-"1356","Clearwater School of Fine Arts",9,15,50.2436157044224,0
-"1357","Clearwater School of Fine Arts",9,16,67.1357454197939,0
-"1358","Clearwater School of Fine Arts",9,17,77.8787106665311,0
-"1359","Clearwater School of Fine Arts",9,18,NA,0
-"1360","Clearwater School of Fine Arts",9,19,NA,0
-"1361","Clearwater School of Fine Arts",10,12,60.3626545170372,0
-"1362","Clearwater School of Fine Arts",10,13,54.5170450812706,0
-"1363","Clearwater School of Fine Arts",10,14,54.8442191238325,0
-"1364","Clearwater School of Fine Arts",10,15,67.7467672206594,0
-"1365","Clearwater School of Fine Arts",10,16,61.0287843837965,0
-"1366","Clearwater School of Fine Arts",10,17,82.7355321269876,0
-"1367","Clearwater School of Fine Arts",10,18,68.9822093899427,0
-"1368","Clearwater School of Fine Arts",10,19,NA,0
-"1369","Clearwater School of Fine Arts",11,12,49.8370654314887,0
-"1370","Clearwater School of Fine Arts",11,13,57.5302360414891,0
-"1371","Clearwater School of Fine Arts",11,14,44.561938743284,0
-"1372","Clearwater School of Fine Arts",11,15,30.0166727020333,0
-"1373","Clearwater School of Fine Arts",11,16,38.786090177126,0
-"1374","Clearwater School of Fine Arts",11,17,43.2700299731399,0
-"1375","Clearwater School of Fine Arts",11,18,NA,0
-"1376","Clearwater School of Fine Arts",11,19,NA,0
-"1377","Clearwater School of Fine Arts",12,12,55.3697765689013,0
-"1378","Clearwater School of Fine Arts",12,13,35.0234246159969,0
-"1379","Clearwater School of Fine Arts",12,14,48.6674435498723,0
-"1380","Clearwater School of Fine Arts",12,15,47.2736475034065,0
-"1381","Clearwater School of Fine Arts",12,16,58.5185193473651,0
-"1382","Clearwater School of Fine Arts",12,17,57.5574501953691,0
-"1383","Clearwater School of Fine Arts",12,18,NA,0
-"1384","Clearwater School of Fine Arts",12,19,NA,0
-"1385","Clearwater School of Fine Arts",13,12,50.8810159903351,0
-"1386","Clearwater School of Fine Arts",13,13,66.5096079574179,0
-"1387","Clearwater School of Fine Arts",13,14,54.5143515970209,0
-"1388","Clearwater School of Fine Arts",13,15,59.1444838362108,0
-"1389","Clearwater School of Fine Arts",13,16,NA,0
-"1390","Clearwater School of Fine Arts",13,17,NA,0
-"1391","Clearwater School of Fine Arts",13,18,NA,0
-"1392","Clearwater School of Fine Arts",13,19,NA,0
-"1393","Clearwater School of Fine Arts",14,12,48.249256937008,0
-"1394","Clearwater School of Fine Arts",14,13,37.6075106785065,0
-"1395","Clearwater School of Fine Arts",14,14,36.018810275925,0
-"1396","Clearwater School of Fine Arts",14,15,47.2386113036945,0
-"1397","Clearwater School of Fine Arts",14,16,50.6089326582102,0
-"1398","Clearwater School of Fine Arts",14,17,NA,0
-"1399","Clearwater School of Fine Arts",14,18,NA,0
-"1400","Clearwater School of Fine Arts",14,19,NA,0
-"1401","Horizon Elementary",1,12,40.7817083830517,1
-"1402","Horizon Elementary",1,13,46.1130410860512,1
-"1403","Horizon Elementary",1,14,60.2824880641678,1
-"1404","Horizon Elementary",1,15,49.9764755132101,1
-"1405","Horizon Elementary",1,16,45.171130409662,1
-"1406","Horizon Elementary",1,17,NA,1
-"1407","Horizon Elementary",1,18,NA,1
-"1408","Horizon Elementary",1,19,NA,1
-"1409","Horizon Elementary",2,12,74.6131211891901,1
-"1410","Horizon Elementary",2,13,53.9806654532811,1
-"1411","Horizon Elementary",2,14,41.7461346561827,1
-"1412","Horizon Elementary",2,15,44.9459023270692,1
-"1413","Horizon Elementary",2,16,41.7759885175809,1
-"1414","Horizon Elementary",2,17,NA,1
-"1415","Horizon Elementary",2,18,NA,1
-"1416","Horizon Elementary",2,19,NA,1
-"1417","Horizon Elementary",3,12,52.6051269220174,1
-"1418","Horizon Elementary",3,13,66.9262971605226,1
-"1419","Horizon Elementary",3,14,62.3759607761012,1
-"1420","Horizon Elementary",3,15,74.3987197203012,1
-"1421","Horizon Elementary",3,16,74.2900047598417,1
-"1422","Horizon Elementary",3,17,NA,1
-"1423","Horizon Elementary",3,18,NA,1
-"1424","Horizon Elementary",3,19,NA,1
-"1425","Horizon Elementary",4,12,71.7793738016112,1
-"1426","Horizon Elementary",4,13,63.9190141209751,1
-"1427","Horizon Elementary",4,14,51.277379337177,1
-"1428","Horizon Elementary",4,15,71.5997282555401,1
-"1429","Horizon Elementary",4,16,NA,1
-"1430","Horizon Elementary",4,17,NA,1
-"1431","Horizon Elementary",4,18,NA,1
-"1432","Horizon Elementary",4,19,NA,1
-"1433","Horizon Elementary",5,12,38.483799216034,1
-"1434","Horizon Elementary",5,13,25.7298414669492,1
-"1435","Horizon Elementary",5,14,33.0970227279905,1
-"1436","Horizon Elementary",5,15,33.7456073960317,1
-"1437","Horizon Elementary",5,16,48.4453735868044,1
-"1438","Horizon Elementary",5,17,5.566302667333,1
-"1439","Horizon Elementary",5,18,16.9853286218647,1
-"1440","Horizon Elementary",5,19,NA,1
-"1441","Horizon Elementary",6,12,60.6038233711423,1
-"1442","Horizon Elementary",6,13,51.7553415686889,1
-"1443","Horizon Elementary",6,14,57.824999139004,1
-"1444","Horizon Elementary",6,15,33.7449613927811,1
-"1445","Horizon Elementary",6,16,59.4046480442403,1
-"1446","Horizon Elementary",6,17,NA,1
-"1447","Horizon Elementary",6,18,NA,1
-"1448","Horizon Elementary",6,19,NA,1
-"1449","Horizon Elementary",7,12,38.8505022982014,1
-"1450","Horizon Elementary",7,13,46.7953068347256,1
-"1451","Horizon Elementary",7,14,21.9007688601314,1
-"1452","Horizon Elementary",7,15,28.8042064111965,1
-"1453","Horizon Elementary",7,16,34.6292703326292,1
-"1454","Horizon Elementary",7,17,NA,1
-"1455","Horizon Elementary",7,18,NA,1
-"1456","Horizon Elementary",7,19,NA,1
-"1457","Horizon Elementary",8,12,56.0773177483687,1
-"1458","Horizon Elementary",8,13,52.180835765957,1
-"1459","Horizon Elementary",8,14,64.5369095714418,1
-"1460","Horizon Elementary",8,15,77.3646738659773,1
-"1461","Horizon Elementary",8,16,74.8565154178656,1
-"1462","Horizon Elementary",8,17,NA,1
-"1463","Horizon Elementary",8,18,NA,1
-"1464","Horizon Elementary",8,19,NA,1
-"1465","Horizon Elementary",9,12,56.8582187539665,1
-"1466","Horizon Elementary",9,13,73.3776657079889,1
-"1467","Horizon Elementary",9,14,92.4461936498764,1
-"1468","Horizon Elementary",9,15,73.9926827796161,1
-"1469","Horizon Elementary",9,16,NA,1
-"1470","Horizon Elementary",9,17,NA,1
-"1471","Horizon Elementary",9,18,NA,1
-"1472","Horizon Elementary",9,19,NA,1
-"1473","Tranquillity Elementary",1,12,40.9550844505399,0
-"1474","Tranquillity Elementary",1,13,49.6777506187722,0
-"1475","Tranquillity Elementary",1,14,57.4202865601847,0
-"1476","Tranquillity Elementary",1,15,63.6338709941241,0
-"1477","Tranquillity Elementary",1,16,50.2742181870099,0
-"1478","Tranquillity Elementary",1,17,28.6217980029004,0
-"1479","Tranquillity Elementary",1,18,NA,0
-"1480","Tranquillity Elementary",1,19,NA,0
-"1481","Tranquillity Elementary",2,12,47.1811008688934,0
-"1482","Tranquillity Elementary",2,13,58.1558347703577,0
-"1483","Tranquillity Elementary",2,14,72.3815859774601,0
-"1484","Tranquillity Elementary",2,15,66.6492623215232,0
-"1485","Tranquillity Elementary",2,16,81.1368934438458,0
-"1486","Tranquillity Elementary",2,17,NA,0
-"1487","Tranquillity Elementary",2,18,NA,0
-"1488","Tranquillity Elementary",2,19,NA,0
-"1489","Tranquillity Elementary",3,12,65.8303555327838,0
-"1490","Tranquillity Elementary",3,13,72.4439242625932,0
-"1491","Tranquillity Elementary",3,14,67.9453450364754,0
-"1492","Tranquillity Elementary",3,15,NA,0
-"1493","Tranquillity Elementary",3,16,NA,0
-"1494","Tranquillity Elementary",3,17,NA,0
-"1495","Tranquillity Elementary",3,18,NA,0
-"1496","Tranquillity Elementary",3,19,NA,0
-"1497","Tranquillity Elementary",4,12,53.5033309582933,0
-"1498","Tranquillity Elementary",4,13,46.1107046474355,0
-"1499","Tranquillity Elementary",4,14,30.7629867627529,0
-"1500","Tranquillity Elementary",4,15,29.5865896329527,0
-"1501","Tranquillity Elementary",4,16,NA,0
-"1502","Tranquillity Elementary",4,17,NA,0
-"1503","Tranquillity Elementary",4,18,NA,0
-"1504","Tranquillity Elementary",4,19,NA,0
-"1505","Tranquillity Elementary",5,12,48.0798102791674,0
-"1506","Tranquillity Elementary",5,13,73.5179817405043,0
-"1507","Tranquillity Elementary",5,14,58.4574039720818,0
-"1508","Tranquillity Elementary",5,15,NA,0
-"1509","Tranquillity Elementary",5,16,NA,0
-"1510","Tranquillity Elementary",5,17,NA,0
-"1511","Tranquillity Elementary",5,18,NA,0
-"1512","Tranquillity Elementary",5,19,NA,0
-"1513","Tranquillity Elementary",6,12,61.1309407493399,0
-"1514","Tranquillity Elementary",6,13,63.4014815603486,0
-"1515","Tranquillity Elementary",6,14,53.3114639818245,0
-"1516","Tranquillity Elementary",6,15,75.7046781773008,0
-"1517","Tranquillity Elementary",6,16,85.9321441600722,0
-"1518","Tranquillity Elementary",6,17,61.111943143138,0
-"1519","Tranquillity Elementary",6,18,NA,0
-"1520","Tranquillity Elementary",6,19,NA,0
-"1521","Tranquillity Elementary",7,12,50.0760107891215,0
-"1522","Tranquillity Elementary",7,13,65.0592957722426,0
-"1523","Tranquillity Elementary",7,14,61.062982286554,0
-"1524","Tranquillity Elementary",7,15,82.1046475246251,0
-"1525","Tranquillity Elementary",7,16,NA,0
-"1526","Tranquillity Elementary",7,17,NA,0
-"1527","Tranquillity Elementary",7,18,NA,0
-"1528","Tranquillity Elementary",7,19,NA,0
+"schoolid","ppt","age","ABS","interv"
+"Blue River High School",1,12,64.8648265128316,1
+"Blue River High School",1,13,54.7335510928756,1
+"Blue River High School",1,14,45.6961337890226,1
+"Blue River High School",1,15,48.8779926811806,1
+"Blue River High School",1,16,38.9939235076111,1
+"Blue River High School",1,17,32.3251887432822,1
+"Blue River High School",1,18,52.0734712524916,1
+"Blue River High School",1,19,40.5946030454702,1
+"Blue River High School",2,12,47.9693382233885,1
+"Blue River High School",2,13,63.2740399605129,1
+"Blue River High School",2,14,48.4856288333142,1
+"Blue River High School",2,15,69.4041920190158,1
+"Blue River High School",2,16,66.2452295267995,1
+"Blue River High School",2,17,55.5201098676744,1
+"Blue River High School",2,18,NA,1
+"Blue River High School",2,19,NA,1
+"Blue River High School",3,12,65.6292245456527,1
+"Blue River High School",3,13,40.9929335442622,1
+"Blue River High School",3,14,49.8958190636707,1
+"Blue River High School",3,15,66.3648850125001,1
+"Blue River High School",3,16,68.8528419679115,1
+"Blue River High School",3,17,48.8367685417093,1
+"Blue River High School",3,18,NA,1
+"Blue River High School",3,19,NA,1
+"Blue River High School",4,12,64.5454365857493,1
+"Blue River High School",4,13,53.0866988676034,1
+"Blue River High School",4,14,59.0582367370665,1
+"Blue River High School",4,15,NA,1
+"Blue River High School",4,16,NA,1
+"Blue River High School",4,17,NA,1
+"Blue River High School",4,18,NA,1
+"Blue River High School",4,19,NA,1
+"Blue River High School",5,12,47.4844935940237,1
+"Blue River High School",5,13,64.110710142118,1
+"Blue River High School",5,14,56.4389414540532,1
+"Blue River High School",5,15,43.9357900546577,1
+"Blue River High School",5,16,50.210724063864,1
+"Blue River High School",5,17,64.1848354156266,1
+"Blue River High School",5,18,NA,1
+"Blue River High School",5,19,NA,1
+"Blue River High School",6,12,49.7608169105114,1
+"Blue River High School",6,13,51.5587604071108,1
+"Blue River High School",6,14,54.4914108120212,1
+"Blue River High School",6,15,60.2147612170382,1
+"Blue River High School",6,16,58.9328851725486,1
+"Blue River High School",6,17,NA,1
+"Blue River High School",6,18,NA,1
+"Blue River High School",6,19,NA,1
+"Blue River High School",7,12,60.8731372440628,1
+"Blue River High School",7,13,57.0088410133311,1
+"Blue River High School",7,14,48.9350468572897,1
+"Blue River High School",7,15,24.0013122801514,1
+"Blue River High School",7,16,22.9492825836536,1
+"Blue River High School",7,17,NA,1
+"Blue River High School",7,18,NA,1
+"Blue River High School",7,19,NA,1
+"Blue River High School",8,12,49.7060793787698,1
+"Blue River High School",8,13,52.7273061823531,1
+"Blue River High School",8,14,47.6045959593078,1
+"Blue River High School",8,15,28.2135749147397,1
+"Blue River High School",8,16,25.0021511451341,1
+"Blue River High School",8,17,27.0427255690558,1
+"Blue River High School",8,18,40.3663933479255,1
+"Blue River High School",8,19,NA,1
+"South Fork Conservatory",1,12,66.5924923607561,0
+"South Fork Conservatory",1,13,60.809552334995,0
+"South Fork Conservatory",1,14,42.2158544764878,0
+"South Fork Conservatory",1,15,45.0849317427978,0
+"South Fork Conservatory",1,16,52.5019302560789,0
+"South Fork Conservatory",1,17,53.6497641055763,0
+"South Fork Conservatory",1,18,52.6826693993593,0
+"South Fork Conservatory",1,19,NA,0
+"South Fork Conservatory",2,12,37.3809086487569,0
+"South Fork Conservatory",2,13,50.705216264305,0
+"South Fork Conservatory",2,14,41.4707813402532,0
+"South Fork Conservatory",2,15,33.3481662005496,0
+"South Fork Conservatory",2,16,38.7325346560689,0
+"South Fork Conservatory",2,17,34.4702424423342,0
+"South Fork Conservatory",2,18,42.0167346512187,0
+"South Fork Conservatory",2,19,NA,0
+"South Fork Conservatory",3,12,54.1193547382623,0
+"South Fork Conservatory",3,13,42.075307514096,0
+"South Fork Conservatory",3,14,51.4298364267696,0
+"South Fork Conservatory",3,15,23.614487233122,0
+"South Fork Conservatory",3,16,53.6670545291371,0
+"South Fork Conservatory",3,17,45.3270437782514,0
+"South Fork Conservatory",3,18,53.5909005856541,0
+"South Fork Conservatory",3,19,NA,0
+"South Fork Conservatory",4,12,56.5679422205107,0
+"South Fork Conservatory",4,13,53.2418371748881,0
+"South Fork Conservatory",4,14,66.1676967428033,0
+"South Fork Conservatory",4,15,60.543886824045,0
+"South Fork Conservatory",4,16,66.2989958777971,0
+"South Fork Conservatory",4,17,77.8561123046554,0
+"South Fork Conservatory",4,18,NA,0
+"South Fork Conservatory",4,19,NA,0
+"South Fork Conservatory",5,12,54.2278209102275,0
+"South Fork Conservatory",5,13,50.422149066813,0
+"South Fork Conservatory",5,14,37.1102985822765,0
+"South Fork Conservatory",5,15,28.3965521102781,0
+"South Fork Conservatory",5,16,34.90354769083,0
+"South Fork Conservatory",5,17,NA,0
+"South Fork Conservatory",5,18,NA,0
+"South Fork Conservatory",5,19,NA,0
+"South Fork Conservatory",6,12,52.8453912490948,0
+"South Fork Conservatory",6,13,33.5522774281847,0
+"South Fork Conservatory",6,14,46.686048921612,0
+"South Fork Conservatory",6,15,48.3360747724086,0
+"South Fork Conservatory",6,16,NA,0
+"South Fork Conservatory",6,17,NA,0
+"South Fork Conservatory",6,18,NA,0
+"South Fork Conservatory",6,19,NA,0
+"South Fork Conservatory",7,12,83.4364520063328,0
+"South Fork Conservatory",7,13,63.3731524889878,0
+"South Fork Conservatory",7,14,73.5338541039884,0
+"South Fork Conservatory",7,15,97.3937842009182,0
+"South Fork Conservatory",7,16,88.3235954187735,0
+"South Fork Conservatory",7,17,NA,0
+"South Fork Conservatory",7,18,NA,0
+"South Fork Conservatory",7,19,NA,0
+"South Fork Conservatory",8,12,46.2477056079689,0
+"South Fork Conservatory",8,13,42.3385018541424,0
+"South Fork Conservatory",8,14,43.9073015674797,0
+"South Fork Conservatory",8,15,37.7162680190796,0
+"South Fork Conservatory",8,16,31.7291160247553,0
+"South Fork Conservatory",8,17,54.8869762362237,0
+"South Fork Conservatory",8,18,NA,0
+"South Fork Conservatory",8,19,NA,0
+"South Fork Conservatory",9,12,56.836001781776,0
+"South Fork Conservatory",9,13,34.4784098446912,0
+"South Fork Conservatory",9,14,40.4429685358906,0
+"South Fork Conservatory",9,15,37.7801412437829,0
+"South Fork Conservatory",9,16,14.2391058135895,0
+"South Fork Conservatory",9,17,32.7595728711304,0
+"South Fork Conservatory",9,18,NA,0
+"South Fork Conservatory",9,19,NA,0
+"South Fork Conservatory",10,12,74.0495398281178,0
+"South Fork Conservatory",10,13,63.6263793385819,0
+"South Fork Conservatory",10,14,82.801334686514,0
+"South Fork Conservatory",10,15,81.9755804632922,0
+"South Fork Conservatory",10,16,96.022297280747,0
+"South Fork Conservatory",10,17,NA,0
+"South Fork Conservatory",10,18,NA,0
+"South Fork Conservatory",10,19,NA,0
+"South Fork Conservatory",11,12,51.780273817461,0
+"South Fork Conservatory",11,13,43.5290845593085,0
+"South Fork Conservatory",11,14,34.9756544629688,0
+"South Fork Conservatory",11,15,18.7622895303246,0
+"South Fork Conservatory",11,16,12.7943130620884,0
+"South Fork Conservatory",11,17,NA,0
+"South Fork Conservatory",11,18,NA,0
+"South Fork Conservatory",11,19,NA,0
+"Central High",1,12,48.6581974774194,1
+"Central High",1,13,42.2555553237537,1
+"Central High",1,14,40.7375577962882,1
+"Central High",1,15,31.2837529568284,1
+"Central High",1,16,31.5746352118499,1
+"Central High",1,17,7.11926283512501,1
+"Central High",1,18,23.7938207702753,1
+"Central High",1,19,NA,1
+"Central High",2,12,44.5402367062331,1
+"Central High",2,13,56.4363089763529,1
+"Central High",2,14,35.3027184205599,1
+"Central High",2,15,38.706289494409,1
+"Central High",2,16,NA,1
+"Central High",2,17,NA,1
+"Central High",2,18,NA,1
+"Central High",2,19,NA,1
+"Central High",3,12,64.9537354922656,1
+"Central High",3,13,33.3056939027767,1
+"Central High",3,14,44.0413703619499,1
+"Central High",3,15,42.1375892011486,1
+"Central High",3,16,NA,1
+"Central High",3,17,NA,1
+"Central High",3,18,NA,1
+"Central High",3,19,NA,1
+"Central High",4,12,59.4970078217213,1
+"Central High",4,13,65.6389540787562,1
+"Central High",4,14,53.0364960826753,1
+"Central High",4,15,47.0125851405158,1
+"Central High",4,16,NA,1
+"Central High",4,17,NA,1
+"Central High",4,18,NA,1
+"Central High",4,19,NA,1
+"Central High",5,12,46.9993985211215,1
+"Central High",5,13,61.6678191855308,1
+"Central High",5,14,40.9755018857984,1
+"Central High",5,15,45.1382366303822,1
+"Central High",5,16,54.3835899618357,1
+"Central High",5,17,44.9746900788058,1
+"Central High",5,18,NA,1
+"Central High",5,19,NA,1
+"Central High",6,12,55.283995880567,1
+"Central High",6,13,54.475842201909,1
+"Central High",6,14,12.1385747289376,1
+"Central High",6,15,37.4775003691433,1
+"Central High",6,16,31.4436576202594,1
+"Central High",6,17,27.2558213932929,1
+"Central High",6,18,NA,1
+"Central High",6,19,NA,1
+"Central High",7,12,50.6425448134061,1
+"Central High",7,13,38.8670310126617,1
+"Central High",7,14,26.3089807871992,1
+"Central High",7,15,32.5541827446615,1
+"Central High",7,16,23.452082972691,1
+"Central High",7,17,22.1460957525171,1
+"Central High",7,18,NA,1
+"Central High",7,19,NA,1
+"Central High",8,12,38.5712932924222,1
+"Central High",8,13,40.2252091801249,1
+"Central High",8,14,23.3228232488534,1
+"Central High",8,15,19.1869889181927,1
+"Central High",8,16,16.0582623564067,1
+"Central High",8,17,NA,1
+"Central High",8,18,NA,1
+"Central High",8,19,NA,1
+"Central High",9,12,40.8213441743886,1
+"Central High",9,13,62.5289434920243,1
+"Central High",9,14,55.6990874455078,1
+"Central High",9,15,49.0472336865026,1
+"Central High",9,16,42.5498259596389,1
+"Central High",9,17,NA,1
+"Central High",9,18,NA,1
+"Central High",9,19,NA,1
+"Central High",10,12,45.1475834686992,1
+"Central High",10,13,40.0866995168153,1
+"Central High",10,14,27.3346801688157,1
+"Central High",10,15,22.3089093154536,1
+"Central High",10,16,0,1
+"Central High",10,17,3.88370928486208,1
+"Central High",10,18,NA,1
+"Central High",10,19,NA,1
+"Central High",11,12,41.8506065113115,1
+"Central High",11,13,42.7192176258055,1
+"Central High",11,14,24.6310843428507,1
+"Central High",11,15,44.7704272172196,1
+"Central High",11,16,NA,1
+"Central High",11,17,NA,1
+"Central High",11,18,NA,1
+"Central High",11,19,NA,1
+"Central High",12,12,45.1192705574895,1
+"Central High",12,13,65.5750761345109,1
+"Central High",12,14,48.057235108008,1
+"Central High",12,15,54.753466686201,1
+"Central High",12,16,60.6799286132655,1
+"Central High",12,17,50.3757644277329,1
+"Central High",12,18,NA,1
+"Central High",12,19,NA,1
+"Central High",13,12,56.6373135248858,1
+"Central High",13,13,52.5069063996738,1
+"Central High",13,14,56.5920868299879,1
+"Central High",13,15,46.5971836216644,1
+"Central High",13,16,71.2378868614896,1
+"Central High",13,17,NA,1
+"Central High",13,18,NA,1
+"Central High",13,19,NA,1
+"Central High",14,12,32.7665755998182,1
+"Central High",14,13,50.2239899517743,1
+"Central High",14,14,41.5650571153935,1
+"Central High",14,15,39.6128515142269,1
+"Central High",14,16,NA,1
+"Central High",14,17,NA,1
+"Central High",14,18,NA,1
+"Central High",14,19,NA,1
+"Elk Grove School",1,12,47.3183509857893,0
+"Elk Grove School",1,13,50.5121359497005,0
+"Elk Grove School",1,14,50.2950694006307,0
+"Elk Grove School",1,15,39.1889999719113,0
+"Elk Grove School",1,16,16.7205837216654,0
+"Elk Grove School",1,17,NA,0
+"Elk Grove School",1,18,NA,0
+"Elk Grove School",1,19,NA,0
+"Elk Grove School",2,12,48.6645044707848,0
+"Elk Grove School",2,13,36.5636231888537,0
+"Elk Grove School",2,14,52.273621312978,0
+"Elk Grove School",2,15,41.9910792831647,0
+"Elk Grove School",2,16,NA,0
+"Elk Grove School",2,17,NA,0
+"Elk Grove School",2,18,NA,0
+"Elk Grove School",2,19,NA,0
+"Elk Grove School",3,12,50.6918272211017,0
+"Elk Grove School",3,13,50.3115049958196,0
+"Elk Grove School",3,14,38.2584004257173,0
+"Elk Grove School",3,15,47.1057412920927,0
+"Elk Grove School",3,16,32.0861078883751,0
+"Elk Grove School",3,17,NA,0
+"Elk Grove School",3,18,NA,0
+"Elk Grove School",3,19,NA,0
+"Elk Grove School",4,12,48.8855777528861,0
+"Elk Grove School",4,13,34.0194495532421,0
+"Elk Grove School",4,14,53.7091501923657,0
+"Elk Grove School",4,15,43.9957839721566,0
+"Elk Grove School",4,16,NA,0
+"Elk Grove School",4,17,NA,0
+"Elk Grove School",4,18,NA,0
+"Elk Grove School",4,19,NA,0
+"Elk Grove School",5,12,36.4313465838912,0
+"Elk Grove School",5,13,38.3500418742814,0
+"Elk Grove School",5,14,56.8918474617838,0
+"Elk Grove School",5,15,60.5149854417164,0
+"Elk Grove School",5,16,32.307142862664,0
+"Elk Grove School",5,17,40.1270319655749,0
+"Elk Grove School",5,18,NA,0
+"Elk Grove School",5,19,NA,0
+"Elk Grove School",6,12,59.849362625518,0
+"Elk Grove School",6,13,42.4300680374907,0
+"Elk Grove School",6,14,54.4093848432853,0
+"Elk Grove School",6,15,64.9298358741284,0
+"Elk Grove School",6,16,77.4657655001003,0
+"Elk Grove School",6,17,76.5542605484456,0
+"Elk Grove School",6,18,NA,0
+"Elk Grove School",6,19,NA,0
+"Elk Grove School",7,12,61.5748105289345,0
+"Elk Grove School",7,13,55.2960920230648,0
+"Elk Grove School",7,14,60.0998091541541,0
+"Elk Grove School",7,15,50.239727446785,0
+"Elk Grove School",7,16,44.2008448566938,0
+"Elk Grove School",7,17,NA,0
+"Elk Grove School",7,18,NA,0
+"Elk Grove School",7,19,NA,0
+"Woodside University",1,12,55.0581113020087,1
+"Woodside University",1,13,50.3302580794238,1
+"Woodside University",1,14,58.9063448932613,1
+"Woodside University",1,15,36.8199840404243,1
+"Woodside University",1,16,20.9886051156427,1
+"Woodside University",1,17,31.2118212403605,1
+"Woodside University",1,18,41.1602694636041,1
+"Woodside University",1,19,NA,1
+"Woodside University",2,12,54.9192159390083,1
+"Woodside University",2,13,20.2515683476415,1
+"Woodside University",2,14,26.5144254971291,1
+"Woodside University",2,15,25.7484793079632,1
+"Woodside University",2,16,NA,1
+"Woodside University",2,17,NA,1
+"Woodside University",2,18,NA,1
+"Woodside University",2,19,NA,1
+"Woodside University",3,12,47.4983983878078,1
+"Woodside University",3,13,42.7008703245434,1
+"Woodside University",3,14,30.3776805584133,1
+"Woodside University",3,15,43.6470218511807,1
+"Woodside University",3,16,47.7438200654486,1
+"Woodside University",3,17,NA,1
+"Woodside University",3,18,NA,1
+"Woodside University",3,19,NA,1
+"Woodside University",4,12,41.0071868221082,1
+"Woodside University",4,13,43.0432804203875,1
+"Woodside University",4,14,33.6255318116169,1
+"Woodside University",4,15,46.8232660425729,1
+"Woodside University",4,16,NA,1
+"Woodside University",4,17,NA,1
+"Woodside University",4,18,NA,1
+"Woodside University",4,19,NA,1
+"Woodside University",5,12,47.2046752246617,1
+"Woodside University",5,13,53.3349310775415,1
+"Woodside University",5,14,54.6488325720334,1
+"Woodside University",5,15,36.2315542953012,1
+"Woodside University",5,16,42.382629765709,1
+"Woodside University",5,17,29.2388870164139,1
+"Woodside University",5,18,NA,1
+"Woodside University",5,19,NA,1
+"Woodside University",6,12,49.9589514086174,1
+"Woodside University",6,13,51.5614841997799,1
+"Woodside University",6,14,50.1023414320632,1
+"Woodside University",6,15,37.4826113020524,1
+"Woodside University",6,16,48.868101006252,1
+"Woodside University",6,17,NA,1
+"Woodside University",6,18,NA,1
+"Woodside University",6,19,NA,1
+"Woodside University",7,12,45.0078098897159,1
+"Woodside University",7,13,36.7510607138469,1
+"Woodside University",7,14,31.8994107434118,1
+"Woodside University",7,15,43.993079261495,1
+"Woodside University",7,16,NA,1
+"Woodside University",7,17,NA,1
+"Woodside University",7,18,NA,1
+"Woodside University",7,19,NA,1
+"Woodside University",8,12,57.6280000773214,1
+"Woodside University",8,13,61.0541240367878,1
+"Woodside University",8,14,54.7994721887495,1
+"Woodside University",8,15,48.6886616704735,1
+"Woodside University",8,16,50.9206666824236,1
+"Woodside University",8,17,NA,1
+"Woodside University",8,18,NA,1
+"Woodside University",8,19,NA,1
+"Woodside University",9,12,42.4965262855292,1
+"Woodside University",9,13,43.6149864849218,1
+"Woodside University",9,14,46.9134202162111,1
+"Woodside University",9,15,NA,1
+"Woodside University",9,16,NA,1
+"Woodside University",9,17,NA,1
+"Woodside University",9,18,NA,1
+"Woodside University",9,19,NA,1
+"Woodside University",10,12,43.7290086117614,1
+"Woodside University",10,13,40.2436692884441,1
+"Woodside University",10,14,32.5783952680901,1
+"Woodside University",10,15,37.2895561080563,1
+"Woodside University",10,16,NA,1
+"Woodside University",10,17,NA,1
+"Woodside University",10,18,NA,1
+"Woodside University",10,19,NA,1
+"Eastwood Institute",1,12,59.27991369079,0
+"Eastwood Institute",1,13,52.2904408510283,0
+"Eastwood Institute",1,14,39.7251898459816,0
+"Eastwood Institute",1,15,46.6374536920533,0
+"Eastwood Institute",1,16,56.3185136945217,0
+"Eastwood Institute",1,17,48.5189841474696,0
+"Eastwood Institute",1,18,46.4562714372212,0
+"Eastwood Institute",1,19,NA,0
+"Eastwood Institute",2,12,43.4863420985779,0
+"Eastwood Institute",2,13,46.9347786016109,0
+"Eastwood Institute",2,14,25.8560662519794,0
+"Eastwood Institute",2,15,27.0070299065385,0
+"Eastwood Institute",2,16,26.1613109665353,0
+"Eastwood Institute",2,17,NA,0
+"Eastwood Institute",2,18,NA,0
+"Eastwood Institute",2,19,NA,0
+"Eastwood Institute",3,12,56.2923696945822,0
+"Eastwood Institute",3,13,44.4059899493686,0
+"Eastwood Institute",3,14,44.0206549750191,0
+"Eastwood Institute",3,15,57.961300194397,0
+"Eastwood Institute",3,16,NA,0
+"Eastwood Institute",3,17,NA,0
+"Eastwood Institute",3,18,NA,0
+"Eastwood Institute",3,19,NA,0
+"Eastwood Institute",4,12,53.9703361337206,0
+"Eastwood Institute",4,13,39.1317181788178,0
+"Eastwood Institute",4,14,47.2910761869691,0
+"Eastwood Institute",4,15,48.1059251164001,0
+"Eastwood Institute",4,16,NA,0
+"Eastwood Institute",4,17,NA,0
+"Eastwood Institute",4,18,NA,0
+"Eastwood Institute",4,19,NA,0
+"Eastwood Institute",5,12,39.1748048818662,0
+"Eastwood Institute",5,13,37.8479411409885,0
+"Eastwood Institute",5,14,43.5095664393803,0
+"Eastwood Institute",5,15,NA,0
+"Eastwood Institute",5,16,NA,0
+"Eastwood Institute",5,17,NA,0
+"Eastwood Institute",5,18,NA,0
+"Eastwood Institute",5,19,NA,0
+"Eastwood Institute",6,12,41.3556241187311,0
+"Eastwood Institute",6,13,59.1665032132413,0
+"Eastwood Institute",6,14,48.2530528761751,0
+"Eastwood Institute",6,15,50.4804909798519,0
+"Eastwood Institute",6,16,41.0395878671884,0
+"Eastwood Institute",6,17,NA,0
+"Eastwood Institute",6,18,NA,0
+"Eastwood Institute",6,19,NA,0
+"Eastwood Institute",7,12,29.3337453884028,0
+"Eastwood Institute",7,13,36.9824519552711,0
+"Eastwood Institute",7,14,40.5408407429739,0
+"Eastwood Institute",7,15,47.1501777068955,0
+"Eastwood Institute",7,16,51.9550261006149,0
+"Eastwood Institute",7,17,NA,0
+"Eastwood Institute",7,18,NA,0
+"Eastwood Institute",7,19,NA,0
+"Eastwood Institute",8,12,71.9945224589111,0
+"Eastwood Institute",8,13,51.7061179419486,0
+"Eastwood Institute",8,14,63.1265667352458,0
+"Eastwood Institute",8,15,76.8348466283367,0
+"Eastwood Institute",8,16,85.9551905513685,0
+"Eastwood Institute",8,17,NA,0
+"Eastwood Institute",8,18,NA,0
+"Eastwood Institute",8,19,NA,0
+"Oak Park Technical School",1,12,40.1152512967313,1
+"Oak Park Technical School",1,13,40.432959012026,1
+"Oak Park Technical School",1,14,19.6754375593847,1
+"Oak Park Technical School",1,15,28.9340808259629,1
+"Oak Park Technical School",1,16,NA,1
+"Oak Park Technical School",1,17,NA,1
+"Oak Park Technical School",1,18,NA,1
+"Oak Park Technical School",1,19,NA,1
+"Oak Park Technical School",2,12,52.3936333090488,1
+"Oak Park Technical School",2,13,54.301310173299,1
+"Oak Park Technical School",2,14,51.7555167377086,1
+"Oak Park Technical School",2,15,53.7718326992632,1
+"Oak Park Technical School",2,16,66.8775596480239,1
+"Oak Park Technical School",2,17,NA,1
+"Oak Park Technical School",2,18,NA,1
+"Oak Park Technical School",2,19,NA,1
+"Oak Park Technical School",3,12,49.1394760042251,1
+"Oak Park Technical School",3,13,62.0034105665075,1
+"Oak Park Technical School",3,14,52.4183994063665,1
+"Oak Park Technical School",3,15,62.2005934748809,1
+"Oak Park Technical School",3,16,73.465706934911,1
+"Oak Park Technical School",3,17,59.9872333211836,1
+"Oak Park Technical School",3,18,NA,1
+"Oak Park Technical School",3,19,NA,1
+"Oak Park Technical School",4,12,53.6671853758827,1
+"Oak Park Technical School",4,13,50.697916996664,1
+"Oak Park Technical School",4,14,40.3770868752132,1
+"Oak Park Technical School",4,15,48.6624762226591,1
+"Oak Park Technical School",4,16,55.8578933338814,1
+"Oak Park Technical School",4,17,NA,1
+"Oak Park Technical School",4,18,NA,1
+"Oak Park Technical School",4,19,NA,1
+"Oak Park Technical School",5,12,68.4769219474521,1
+"Oak Park Technical School",5,13,53.4713541673171,1
+"Oak Park Technical School",5,14,55.2888958497747,1
+"Oak Park Technical School",5,15,51.8420622973866,1
+"Oak Park Technical School",5,16,62.1076536307353,1
+"Oak Park Technical School",5,17,NA,1
+"Oak Park Technical School",5,18,NA,1
+"Oak Park Technical School",5,19,NA,1
+"Oak Park Technical School",6,12,43.7484279140195,1
+"Oak Park Technical School",6,13,58.5328100534469,1
+"Oak Park Technical School",6,14,66.4399643633397,1
+"Oak Park Technical School",6,15,61.5223410179707,1
+"Oak Park Technical School",6,16,48.8613019474625,1
+"Oak Park Technical School",6,17,NA,1
+"Oak Park Technical School",6,18,NA,1
+"Oak Park Technical School",6,19,NA,1
+"Central Grammar School",1,12,52.0565524483855,0
+"Central Grammar School",1,13,52.9333847856711,0
+"Central Grammar School",1,14,71.8608578586902,0
+"Central Grammar School",1,15,64.5452341679283,0
+"Central Grammar School",1,16,68.8472581417083,0
+"Central Grammar School",1,17,NA,0
+"Central Grammar School",1,18,NA,0
+"Central Grammar School",1,19,NA,0
+"Central Grammar School",2,12,35.9003207553687,0
+"Central Grammar School",2,13,66.4914359064862,0
+"Central Grammar School",2,14,64.958616145935,0
+"Central Grammar School",2,15,36.5885507378982,0
+"Central Grammar School",2,16,NA,0
+"Central Grammar School",2,17,NA,0
+"Central Grammar School",2,18,NA,0
+"Central Grammar School",2,19,NA,0
+"Central Grammar School",3,12,47.1977962008288,0
+"Central Grammar School",3,13,36.8374656347531,0
+"Central Grammar School",3,14,49.7582597315161,0
+"Central Grammar School",3,15,45.7361932061287,0
+"Central Grammar School",3,16,44.0189255726597,0
+"Central Grammar School",3,17,NA,0
+"Central Grammar School",3,18,NA,0
+"Central Grammar School",3,19,NA,0
+"Central Grammar School",4,12,33.6339489400444,0
+"Central Grammar School",4,13,24.44822273665,0
+"Central Grammar School",4,14,36.1754924841741,0
+"Central Grammar School",4,15,38.4306516257926,0
+"Central Grammar School",4,16,43.7483567280334,0
+"Central Grammar School",4,17,51.783424843239,0
+"Central Grammar School",4,18,NA,0
+"Central Grammar School",4,19,NA,0
+"Central Grammar School",5,12,50.2241095486362,0
+"Central Grammar School",5,13,47.2489679234241,0
+"Central Grammar School",5,14,47.5598913432841,0
+"Central Grammar School",5,15,43.3410849490318,0
+"Central Grammar School",5,16,NA,0
+"Central Grammar School",5,17,NA,0
+"Central Grammar School",5,18,NA,0
+"Central Grammar School",5,19,NA,0
+"Central Grammar School",6,12,47.9860164568432,0
+"Central Grammar School",6,13,51.6468349389112,0
+"Central Grammar School",6,14,58.0675264496744,0
+"Central Grammar School",6,15,49.468088141336,0
+"Central Grammar School",6,16,61.4821056498286,0
+"Central Grammar School",6,17,NA,0
+"Central Grammar School",6,18,NA,0
+"Central Grammar School",6,19,NA,0
+"Central Grammar School",7,12,32.6234479719836,0
+"Central Grammar School",7,13,59.5532334674099,0
+"Central Grammar School",7,14,74.449235342975,0
+"Central Grammar School",7,15,74.4939060284031,0
+"Central Grammar School",7,16,87.293602797779,0
+"Central Grammar School",7,17,90.6168158723611,0
+"Central Grammar School",7,18,89.1011380527798,0
+"Central Grammar School",7,19,NA,0
+"Central Grammar School",8,12,61.2397044639945,0
+"Central Grammar School",8,13,35.3138776651583,0
+"Central Grammar School",8,14,73.238461316256,0
+"Central Grammar School",8,15,55.7620438049068,0
+"Central Grammar School",8,16,84.0564577868648,0
+"Central Grammar School",8,17,NA,0
+"Central Grammar School",8,18,NA,0
+"Central Grammar School",8,19,NA,0
+"Central Grammar School",9,12,51.0433837238703,0
+"Central Grammar School",9,13,42.191434746473,0
+"Central Grammar School",9,14,51.7303670109752,0
+"Central Grammar School",9,15,NA,0
+"Central Grammar School",9,16,NA,0
+"Central Grammar School",9,17,NA,0
+"Central Grammar School",9,18,NA,0
+"Central Grammar School",9,19,NA,0
+"Central Grammar School",10,12,68.1906417911601,0
+"Central Grammar School",10,13,34.1179920474019,0
+"Central Grammar School",10,14,33.7836677379816,0
+"Central Grammar School",10,15,51.1791415103095,0
+"Central Grammar School",10,16,46.6871757953584,0
+"Central Grammar School",10,17,54.1334113849997,0
+"Central Grammar School",10,18,NA,0
+"Central Grammar School",10,19,NA,0
+"Central Grammar School",11,12,48.2081879491322,0
+"Central Grammar School",11,13,53.5754128656221,0
+"Central Grammar School",11,14,49.3126771388032,0
+"Central Grammar School",11,15,48.958062595616,0
+"Central Grammar School",11,16,38.4188615959443,0
+"Central Grammar School",11,17,NA,0
+"Central Grammar School",11,18,NA,0
+"Central Grammar School",11,19,NA,0
+"Clearwater Charter School",1,12,19.845308229942,1
+"Clearwater Charter School",1,13,42.2055909129281,1
+"Clearwater Charter School",1,14,35.4577157718229,1
+"Clearwater Charter School",1,15,36.1475462045074,1
+"Clearwater Charter School",1,16,NA,1
+"Clearwater Charter School",1,17,NA,1
+"Clearwater Charter School",1,18,NA,1
+"Clearwater Charter School",1,19,NA,1
+"Clearwater Charter School",2,12,49.4343191653271,1
+"Clearwater Charter School",2,13,58.9907522192888,1
+"Clearwater Charter School",2,14,35.1831558195637,1
+"Clearwater Charter School",2,15,52.5630123988727,1
+"Clearwater Charter School",2,16,NA,1
+"Clearwater Charter School",2,17,NA,1
+"Clearwater Charter School",2,18,NA,1
+"Clearwater Charter School",2,19,NA,1
+"Clearwater Charter School",3,12,51.5672022777029,1
+"Clearwater Charter School",3,13,55.6086349898031,1
+"Clearwater Charter School",3,14,51.8546264239715,1
+"Clearwater Charter School",3,15,NA,1
+"Clearwater Charter School",3,16,NA,1
+"Clearwater Charter School",3,17,NA,1
+"Clearwater Charter School",3,18,NA,1
+"Clearwater Charter School",3,19,NA,1
+"Clearwater Charter School",4,12,55.4414246701201,1
+"Clearwater Charter School",4,13,47.923410217094,1
+"Clearwater Charter School",4,14,58.5526164537028,1
+"Clearwater Charter School",4,15,61.6366680470783,1
+"Clearwater Charter School",4,16,60.9134853990735,1
+"Clearwater Charter School",4,17,NA,1
+"Clearwater Charter School",4,18,NA,1
+"Clearwater Charter School",4,19,NA,1
+"Clearwater Charter School",5,12,35.906059901671,1
+"Clearwater Charter School",5,13,48.5214135610601,1
+"Clearwater Charter School",5,14,30.0691158751348,1
+"Clearwater Charter School",5,15,31.6667877489108,1
+"Clearwater Charter School",5,16,29.3515036700952,1
+"Clearwater Charter School",5,17,NA,1
+"Clearwater Charter School",5,18,NA,1
+"Clearwater Charter School",5,19,NA,1
+"Clearwater Charter School",6,12,29.9688297568344,1
+"Clearwater Charter School",6,13,43.9551270337064,1
+"Clearwater Charter School",6,14,28.0718944331009,1
+"Clearwater Charter School",6,15,44.4669711948111,1
+"Clearwater Charter School",6,16,36.5198781665895,1
+"Clearwater Charter School",6,17,NA,1
+"Clearwater Charter School",6,18,NA,1
+"Clearwater Charter School",6,19,NA,1
+"Clearwater Charter School",7,12,35.6984144108321,1
+"Clearwater Charter School",7,13,53.2663644823971,1
+"Clearwater Charter School",7,14,29.6212065038571,1
+"Clearwater Charter School",7,15,76.0249716752247,1
+"Clearwater Charter School",7,16,44.5123526790488,1
+"Clearwater Charter School",7,17,NA,1
+"Clearwater Charter School",7,18,NA,1
+"Clearwater Charter School",7,19,NA,1
+"Clearwater Charter School",8,12,36.0406343247266,1
+"Clearwater Charter School",8,13,44.3348298008478,1
+"Clearwater Charter School",8,14,35.7261438200759,1
+"Clearwater Charter School",8,15,44.6562545997142,1
+"Clearwater Charter School",8,16,45.472781884696,1
+"Clearwater Charter School",8,17,22.8808482026527,1
+"Clearwater Charter School",8,18,NA,1
+"Clearwater Charter School",8,19,NA,1
+"Clearwater Charter School",9,12,38.1530170594599,1
+"Clearwater Charter School",9,13,33.4500643168326,1
+"Clearwater Charter School",9,14,14.8778962932574,1
+"Clearwater Charter School",9,15,20.1839424174843,1
+"Clearwater Charter School",9,16,14.6134129600148,1
+"Clearwater Charter School",9,17,NA,1
+"Clearwater Charter School",9,18,NA,1
+"Clearwater Charter School",9,19,NA,1
+"Clearwater Charter School",10,12,45.5467943744582,1
+"Clearwater Charter School",10,13,55.5798313895932,1
+"Clearwater Charter School",10,14,56.6179941624591,1
+"Clearwater Charter School",10,15,57.8491457475,1
+"Clearwater Charter School",10,16,64.5178842013892,1
+"Clearwater Charter School",10,17,NA,1
+"Clearwater Charter School",10,18,NA,1
+"Clearwater Charter School",10,19,NA,1
+"Clearwater Charter School",11,12,50.7242959622726,1
+"Clearwater Charter School",11,13,48.3666323827005,1
+"Clearwater Charter School",11,14,63.1953080452519,1
+"Clearwater Charter School",11,15,45.6739476900922,1
+"Clearwater Charter School",11,16,47.5691894004321,1
+"Clearwater Charter School",11,17,NA,1
+"Clearwater Charter School",11,18,NA,1
+"Clearwater Charter School",11,19,NA,1
+"Coral Coast Institute",1,12,50.5719060542411,0
+"Coral Coast Institute",1,13,48.963380960835,0
+"Coral Coast Institute",1,14,57.0933049856994,0
+"Coral Coast Institute",1,15,68.7690128586566,0
+"Coral Coast Institute",1,16,62.8537928443448,0
+"Coral Coast Institute",1,17,70.740672983718,0
+"Coral Coast Institute",1,18,75.7319439784091,0
+"Coral Coast Institute",1,19,NA,0
+"Coral Coast Institute",2,12,57.8433275931128,0
+"Coral Coast Institute",2,13,47.2047391274361,0
+"Coral Coast Institute",2,14,54.658875788429,0
+"Coral Coast Institute",2,15,41.5298492679968,0
+"Coral Coast Institute",2,16,NA,0
+"Coral Coast Institute",2,17,NA,0
+"Coral Coast Institute",2,18,NA,0
+"Coral Coast Institute",2,19,NA,0
+"Coral Coast Institute",3,12,54.3200029801092,0
+"Coral Coast Institute",3,13,51.3150011172203,0
+"Coral Coast Institute",3,14,55.5446764767908,0
+"Coral Coast Institute",3,15,45.80385813986,0
+"Coral Coast Institute",3,16,69.7152444449363,0
+"Coral Coast Institute",3,17,NA,0
+"Coral Coast Institute",3,18,NA,0
+"Coral Coast Institute",3,19,NA,0
+"Coral Coast Institute",4,12,40.4732184247974,0
+"Coral Coast Institute",4,13,55.1619835306333,0
+"Coral Coast Institute",4,14,36.8070233988357,0
+"Coral Coast Institute",4,15,51.7711355601722,0
+"Coral Coast Institute",4,16,29.6296063792605,0
+"Coral Coast Institute",4,17,NA,0
+"Coral Coast Institute",4,18,NA,0
+"Coral Coast Institute",4,19,NA,0
+"Coral Coast Institute",5,12,57.1369949781728,0
+"Coral Coast Institute",5,13,60.0011191183184,0
+"Coral Coast Institute",5,14,45.948417030976,0
+"Coral Coast Institute",5,15,47.6645821252021,0
+"Coral Coast Institute",5,16,NA,0
+"Coral Coast Institute",5,17,NA,0
+"Coral Coast Institute",5,18,NA,0
+"Coral Coast Institute",5,19,NA,0
+"Coral Coast Institute",6,12,47.5645707147576,0
+"Coral Coast Institute",6,13,40.2532283119416,0
+"Coral Coast Institute",6,14,60.1226176863239,0
+"Coral Coast Institute",6,15,30.6628224585949,0
+"Coral Coast Institute",6,16,34.3638468606094,0
+"Coral Coast Institute",6,17,35.5614609785133,0
+"Coral Coast Institute",6,18,22.5934423223179,0
+"Coral Coast Institute",6,19,NA,0
+"Coral Coast Institute",7,12,59.0195998735173,0
+"Coral Coast Institute",7,13,60.1107073579866,0
+"Coral Coast Institute",7,14,56.0911337599455,0
+"Coral Coast Institute",7,15,66.7619250712323,0
+"Coral Coast Institute",7,16,65.7096901006348,0
+"Coral Coast Institute",7,17,63.1982872937137,0
+"Coral Coast Institute",7,18,NA,0
+"Coral Coast Institute",7,19,NA,0
+"Coral Coast Institute",8,12,41.4100602861037,0
+"Coral Coast Institute",8,13,26.7965867325829,0
+"Coral Coast Institute",8,14,35.252335271807,0
+"Coral Coast Institute",8,15,26.0909530501478,0
+"Coral Coast Institute",8,16,NA,0
+"Coral Coast Institute",8,17,NA,0
+"Coral Coast Institute",8,18,NA,0
+"Coral Coast Institute",8,19,NA,0
+"Coral Coast Institute",9,12,48.8107437839421,0
+"Coral Coast Institute",9,13,41.5723250785253,0
+"Coral Coast Institute",9,14,62.1339371755808,0
+"Coral Coast Institute",9,15,71.2769969847038,0
+"Coral Coast Institute",9,16,70.7052400507577,0
+"Coral Coast Institute",9,17,NA,0
+"Coral Coast Institute",9,18,NA,0
+"Coral Coast Institute",9,19,NA,0
+"Edgewood Grammar School",1,12,51.9803570676793,1
+"Edgewood Grammar School",1,13,53.8253486226947,1
+"Edgewood Grammar School",1,14,61.213117681611,1
+"Edgewood Grammar School",1,15,73.2725469523635,1
+"Edgewood Grammar School",1,16,46.3006269844347,1
+"Edgewood Grammar School",1,17,67.1653087390421,1
+"Edgewood Grammar School",1,18,66.8577954081887,1
+"Edgewood Grammar School",1,19,NA,1
+"Edgewood Grammar School",2,12,72.0636501868134,1
+"Edgewood Grammar School",2,13,59.5971258381165,1
+"Edgewood Grammar School",2,14,66.6654166090474,1
+"Edgewood Grammar School",2,15,69.6223262430472,1
+"Edgewood Grammar School",2,16,66.4831654348294,1
+"Edgewood Grammar School",2,17,NA,1
+"Edgewood Grammar School",2,18,NA,1
+"Edgewood Grammar School",2,19,NA,1
+"Edgewood Grammar School",3,12,43.975140542273,1
+"Edgewood Grammar School",3,13,43.4434680186323,1
+"Edgewood Grammar School",3,14,47.3360873235262,1
+"Edgewood Grammar School",3,15,48.4867524665201,1
+"Edgewood Grammar School",3,16,43.8354278860639,1
+"Edgewood Grammar School",3,17,51.2350744898591,1
+"Edgewood Grammar School",3,18,NA,1
+"Edgewood Grammar School",3,19,NA,1
+"Edgewood Grammar School",4,12,48.7652885175945,1
+"Edgewood Grammar School",4,13,48.1459489553603,1
+"Edgewood Grammar School",4,14,59.7698122014526,1
+"Edgewood Grammar School",4,15,53.8046840813101,1
+"Edgewood Grammar School",4,16,54.2864389927292,1
+"Edgewood Grammar School",4,17,NA,1
+"Edgewood Grammar School",4,18,NA,1
+"Edgewood Grammar School",4,19,NA,1
+"Edgewood Grammar School",5,12,37.4268279964936,1
+"Edgewood Grammar School",5,13,47.3949989246335,1
+"Edgewood Grammar School",5,14,57.3618153889194,1
+"Edgewood Grammar School",5,15,39.714933229196,1
+"Edgewood Grammar School",5,16,65.7933497508458,1
+"Edgewood Grammar School",5,17,53.2347564185225,1
+"Edgewood Grammar School",5,18,NA,1
+"Edgewood Grammar School",5,19,NA,1
+"Edgewood Grammar School",6,12,63.1561282084619,1
+"Edgewood Grammar School",6,13,57.0341626514853,1
+"Edgewood Grammar School",6,14,30.5172405406918,1
+"Edgewood Grammar School",6,15,51.7155626968615,1
+"Edgewood Grammar School",6,16,45.1074395576432,1
+"Edgewood Grammar School",6,17,44.2127829083534,1
+"Edgewood Grammar School",6,18,NA,1
+"Edgewood Grammar School",6,19,NA,1
+"Edgewood Grammar School",7,12,57.7288915978212,1
+"Edgewood Grammar School",7,13,40.3281051157807,1
+"Edgewood Grammar School",7,14,30.7504063672378,1
+"Edgewood Grammar School",7,15,41.2101582501787,1
+"Edgewood Grammar School",7,16,43.3040397790269,1
+"Edgewood Grammar School",7,17,NA,1
+"Edgewood Grammar School",7,18,NA,1
+"Edgewood Grammar School",7,19,NA,1
+"Edgewood Grammar School",8,12,77.5969007027025,1
+"Edgewood Grammar School",8,13,72.4857817120257,1
+"Edgewood Grammar School",8,14,74.0530571934849,1
+"Edgewood Grammar School",8,15,64.5720033113365,1
+"Edgewood Grammar School",8,16,87.9924556145173,1
+"Edgewood Grammar School",8,17,96.2511346411465,1
+"Edgewood Grammar School",8,18,NA,1
+"Edgewood Grammar School",8,19,NA,1
+"Liberty High",1,12,46.1875854823353,0
+"Liberty High",1,13,56.4198064155892,0
+"Liberty High",1,14,49.8512580331811,0
+"Liberty High",1,15,30.9204819321312,0
+"Liberty High",1,16,38.8562379873785,0
+"Liberty High",1,17,23.8265236380882,0
+"Liberty High",1,18,NA,0
+"Liberty High",1,19,NA,0
+"Liberty High",2,12,39.7450612495674,0
+"Liberty High",2,13,62.86089938142,0
+"Liberty High",2,14,59.7672468212769,0
+"Liberty High",2,15,69.2181220176344,0
+"Liberty High",2,16,52.4319509000963,0
+"Liberty High",2,17,61.9162304927327,0
+"Liberty High",2,18,NA,0
+"Liberty High",2,19,NA,0
+"Liberty High",3,12,34.4694131846484,0
+"Liberty High",3,13,34.375748776737,0
+"Liberty High",3,14,24.5633451186532,0
+"Liberty High",3,15,29.0777714379018,0
+"Liberty High",3,16,34.7152260899511,0
+"Liberty High",3,17,NA,0
+"Liberty High",3,18,NA,0
+"Liberty High",3,19,NA,0
+"Liberty High",4,12,51.6844624631358,0
+"Liberty High",4,13,53.1593478907053,0
+"Liberty High",4,14,53.996163069878,0
+"Liberty High",4,15,49.8647328719803,0
+"Liberty High",4,16,66.5030530071604,0
+"Liberty High",4,17,66.3439606976968,0
+"Liberty High",4,18,NA,0
+"Liberty High",4,19,NA,0
+"Liberty High",5,12,42.2784869348701,0
+"Liberty High",5,13,56.9161291486809,0
+"Liberty High",5,14,42.8373075037844,0
+"Liberty High",5,15,32.73180381205,0
+"Liberty High",5,16,47.1947054951201,0
+"Liberty High",5,17,44.1782878960603,0
+"Liberty High",5,18,NA,0
+"Liberty High",5,19,NA,0
+"Liberty High",6,12,57.6446022882093,0
+"Liberty High",6,13,70.3944840150086,0
+"Liberty High",6,14,46.3613920310699,0
+"Liberty High",6,15,NA,0
+"Liberty High",6,16,NA,0
+"Liberty High",6,17,NA,0
+"Liberty High",6,18,NA,0
+"Liberty High",6,19,NA,0
+"Liberty High",7,12,61.7687494306974,0
+"Liberty High",7,13,64.2352426892393,0
+"Liberty High",7,14,64.7329261052255,0
+"Liberty High",7,15,75.6209427422778,0
+"Liberty High",7,16,64.0798584189502,0
+"Liberty High",7,17,68.299828873041,0
+"Liberty High",7,18,80.8692332705037,0
+"Liberty High",7,19,NA,0
+"Liberty High",8,12,38.0542516745535,0
+"Liberty High",8,13,62.7163978161674,0
+"Liberty High",8,14,51.1331825895097,0
+"Liberty High",8,15,71.4901341658118,0
+"Liberty High",8,16,55.4530108866052,0
+"Liberty High",8,17,NA,0
+"Liberty High",8,18,NA,0
+"Liberty High",8,19,NA,0
+"Liberty High",9,12,55.9816159685151,0
+"Liberty High",9,13,73.1590867370961,0
+"Liberty High",9,14,49.5921526875333,0
+"Liberty High",9,15,63.0584884920603,0
+"Liberty High",9,16,61.5229794104572,0
+"Liberty High",9,17,NA,0
+"Liberty High",9,18,NA,0
+"Liberty High",9,19,NA,0
+"Liberty High",10,12,38.4694151003115,0
+"Liberty High",10,13,28.1928069880266,0
+"Liberty High",10,14,55.9762237358846,0
+"Liberty High",10,15,49.7785126226614,0
+"Liberty High",10,16,NA,0
+"Liberty High",10,17,NA,0
+"Liberty High",10,18,NA,0
+"Liberty High",10,19,NA,0
+"Liberty High",11,12,44.0185226750142,0
+"Liberty High",11,13,58.7583150414976,0
+"Liberty High",11,14,55.4274925707501,0
+"Liberty High",11,15,37.3124598887006,0
+"Liberty High",11,16,27.5329714614616,0
+"Liberty High",11,17,37.8061678613505,0
+"Liberty High",11,18,NA,0
+"Liberty High",11,19,NA,0
+"Grand Mountain Elementary",1,12,36.408350819079,1
+"Grand Mountain Elementary",1,13,46.5719578065413,1
+"Grand Mountain Elementary",1,14,38.3430611083801,1
+"Grand Mountain Elementary",1,15,42.1674029956972,1
+"Grand Mountain Elementary",1,16,38.1733081729795,1
+"Grand Mountain Elementary",1,17,NA,1
+"Grand Mountain Elementary",1,18,NA,1
+"Grand Mountain Elementary",1,19,NA,1
+"Grand Mountain Elementary",2,12,43.1174177511323,1
+"Grand Mountain Elementary",2,13,26.2718621719834,1
+"Grand Mountain Elementary",2,14,39.4733821163309,1
+"Grand Mountain Elementary",2,15,50.4771208066695,1
+"Grand Mountain Elementary",2,16,32.2409094329466,1
+"Grand Mountain Elementary",2,17,28.6934302989434,1
+"Grand Mountain Elementary",2,18,27.1042582670068,1
+"Grand Mountain Elementary",2,19,NA,1
+"Grand Mountain Elementary",3,12,50.4684502542075,1
+"Grand Mountain Elementary",3,13,58.359675025776,1
+"Grand Mountain Elementary",3,14,50.7333403005378,1
+"Grand Mountain Elementary",3,15,37.837051563393,1
+"Grand Mountain Elementary",3,16,52.4052894432049,1
+"Grand Mountain Elementary",3,17,62.8563660005043,1
+"Grand Mountain Elementary",3,18,NA,1
+"Grand Mountain Elementary",3,19,NA,1
+"Grand Mountain Elementary",4,12,40.9142691550136,1
+"Grand Mountain Elementary",4,13,40.3693600023713,1
+"Grand Mountain Elementary",4,14,39.7260969790358,1
+"Grand Mountain Elementary",4,15,13.216489246791,1
+"Grand Mountain Elementary",4,16,26.4285433033395,1
+"Grand Mountain Elementary",4,17,27.7316380927746,1
+"Grand Mountain Elementary",4,18,NA,1
+"Grand Mountain Elementary",4,19,NA,1
+"Grand Mountain Elementary",5,12,66.7823666984815,1
+"Grand Mountain Elementary",5,13,44.6589005205449,1
+"Grand Mountain Elementary",5,14,54.1777661674786,1
+"Grand Mountain Elementary",5,15,46.2580251428716,1
+"Grand Mountain Elementary",5,16,59.7365385097272,1
+"Grand Mountain Elementary",5,17,NA,1
+"Grand Mountain Elementary",5,18,NA,1
+"Grand Mountain Elementary",5,19,NA,1
+"Grand Mountain Elementary",6,12,45.7867575029597,1
+"Grand Mountain Elementary",6,13,52.4954819760922,1
+"Grand Mountain Elementary",6,14,36.3286528926686,1
+"Grand Mountain Elementary",6,15,44.9802581461781,1
+"Grand Mountain Elementary",6,16,NA,1
+"Grand Mountain Elementary",6,17,NA,1
+"Grand Mountain Elementary",6,18,NA,1
+"Grand Mountain Elementary",6,19,NA,1
+"Grand Mountain Elementary",7,12,43.9669384348267,1
+"Grand Mountain Elementary",7,13,33.4655284308435,1
+"Grand Mountain Elementary",7,14,62.9697884657113,1
+"Grand Mountain Elementary",7,15,47.5547483851948,1
+"Grand Mountain Elementary",7,16,70.7785897199424,1
+"Grand Mountain Elementary",7,17,56.381074830087,1
+"Grand Mountain Elementary",7,18,NA,1
+"Grand Mountain Elementary",7,19,NA,1
+"Grand Mountain Elementary",8,12,48.5778171830262,1
+"Grand Mountain Elementary",8,13,48.7654110475584,1
+"Grand Mountain Elementary",8,14,40.9547955732482,1
+"Grand Mountain Elementary",8,15,43.2250621819492,1
+"Grand Mountain Elementary",8,16,21.0384486055124,1
+"Grand Mountain Elementary",8,17,NA,1
+"Grand Mountain Elementary",8,18,NA,1
+"Grand Mountain Elementary",8,19,NA,1
+"Long Beach School",1,12,30.0106470212216,0
+"Long Beach School",1,13,28.9839138689899,0
+"Long Beach School",1,14,25.1629496477376,0
+"Long Beach School",1,15,2.20860977426549,0
+"Long Beach School",1,16,18.6165756635467,0
+"Long Beach School",1,17,NA,0
+"Long Beach School",1,18,NA,0
+"Long Beach School",1,19,NA,0
+"Long Beach School",2,12,58.3971336546792,0
+"Long Beach School",2,13,58.752456653911,0
+"Long Beach School",2,14,22.0324108873904,0
+"Long Beach School",2,15,NA,0
+"Long Beach School",2,16,NA,0
+"Long Beach School",2,17,NA,0
+"Long Beach School",2,18,NA,0
+"Long Beach School",2,19,NA,0
+"Long Beach School",3,12,42.1997756973878,0
+"Long Beach School",3,13,35.0013602711645,0
+"Long Beach School",3,14,39.8389453632015,0
+"Long Beach School",3,15,53.4196528667143,0
+"Long Beach School",3,16,34.7335238529531,0
+"Long Beach School",3,17,NA,0
+"Long Beach School",3,18,NA,0
+"Long Beach School",3,19,NA,0
+"Long Beach School",4,12,38.006658396169,0
+"Long Beach School",4,13,57.1086032621421,0
+"Long Beach School",4,14,35.4031496546855,0
+"Long Beach School",4,15,50.8880352271036,0
+"Long Beach School",4,16,55.3304902360689,0
+"Long Beach School",4,17,NA,0
+"Long Beach School",4,18,NA,0
+"Long Beach School",4,19,NA,0
+"Long Beach School",5,12,41.8696147848221,0
+"Long Beach School",5,13,18.0268548561533,0
+"Long Beach School",5,14,21.1478925868617,0
+"Long Beach School",5,15,39.3780387356587,0
+"Long Beach School",5,16,19.256424171046,0
+"Long Beach School",5,17,NA,0
+"Long Beach School",5,18,NA,0
+"Long Beach School",5,19,NA,0
+"Long Beach School",6,12,59.7136352808465,0
+"Long Beach School",6,13,41.3354990692924,0
+"Long Beach School",6,14,37.8142760874542,0
+"Long Beach School",6,15,21.3332448142315,0
+"Long Beach School",6,16,29.409543153905,0
+"Long Beach School",6,17,32.0617249889911,0
+"Long Beach School",6,18,40.7210001234721,0
+"Long Beach School",6,19,NA,0
+"Long Beach School",7,12,52.3239940417016,0
+"Long Beach School",7,13,51.0868010165441,0
+"Long Beach School",7,14,60.9005478401818,0
+"Long Beach School",7,15,50.6247226673415,0
+"Long Beach School",7,16,59.5155726074582,0
+"Long Beach School",7,17,NA,0
+"Long Beach School",7,18,NA,0
+"Long Beach School",7,19,NA,0
+"Long Beach School",8,12,47.2738735555638,0
+"Long Beach School",8,13,49.2225581084025,0
+"Long Beach School",8,14,64.9675075318004,0
+"Long Beach School",8,15,56.2666455315538,0
+"Long Beach School",8,16,31.6467067905349,0
+"Long Beach School",8,17,NA,0
+"Long Beach School",8,18,NA,0
+"Long Beach School",8,19,NA,0
+"Long Beach School",9,12,47.6005819098637,0
+"Long Beach School",9,13,38.6049609728491,0
+"Long Beach School",9,14,36.9157206107596,0
+"Long Beach School",9,15,38.8778270582675,0
+"Long Beach School",9,16,42.4941161171984,0
+"Long Beach School",9,17,NA,0
+"Long Beach School",9,18,NA,0
+"Long Beach School",9,19,NA,0
+"Long Beach School",10,12,47.4898006513579,0
+"Long Beach School",10,13,38.5005807584559,0
+"Long Beach School",10,14,45.8777624587282,0
+"Long Beach School",10,15,48.6618224235771,0
+"Long Beach School",10,16,45.7146763738916,0
+"Long Beach School",10,17,NA,0
+"Long Beach School",10,18,NA,0
+"Long Beach School",10,19,NA,0
+"Long Beach School",11,12,51.420983668474,0
+"Long Beach School",11,13,48.5956581402169,0
+"Long Beach School",11,14,59.1018051956024,0
+"Long Beach School",11,15,41.4297747006421,0
+"Long Beach School",11,16,42.1070484994548,0
+"Long Beach School",11,17,59.7145746551471,0
+"Long Beach School",11,18,NA,0
+"Long Beach School",11,19,NA,0
+"Long Beach School",12,12,46.557872206007,0
+"Long Beach School",12,13,52.3078682424332,0
+"Long Beach School",12,14,40.7011445855251,0
+"Long Beach School",12,15,78.4526255536484,0
+"Long Beach School",12,16,60.9454214090544,0
+"Long Beach School",12,17,NA,0
+"Long Beach School",12,18,NA,0
+"Long Beach School",12,19,NA,0
+"Eagle Mountain Technical School",1,12,45.9172559889692,1
+"Eagle Mountain Technical School",1,13,59.2181644572791,1
+"Eagle Mountain Technical School",1,14,49.9386240661421,1
+"Eagle Mountain Technical School",1,15,47.2415398094809,1
+"Eagle Mountain Technical School",1,16,70.7012787094946,1
+"Eagle Mountain Technical School",1,17,66.6178382738393,1
+"Eagle Mountain Technical School",1,18,NA,1
+"Eagle Mountain Technical School",1,19,NA,1
+"Eagle Mountain Technical School",2,12,52.4555904450676,1
+"Eagle Mountain Technical School",2,13,44.586909257434,1
+"Eagle Mountain Technical School",2,14,56.2773938682477,1
+"Eagle Mountain Technical School",2,15,46.5524608858784,1
+"Eagle Mountain Technical School",2,16,44.9337797251616,1
+"Eagle Mountain Technical School",2,17,NA,1
+"Eagle Mountain Technical School",2,18,NA,1
+"Eagle Mountain Technical School",2,19,NA,1
+"Eagle Mountain Technical School",3,12,58.8234459912086,1
+"Eagle Mountain Technical School",3,13,62.1115972086853,1
+"Eagle Mountain Technical School",3,14,39.4904109314382,1
+"Eagle Mountain Technical School",3,15,47.3724095673686,1
+"Eagle Mountain Technical School",3,16,38.7506232549245,1
+"Eagle Mountain Technical School",3,17,47.5446639594123,1
+"Eagle Mountain Technical School",3,18,NA,1
+"Eagle Mountain Technical School",3,19,NA,1
+"Eagle Mountain Technical School",4,12,49.9092966422251,1
+"Eagle Mountain Technical School",4,13,39.8470593673302,1
+"Eagle Mountain Technical School",4,14,39.7995535279279,1
+"Eagle Mountain Technical School",4,15,42.725482406305,1
+"Eagle Mountain Technical School",4,16,33.1042292343542,1
+"Eagle Mountain Technical School",4,17,NA,1
+"Eagle Mountain Technical School",4,18,NA,1
+"Eagle Mountain Technical School",4,19,NA,1
+"Eagle Mountain Technical School",5,12,58.6917047237473,1
+"Eagle Mountain Technical School",5,13,79.1419360779114,1
+"Eagle Mountain Technical School",5,14,71.445119853221,1
+"Eagle Mountain Technical School",5,15,52.846581672944,1
+"Eagle Mountain Technical School",5,16,55.0379171264759,1
+"Eagle Mountain Technical School",5,17,NA,1
+"Eagle Mountain Technical School",5,18,NA,1
+"Eagle Mountain Technical School",5,19,NA,1
+"Eagle Mountain Technical School",6,12,61.0959744626662,1
+"Eagle Mountain Technical School",6,13,61.1704997657716,1
+"Eagle Mountain Technical School",6,14,54.867267957693,1
+"Eagle Mountain Technical School",6,15,61.6054633059379,1
+"Eagle Mountain Technical School",6,16,82.1940587191399,1
+"Eagle Mountain Technical School",6,17,NA,1
+"Eagle Mountain Technical School",6,18,NA,1
+"Eagle Mountain Technical School",6,19,NA,1
+"Eagle Mountain Technical School",7,12,50.8401195504798,1
+"Eagle Mountain Technical School",7,13,43.9139232448265,1
+"Eagle Mountain Technical School",7,14,57.2751553306738,1
+"Eagle Mountain Technical School",7,15,68.260992290777,1
+"Eagle Mountain Technical School",7,16,44.7202945906854,1
+"Eagle Mountain Technical School",7,17,61.7075571352266,1
+"Eagle Mountain Technical School",7,18,NA,1
+"Eagle Mountain Technical School",7,19,NA,1
+"Eagle Mountain Technical School",8,12,66.295115228335,1
+"Eagle Mountain Technical School",8,13,62.9639572093002,1
+"Eagle Mountain Technical School",8,14,51.6208077003036,1
+"Eagle Mountain Technical School",8,15,53.4700120665714,1
+"Eagle Mountain Technical School",8,16,66.1061131388149,1
+"Eagle Mountain Technical School",8,17,NA,1
+"Eagle Mountain Technical School",8,18,NA,1
+"Eagle Mountain Technical School",8,19,NA,1
+"Eagle Mountain Technical School",9,12,49.0616280745383,1
+"Eagle Mountain Technical School",9,13,43.0905034337568,1
+"Eagle Mountain Technical School",9,14,57.00607746236,1
+"Eagle Mountain Technical School",9,15,46.5129146561002,1
+"Eagle Mountain Technical School",9,16,NA,1
+"Eagle Mountain Technical School",9,17,NA,1
+"Eagle Mountain Technical School",9,18,NA,1
+"Eagle Mountain Technical School",9,19,NA,1
+"Tranquillity Middle School",1,12,32.194310254596,0
+"Tranquillity Middle School",1,13,48.2142368092764,0
+"Tranquillity Middle School",1,14,53.2709556714185,0
+"Tranquillity Middle School",1,15,77.613764698364,0
+"Tranquillity Middle School",1,16,67.1741981602252,0
+"Tranquillity Middle School",1,17,NA,0
+"Tranquillity Middle School",1,18,NA,0
+"Tranquillity Middle School",1,19,NA,0
+"Tranquillity Middle School",2,12,57.751028341032,0
+"Tranquillity Middle School",2,13,45.7308376167577,0
+"Tranquillity Middle School",2,14,68.8618607527404,0
+"Tranquillity Middle School",2,15,67.7536914717547,0
+"Tranquillity Middle School",2,16,80.9703627443809,0
+"Tranquillity Middle School",2,17,NA,0
+"Tranquillity Middle School",2,18,NA,0
+"Tranquillity Middle School",2,19,NA,0
+"Tranquillity Middle School",3,12,47.8922766822749,0
+"Tranquillity Middle School",3,13,29.192587469321,0
+"Tranquillity Middle School",3,14,32.2487677711933,0
+"Tranquillity Middle School",3,15,25.1703466532654,0
+"Tranquillity Middle School",3,16,30.3512620782382,0
+"Tranquillity Middle School",3,17,31.1712777919532,0
+"Tranquillity Middle School",3,18,26.2106372693469,0
+"Tranquillity Middle School",3,19,NA,0
+"Tranquillity Middle School",4,12,51.5027646370505,0
+"Tranquillity Middle School",4,13,52.6912099724931,0
+"Tranquillity Middle School",4,14,61.1152166673768,0
+"Tranquillity Middle School",4,15,42.3060339179575,0
+"Tranquillity Middle School",4,16,68.9495230441081,0
+"Tranquillity Middle School",4,17,NA,0
+"Tranquillity Middle School",4,18,NA,0
+"Tranquillity Middle School",4,19,NA,0
+"Tranquillity Middle School",5,12,56.6480343693481,0
+"Tranquillity Middle School",5,13,62.6947928982124,0
+"Tranquillity Middle School",5,14,71.7238703052733,0
+"Tranquillity Middle School",5,15,87.2648092647716,0
+"Tranquillity Middle School",5,16,85.5300914227037,0
+"Tranquillity Middle School",5,17,78.7727156093446,0
+"Tranquillity Middle School",5,18,100,0
+"Tranquillity Middle School",5,19,NA,0
+"Tranquillity Middle School",6,12,64.0159944843892,0
+"Tranquillity Middle School",6,13,66.9793667619034,0
+"Tranquillity Middle School",6,14,78.5110007229759,0
+"Tranquillity Middle School",6,15,93.0146536684993,0
+"Tranquillity Middle School",6,16,NA,0
+"Tranquillity Middle School",6,17,NA,0
+"Tranquillity Middle School",6,18,NA,0
+"Tranquillity Middle School",6,19,NA,0
+"Tranquillity Middle School",7,12,57.7080683982093,0
+"Tranquillity Middle School",7,13,59.5181737336075,0
+"Tranquillity Middle School",7,14,52.5387741516892,0
+"Tranquillity Middle School",7,15,50.5119975262005,0
+"Tranquillity Middle School",7,16,32.9465906625217,0
+"Tranquillity Middle School",7,17,41.4647105696534,0
+"Tranquillity Middle School",7,18,NA,0
+"Tranquillity Middle School",7,19,NA,0
+"Tranquillity Middle School",8,12,65.1587545236555,0
+"Tranquillity Middle School",8,13,60.5851569477199,0
+"Tranquillity Middle School",8,14,66.323216037529,0
+"Tranquillity Middle School",8,15,44.8642608953329,0
+"Tranquillity Middle School",8,16,63.8288513695142,0
+"Tranquillity Middle School",8,17,56.3376093207912,0
+"Tranquillity Middle School",8,18,NA,0
+"Tranquillity Middle School",8,19,NA,0
+"Seal Bay Middle School",1,12,34.3009436778632,1
+"Seal Bay Middle School",1,13,59.7189296061095,1
+"Seal Bay Middle School",1,14,38.9798930832018,1
+"Seal Bay Middle School",1,15,58.261287245671,1
+"Seal Bay Middle School",1,16,42.9300865494801,1
+"Seal Bay Middle School",1,17,39.3860621032854,1
+"Seal Bay Middle School",1,18,NA,1
+"Seal Bay Middle School",1,19,NA,1
+"Seal Bay Middle School",2,12,49.2534141677672,1
+"Seal Bay Middle School",2,13,58.0836022030833,1
+"Seal Bay Middle School",2,14,35.4809324316098,1
+"Seal Bay Middle School",2,15,35.1661146541086,1
+"Seal Bay Middle School",2,16,NA,1
+"Seal Bay Middle School",2,17,NA,1
+"Seal Bay Middle School",2,18,NA,1
+"Seal Bay Middle School",2,19,NA,1
+"Seal Bay Middle School",3,12,53.8796661126232,1
+"Seal Bay Middle School",3,13,46.787426242122,1
+"Seal Bay Middle School",3,14,60.2065987632788,1
+"Seal Bay Middle School",3,15,41.9536866867003,1
+"Seal Bay Middle School",3,16,47.1441072178575,1
+"Seal Bay Middle School",3,17,NA,1
+"Seal Bay Middle School",3,18,NA,1
+"Seal Bay Middle School",3,19,NA,1
+"Seal Bay Middle School",4,12,30.0936522917867,1
+"Seal Bay Middle School",4,13,42.1054391682095,1
+"Seal Bay Middle School",4,14,31.6403035898648,1
+"Seal Bay Middle School",4,15,14.7761316454243,1
+"Seal Bay Middle School",4,16,17.8672503395168,1
+"Seal Bay Middle School",4,17,5.59447514172835,1
+"Seal Bay Middle School",4,18,NA,1
+"Seal Bay Middle School",4,19,NA,1
+"Seal Bay Middle School",5,12,63.3644595904124,1
+"Seal Bay Middle School",5,13,40.3626421359671,1
+"Seal Bay Middle School",5,14,57.3978251247479,1
+"Seal Bay Middle School",5,15,NA,1
+"Seal Bay Middle School",5,16,NA,1
+"Seal Bay Middle School",5,17,NA,1
+"Seal Bay Middle School",5,18,NA,1
+"Seal Bay Middle School",5,19,NA,1
+"Seal Bay Middle School",6,12,49.1704883960307,1
+"Seal Bay Middle School",6,13,42.7792280249153,1
+"Seal Bay Middle School",6,14,34.5324351815956,1
+"Seal Bay Middle School",6,15,46.239380804223,1
+"Seal Bay Middle School",6,16,41.369488705953,1
+"Seal Bay Middle School",6,17,NA,1
+"Seal Bay Middle School",6,18,NA,1
+"Seal Bay Middle School",6,19,NA,1
+"Seal Bay Middle School",7,12,36.6417759366686,1
+"Seal Bay Middle School",7,13,58.3444230190279,1
+"Seal Bay Middle School",7,14,63.744598369008,1
+"Seal Bay Middle School",7,15,NA,1
+"Seal Bay Middle School",7,16,NA,1
+"Seal Bay Middle School",7,17,NA,1
+"Seal Bay Middle School",7,18,NA,1
+"Seal Bay Middle School",7,19,NA,1
+"Seal Bay Middle School",8,12,34.8920903639636,1
+"Seal Bay Middle School",8,13,33.0320213435172,1
+"Seal Bay Middle School",8,14,25.4936301770418,1
+"Seal Bay Middle School",8,15,29.6364977679165,1
+"Seal Bay Middle School",8,16,6.8713158114242,1
+"Seal Bay Middle School",8,17,NA,1
+"Seal Bay Middle School",8,18,NA,1
+"Seal Bay Middle School",8,19,NA,1
+"Seal Bay Middle School",9,12,44.8761293401085,1
+"Seal Bay Middle School",9,13,46.3577259778724,1
+"Seal Bay Middle School",9,14,42.4056365739044,1
+"Seal Bay Middle School",9,15,41.0872414355126,1
+"Seal Bay Middle School",9,16,36.1473657814638,1
+"Seal Bay Middle School",9,17,24.367545027378,1
+"Seal Bay Middle School",9,18,NA,1
+"Seal Bay Middle School",9,19,NA,1
+"Seal Bay Middle School",10,12,53.8676250999273,1
+"Seal Bay Middle School",10,13,40.8516193676333,1
+"Seal Bay Middle School",10,14,50.0146035613189,1
+"Seal Bay Middle School",10,15,40.0970197135588,1
+"Seal Bay Middle School",10,16,NA,1
+"Seal Bay Middle School",10,17,NA,1
+"Seal Bay Middle School",10,18,NA,1
+"Seal Bay Middle School",10,19,NA,1
+"Clearwater School of Fine Arts",1,12,78.8707612188012,0
+"Clearwater School of Fine Arts",1,13,63.886371263142,0
+"Clearwater School of Fine Arts",1,14,67.9208745159431,0
+"Clearwater School of Fine Arts",1,15,58.9377687534082,0
+"Clearwater School of Fine Arts",1,16,NA,0
+"Clearwater School of Fine Arts",1,17,NA,0
+"Clearwater School of Fine Arts",1,18,NA,0
+"Clearwater School of Fine Arts",1,19,NA,0
+"Clearwater School of Fine Arts",2,12,44.7432193841783,0
+"Clearwater School of Fine Arts",2,13,43.6235305160901,0
+"Clearwater School of Fine Arts",2,14,42.0805303809982,0
+"Clearwater School of Fine Arts",2,15,39.6363726198397,0
+"Clearwater School of Fine Arts",2,16,NA,0
+"Clearwater School of Fine Arts",2,17,NA,0
+"Clearwater School of Fine Arts",2,18,NA,0
+"Clearwater School of Fine Arts",2,19,NA,0
+"Clearwater School of Fine Arts",3,12,65.6751924211264,0
+"Clearwater School of Fine Arts",3,13,55.492264329639,0
+"Clearwater School of Fine Arts",3,14,56.2138040767016,0
+"Clearwater School of Fine Arts",3,15,61.7274681998167,0
+"Clearwater School of Fine Arts",3,16,82.9774897872819,0
+"Clearwater School of Fine Arts",3,17,NA,0
+"Clearwater School of Fine Arts",3,18,NA,0
+"Clearwater School of Fine Arts",3,19,NA,0
+"Clearwater School of Fine Arts",4,12,46.4292276047412,0
+"Clearwater School of Fine Arts",4,13,56.7094842798155,0
+"Clearwater School of Fine Arts",4,14,58.4393933658001,0
+"Clearwater School of Fine Arts",4,15,66.1607537586274,0
+"Clearwater School of Fine Arts",4,16,67.609077803088,0
+"Clearwater School of Fine Arts",4,17,NA,0
+"Clearwater School of Fine Arts",4,18,NA,0
+"Clearwater School of Fine Arts",4,19,NA,0
+"Clearwater School of Fine Arts",5,12,58.5081833814361,0
+"Clearwater School of Fine Arts",5,13,56.478759994292,0
+"Clearwater School of Fine Arts",5,14,51.5975924126369,0
+"Clearwater School of Fine Arts",5,15,45.9884573957497,0
+"Clearwater School of Fine Arts",5,16,49.2701085879738,0
+"Clearwater School of Fine Arts",5,17,41.2419518634409,0
+"Clearwater School of Fine Arts",5,18,NA,0
+"Clearwater School of Fine Arts",5,19,NA,0
+"Clearwater School of Fine Arts",6,12,54.3711464640128,0
+"Clearwater School of Fine Arts",6,13,65.3123923208878,0
+"Clearwater School of Fine Arts",6,14,61.6274593297151,0
+"Clearwater School of Fine Arts",6,15,62.0804090301989,0
+"Clearwater School of Fine Arts",6,16,29.5119561494846,0
+"Clearwater School of Fine Arts",6,17,57.8707808879351,0
+"Clearwater School of Fine Arts",6,18,NA,0
+"Clearwater School of Fine Arts",6,19,NA,0
+"Clearwater School of Fine Arts",7,12,60.0936134413854,0
+"Clearwater School of Fine Arts",7,13,75.7814108581955,0
+"Clearwater School of Fine Arts",7,14,64.6222280223205,0
+"Clearwater School of Fine Arts",7,15,85.2478361012273,0
+"Clearwater School of Fine Arts",7,16,83.3314946780737,0
+"Clearwater School of Fine Arts",7,17,NA,0
+"Clearwater School of Fine Arts",7,18,NA,0
+"Clearwater School of Fine Arts",7,19,NA,0
+"Clearwater School of Fine Arts",8,12,58.9340298991273,0
+"Clearwater School of Fine Arts",8,13,71.634075706354,0
+"Clearwater School of Fine Arts",8,14,73.999045167106,0
+"Clearwater School of Fine Arts",8,15,57.3744386853369,0
+"Clearwater School of Fine Arts",8,16,75.6853561934878,0
+"Clearwater School of Fine Arts",8,17,NA,0
+"Clearwater School of Fine Arts",8,18,NA,0
+"Clearwater School of Fine Arts",8,19,NA,0
+"Clearwater School of Fine Arts",9,12,47.7847758081035,0
+"Clearwater School of Fine Arts",9,13,56.7230585052928,0
+"Clearwater School of Fine Arts",9,14,61.1097986008959,0
+"Clearwater School of Fine Arts",9,15,50.2436157044224,0
+"Clearwater School of Fine Arts",9,16,67.1357454197939,0
+"Clearwater School of Fine Arts",9,17,77.8787106665311,0
+"Clearwater School of Fine Arts",9,18,NA,0
+"Clearwater School of Fine Arts",9,19,NA,0
+"Clearwater School of Fine Arts",10,12,60.3626545170372,0
+"Clearwater School of Fine Arts",10,13,54.5170450812706,0
+"Clearwater School of Fine Arts",10,14,54.8442191238325,0
+"Clearwater School of Fine Arts",10,15,67.7467672206594,0
+"Clearwater School of Fine Arts",10,16,61.0287843837965,0
+"Clearwater School of Fine Arts",10,17,82.7355321269876,0
+"Clearwater School of Fine Arts",10,18,68.9822093899427,0
+"Clearwater School of Fine Arts",10,19,NA,0
+"Clearwater School of Fine Arts",11,12,49.8370654314887,0
+"Clearwater School of Fine Arts",11,13,57.5302360414891,0
+"Clearwater School of Fine Arts",11,14,44.561938743284,0
+"Clearwater School of Fine Arts",11,15,30.0166727020333,0
+"Clearwater School of Fine Arts",11,16,38.786090177126,0
+"Clearwater School of Fine Arts",11,17,43.2700299731399,0
+"Clearwater School of Fine Arts",11,18,NA,0
+"Clearwater School of Fine Arts",11,19,NA,0
+"Clearwater School of Fine Arts",12,12,55.3697765689013,0
+"Clearwater School of Fine Arts",12,13,35.0234246159969,0
+"Clearwater School of Fine Arts",12,14,48.6674435498723,0
+"Clearwater School of Fine Arts",12,15,47.2736475034065,0
+"Clearwater School of Fine Arts",12,16,58.5185193473651,0
+"Clearwater School of Fine Arts",12,17,57.5574501953691,0
+"Clearwater School of Fine Arts",12,18,NA,0
+"Clearwater School of Fine Arts",12,19,NA,0
+"Clearwater School of Fine Arts",13,12,50.8810159903351,0
+"Clearwater School of Fine Arts",13,13,66.5096079574179,0
+"Clearwater School of Fine Arts",13,14,54.5143515970209,0
+"Clearwater School of Fine Arts",13,15,59.1444838362108,0
+"Clearwater School of Fine Arts",13,16,NA,0
+"Clearwater School of Fine Arts",13,17,NA,0
+"Clearwater School of Fine Arts",13,18,NA,0
+"Clearwater School of Fine Arts",13,19,NA,0
+"Clearwater School of Fine Arts",14,12,48.249256937008,0
+"Clearwater School of Fine Arts",14,13,37.6075106785065,0
+"Clearwater School of Fine Arts",14,14,36.018810275925,0
+"Clearwater School of Fine Arts",14,15,47.2386113036945,0
+"Clearwater School of Fine Arts",14,16,50.6089326582102,0
+"Clearwater School of Fine Arts",14,17,NA,0
+"Clearwater School of Fine Arts",14,18,NA,0
+"Clearwater School of Fine Arts",14,19,NA,0
+"Horizon Elementary",1,12,40.7817083830517,1
+"Horizon Elementary",1,13,46.1130410860512,1
+"Horizon Elementary",1,14,60.2824880641678,1
+"Horizon Elementary",1,15,49.9764755132101,1
+"Horizon Elementary",1,16,45.171130409662,1
+"Horizon Elementary",1,17,NA,1
+"Horizon Elementary",1,18,NA,1
+"Horizon Elementary",1,19,NA,1
+"Horizon Elementary",2,12,74.6131211891901,1
+"Horizon Elementary",2,13,53.9806654532811,1
+"Horizon Elementary",2,14,41.7461346561827,1
+"Horizon Elementary",2,15,44.9459023270692,1
+"Horizon Elementary",2,16,41.7759885175809,1
+"Horizon Elementary",2,17,NA,1
+"Horizon Elementary",2,18,NA,1
+"Horizon Elementary",2,19,NA,1
+"Horizon Elementary",3,12,52.6051269220174,1
+"Horizon Elementary",3,13,66.9262971605226,1
+"Horizon Elementary",3,14,62.3759607761012,1
+"Horizon Elementary",3,15,74.3987197203012,1
+"Horizon Elementary",3,16,74.2900047598417,1
+"Horizon Elementary",3,17,NA,1
+"Horizon Elementary",3,18,NA,1
+"Horizon Elementary",3,19,NA,1
+"Horizon Elementary",4,12,71.7793738016112,1
+"Horizon Elementary",4,13,63.9190141209751,1
+"Horizon Elementary",4,14,51.277379337177,1
+"Horizon Elementary",4,15,71.5997282555401,1
+"Horizon Elementary",4,16,NA,1
+"Horizon Elementary",4,17,NA,1
+"Horizon Elementary",4,18,NA,1
+"Horizon Elementary",4,19,NA,1
+"Horizon Elementary",5,12,38.483799216034,1
+"Horizon Elementary",5,13,25.7298414669492,1
+"Horizon Elementary",5,14,33.0970227279905,1
+"Horizon Elementary",5,15,33.7456073960317,1
+"Horizon Elementary",5,16,48.4453735868044,1
+"Horizon Elementary",5,17,5.566302667333,1
+"Horizon Elementary",5,18,16.9853286218647,1
+"Horizon Elementary",5,19,NA,1
+"Horizon Elementary",6,12,60.6038233711423,1
+"Horizon Elementary",6,13,51.7553415686889,1
+"Horizon Elementary",6,14,57.824999139004,1
+"Horizon Elementary",6,15,33.7449613927811,1
+"Horizon Elementary",6,16,59.4046480442403,1
+"Horizon Elementary",6,17,NA,1
+"Horizon Elementary",6,18,NA,1
+"Horizon Elementary",6,19,NA,1
+"Horizon Elementary",7,12,38.8505022982014,1
+"Horizon Elementary",7,13,46.7953068347256,1
+"Horizon Elementary",7,14,21.9007688601314,1
+"Horizon Elementary",7,15,28.8042064111965,1
+"Horizon Elementary",7,16,34.6292703326292,1
+"Horizon Elementary",7,17,NA,1
+"Horizon Elementary",7,18,NA,1
+"Horizon Elementary",7,19,NA,1
+"Horizon Elementary",8,12,56.0773177483687,1
+"Horizon Elementary",8,13,52.180835765957,1
+"Horizon Elementary",8,14,64.5369095714418,1
+"Horizon Elementary",8,15,77.3646738659773,1
+"Horizon Elementary",8,16,74.8565154178656,1
+"Horizon Elementary",8,17,NA,1
+"Horizon Elementary",8,18,NA,1
+"Horizon Elementary",8,19,NA,1
+"Horizon Elementary",9,12,56.8582187539665,1
+"Horizon Elementary",9,13,73.3776657079889,1
+"Horizon Elementary",9,14,92.4461936498764,1
+"Horizon Elementary",9,15,73.9926827796161,1
+"Horizon Elementary",9,16,NA,1
+"Horizon Elementary",9,17,NA,1
+"Horizon Elementary",9,18,NA,1
+"Horizon Elementary",9,19,NA,1
+"Tranquillity Elementary",1,12,40.9550844505399,0
+"Tranquillity Elementary",1,13,49.6777506187722,0
+"Tranquillity Elementary",1,14,57.4202865601847,0
+"Tranquillity Elementary",1,15,63.6338709941241,0
+"Tranquillity Elementary",1,16,50.2742181870099,0
+"Tranquillity Elementary",1,17,28.6217980029004,0
+"Tranquillity Elementary",1,18,NA,0
+"Tranquillity Elementary",1,19,NA,0
+"Tranquillity Elementary",2,12,47.1811008688934,0
+"Tranquillity Elementary",2,13,58.1558347703577,0
+"Tranquillity Elementary",2,14,72.3815859774601,0
+"Tranquillity Elementary",2,15,66.6492623215232,0
+"Tranquillity Elementary",2,16,81.1368934438458,0
+"Tranquillity Elementary",2,17,NA,0
+"Tranquillity Elementary",2,18,NA,0
+"Tranquillity Elementary",2,19,NA,0
+"Tranquillity Elementary",3,12,65.8303555327838,0
+"Tranquillity Elementary",3,13,72.4439242625932,0
+"Tranquillity Elementary",3,14,67.9453450364754,0
+"Tranquillity Elementary",3,15,NA,0
+"Tranquillity Elementary",3,16,NA,0
+"Tranquillity Elementary",3,17,NA,0
+"Tranquillity Elementary",3,18,NA,0
+"Tranquillity Elementary",3,19,NA,0
+"Tranquillity Elementary",4,12,53.5033309582933,0
+"Tranquillity Elementary",4,13,46.1107046474355,0
+"Tranquillity Elementary",4,14,30.7629867627529,0
+"Tranquillity Elementary",4,15,29.5865896329527,0
+"Tranquillity Elementary",4,16,NA,0
+"Tranquillity Elementary",4,17,NA,0
+"Tranquillity Elementary",4,18,NA,0
+"Tranquillity Elementary",4,19,NA,0
+"Tranquillity Elementary",5,12,48.0798102791674,0
+"Tranquillity Elementary",5,13,73.5179817405043,0
+"Tranquillity Elementary",5,14,58.4574039720818,0
+"Tranquillity Elementary",5,15,NA,0
+"Tranquillity Elementary",5,16,NA,0
+"Tranquillity Elementary",5,17,NA,0
+"Tranquillity Elementary",5,18,NA,0
+"Tranquillity Elementary",5,19,NA,0
+"Tranquillity Elementary",6,12,61.1309407493399,0
+"Tranquillity Elementary",6,13,63.4014815603486,0
+"Tranquillity Elementary",6,14,53.3114639818245,0
+"Tranquillity Elementary",6,15,75.7046781773008,0
+"Tranquillity Elementary",6,16,85.9321441600722,0
+"Tranquillity Elementary",6,17,61.111943143138,0
+"Tranquillity Elementary",6,18,NA,0
+"Tranquillity Elementary",6,19,NA,0
+"Tranquillity Elementary",7,12,50.0760107891215,0
+"Tranquillity Elementary",7,13,65.0592957722426,0
+"Tranquillity Elementary",7,14,61.062982286554,0
+"Tranquillity Elementary",7,15,82.1046475246251,0
+"Tranquillity Elementary",7,16,NA,0
+"Tranquillity Elementary",7,17,NA,0
+"Tranquillity Elementary",7,18,NA,0
+"Tranquillity Elementary",7,19,NA,0
