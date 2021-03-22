@@ -9,7 +9,7 @@ tryCatch(params$examnumber,
          finally = "")
 
 if( !is.numeric(params$examnumber) ) {
-    stop("examnumber should only have numbers, no spaces, no letters. Remove any trailing B.")
+    stop("Did you write your examnumber where you are asked to? examnumber should only have numbers, no spaces, no letters. Remove any trailing B.")
 }
 
 #######
