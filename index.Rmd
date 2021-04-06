@@ -1,0 +1,34 @@
+---
+title: "DATASETS"
+author: "[uoepsy.github.io](https://uoepsy.github.io)"
+date: "06/04/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(pander)
+knitr::opts_chunk$set(echo = TRUE)
+panderOptions('knitr.auto.asis', FALSE)
+files  = list.files(".")
+files = files[!substring(files, nchar(files)-1,nchar(files)) %in% c(".R",".r",".Rmd",".rmd",".md",".html")]
+
+printdatasummary = function(f){
+  cat(paste0("# [",f,"](",f,")  \n"))
+  if(str_detect(tolower(f), ".csv")){
+    readr::read_csv(f) %>% head %>% pander()
+  } else if(str_detect(tolower(f), ".xls")){
+    readxl::read_excel(f) %>% head %>% pander()
+  }
+  cat("  \n")
+}
+  
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results="asis"}
+for(i in files){
+  printdatasummary(i)
+}
+```
+
