@@ -22,9 +22,10 @@ y_bin = rbinom(N, size = 1, prob = plogis(lp))    #- create a binary target vari
 
 hrvdat = tibble(stakes=21-as.numeric(cut(x,20)), condition = as.character(factor(b, labels=c("money","kudos"))), hrv = y, hr_abv = y_bin, sub = factor(g), throw = jx) %>%
     group_by(sub) %>%
-    mutate(trial_no = sample(1:20), 
-           success_rate = cumsum(throw)/trial_no) %>% ungroup %>% 
-    arrange(sub,trial_no)
+    mutate(trial_no = sample(1:20)) %>% ungroup %>% 
+    arrange(sub,trial_no) %>%
+    group_by(sub) %>%
+    mutate(success_rate = cumsum(throw)/trial_no) %>% ungroup
 
 ggplot(hrvdat, aes(x=stakes,y=hrv,group=sub,col=factor(condition)))+geom_smooth(method="lm",se=F, alpha=.2)+
   geom_point()+NULL
