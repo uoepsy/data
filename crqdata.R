@@ -7,7 +7,7 @@ b = rbinom(n_groups, size = 1, prob=.5)  # a cluster level categorical variable
 b = b[g]
 jx = rbinom(N, 1, .8)
 
-sd_g = .4     # standard deviation for the random effect
+sd_g = 1.5     # standard deviation for the random effect
 sigma = .8     # standard deviation for the observation
 sd_x = .4
 
@@ -46,11 +46,8 @@ crq <- na.omit(crq)
 #lmer(emot_dysreg ~ crq*int+ (1 + crq | schoolid), data = crq) %>% summary
 
 
-ggplot(crq,aes(x=crq,y=emot_dysreg,col=int))+
-  geom_point()+
-  geom_smooth(method="lm",se=F)+
-  guides(col=FALSE)+
-  facet_wrap(~schoolid)
-
-
-#write.csv(crq, "../../../data/crqdata.csv", row.names=F)
+crq$age<-rdunif(174, 11, 16)
+crq$y <- crq$emot_dysreg + (crq$age)*1.4 + rnorm(174, 0,.3)
+crq$emot_dysreg<-round(crq$y/5,2)
+crq <- crq %>% select(-y)
+write.csv(crq, "../../../data/crqdata.csv", row.names=F)
