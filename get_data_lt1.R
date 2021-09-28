@@ -4,7 +4,7 @@ get_labtest_data = function(examNumber) {
     
     set.seed(examNumber)
     
-    df = Lock5Data::WaterTaste
+    df = read_csv("https://uoepsy.github.io/data/lock5watertaste.csv")
     df$AgeGroup = cut(df$Age, breaks = c(0, 18, 50), labels = c("Non-adult", "Adult"))
     df = df %>% select(AgeGroup, UsuallyDrink)
     
