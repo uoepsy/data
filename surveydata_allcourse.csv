@@ -1,373 +1,394 @@
-"birthmonth","height","eyecolour","catdog","course","year"
-"jan",171,"blue","dog","dapr1",2020
-"apr",149,"brown","dog","dapr1",2020
-"aug",173,"brown","cat","dapr1",2020
-"dec",159,"brown","dog","dapr1",2020
-"jul",157,"hazel","dog","dapr1",2020
-"dec",177,"blue","dog","dapr1",2020
-"mar",172,"hazel","cat","dapr1",2020
-"apr",170,"brown","dog","dapr1",2020
-"apr",170,"brown","dog","dapr1",2020
-"mar",160,"brown","cat","dapr1",2020
-"dec",180,"blue","dog","dapr1",2020
-"feb",165,"blue","cat","dapr1",2020
-"jan",167,"blue","dog","dapr1",2020
-"jan",161,"other","cat","dapr1",2020
-"jul",188,"hazel","dog","dapr1",2020
-"may",183,"blue","cat","dapr1",2020
-"oct",163,"brown","cat","dapr1",2020
-"nov",170,"blue","cat","dapr1",2020
-"nov",156,"grey","cat","dapr1",2020
-"may",166,"hazel","dog","dapr1",2020
-"mar",173.5,"green","dog","dapr1",2020
-"jul",174,"brown","dog","dapr1",2020
-"aug",178,"green","cat","dapr1",2020
-"may",180,"brown","dog","dapr1",2020
-"feb",150,"brown","cat","dapr1",2020
-"aug",158.75,"brown","cat","dapr1",2020
-"sep",170,"green","dog","dapr1",2020
-"aug",162,"brown","dog","dapr1",2020
-"may",171,"blue","dog","dapr1",2020
-"jan",174,"brown","dog","dapr1",2020
-"aug",158.5,"brown","dog","dapr1",2020
-"jan",167,"brown","cat","dapr1",2020
-"sep",165,"blue","dog","dapr1",2020
-"jul",170,"blue","cat","dapr1",2020
-"feb",176,"green","dog","dapr1",2020
-"jun",172,"brown","dog","dapr1",2020
-"nov",164,"brown","dog","dapr1",2020
-"jul",175,"blue","dog","dapr1",2020
-"jan",167,"blue","dog","dapr1",2020
-"jun",157,"brown","cat","dapr1",2020
-"feb",168,"brown","dog","dapr1",2020
-"jan",172,"brown","cat","dapr1",2020
-"jul",175,"blue","cat","dapr1",2020
-"aug",170,"brown","dog","dapr1",2020
-"may",179,"hazel","dog","dapr1",2020
-"apr",162,"brown","dog","dapr1",2020
-"jul",157.1,"brown","cat","dapr1",2020
-"mar",172.72,"hazel","dog","dapr1",2020
-"apr",170,"blue","dog","dapr1",2020
-"jan",174,"blue","dog","dapr1",2020
-"dec",167,"brown","cat","dapr1",2020
-"mar",172.72,"hazel","dog","dapr1",2020
-"may",160,"blue","dog","dapr1",2020
-"mar",163,"green","dog","dapr1",2020
-"dec",176.8,"brown","dog","dapr1",2020
-"jul",168,"brown","dog","dapr1",2020
-"jan",176,"brown","cat","dapr1",2020
-"mar",NA,"brown","dog","dapr1",2020
-"nov",163,"green","cat","dapr1",2020
-"jun",155,"blue","dog","dapr1",2020
-"feb",166,"green","dog","dapr1",2020
-"dec",166,"hazel","cat","dapr1",2020
-"dec",166,"hazel","cat","dapr1",2020
-"oct",180,"green","dog","dapr1",2020
-"sep",161,"blue","dog","dapr1",2020
-"sep",163,"green","dog","dapr1",2020
-"aug",162,"hazel","cat","dapr1",2020
-"oct",163,"brown","dog","dapr1",2020
-"jul",162,"brown","dog","dapr1",2020
-"jul",171,"green","dog","dapr1",2020
-"may",180,"brown","dog","dapr1",2020
-"aug",164,"brown","cat","dapr1",2020
-"oct",172,"blue","dog","dapr1",2020
-"may",175,"brown","dog","dapr1",2020
-"dec",164,"blue","cat","dapr1",2020
-"sep",171,"grey","dog","dapr1",2020
-"jul",174,"brown","cat","dapr1",2020
-"sep",NA,"blue","cat","dapr1",2020
-"aug",160,"green","cat","dapr1",2020
-"may",171,"other","cat","dapr1",2020
-"sep",178,"blue","cat","dapr1",2020
-"dec",170.18,"blue","cat","dapr1",2020
-"may",165,"green","dog","dapr1",2020
-"jan",158,"brown","cat","dapr1",2020
-"aug",163,"blue","cat","dapr1",2020
-"jun",178,"brown","dog","dapr1",2020
-"jul",158,"brown","cat","dapr1",2020
-"nov",165,"blue","dog","dapr1",2020
-"oct",158,"green","cat","dapr1",2020
-"jul",165,"brown","dog","dapr1",2020
-"sep",181,"blue","dog","dapr1",2020
-"jun",156,"brown","dog","dapr1",2020
-"feb",168,"other","dog","dapr1",2020
-"feb",168,"other","dog","dapr1",2020
-"feb",168,"brown","dog","dapr1",2020
-"apr",168,"other","dog","dapr1",2020
-"dec",180,"blue","dog","dapr1",2020
-"dec",170,"brown","dog","dapr1",2020
-"nov",160,"blue","dog","dapr1",2020
-"aug",165,"amber","dog","dapr1",2020
-"sep",167,"other","cat","dapr1",2020
-"jun",170,"hazel","cat","dapr1",2020
-"jun",170,"hazel","cat","dapr1",2020
-"oct",165,"brown","dog","dapr1",2020
-"sep",168,"blue","dog","dapr1",2020
-"oct",177.8,"green","dog","dapr1",2020
-"mar",173,"blue","cat","dapr1",2020
-"feb",150,"brown","dog","dapr1",2020
-"nov",168,"green","dog","dapr1",2020
-"jul",158,"brown","cat","dapr1",2020
-"dec",172,"other","dog","dapr1",2020
-"feb",167,"brown","dog","dapr2",2020
-"aug",162.5,"brown","cat","dapr2",2020
-"oct",163,"brown","cat","dapr2",2020
-"oct",161.544,"green","dog","dapr2",2020
-"jun",NA,"blue",NA,"dapr2",2020
-"jan",160.4,"brown","cat","dapr2",2020
-"jul",173,"blue","dog","dapr2",2020
-"jul",169,"green","cat","dapr2",2020
-"sep",161,"blue","cat","dapr2",2020
-"oct",165,"brown","dog","dapr2",2020
-"oct",167,"hazel","dog","dapr2",2020
-"jul",159,"brown","dog","dapr2",2020
-"mar",162,"brown","cat","dapr2",2020
-"oct",180,"blue","dog","dapr2",2020
-"feb",175,"blue","cat","dapr2",2020
-"feb",171,"brown","cat","dapr2",2020
-"feb",171,"brown","cat","dapr2",2020
-"jan",165,"blue","dog","dapr2",2020
-"jul",153,"brown","dog","dapr2",2020
-"jan",157,"brown","dog","dapr2",2020
-"mar",180,"brown","cat","dapr2",2020
-"jun",173,"brown","dog","dapr2",2020
-"nov",170,"brown","dog","dapr2",2020
-"aug",168,"blue","dog","dapr2",2020
-"nov",170,"blue","cat","dapr2",2020
-"sep",157,"green","cat","dapr2",2020
-"may",187,"blue","dog","dapr2",2020
-"mar",170,"blue","cat","dapr2",2020
-"jun",167,"brown","dog","dapr2",2020
-"nov",188,"green","dog","dapr2",2020
-"mar",162.56,"green","dog","dapr2",2020
-"jun",172,"amber","dog","dapr2",2020
-"dec",160,"blue","dog","dapr2",2020
-"nov",175,"blue","cat","dapr2",2020
-"oct",169,"brown","dog","dapr2",2020
-"jan",170,"brown","cat","dapr2",2020
-"jul",168,"brown","cat","dapr2",2020
-"may",170,"blue","dog","dapr2",2020
-"feb",NA,"hazel","dog","dapr2",2020
-"sep",173,"other","cat","dapr2",2020
-"apr",164,"grey","dog","dapr2",2020
-"aug",162,"brown","cat","dapr2",2020
-"jul",171,"green","dog","dapr2",2020
-"oct",167,"brown","dog","dapr2",2020
-"aug",145.5,"brown","cat","dapr2",2020
-"dec",NA,"brown","dog","dapr2",2020
-"nov",159,"blue","cat","dapr2",2020
-"sep",164.5,"brown","cat","dapr2",2020
-"aug",165,"brown","dog","dapr2",2020
-"jan",165,"amber","cat","dapr2",2020
-"feb",167.5,"brown","dog","rms2",2020
-"may",162,"brown","dog","rms2",2020
-"sep",172,"green","cat","rms2",2020
-"jul",160,"green","dog","rms2",2020
-"jan",158,"brown","cat","rms2",2020
-"jun",178,"grey","dog","rms2",2020
-"oct",169,"brown","dog","rms2",2020
-"nov",173,"green","cat","rms2",2020
-"sep",173,"blue","cat","rms2",2020
-"mar",164.7,"blue","dog","rms2",2020
-"oct",170,"brown","dog","rms2",2020
-"sep",178,"brown","dog","rms2",2020
-"sep",160,"hazel","dog","rms2",2020
-"apr",168,"hazel","cat","rms2",2020
-"dec",180.34,"brown","dog","rms2",2020
-"may",170,"hazel","dog","rms2",2020
-"aug",148,"brown","dog","rms2",2020
-"jan",160,"blue","cat","rms2",2020
-"feb",155,"hazel","dog","rms2",2020
-"mar",157,"hazel","dog","rms2",2020
-"sep",163,"brown","cat","rms2",2020
-"oct",180,"green","cat","rms2",2020
-"may",158,"brown","dog","rms2",2020
-"aug",163,"brown","dog","rms2",2020
-"jan",161,"blue","dog","rms2",2020
-"mar",165,"blue","cat","rms2",2020
-"jan",160,"green","cat","rms2",2020
-"apr",166,"brown","cat","rms2",2020
-"may",159,"blue","dog","rms2",2020
-"nov",161,"blue","cat","rms2",2020
-"jan",182,"green","dog","rms2",2020
-"oct",165,"brown","dog","rms2",2020
-"nov",174,"blue","dog","rms2",2020
-"jan",163,"blue","cat","rms2",2020
-"jan",173,"brown","dog","rms2",2020
-"jun",176,"green","dog","rms2",2020
-"sep",185,"brown","dog","rms2",2020
-"dec",160,"brown","cat","rms2",2020
-"may",155,"brown","dog","rms2",2020
-"jan",180,"blue","dog","rms2",2020
-"dec",172,"hazel","cat","rms2",2020
-"jun",162,"hazel","dog","rms2",2020
-"jan",160,"brown","dog","rms2",2020
-"mar",170,"brown","dog","rms2",2020
-"mar",165,"blue","cat","rms2",2020
-"aug",174,"blue","dog","rms2",2020
-"aug",169,"hazel","dog","rms2",2020
-"oct",172,"blue",NA,"rms2",2020
-"may",163,"brown","dog","rms2",2020
-"apr",182,"brown","cat","rms2",2020
-"jul",181,"blue","dog","rms2",2020
-"nov",160,"hazel","cat","rms2",2020
-"aug",167,"brown","dog","rms2",2020
-"jul",165,"green","cat","rms2",2020
-"nov",177,"green",NA,"rms2",2020
-"jan",174,"hazel","cat","rms2",2020
-"apr",160,"green","dog","rms2",2020
-"aug",165,"hazel","dog","rms2",2020
-"dec",162,"brown","dog","rms2",2020
-"mar",176,"blue","dog","rms2",2020
-"oct",167,"blue","dog","rms2",2020
-"oct",160,"blue","dog","rms2",2020
-"dec",175,"hazel","cat","rms2",2020
-"jan",169,"hazel","dog","rms2",2020
-"jul",173,"green","cat","rms2",2020
-"sep",157,"blue","dog","rms2",2020
-"may",166,"hazel","cat","rms2",2020
-"nov",163,"brown","dog","usmr",2020
-"sep",163,"other","dog","usmr",2020
-"apr",162,"brown","cat","usmr",2020
-"jan",160,"brown","cat","usmr",2020
-"aug",157,"blue","dog","usmr",2020
-"feb",179,"green","dog","usmr",2020
-"sep",158,"brown","cat","usmr",2020
-"may",166,"brown","dog","usmr",2020
-"oct",172,"green","cat","usmr",2020
-"nov",178,"blue","cat","usmr",2020
-"mar",172,"blue","dog","usmr",2020
-"jun",193,"green","dog","usmr",2020
-"jul",164,"brown","dog","usmr",2020
-"jun",167,"hazel","cat","usmr",2020
-"apr",160,"brown","dog","usmr",2020
-"jun",175,"blue","dog","usmr",2020
-"sep",177,"green","dog","usmr",2020
-"nov",157,"green","dog","usmr",2020
-"may",166,"blue","dog","usmr",2020
-"jun",158,"brown","cat","usmr",2020
-"aug",149,"blue","dog","usmr",2020
-"aug",168,"brown","dog","usmr",2020
-"jan",163,"brown","cat","usmr",2020
-"feb",185,"brown","dog","usmr",2020
-"jul",165,"brown","dog","usmr",2020
-"feb",170,"brown","dog","usmr",2020
-"may",154,"brown","cat","usmr",2020
-"mar",163,"blue","cat","usmr",2020
-"jul",169,"hazel","dog","usmr",2020
-"jul",167.64,"brown","dog","usmr",2020
-"feb",188,"blue","cat","usmr",2020
-"apr",170,"blue","dog","usmr",2020
-"mar",177,"blue","dog","usmr",2020
-"sep",171,"brown","dog","usmr",2020
-"oct",177,"blue","cat","usmr",2020
-"apr",162,"brown","dog","usmr",2020
-"jul",177,"green","cat","usmr",2020
-"aug",164,"brown","dog","usmr",2020
-"feb",165,"brown","dog","usmr",2020
-"mar",159,"brown","cat","usmr",2020
-"aug",174,"brown","cat","usmr",2020
-"jun",165,"green","dog","usmr",2020
-"feb",170,"hazel","dog","usmr",2020
-"oct",165,"blue","dog","usmr",2020
-"oct",165,"blue","dog","usmr",2020
-"apr",160,"hazel","dog","usmr",2020
-"feb",166,"blue","dog","usmr",2020
-"nov",193,"green","dog","usmr",2020
-"may",176,"brown","dog","usmr",2020
-"dec",176,"blue","dog","usmr",2020
-"dec",163,"brown","cat","usmr",2020
-"jul",154,"brown","dog","usmr",2020
-"nov",180,"blue","dog","usmr",2020
-"sep",185,"blue","dog","usmr",2020
-"oct",187,"brown","dog","usmr",2020
-"jan",165,"hazel","cat","usmr",2020
-"sep",168,"brown","cat","usmr",2020
-"jun",157,"brown","dog","usmr",2020
-"nov",167,"brown","cat","usmr",2020
-"jul",170,"blue","dog","usmr",2020
-"mar",177,"blue","dog","usmr",2020
-"nov",160,"brown","dog","usmr",2020
-"dec",169,"brown","dog","usmr",2020
-"nov",187,"hazel","dog","usmr",2020
-"dec",174,"brown","cat","usmr",2020
-"aug",180,"other","dog","usmr",2020
-"oct",161,"brown","dog","usmr",2020
-"apr",168,"brown","cat","usmr",2020
-"aug",185.5,"brown","cat","usmr",2020
-"apr",166,"blue","cat","usmr",2020
-"oct",NA,"green","dog","usmr",2021
-"may",NA,"grey","dog","usmr",2021
-"mar",NA,"blue","dog","usmr",2021
-"may",NA,"blue","dog","usmr",2021
-"may",NA,"green","cat","usmr",2021
-"mar",NA,"blue","dog","usmr",2021
-"mar",NA,"brown","cat","usmr",2021
-"oct",NA,"brown","dog","usmr",2021
-"dec",NA,"hazel","cat","usmr",2021
-"oct",NA,"green","cat","usmr",2021
-"jun",NA,"brown","cat","usmr",2021
-"nov",NA,"hazel","cat","usmr",2021
-"apr",NA,"hazel","dog","usmr",2021
-"mar",NA,"blue","cat","usmr",2021
-"jun",NA,"blue","dog","usmr",2021
-"nov",NA,"brown","cat","usmr",2021
-"apr",NA,"brown","dog","usmr",2021
-"nov",NA,"brown","cat","usmr",2021
-"jan",NA,"brown","dog","usmr",2021
-"may",NA,"blue","dog","usmr",2021
-"nov",NA,"blue","dog","usmr",2021
-"sept",NA,"brown","dog","usmr",2021
-"jan",NA,"brown","dog","usmr",2021
-"mar",NA,"brown","cat","usmr",2021
-"nov",NA,"green","cat","usmr",2021
-"oct",NA,"brown","cat","usmr",2021
-"feb",NA,"hazel","cat","usmr",2021
-"feb",NA,"brown","dog","usmr",2021
-"jun",NA,"brown","cat","usmr",2021
-"may",NA,"brown","dog","usmr",2021
-"nov",NA,"brown","cat","usmr",2021
-"oct",NA,"hazel","cat","usmr",2021
-"may",NA,NA,"cat","usmr",2021
-"oct",NA,"brown","cat","usmr",2021
-"feb",NA,"blue","dog","usmr",2021
-"dec",NA,"green","cat","usmr",2021
-"dec",NA,"green","dog","usmr",2021
-"nov",NA,"hazel","dog","usmr",2021
-"sept",NA,"green","cat","usmr",2021
-"aug",NA,"green","cat","usmr",2021
-"nov",NA,"grey","dog","usmr",2021
-"jan",NA,"brown","dog","usmr",2021
-"may",NA,"grey","dog","usmr",2021
-"sept",NA,"brown","cat","usmr",2021
-"feb",NA,"brown","dog","usmr",2021
-"nov",NA,"hazel","cat","usmr",2021
-"dec",NA,"brown","dog","usmr",2021
-"jan",NA,"blue","cat","usmr",2021
-"sept",NA,"brown","dog","usmr",2021
-"sept",NA,"brown","dog","usmr",2021
-"apr",NA,"other","cat","usmr",2021
-"apr",NA,"brown","dog","usmr",2021
-"oct",NA,"brown","cat","usmr",2021
-"sept",NA,"hazel","cat","usmr",2021
-"jun",NA,"brown","dog","usmr",2021
-"sept",NA,"brown","cat","usmr",2021
-"feb",NA,"green","dog","usmr",2021
-"dec",NA,"green","dog","usmr",2021
-"apr",NA,"brown","dog","usmr",2021
-"jun",NA,"brown","cat","usmr",2021
-"jun",NA,"brown","cat","usmr",2021
-"jul",NA,"brown","dog","usmr",2021
-"oct",NA,"brown","dog","usmr",2021
-"sept",NA,"brown","dog","usmr",2021
-"nov",NA,"brown","cat","usmr",2021
-"may",NA,"hazel","dog","usmr",2021
-"jun",NA,"brown","dog","usmr",2021
-"nov",NA,"brown","dog","usmr",2021
-"aug",NA,"other","dog","usmr",2021
-"oct",NA,"brown","dog","usmr",2021
-"jun",NA,"brown","cat","usmr",2021
-"feb",NA,"other","dog","usmr",2021
-"jan",NA,"brown","cat","usmr",2021
-"aug",NA,"brown","dog","usmr",2021
+"birthmonth","height","eyecolour","catdog","threewords","year","course"
+"jan",171,"blue","dog",NA,2020,"dapr1"
+"apr",149,"brown","dog","Quirky, sociable, resilient",2020,"dapr1"
+"aug",173,"brown","cat","Energetic, Independent, Leader",2020,"dapr1"
+"dec",159,"brown","dog","Friendly Adventurous kind",2020,"dapr1"
+"jul",157,"hazel","dog",NA,2020,"dapr1"
+"dec",177,"blue","dog","Geeky, sporty, empathetic",2020,"dapr1"
+"mar",172,"hazel","cat","peaceful, ambitious, empathetic",2020,"dapr1"
+"apr",170,"brown","dog","Sporty , outgoing , fun",2020,"dapr1"
+"apr",170,"brown","dog","hilarious, unstable, alcoholic",2020,"dapr1"
+"mar",160,"brown","cat",NA,2020,"dapr1"
+"dec",180,"blue","dog","An Introverted Extrovert",2020,"dapr1"
+"feb",165,"blue","cat","Curious, Passionate, Ambitious",2020,"dapr1"
+"jan",167,"blue","dog","Blunt, sarcastic, caring",2020,"dapr1"
+"jan",161,"other","cat","persevering, easygoing, passionate (if good words are needed)",2020,"dapr1"
+"jul",188,"hazel","dog","sociable, confident, hard-working",2020,"dapr1"
+"may",183,"blue","cat","Tall, hard-working, kind",2020,"dapr1"
+"oct",163,"brown","cat","weird independent outgoing",2020,"dapr1"
+"nov",170,"blue","cat",NA,2020,"dapr1"
+"nov",156,"grey","cat",NA,2020,"dapr1"
+"may",166,"hazel","dog","strong-willed, approachable, emotional",2020,"dapr1"
+"mar",173.5,"green","dog","Friendly, patient, helpful",2020,"dapr1"
+"jul",174,"brown","dog","shy, dorky, affectionate",2020,"dapr1"
+"aug",178,"green","cat","introverted, intense, and intelligent,",2020,"dapr1"
+"may",180,"brown","dog","Determined, Ambitious, Out-going",2020,"dapr1"
+"feb",150,"brown","cat","small asian kid",2020,"dapr1"
+"aug",158.75,"brown","cat","Loud, intelligent, understanding",2020,"dapr1"
+"sept",170,"green","dog","sporty, outgoing, friendly",2020,"dapr1"
+"aug",162,"brown","dog",NA,2020,"dapr1"
+"may",171,"blue","dog","Dynamic, funny, understanding",2020,"dapr1"
+"jan",174,"brown","dog","Empathetic, perfectionistic, inquisitive",2020,"dapr1"
+"aug",158.5,"brown","dog","Empathy, Friendly, INFP:)",2020,"dapr1"
+"jan",167,"brown","cat","Calm, Analytical, and Adventurous",2020,"dapr1"
+"sept",165,"blue","dog","tired lonely confused",2020,"dapr1"
+"jul",170,"blue","cat",NA,2020,"dapr1"
+"feb",176,"green","dog",NA,2020,"dapr1"
+"jun",172,"brown","dog",NA,2020,"dapr1"
+"nov",164,"brown","dog","Cheerful, curious, persevering",2020,"dapr1"
+"jul",175,"blue","dog","Confident, funny, tall",2020,"dapr1"
+"jan",167,"blue","dog","Quiet, cute, quirky",2020,"dapr1"
+"jun",157,"brown","cat","Outgoing, fun and ambitious",2020,"dapr1"
+"feb",168,"brown","dog","Plant-mom, sound, happy",2020,"dapr1"
+"jan",172,"brown","cat","sporty quiet dedicated",2020,"dapr1"
+"jul",175,"blue","cat","friendly, bookworm, foodie",2020,"dapr1"
+"aug",170,"brown","dog","friendly, outgoing, ?",2020,"dapr1"
+"may",179,"hazel","dog",NA,2020,"dapr1"
+"apr",162,"brown","dog",NA,2020,"dapr1"
+"jul",157.1,"brown","cat","fabulous, careful, logical",2020,"dapr1"
+"mar",172.72,"hazel","dog",NA,2020,"dapr1"
+"apr",170,"blue","dog","Not very funny",2020,"dapr1"
+"jan",174,"blue","dog","ambitious, energetic, critical",2020,"dapr1"
+"dec",167,"brown","cat","weird, shy, awkward",2020,"dapr1"
+"mar",172.72,"hazel","dog","American, Cheerful, Energetic",2020,"dapr1"
+"may",160,"blue","dog",NA,2020,"dapr1"
+"mar",163,"green","dog",NA,2020,"dapr1"
+"dec",176.8,"brown","dog","Realist, Organised, Caring",2020,"dapr1"
+"jul",168,"brown","dog","empathetic, honest, friendly",2020,"dapr1"
+"jan",176,"brown","cat","Active Sporty Sociable",2020,"dapr1"
+"mar",NA,"brown","dog","Determined, kind, observant",2020,"dapr1"
+"nov",163,"green","cat","introverted night owl",2020,"dapr1"
+"jun",155,"blue","dog","Loud, Chatty and kind",2020,"dapr1"
+"feb",166,"green","dog","talkative, energetic, optimistic",2020,"dapr1"
+"dec",166,"hazel","cat","friendly",2020,"dapr1"
+"dec",166,"hazel","cat","friendly, kind and considerate",2020,"dapr1"
+"oct",180,"green","dog","Bubbly friendly adventurous",2020,"dapr1"
+"sept",161,"blue","dog","Caring, funny and social",2020,"dapr1"
+"sept",163,"green","dog","Chatty, positive and determined.",2020,"dapr1"
+"aug",162,"hazel","cat","Perfectionist who procrastinates",2020,"dapr1"
+"oct",163,"brown","dog",NA,2020,"dapr1"
+"jul",162,"brown","dog","confident, powerful, charismatic,",2020,"dapr1"
+"jul",171,"green","dog","Optimistic diligent outgoing",2020,"dapr1"
+"may",180,"brown","dog","calm, open, lazy",2020,"dapr1"
+"aug",164,"brown","cat","Honest, trustworthy, kind",2020,"dapr1"
+"oct",172,"blue","dog","fun, kind, resilient",2020,"dapr1"
+"may",175,"brown","dog",NA,2020,"dapr1"
+"dec",164,"blue","cat","hardworking, optimistic, creative",2020,"dapr1"
+"sept",171,"grey","dog","enthusiastic, polish, blond",2020,"dapr1"
+"jul",174,"brown","cat","Happy Go Lucky :)",2020,"dapr1"
+"sept",172.72,"blue","cat","outgoing, patient, chill",2020,"dapr1"
+"aug",160,"green","cat","creative, quiet, ginger",2020,"dapr1"
+"may",171,"other","cat","Sleepy Tired Confused",2020,"dapr1"
+"sept",178,"blue","cat","kind, motivated, creative",2020,"dapr1"
+"dec",170.18,"blue","cat",NA,2020,"dapr1"
+"may",165,"green","dog",NA,2020,"dapr1"
+"jan",158,"brown","cat","ALSO LOVE DOGS",2020,"dapr1"
+"aug",163,"blue","cat","kind, creative, thoughtful",2020,"dapr1"
+"jun",178,"brown","dog","curious, ambitious, organised",2020,"dapr1"
+"jul",158,"brown","cat","laziness and procrastination",2020,"dapr1"
+"nov",165,"blue","dog","Chaotic, empathetic, excited",2020,"dapr1"
+"oct",1.58,"green","cat","Confident, cheeky, candid",2020,"dapr1"
+"jul",165,"brown","dog","Whimsical, warmhearted, shy",2020,"dapr1"
+"sept",181,"blue","dog","American, unpredictable, dilligent",2020,"dapr1"
+"jun",156,"brown","dog","Confident, Passionate, Procrastinator",2020,"dapr1"
+"feb",168,"other","dog","Lay",2020,"dapr1"
+"feb",168,"other","dog","Easy-going, optimistic, shy",2020,"dapr1"
+"feb",168,"brown","dog","extrovert, determined, optimist",2020,"dapr1"
+"apr",168,"other","dog",NA,2020,"dapr1"
+"dec",180,"blue","dog",NA,2020,"dapr1"
+"dec",170,"brown","dog",NA,2020,"dapr1"
+"nov",160,"blue","dog",NA,2020,"dapr1"
+"aug",165,"amber","dog","funny, easy-going, driven",2020,"dapr1"
+"sept",167,"other","cat","Really don't know!",2020,"dapr1"
+"jun",170,"hazel","cat","Curious, caring,",2020,"dapr1"
+"jun",170,"hazel","cat","Caring, curious, organised",2020,"dapr1"
+"oct",165,"brown","dog","Enthusiastic, perfectionist multipotential",2020,"dapr1"
+"sept",168,"blue","dog","Indecisive, sympathetic and caring",2020,"dapr1"
+"oct",177.8,"green","dog","caring,ambitious,daydreamer",2020,"dapr1"
+"mar",173,"blue","cat","creative, outgoing, adventurous",2020,"dapr1"
+"feb",150,"brown","dog","small asian kid",2020,"dapr1"
+"nov",168,"green","dog","Friendly, Imaginative, Ambitious",2020,"dapr1"
+"jul",158,"brown","cat","Not Enough Words",2020,"dapr1"
+"dec",172,"other","dog","nothing, everything, ok",2020,"dapr1"
+"jul",170,"green","dog",NA,2020,"dapr1"
+"jan",167,"brown","cat","trying my best",2020,"dapr1"
+"dec",174,"brown","dog","Determined,respectful,sensitive",2020,"dapr1"
+"jul",175,"blue","cat","super duper dysfunctional",2020,"dapr1"
+"feb",162.6,"brown","dog","Friendly, introverted, motivated",2020,"dapr1"
+"dec",166,"brown","dog","""average human being""",2020,"dapr1"
+"may",173,"grey","dog","stubborn, open, talkative",2020,"dapr1"
+"mar",165,"other","cat","creative curious hyperactive rebel",2020,"dapr1"
+"feb",167,"brown","dog",NA,2020,"dapr2"
+"aug",162.5,"brown","cat","Empathetic, quirky, creative",2020,"dapr2"
+"oct",163,"brown","cat","Ambitious, shy, friendly",2020,"dapr2"
+"oct",161.544,"green","dog","happy, kind, energetic",2020,"dapr2"
+"jun",NA,"blue",NA,NA,2020,"dapr2"
+"jan",160.4,"brown","cat",NA,2020,"dapr2"
+"jul",173,"blue","dog",NA,2020,"dapr2"
+"jul",169,"green","cat","hard-working, friendly, curious",2020,"dapr2"
+"sept",161,"blue","cat","lazy, smart, short",2020,"dapr2"
+"oct",165,"brown","dog","passionate, sensitive, fair",2020,"dapr2"
+"oct",167,"hazel","dog","insecure, incompetent, honest",2020,"dapr2"
+"jul",159,"brown","dog","Good-looking, intelligent, shameless",2020,"dapr2"
+"mar",162,"brown","cat",NA,2020,"dapr2"
+"oct",180,"blue","dog","passionate, loose, weird",2020,"dapr2"
+"feb",175,"blue","cat","creative inquisitive friendly",2020,"dapr2"
+"feb",171,"brown","cat","happy with herself",2020,"dapr2"
+"feb",171,"brown","cat","happy with herself",2020,"dapr2"
+"jan",165,"blue","dog",NA,2020,"dapr2"
+"jul",153,"brown","dog","Emotionless, Hardworking and Cool",2020,"dapr2"
+"jan",157,"brown","dog",NA,2020,"dapr2"
+"mar",180,"brown","cat","Hungry Spacey Neat",2020,"dapr2"
+"jun",173,"brown","dog",NA,2020,"dapr2"
+"nov",170,"brown","dog","Ambitious, Witty, Caring",2020,"dapr2"
+"aug",168,"blue","dog",NA,2020,"dapr2"
+"nov",170,"blue","cat",NA,2020,"dapr2"
+"sept",157,"green","cat","Positive, funny, organised",2020,"dapr2"
+"may",187,"blue","dog","Charming Dexterous Curious",2020,"dapr2"
+"mar",170,"blue","cat","bookworm, open-minded, organized",2020,"dapr2"
+"jun",167,"brown","dog",NA,2020,"dapr2"
+"nov",188,"green","dog","Empathetic, Ambitious, Curious",2020,"dapr2"
+"mar",162.56,"green","dog","Helpful, enthusiastic, conscientious",2020,"dapr2"
+"jun",172,"amber","dog","smart, laidback, active",2020,"dapr2"
+"dec",160,"blue","dog","honest, driven, organised",2020,"dapr2"
+"nov",175,"blue","cat","Funny, Determined, Clever",2020,"dapr2"
+"oct",169,"brown","dog","ooft, angry, fluffy",2020,"dapr2"
+"jan",170,"brown","cat","passion",2020,"dapr2"
+"jul",168,"brown","cat","quiet, kind and introverted",2020,"dapr2"
+"may",170,"blue","dog","kind ginger clumsy",2020,"dapr2"
+"feb",NA,"hazel","dog",NA,2020,"dapr2"
+"sept",173,"other","cat","crunchy, sour, gelatinous",2020,"dapr2"
+"apr",164,"grey","dog","Polish, ambitious, hard-working",2020,"dapr2"
+"aug",162,"brown","cat","kind, cool, helpful",2020,"dapr2"
+"jul",171,"green","dog","Funny, Supportive, Honest",2020,"dapr2"
+"oct",167,"brown","dog","funny, chill, friendly",2020,"dapr2"
+"aug",145.5,"brown","cat","plant-obsessed non-binary person",2020,"dapr2"
+"dec",NA,"brown","dog","Responsible, independent and caring",2020,"dapr2"
+"nov",159,"blue","cat","chaotic, nerd, functional",2020,"dapr2"
+"sept",164.5,"brown","cat","Insane, Challenge, Bright",2020,"dapr2"
+"aug",165,"brown","dog","shy, loving, dependable",2020,"dapr2"
+"jan",165,"amber","cat","sensitive, ambitious, adaptable",2020,"dapr2"
+"jan",162,"brown","cat","moody, fun, determined",2020,"dapr2"
+"feb",167.5,"brown","dog",NA,2020,"rms2"
+"may",162,"brown","dog","Hard-working, creative and organized",2020,"rms2"
+"sept",172,"green","cat","A perfectionist procrastinator",2020,"rms2"
+"jul",160,"green","dog","Sarcastic fun easygoing",2020,"rms2"
+"jan",158,"brown","cat",NA,2020,"rms2"
+"jun",178,"grey","dog","Inquisitive, Eccentric, Humorous",2020,"rms2"
+"oct",169,"brown","dog",NA,2020,"rms2"
+"nov",173,"green","cat","sporty, friendly, bookworm",2020,"rms2"
+"sept",173,"blue","cat","Creative, Hardworking, Caring",2020,"rms2"
+"mar",164.7,"blue","dog","Neurotic, empathetic, anxious",2020,"rms2"
+"oct",170,"brown","dog",NA,2020,"rms2"
+"sept",178,"brown","dog",NA,2020,"rms2"
+"sept",160,"hazel","dog","Organised, Generous and Hard-working",2020,"rms2"
+"apr",168,"hazel","cat",NA,2020,"rms2"
+"dec",180.34,"brown","dog",NA,2020,"rms2"
+"may",170,"hazel","dog",NA,2020,"rms2"
+"aug",148,"brown","dog","outgoing, anxious, witty",2020,"rms2"
+"jan",160,"blue","cat","Organised, colourful, smart",2020,"rms2"
+"feb",155,"hazel","dog",NA,2020,"rms2"
+"mar",157,"hazel","dog","calm, open-minded, positive",2020,"rms2"
+"sept",163,"brown","cat","outgoing, kind, girl",2020,"rms2"
+NA,NA,NA,NA,NA,2020,"rms2"
+NA,NA,NA,NA,NA,2020,"rms2"
+NA,NA,NA,NA,NA,2020,"rms2"
+"oct",180,"green","cat","Creative, Teamplayer, Creative",2020,"rms2"
+"may",158,"brown","dog","Reserved, Friendly, Anxious",2020,"rms2"
+"aug",163,"brown","dog","Outgoing, meticulous, responsible",2020,"rms2"
+"jan",161,"blue","dog","Ambitious, caring, small",2020,"rms2"
+"mar",165,"blue","cat",NA,2020,"rms2"
+"jan",160,"green","cat",NA,2020,"rms2"
+"apr",166,"brown","cat",NA,2020,"rms2"
+"may",159,"blue","dog","Quiet, sarcastic, kind",2020,"rms2"
+"nov",161,"blue","cat","fun, adventurous, understanding",2020,"rms2"
+"jan",182,"green","dog",NA,2020,"rms2"
+"oct",165,"brown","dog","unorganised, optimistic and friendly",2020,"rms2"
+"nov",174,"blue","dog","outgoing, honest, athletic",2020,"rms2"
+"jan",163,"blue","cat","ambitious, calm, caring",2020,"rms2"
+"jan",173,"brown","dog","Smart Fun High",2020,"rms2"
+"jun",176,"green","dog","iced latte lover",2020,"rms2"
+"sept",185,"brown","dog","outgoing, polite, tall",2020,"rms2"
+"dec",160,"brown","cat","rational, procrastinating, compassionate",2020,"rms2"
+"may",155,"brown","dog","Lively, short and bubbly",2020,"rms2"
+"jan",180,"blue","dog","King, Giving, Reflective",2020,"rms2"
+"dec",172,"hazel","cat","tired, chatty, funny",2020,"rms2"
+"jun",162,"hazel","dog","friendly, fun, loving",2020,"rms2"
+"jan",160,"brown","dog","Determined, Warm, Enthusiastic",2020,"rms2"
+"mar",170,"brown","dog","bubbly, ambitious, energetic",2020,"rms2"
+"mar",165,"blue","cat","thoughtful, pragmatic, forgetful",2020,"rms2"
+"aug",174,"blue","dog","Caring, thoughtful, dedicated",2020,"rms2"
+"aug",169,"hazel","dog","empathetic, strong-willed, loyal",2020,"rms2"
+"oct",172,"blue",NA,NA,2020,"rms2"
+"may",163,"brown","dog","Kind, easygoing, organised",2020,"rms2"
+"apr",182,"brown","cat","Tall, Conscientious, liberal",2020,"rms2"
+"jul",181,"blue","dog","passionate, thoughtful, balanced",2020,"rms2"
+"nov",160,"hazel","cat","Sociable, ambitious, optimistic",2020,"rms2"
+"aug",167,"brown","dog",NA,2020,"rms2"
+"jul",165,"green","cat","Outgoing, funny, sassy",2020,"rms2"
+"nov",177,"green",NA,NA,2020,"rms2"
+"jan",174,"hazel","cat","curious, kind, introvert",2020,"rms2"
+"apr",160,"green","dog","funny, loyal, kind",2020,"rms2"
+"aug",165,"hazel","dog","Passionate, curious, positive",2020,"rms2"
+"dec",162,"brown","dog","Optimistic, restless, over thinker",2020,"rms2"
+"mar",176,"blue","dog","positive, considerate, friendly",2020,"rms2"
+"oct",167,"blue","dog","Energetic, Emotional, Adaptable",2020,"rms2"
+"oct",160,"blue","dog",NA,2020,"rms2"
+"dec",175,"hazel","cat","trying my best",2020,"rms2"
+"jan",169,"hazel","dog",NA,2020,"rms2"
+"jul",173,"green","cat","Kind, Generous, Quick-witted",2020,"rms2"
+"sept",157,"blue","dog","Chill, Curious, Sporty",2020,"rms2"
+"may",166,"hazel","cat","creative, anxious, introspective",2020,"rms2"
+"nov",163,"brown","dog",NA,2020,"usmr"
+"sept",163,"other","dog",NA,2020,"usmr"
+"apr",162,"brown","cat","Intense, eloquent, curious",2020,"usmr"
+"jan",160,"brown","cat","passionated, diligent, kind",2020,"usmr"
+"aug",157,"blue","dog","Conscientious, Enthusiastic, Patient",2020,"usmr"
+"feb",179,"green","dog","curious practical deliberate",2020,"usmr"
+"sept",158,"brown","cat","creative, curious, neat",2020,"usmr"
+"may",166,"brown","dog","dedicated, resourceful, friendly",2020,"usmr"
+"oct",172,"green","cat","Crazy but ambitious",2020,"usmr"
+"nov",178,"blue","cat","curious, distractible, funny",2020,"usmr"
+"mar",172,"blue","dog","Adventurous, musical and excitable",2020,"usmr"
+"jun",193,"green","dog",NA,2020,"usmr"
+"jul",164,"brown","dog","Curious, observant and nervous",2020,"usmr"
+"jun",167,"hazel","cat","optimistic, persistent, innovative",2020,"usmr"
+"apr",160,"brown","dog","quiet deep thinker",2020,"usmr"
+"jun",175,"blue","dog","active, sports-enthusiast, European",2020,"usmr"
+"sept",177,"green","dog","violence, speed, momentum",2020,"usmr"
+"nov",157,"green","dog","Short and sweet",2020,"usmr"
+"may",166,"blue","dog","language-nerd, plant-lover, dancer",2020,"usmr"
+"jun",158,"brown","cat","creative, reflexive, chill",2020,"usmr"
+"aug",149,"blue","dog","Awkward, smart, funny.",2020,"usmr"
+"aug",168,"brown","dog","always always sleepy",2020,"usmr"
+"jan",1.63,"brown","cat","Stubborn, ambitious and prudent",2020,"usmr"
+"feb",185,"brown","dog","effective, spontanious, resilient",2020,"usmr"
+"jul",165,"brown","dog","warm, reliable, open-minded",2020,"usmr"
+"feb",1.7,"brown","dog","Friendly, dedicated and curious",2020,"usmr"
+"may",154,"brown","cat","Short Passionate Compassionate",2020,"usmr"
+"mar",163,"blue","cat",NA,2020,"usmr"
+"jul",169,"hazel","dog",NA,2020,"usmr"
+"jul",167.64,"brown","dog","Quirky, Pensive, Argumentative",2020,"usmr"
+"feb",188,"blue","cat","fortunate, adventurous, thoughtful",2020,"usmr"
+"apr",170,"blue","dog","clumsy, ambitious, open-minded",2020,"usmr"
+"mar",177,"blue","dog","sporty, quiet, funny",2020,"usmr"
+"sept",171,"brown","dog","Active, sportive, organized",2020,"usmr"
+"oct",177,"blue","cat","friendly, observant, nerdy",2020,"usmr"
+"apr",162,"brown","dog","Optimistic, Emotional, Hardworking",2020,"usmr"
+"jul",177,"green","cat","Open, Sincere, Curious",2020,"usmr"
+"aug",164,"brown","dog","Curious, Creative, Carer",2020,"usmr"
+"feb",165,"brown","dog","confident, indepent, curious",2020,"usmr"
+"mar",159,"brown","cat","introvert, smart, honest",2020,"usmr"
+"aug",174,"brown","cat",NA,2020,"usmr"
+"jun",165,"green","dog","Bubbly, Charismatic, Fun",2020,"usmr"
+"feb",170,"hazel","dog","Enthusiastic, principled, individualist",2020,"usmr"
+"oct",165,"blue","dog","curious, passionate, collaborative",2020,"usmr"
+"oct",165,"blue","dog","curious, passionate, collaborative",2020,"usmr"
+"apr",160,"hazel","dog","Adventurous, Curious, Gregarious",2020,"usmr"
+"feb",166,"blue","dog",NA,2020,"usmr"
+"nov",193,"green","dog","funky, highly strung",2020,"usmr"
+"may",176,"brown","dog","Books, tired, interested",2020,"usmr"
+"dec",176,"blue","dog","Patient, hard-working, organised",2020,"usmr"
+"dec",163,"brown","cat","nerdy independent friendly",2020,"usmr"
+"jul",154,"brown","dog","Curious, Calm, Adventurous",2020,"usmr"
+"nov",180,"blue","dog","curious, dreamy, coffee",2020,"usmr"
+"sept",185,"blue","dog","Friendly Happy Driven",2020,"usmr"
+"oct",187,"brown","dog","Easy-going; Left-handed; Engineer",2020,"usmr"
+"jan",165,"hazel","cat","Strong, silly, open",2020,"usmr"
+"sept",168,"brown","cat","athletic, responsible, curious",2020,"usmr"
+"jun",157,"brown","dog","Motivated, lazy, hard-working",2020,"usmr"
+"nov",167,"brown","cat",NA,2020,"usmr"
+"jul",170,"blue","dog","Ready to study",2020,"usmr"
+"mar",177,"blue","dog","Adventurous, Inquisitive, Compassionate",2020,"usmr"
+"nov",160,"brown","dog","unrestrained diverisitied humurous",2020,"usmr"
+"dec",169,"brown","dog","rational, empathetic, competitive",2020,"usmr"
+"nov",187,"hazel","dog","no thank you",2020,"usmr"
+"dec",174,"brown","cat","nice, kind, listening",2020,"usmr"
+"aug",180,"other","dog","gourmet  sport  happy",2020,"usmr"
+"oct",161,"brown","dog","Caring, funny, thinker",2020,"usmr"
+"apr",168,"brown","cat","human optimism psychology",2020,"usmr"
+"aug",185.5,"brown","cat","aggressive, independent, amiable",2020,"usmr"
+"apr",166,"blue","cat","Kind, Open-minded, Curious",2020,"usmr"
+"jun",158,"other","cat","smart diligent lazy",2020,"usmr"
+"mar",170,"green","dog","Creative, Optimistic, Curious",2020,"usmr"
+"sept",167,"brown","cat","friendly, shy, gentle",2020,"usmr"
+"mar",158,"brown","dog",NA,2020,"usmr"
+"dec",166,"brown","cat","Curious, emotional, annoying",2020,"usmr"
+"oct",173,"brown","dog","curious caring fair",2020,"usmr"
+"jun",162.56,"brown","dog","Often googling stuff",2021,"usmr"
+"jun",191,"brown","cat",NA,2021,"usmr"
+"oct",1.68,"brown","cat","lazy",2021,"usmr"
+"oct",154.94,"green","dog","ambitious, empathetic, passionate",2021,"usmr"
+"may",195,"grey","dog","Tall Lanky Pole",2021,"usmr"
+"mar",152,"blue","dog","creative, kind, fun",2021,"usmr"
+"may",185,"blue","dog","curious deliberate motivated",2021,"usmr"
+"may",163,"green","cat","funny, driven, curious",2021,"usmr"
+"mar",168,"blue","dog","curious, thoughtful, funny(ish)",2021,"usmr"
+"mar",164,"brown","cat",NA,2021,"usmr"
+"oct",168,"brown","dog","nerdy, artsy, adventurous",2021,"usmr"
+"dec",153,"hazel","cat","reserved, nerdy, approachable",2021,"usmr"
+"oct",175,"green","cat","Creative, introspective, dedicated",2021,"usmr"
+"jun",158,"brown","cat",NA,2021,"usmr"
+"nov",162,"hazel","cat","Motivated, passionate, patient",2021,"usmr"
+"apr",175,"hazel","dog",NA,2021,"usmr"
+"mar",164,"blue","cat","sarcastic, indecisive, kind",2021,"usmr"
+"jun",165.09,"blue","dog","Chatty, social, caring",2021,"usmr"
+"nov",165,"brown","cat","colourful, linguist, overthinker",2021,"usmr"
+"apr",167.64,"brown","dog","curious, mountain-lover, Iraqi",2021,"usmr"
+"nov",165,"brown","cat","optimistic, hard-working, dedicated",2021,"usmr"
+"jan",165.1,"brown","dog",NA,2021,"usmr"
+"may",170,"blue","dog",NA,2021,"usmr"
+"nov",170,"blue","dog","kind, generous, crazy",2021,"usmr"
+"sept",164,"brown","dog","warm,open-minded,perseverant",2021,"usmr"
+"jan",175,"brown","dog","I am excited",2021,"usmr"
+"mar",171,"brown","cat",NA,2021,"usmr"
+"nov",178,"green","cat",NA,2021,"usmr"
+"oct",NA,"brown","cat",NA,2021,"usmr"
+"feb",175,"hazel","cat","quiet, thoughtful, anxious",2021,"usmr"
+"feb",157,"brown","dog","Funny, Smart, Witty",2021,"usmr"
+"jun",160,"brown","cat","diligent smart optimistic",2021,"usmr"
+"may",160,"brown","dog","excited outgoing friendly",2021,"usmr"
+"nov",183,"brown","cat","hiking, photographing, open-minded",2021,"usmr"
+"oct",162.56,"hazel","cat","Ambitious Fun Friendly",2021,"usmr"
+"may",165,NA,"cat","Likeable, friendly, creative",2021,"usmr"
+"oct",169,"brown","cat","outgoing, ambitious, compassionate",2021,"usmr"
+"feb",170.7,"blue","dog","Caring, Honest, Loyal",2021,"usmr"
+"dec",163,"green","cat",NA,2021,"usmr"
+"dec",171,"green","dog",NA,2021,"usmr"
+"nov",160,"hazel","dog",NA,2021,"usmr"
+"sept",155,"green","cat","curious, sociable, diplomatic",2021,"usmr"
+"aug",170,"green","cat","Independent, Resourceful, Shy",2021,"usmr"
+"nov",163,"grey","dog",NA,2021,"usmr"
+"jan",163,"brown","dog",NA,2021,"usmr"
+"may",168,"grey","dog","Student, Psychologist, Tourist",2021,"usmr"
+"sept",190,"brown","cat",NA,2021,"usmr"
+"feb",160,"brown","dog","strong, funny, smart",2021,"usmr"
+"nov",149,"hazel","cat","Excited, anxious, passionate",2021,"usmr"
+"dec",175,"brown","dog",NA,2021,"usmr"
+"jan",180,"blue","cat",NA,2021,"usmr"
+"sept",158,"brown","dog","quiet, easy-going",2021,"usmr"
+"sept",170,"brown","dog",NA,2021,"usmr"
+"apr",168,"other","cat","Night Owl Glasses",2021,"usmr"
+"apr",167,"brown","dog","Awkward Sleepy Kind",2021,"usmr"
+"oct",173,"brown","cat","anxious creative haunted",2021,"usmr"
+"sept",170,"hazel","cat","creative, optimistic, sociable",2021,"usmr"
+"jun",169,"brown","dog","sensitive, kind, ordinary",2021,"usmr"
+"sept",172,"brown","cat","Chaotic, happy, busy",2021,"usmr"
+"feb",166,"green","dog","Empathetic, motivated, disorganised",2021,"usmr"
+"dec",175.5,"green","dog","spontaneous, curious, loving",2021,"usmr"
+"apr",153,"brown","dog","kind, funny, smart",2021,"usmr"
+"jun",168,"brown","cat","I don't know",2021,"usmr"
+"jun",160,"brown","cat","low-key, funny, nervous",2021,"usmr"
+"jul",174,"brown","dog","resilient, lively, confident",2021,"usmr"
+"oct",177,"brown","dog","kind postive trustworthy",2021,"usmr"
+"sept",164,"brown","dog","Procrastinator, Tired, Determined",2021,"usmr"
+"nov",160,"brown","cat","agreeable female sociophobic",2021,"usmr"
+"may",170,"hazel","dog","sociable, funny, clever",2021,"usmr"
+"jun",173,"brown","dog","timid positive listenting",2021,"usmr"
+"nov",178,"brown","dog","Hard-working, loyal, determined",2021,"usmr"
+"aug",1.6,"other","dog","Enthusiastic, passionate, intelligent",2021,"usmr"
+"oct",160,"brown","dog","like a sun",2021,"usmr"
+"jun",170,"brown","cat","straight-forward, persistence, interesting",2021,"usmr"
+"feb",167,"other","dog","a sleepy student",2021,"usmr"
+"jan",158,"brown","cat",NA,2021,"usmr"
+"aug",173,"brown","dog","curious, stupid, happy",2021,"usmr"
