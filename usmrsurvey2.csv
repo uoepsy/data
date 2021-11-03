@@ -1,53 +1,57 @@
-"catdog","gender","height","pseudonym","optimism","spirituality","ampm","id","E","A","C","ES","I","LOC"
-"dog","female",172,"coffeeaddict",7,10,"Evening person",2,35,41,35,28,34,23
-"dog","female",166,"Doglover",70,10,"Evening person",3,37,44,22,27,42,21
-"cat","male",193,NA,65,15,"Evening person",4,20,44,36,18,41,13
-"dog","female",149,"Scottish Broad",60,65,"Morning person",5,43,48,37,11,43,23
-"cat","non-binary",172,NA,100,70,"Evening person",6,36,44,26,29,46,24
-"cat","female",162,"mint",73,25,"Evening person",7,37,41,26,22,43,24
-"dog","male",181,"Z.Z",10,60,"Evening person",8,23,41,33,23,39,14
-"dog","male",195,NA,70,10,"Morning person",9,29,37,39,33,42,23
-"cat","male",180,NA,75,20,"Evening person",10,29,30,38,34,33,29
-"cat","female",153,"mycl",40,40,"Evening person",11,17,32,28,15,22,15
-"dog","female",170,"BFJ",50,5,"Evening person",12,26,46,42,31,39,25
-"dog","female",160,"loris",10,100,"Morning person",13,14,39,39,25,37,23
-"cat","male",178,NA,87,67,"Evening person",14,24,42,45,33,37,26
-"dog","non-binary",170,"Skeleton",100,0,"Morning person",15,41,49,47,17,50,25
-"dog","female",155,"dearest",50,20,"Evening person",16,32,42,35,18,37,23
-"cat","male",165,"fillerbunny",85,90,"Evening person",17,21,44,34,32,39,24
-"cat","female",150,"Samantha",80,10,"Evening person",18,33,44,44,22,39,28
-"cat","female",161,"MeganTheeStallion",68,25,"Evening person",19,23,40,34,25,39,19
-"dog","female",162,NA,79,50,"Evening person",20,16,36,40,32,30,21
-"dog","male",174,"yaci",70,80,"Morning person",21,31,43,36,30,32,21
-"cat","female",154,"batman142",45,95,"Morning person",22,26,41,43,26,25,26
-"dog","female",173,"CORGI",50,65,"Morning person",23,41,45,26,23,37,16
-"cat","female",170,"ITSME",50,90,"Evening person",24,40,48,35,16,34,18
-"cat","male",177,NA,80,80,"Morning person",25,34,45,29,38,27,24
-"dog","female",163,NA,60,30,"Evening person",26,33,39,33,26,34,26
-"dog","female",167,"Student A",20,90,"Evening person",27,28,26,39,19,31,17
-"dog","female",165,NA,2,52,"Morning person",28,21,47,40,30,36,29
-"cat","female",167,NA,90,60,"Morning person",29,33,39,29,20,42,21
-"dog","female",165,NA,88,0,"Evening person",30,30,47,29,25,39,24
-"cat","female",175,"Miro",60,2,"Evening person",31,27,39,33,31,49,22
-"dog","male",181,"tqf",60,50,"Evening person",32,25,37,28,27,34,23
-"dog","female",158,"Well",78,50,"Evening person",33,19,43,33,22,42,24
-"dog","female",171,NA,65,54,"Evening person",34,26,49,36,23,41,26
-"dog","male",186,"Cuchulainn",100,0,"Morning person",35,15,29,37,17,46,16
-"cat","female",154,"mcs6",62,5,"Morning person",36,13,36,46,32,32,28
-"dog","female",171,NA,65,60,"Evening person",37,34,48,37,23,31,23
-"dog","female",152,"Elmo",75,85,"Morning person",38,22,48,34,26,37,24
-"cat","female",175,NA,63,10,"Evening person",39,20,37,34,18,36,26
-"dog","female",169,"OK. The pseudonym is Sandra",90,0,"Evening person",40,37,41,32,30,29,18
-"cat","female",165,NA,72,81,"Morning person",41,33,44,37,27,41,23
-"dog","female",175,"wallace",80,50,"Morning person",42,40,45,35,36,30,21
-"dog","female",160.02,"bear",80,80,"Evening person",43,41,34,32,31,36,24
-"dog","female",165.1,"RileyWiley",50,50,"Evening person",44,24,43,38,26,31,27
-"dog","female",162.56,NA,50,50,"Evening person",45,25,31,32,20,34,15
-"dog","female",164,"RD",5,0,"Evening person",46,21,44,40,16,50,14
-"dog","female",168,NA,85,50,"Evening person",47,29,37,35,38,32,21
-"dog","female",169,NA,50,60,"Evening person",48,24,37,31,24,31,20
-"cat","female",165,"Sky",50,60,"Morning person",49,25,41,43,30,31,28
-"cat","female",164,"yello",100,85,"Evening person",50,26,47,37,27,31,27
-"cat","female",165,NA,80,20,"Morning person",51,24,41,28,39,29,20
-"dog","female",175,"plum muncher",90,24,"Evening person",52,35,47,45,32,46,27
-"cat","male",178,"The real inspector hound",65,25,"Morning person",53,15,36,36,33,38,22
+"id","pseudonym","catdog","gender","height","optimism","spirituality","ampm","extraversion","agreeableness","conscientiousness","emotional_stability","imagination","internal_control"
+2,"coffeeaddict","dog","female",172,7,10,"Evening person",35,41,35,28,34,23
+3,"Doglover","dog","female",166,70,10,"Evening person",37,44,22,27,42,21
+4,NA,"cat","male",193,65,15,"Evening person",20,44,36,18,41,13
+5,"Scottish Broad","dog","female",149,60,65,"Morning person",43,48,37,11,43,23
+6,NA,"cat","non-binary",172,100,70,"Evening person",36,44,26,29,46,24
+7,"mint","cat","female",162,73,25,"Evening person",37,41,26,22,43,24
+8,"Z.Z","dog","male",181,10,60,"Evening person",23,41,33,23,39,14
+9,NA,"dog","male",195,70,10,"Morning person",29,37,39,33,42,23
+10,NA,"cat","male",180,75,20,"Evening person",29,30,38,34,33,29
+11,"mycl","cat","female",153,40,40,"Evening person",17,32,28,15,22,15
+12,"BFJ","dog","female",170,50,5,"Evening person",26,46,42,31,39,25
+13,"loris","dog","female",160,10,100,"Morning person",14,39,39,25,37,23
+14,NA,"cat","male",178,87,67,"Evening person",24,42,45,33,37,26
+15,"Skeleton","dog","non-binary",170,100,0,"Morning person",41,49,47,17,50,25
+16,"dearest","dog","female",155,50,20,"Evening person",32,42,35,18,37,23
+17,"fillerbunny","cat","male",165,85,90,"Evening person",21,44,34,32,39,24
+18,"Samantha","cat","female",150,80,10,"Evening person",33,44,44,22,39,28
+19,"MeganTheeStallion","cat","female",161,68,25,"Evening person",23,40,34,25,39,19
+20,NA,"dog","female",162,79,50,"Evening person",16,36,40,32,30,21
+21,"yaci","dog","male",174,70,80,"Morning person",31,43,36,30,32,21
+22,"batman142","cat","female",154,45,95,"Morning person",26,41,43,26,25,26
+23,"CORGI","dog","female",173,50,65,"Morning person",41,45,26,23,37,16
+24,"ITSME","cat","female",170,50,90,"Evening person",40,48,35,16,34,18
+25,NA,"cat","male",177,80,80,"Morning person",34,45,29,38,27,24
+26,NA,"dog","female",163,60,30,"Evening person",33,39,33,26,34,26
+27,"Student A","dog","female",167,20,90,"Evening person",28,26,39,19,31,17
+28,NA,"dog","female",165,2,52,"Morning person",21,47,40,30,36,29
+29,NA,"cat","female",167,90,60,"Morning person",33,39,29,20,42,21
+30,NA,"dog","female",165,88,0,"Evening person",30,47,29,25,39,24
+31,"Miro","cat","female",175,60,2,"Evening person",27,39,33,31,49,22
+32,"tqf","dog","male",181,60,50,"Evening person",25,37,28,27,34,23
+33,"Well","dog","female",158,78,50,"Evening person",19,43,33,22,42,24
+34,NA,"dog","female",171,65,54,"Evening person",26,49,36,23,41,26
+35,"Cuchulainn","dog","male",186,100,0,"Morning person",15,29,37,17,46,16
+36,"mcs6","cat","female",154,62,5,"Morning person",13,36,46,32,32,28
+37,NA,"dog","female",171,65,60,"Evening person",34,48,37,23,31,23
+38,"Elmo","dog","female",152,75,85,"Morning person",22,48,34,26,37,24
+39,NA,"cat","female",175,63,10,"Evening person",20,37,34,18,36,26
+40,"OK. The pseudonym is Sandra","dog","female",169,90,0,"Evening person",37,41,32,30,29,18
+41,NA,"cat","female",165,72,81,"Morning person",33,44,37,27,41,23
+42,"wallace","dog","female",175,80,50,"Morning person",40,45,35,36,30,21
+43,"bear","dog","female",160.02,80,80,"Evening person",41,34,32,31,36,24
+44,"RileyWiley","dog","female",165.1,50,50,"Evening person",24,43,38,26,31,27
+45,NA,"dog","female",162.56,50,50,"Evening person",25,31,32,20,34,15
+46,"RD","dog","female",164,5,0,"Evening person",21,44,40,16,50,14
+47,NA,"dog","female",168,85,50,"Evening person",29,37,35,38,32,21
+48,NA,"dog","female",169,50,60,"Evening person",24,37,31,24,31,20
+49,"Sky","cat","female",165,50,60,"Morning person",25,41,43,30,31,28
+50,"yello","cat","female",164,100,85,"Evening person",26,47,37,27,31,27
+51,NA,"cat","female",165,80,20,"Morning person",24,41,28,39,29,20
+52,"plum muncher","dog","female",175,90,24,"Evening person",35,47,45,32,46,27
+53,"The real inspector hound","cat","male",178,65,25,"Morning person",15,36,36,33,38,22
+54,NA,"dog","female",158,50,10,"Evening person",29,36,39,41,29,30
+55,"Slug","cat","female",170.18,75,75,"Evening person",34,47,42,22,39,19
+56,NA,"dog","female",160,90,90,"Morning person",25,37,31,31,28,19
+57,"Mary","dog","female",153,70,60,"Evening person",35,42,30,32,32,18
