@@ -18,4 +18,6 @@ xmat %>% select(-age_apoe) %>% mutate(pid = paste0("PPT",1:n())) %>%
 xmat$apoe4[xmat$apoe4==1]<-sample(c("apoe4a","apoe4b","apoe4c"),sum(xmat$apoe4),replace=T)
 xmat$apoe4[xmat$apoe4==0]<-"none"
 table(xmat$apoe4)
+
+xmat$acer <- pmin(100,(xmat$acer*2)+87)
 write.csv(xmat, "../../data/cogapoe4.csv", row.names=F)
