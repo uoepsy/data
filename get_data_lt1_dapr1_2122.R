@@ -3,17 +3,22 @@ require(tidyverse)
 if ( exists("params") ) {
     tryCatch({
         examNumber = as.numeric(gsub("[^\\d]+", "", params$examnumber, perl=TRUE))
-    }, error = function(e) {print("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 6")}
+    }, error = function(e) {stop("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 6")}
     )
 } else {
-    examNumber = 8675309
+    stop("Plase make sure that in line 6 there is a space after examnumber: ")
+    # examNumber = 8675309
 }
 
 get_labtest_data = function(examNumber) {
     
-    set.seed(examNumber)
+    tryCatch({set.seed(examNumber)}, 
+             error = function(e) {
+                 stop("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 6")
+             })
     
-    df = read_csv("https://uoepsy.github.io/data/lock5watertaste.csv")
+    df = read_csv("https://uoepsy.github.io/data/lock5watertaste.csv",
+                  show_col_types = FALSE)
     df$AgeGroup = cut(df$Age, breaks = c(0, 18, 50), labels = c("Non-adult", "Adult"))
     df = df %>% select(AgeGroup, UsuallyDrink)
     
