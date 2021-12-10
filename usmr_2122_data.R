@@ -2,7 +2,7 @@ require(tidyverse)
 
 if(exists("params")){
   tryCatch({set.seed(as.numeric(gsub("[^\\d]+", "", params$examnumber, perl=TRUE)))},
-           error = function(e){print("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 10")}
+           error = function(e){set.seed(8675309);print("NOT A VALID EXAM NUMBER. CHANGE IT IN LINE 10")}
   )}else{
     set.seed(8675309)
 }
