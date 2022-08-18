@@ -1,0 +1,401 @@
+age,payment,attended,class
+27,monthly,0,circuits (short)
+24,monthly,0,circuits (short)
+15,monthly,0,circuits (short)
+21,monthly,1,circuits (short)
+28,monthly,1,circuits (short)
+33,monthly,0,circuits (short)
+26,monthly,0,circuits (short)
+17,single,1,circuits (short)
+33,monthly,0,circuits (short)
+25,monthly,1,circuits (short)
+19,single,1,boxing
+21,single,1,boxing
+27,monthly,1,boxing
+29,monthly,0,boxing
+30,single,1,boxing
+27,monthly,1,boxing
+32,monthly,0,boxing
+24,monthly,1,boxing
+23,monthly,1,boxing
+13,monthly,0,boxing
+22,monthly,1,flow yoga
+31,single,1,flow yoga
+23,monthly,0,flow yoga
+29,monthly,1,flow yoga
+27,single,1,flow yoga
+22,monthly,0,flow yoga
+24,single,1,flow yoga
+20,monthly,1,flow yoga
+25,monthly,1,flow yoga
+31,monthly,0,flow yoga
+24,monthly,0,kickboxing
+30,single,0,kickboxing
+27,monthly,0,kickboxing
+31,single,1,kickboxing
+32,single,0,kickboxing
+25,monthly,0,kickboxing
+30,single,1,kickboxing
+34,single,0,kickboxing
+30,monthly,0,kickboxing
+23,single,0,kickboxing
+17,monthly,1,stretching for cyclists
+33,monthly,0,stretching for cyclists
+18,monthly,0,stretching for cyclists
+24,single,0,stretching for cyclists
+23,single,1,stretching for cyclists
+22,monthly,0,stretching for cyclists
+23,monthly,0,stretching for cyclists
+25,monthly,0,stretching for cyclists
+20,single,0,stretching for cyclists
+24,monthly,0,stretching for cyclists
+20,monthly,1,capoeira
+24,single,0,capoeira
+20,single,1,capoeira
+24,monthly,0,capoeira
+29,monthly,1,capoeira
+15,monthly,0,capoeira
+24,single,0,capoeira
+29,monthly,0,capoeira
+26,monthly,0,capoeira
+31,monthly,0,capoeira
+28,monthly,0,aerobics
+28,monthly,1,aerobics
+27,monthly,0,aerobics
+20,monthly,1,aerobics
+19,single,1,aerobics
+28,monthly,0,aerobics
+32,single,0,aerobics
+21,single,1,aerobics
+21,monthly,1,aerobics
+23,single,1,aerobics
+28,monthly,0,yoga
+27,monthly,1,yoga
+24,monthly,1,yoga
+19,monthly,0,yoga
+33,single,0,yoga
+23,monthly,0,yoga
+29,single,0,yoga
+33,monthly,1,yoga
+21,monthly,0,yoga
+30,monthly,1,yoga
+25,single,0,circuits with eric
+33,single,0,circuits with eric
+32,single,0,circuits with eric
+27,single,1,circuits with eric
+22,monthly,0,circuits with eric
+26,monthly,0,circuits with eric
+26,single,0,circuits with eric
+24,single,0,circuits with eric
+22,monthly,0,circuits with eric
+18,single,0,circuits with eric
+28,monthly,0,water aerobics
+28,monthly,0,water aerobics
+25,monthly,1,water aerobics
+20,single,1,water aerobics
+33,monthly,0,water aerobics
+31,single,1,water aerobics
+22,monthly,0,water aerobics
+28,monthly,1,water aerobics
+23,monthly,0,water aerobics
+26,monthly,1,water aerobics
+29,monthly,1,pilates
+30,single,1,pilates
+28,monthly,1,pilates
+23,monthly,1,pilates
+21,monthly,0,pilates
+19,single,0,pilates
+35,monthly,1,pilates
+29,single,1,pilates
+28,monthly,1,pilates
+24,monthly,0,pilates
+30,monthly,0,yoga with eric
+23,monthly,1,yoga with eric
+25,single,0,yoga with eric
+23,single,1,yoga with eric
+20,monthly,0,yoga with eric
+23,monthly,0,yoga with eric
+35,monthly,0,yoga with eric
+27,monthly,0,yoga with eric
+29,monthly,0,yoga with eric
+31,single,1,yoga with eric
+25,monthly,0,hulahooping
+29,monthly,0,hulahooping
+32,monthly,0,hulahooping
+19,monthly,1,hulahooping
+31,monthly,0,hulahooping
+23,monthly,0,hulahooping
+26,monthly,0,hulahooping
+22,single,1,hulahooping
+28,single,0,hulahooping
+34,monthly,1,hulahooping
+27,monthly,1,crossfit (short)
+22,monthly,0,crossfit (short)
+37,monthly,1,crossfit (short)
+26,monthly,0,crossfit (short)
+27,single,0,crossfit (short)
+25,monthly,0,crossfit (short)
+26,monthly,0,crossfit (short)
+18,single,0,crossfit (short)
+21,single,1,crossfit (short)
+29,monthly,1,crossfit (short)
+18,monthly,1,olympic lifting
+33,monthly,1,olympic lifting
+27,monthly,0,olympic lifting
+25,monthly,0,olympic lifting
+28,monthly,0,olympic lifting
+29,monthly,1,olympic lifting
+19,single,0,olympic lifting
+23,monthly,0,olympic lifting
+26,monthly,0,olympic lifting
+24,single,0,olympic lifting
+26,monthly,0,zumba
+27,monthly,1,zumba
+26,monthly,1,zumba
+31,monthly,0,zumba
+24,single,0,zumba
+31,monthly,1,zumba
+24,monthly,1,zumba
+20,monthly,1,zumba
+21,monthly,1,zumba
+28,monthly,1,zumba
+33,monthly,0,muay thai
+25,single,0,muay thai
+29,monthly,1,muay thai
+23,monthly,1,muay thai
+23,single,1,muay thai
+26,monthly,1,muay thai
+29,monthly,0,muay thai
+22,monthly,0,muay thai
+26,single,0,muay thai
+31,monthly,0,muay thai
+22,monthly,0,gymnastics
+20,monthly,0,gymnastics
+25,single,1,gymnastics
+25,single,0,gymnastics
+27,single,1,gymnastics
+27,monthly,0,gymnastics
+30,monthly,0,gymnastics
+27,monthly,1,gymnastics
+20,single,0,gymnastics
+23,monthly,1,gymnastics
+20,monthly,1,power yoga
+19,single,0,power yoga
+37,monthly,0,power yoga
+35,monthly,0,power yoga
+25,single,1,power yoga
+26,monthly,1,power yoga
+23,single,1,power yoga
+20,monthly,1,power yoga
+29,monthly,1,power yoga
+25,monthly,1,power yoga
+24,single,0,spin
+27,monthly,1,spin
+30,single,1,spin
+25,monthly,1,spin
+24,monthly,0,spin
+28,single,1,spin
+32,monthly,0,spin
+24,monthly,1,spin
+26,monthly,0,spin
+24,monthly,1,spin
+21,monthly,1,crossfit with eric
+24,monthly,0,crossfit with eric
+20,monthly,0,crossfit with eric
+26,monthly,0,crossfit with eric
+23,monthly,0,crossfit with eric
+16,monthly,0,crossfit with eric
+23,monthly,0,crossfit with eric
+28,single,0,crossfit with eric
+18,monthly,0,crossfit with eric
+34,monthly,0,crossfit with eric
+18,monthly,0,jazzercise
+25,monthly,0,jazzercise
+27,single,1,jazzercise
+26,monthly,0,jazzercise
+27,monthly,0,jazzercise
+27,monthly,0,jazzercise
+21,monthly,0,jazzercise
+26,monthly,0,jazzercise
+39,monthly,0,jazzercise
+24,monthly,0,jazzercise
+20,monthly,0,functional movement
+24,single,1,functional movement
+28,single,0,functional movement
+26,monthly,0,functional movement
+22,monthly,1,functional movement
+26,monthly,0,functional movement
+28,monthly,0,functional movement
+28,monthly,0,functional movement
+23,monthly,0,functional movement
+25,monthly,0,functional movement
+29,monthly,0,spin (short)
+26,monthly,1,spin (short)
+21,single,1,spin (short)
+31,single,0,spin (short)
+22,single,1,spin (short)
+24,monthly,1,spin (short)
+31,monthly,0,spin (short)
+34,monthly,0,spin (short)
+23,monthly,0,spin (short)
+20,monthly,1,spin (short)
+24,single,1,hiit
+23,single,0,hiit
+25,single,0,hiit
+22,single,0,hiit
+27,monthly,0,hiit
+24,single,1,hiit
+25,monthly,1,hiit
+18,single,1,hiit
+25,single,0,hiit
+18,monthly,1,hiit
+25,monthly,1,functional strength
+25,monthly,0,functional strength
+24,monthly,0,functional strength
+31,single,0,functional strength
+25,monthly,0,functional strength
+31,monthly,1,functional strength
+27,single,1,functional strength
+24,monthly,0,functional strength
+32,monthly,0,functional strength
+32,monthly,0,functional strength
+22,single,0,circuits
+27,single,0,circuits
+36,monthly,0,circuits
+30,single,1,circuits
+34,monthly,0,circuits
+29,monthly,1,circuits
+28,monthly,1,circuits
+29,monthly,0,circuits
+21,monthly,1,circuits
+35,monthly,0,circuits
+24,single,0,weight lifting
+22,monthly,0,weight lifting
+24,monthly,0,weight lifting
+20,monthly,0,weight lifting
+32,single,0,weight lifting
+29,monthly,0,weight lifting
+34,single,0,weight lifting
+24,monthly,0,weight lifting
+26,monthly,0,weight lifting
+19,monthly,0,weight lifting
+34,monthly,0,kettlebell shred
+30,monthly,0,kettlebell shred
+21,single,1,kettlebell shred
+28,single,1,kettlebell shred
+21,single,1,kettlebell shred
+26,monthly,1,kettlebell shred
+27,monthly,1,kettlebell shred
+18,single,1,kettlebell shred
+30,single,1,kettlebell shred
+26,single,1,kettlebell shred
+26,monthly,0,crossfit
+26,monthly,0,crossfit
+25,monthly,0,crossfit
+24,monthly,1,crossfit
+30,single,0,crossfit
+21,monthly,0,crossfit
+28,monthly,0,crossfit
+33,monthly,0,crossfit
+24,monthly,0,crossfit
+23,single,0,crossfit
+26,single,0,trx
+26,single,0,trx
+28,single,1,trx
+29,monthly,0,trx
+32,single,0,trx
+27,monthly,0,trx
+26,single,0,trx
+28,monthly,0,trx
+35,single,0,trx
+29,single,0,trx
+27,monthly,0,boxercise
+26,single,0,boxercise
+18,single,0,boxercise
+26,monthly,0,boxercise
+23,monthly,0,boxercise
+23,monthly,0,boxercise
+16,monthly,0,boxercise
+28,single,1,boxercise
+22,monthly,1,boxercise
+24,single,1,boxercise
+24,monthly,0,stretching for climbers
+26,monthly,0,stretching for climbers
+31,monthly,0,stretching for climbers
+26,single,0,stretching for climbers
+20,single,1,stretching for climbers
+25,monthly,0,stretching for climbers
+28,monthly,0,stretching for climbers
+28,monthly,0,stretching for climbers
+32,monthly,1,stretching for climbers
+30,monthly,0,stretching for climbers
+28,monthly,0,stretching for runners
+23,monthly,0,stretching for runners
+25,single,0,stretching for runners
+30,monthly,0,stretching for runners
+24,monthly,0,stretching for runners
+32,monthly,0,stretching for runners
+31,single,0,stretching for runners
+29,monthly,0,stretching for runners
+32,single,0,stretching for runners
+28,monthly,0,stretching for runners
+27,monthly,1,hiit (short)
+30,monthly,0,hiit (short)
+27,single,1,hiit (short)
+29,monthly,0,hiit (short)
+21,single,1,hiit (short)
+30,single,1,hiit (short)
+28,monthly,1,hiit (short)
+31,single,1,hiit (short)
+31,monthly,0,hiit (short)
+26,monthly,0,hiit (short)
+20,monthly,1,ballet
+28,single,1,ballet
+22,single,1,ballet
+31,monthly,1,ballet
+22,single,1,ballet
+34,monthly,1,ballet
+24,single,1,ballet
+21,monthly,1,ballet
+20,monthly,1,ballet
+30,single,1,ballet
+26,monthly,0,stretching for lifters
+32,single,0,stretching for lifters
+28,single,0,stretching for lifters
+26,monthly,0,stretching for lifters
+24,monthly,0,stretching for lifters
+28,monthly,0,stretching for lifters
+29,monthly,0,stretching for lifters
+27,monthly,0,stretching for lifters
+23,single,1,stretching for lifters
+28,single,0,stretching for lifters
+26,single,0,hot yoga
+29,single,1,hot yoga
+38,monthly,0,hot yoga
+28,monthly,1,hot yoga
+26,monthly,0,hot yoga
+32,monthly,0,hot yoga
+17,monthly,0,hot yoga
+31,single,0,hot yoga
+28,single,0,hot yoga
+25,monthly,1,hot yoga
+26,monthly,0,dumbell shred
+29,single,0,dumbell shred
+21,monthly,0,dumbell shred
+32,monthly,0,dumbell shred
+30,monthly,0,dumbell shred
+20,single,0,dumbell shred
+36,single,0,dumbell shred
+24,monthly,0,dumbell shred
+24,monthly,0,dumbell shred
+30,monthly,0,dumbell shred
+31,monthly,1,yoga (short)
+24,monthly,0,yoga (short)
+24,monthly,1,yoga (short)
+23,monthly,1,yoga (short)
+26,monthly,0,yoga (short)
+23,monthly,0,yoga (short)
+25,monthly,0,yoga (short)
+24,monthly,1,yoga (short)
+26,monthly,0,yoga (short)
+29,monthly,0,yoga (short)
