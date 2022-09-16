@@ -8,7 +8,7 @@ ID103,Orlaith Christie,Argyll and Bute,19,42,13
 ID104,Alicia MacGregor,Perth and Kinross,13,38,31
 ID105,Louis Duff,East Renfrewshire,21,44,536
 ID106,Taylor Inglis,Inverclyde,16,47,480
-ID107,Noor Currie,Midlothian,12,45,258
+ID107,Noor Currie,Midlothian,12,35,258
 ID108,Ella Wilson,Moray,22,42,44
 ID109,Tom Millar,East Renfrewshire,13,35,536
 ID11,Thomas Cunningham,West Lothian,26,29,421
@@ -17,9 +17,9 @@ ID111,Maddison Gardiner,West Dunbartonshire,23,28,566
 ID112,Bailey Webster,Argyll and Bute,14,49,13
 ID113,Nieve Davis,East Ayrshire,21,30,96
 ID114,Charlie Harris,Shetland Islands,9,48,12
-ID115,Frankie Davidson,Stirling,23,62,41
+ID115,Frankie Davidson,Stirling,23,45,41
 ID116,Eden Shepherd,Scottish Borders,11,43,29
-ID117,William Forrest,Stirling,10,52,41
+ID117,William Forrest,Stirling,10,48,41
 ID118,Julia Henderson,City of Edinburgh,20,63,1958
 ID119,Zander Gallagher,Dumfries and Galloway,17,45,19
 ID12,Leon Brown,Moray,28,48,44
@@ -28,9 +28,9 @@ ID121,Finley Johnson,East Renfrewshire,18,47,536
 ID122,Luke McLaughlin,Perth and Kinross,12,40,31
 ID123,Joel Devlin,Na h-Eileanan Siar,17,62,15
 ID124,Cali Robertson,Glasgow City,27,21,3581
-ID125,Jay McMillan,Stirling,27,56,41
+ID125,Jay McMillan,Stirling,27,46,41
 ID126,Ruben Hutchison,Moray,7,35,44
-ID127,Dean Mason,Stirling,9,41,41
+ID127,Dean Mason,Stirling,9,49,41
 ID128,Harvey O'Donnell,East Ayrshire,22,36,96
 ID129,Eric McMahon,West Dunbartonshire,19,37,566
 ID13,Elena Bain,Argyll and Bute,21,41,13
@@ -51,7 +51,7 @@ ID23,Nicole Park,East Ayrshire,16,28,96
 ID24,Alisha Baillie,Highland,11,48,10
 ID25,Ronnie Maxwell,Perth and Kinross,16,50,31
 ID26,Elle Foster,City of Edinburgh,14,60,1958
-ID27,Hudson Donnelly,Midlothian,16,52,258
+ID27,Hudson Donnelly,Midlothian,16,30,258
 ID28,Elizabeth Hall,Glasgow City,15,23,3581
 ID29,Lochlan Graham,Na h-Eileanan Siar,25,70,15
 ID3,Michael Buchanan,Highland,22,63,10
@@ -60,11 +60,11 @@ ID31,Charley McIntyre,Inverclyde,12,47,480
 ID32,Eleanor Martin,Scottish Borders,7,32,29
 ID33,Talia MacKenzie,Glasgow City,15,23,3581
 ID34,Cassie Chapman,West Lothian,22,40,421
-ID35,Abbie Craig,Midlothian,21,54,258
+ID35,Abbie Craig,Midlothian,21,26,258
 ID36,Sara Christie,Na h-Eileanan Siar,16,64,15
 ID37,Nicola Sturgeon,City of Edinburgh,18,46,1958
 ID38,Alexandra Nicol,Shetland Islands,25,64,12
-ID39,Lyle Reid,Midlothian,6,42,258
+ID39,Lyle Reid,Midlothian,6,39,258
 ID4,Louisa Evans,East Ayrshire,7,37,96
 ID40,Seth Murdoch,Angus,8,31,48
 ID41,Daisy Leslie,Highland,9,46,10
@@ -93,7 +93,7 @@ ID61,Piper Roberts,Angus,0,31,48
 ID62,Toby Stuart,Orkney Islands,12,38,22
 ID63,Archer McKenzie,City of Edinburgh,18,65,1958
 ID64,Darcie Armstrong,Shetland Islands,24,57,12
-ID65,Rose Knox,Midlothian,17,52,258
+ID65,Rose Knox,Midlothian,17,29,258
 ID66,Ella McKay,West Lothian,20,30,421
 ID67,Sonny Gordon,Dumfries and Galloway,19,40,19
 ID68,Violet MacFarlane,East Renfrewshire,1,39,536
@@ -101,13 +101,13 @@ ID69,Kieran Mullen,Na h-Eileanan Siar,21,67,15
 ID7,Dexter Parker,Angus,16,39,48
 ID70,Zayn MacMillan,Inverclyde,13,39,480
 ID71,Millie Main,Orkney Islands,23,45,22
-ID72,Declan Ramsay,Midlothian,7,45,258
-ID73,Scarlett Crawford,Stirling,13,47,41
-ID74,Alicia Cook,Stirling,15,49,41
+ID72,Declan Ramsay,Midlothian,7,39,258
+ID73,Scarlett Crawford,Stirling,13,49,41
+ID74,Alicia Cook,Stirling,15,48,41
 ID75,Lillie Lewis,Highland,14,55,10
 ID76,Elle O'Donnell,East Ayrshire,12,22,96
 ID77,Harley Clarke,Perth and Kinross,19,53,31
-ID78,Dominik Cairns,Inverclyde,0,31,480
+ID78,Dominik Cairns,Inverclyde,8,31,480
 ID79,Norah Shepherd,City of Edinburgh,14,51,1958
 ID8,Taylor McNeill,Glasgow City,26,16,3581
 ID80,Harris Thomas,Moray,23,48,44
@@ -121,7 +121,7 @@ ID87,Peter McLaren,Glasgow City,21,22,3581
 ID88,Lyall Fleming,Shetland Islands,19,53,12
 ID89,Joey Nicholson,Dumfries and Galloway,16,31,19
 ID9,Lexi MacMillan,Falkirk,19,26,526
-ID90,Lena Dunlop,Stirling,13,55,41
+ID90,Lena Dunlop,Stirling,13,46,41
 ID91,Darcy Boyd,Perth and Kinross,13,44,31
 ID92,River Boyle,Dumfries and Galloway,19,42,19
 ID93,Sam Law,West Lothian,28,32,421
