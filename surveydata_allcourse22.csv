@@ -1,409 +1,452 @@
 birthmonth,height,eyecolour,catdog,threewords,year,course,in_uk,gender,optimism,spirituality,ampm,extraversion,agreeableness,conscientiousness,emot_stability,imagination,loc,pseudonym,sleeprating
-dec,180,brown,Dog,agreeable; conscientious; excitable,2022,usmr,NA,NA,NA,10,Morning person,30,42,33,30,33,26,,73
-jul,162,brown,Dog,"Creative, Positive, Distractible",2022,usmr,NA,NA,NA,65,Evening person,34,39,36,31,33,24,,NA
-nov,175,brown,Cat,"imaginative, analytical and introverted",2022,usmr,NA,NA,NA,20,Evening person,22,44,29,27,37,22,,75
-nov,175,brown,Cat,inquisitive; introverted; creative,2022,usmr,NA,NA,NA,50,Morning person,23,40,35,20,42,22,,75
-jul,168.5,brown,Dog,"Persistent, youthful, melancholic",2022,usmr,NA,NA,NA,44,Morning person,16,36,31,27,40,21,,66
-may,157.48,brown,Dog,"flexible, adventurous, organized",2022,usmr,NA,NA,NA,80,Evening person,34,44,42,37,36,27,,80
-may,170,brown,Cat,"Passionate, curious, creative",2022,usmr,NA,NA,NA,60,Morning person,32,43,32,24,40,26,,60
-aug,168,blue,Dog,"Non-judgemental, introverted, stressed",2022,usmr,NA,NA,NA,50,Morning person,32,35,43,16,28,24,,60
-jul,178,blue,Cat,"Determined, organised, honest",2022,usmr,NA,NA,NA,60,Morning person,31,42,42,20,46,26,,90
-jun,166,brown,Cat,"Happy, curious, mediterranean",2022,usmr,NA,NA,NA,80,Evening person,31,43,39,36,34,23,,85
-jul,189,green,Dog,"energetic, thinker, excited",2022,usmr,NA,NA,NA,90,Evening person,40,44,33,27,40,28,,78
-apr,180,brown,Dog,"Smart, Honest, Lazy",2022,usmr,NA,NA,NA,20,Evening person,18,44,36,25,34,18,,60
-jul,168,brown,Dog,"Rational, assertive, introverted",2022,usmr,NA,NA,NA,60,Evening person,21,31,41,24,49,23,,40
-jul,154,brown,Cat,"Stubborn, opinionated, eccentric",2022,usmr,NA,NA,NA,70,Morning person,24,30,27,13,37,18,,40
-aug,159,brown,Cat,sleepy all day,2022,usmr,NA,NA,NA,30,Evening person,27,39,26,27,26,20,,90
-nov,149,hazel,cat,"Excited, anxious, passiote",2021,usmr,NA,female,80,10,Evening person,33,44,44,22,39,28,,NA
-dec,153,hazel,cat,"reserved, nerdy, approachable",2021,usmr,NA,female,40,40,Evening person,17,32,28,15,22,15,,NA
-sep,155,green,cat,"curious, sociable, diplomatic",2021,usmr,NA,NA,154,95,Morning person,26,41,43,26,25,26,,NA
-jun,158,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,158,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,160,brown,cat,diligent smart optimistic,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,160,brown,cat,"low-key, funny, nervous",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,160,brown,cat,agreeable female sociophobic,2021,usmr,NA,female,68,25,Evening person,23,40,34,25,39,19,,NA
-nov,162,hazel,cat,"Motivated, passiote, patient",2021,usmr,NA,female,73,25,Evening person,37,41,26,22,43,24,,NA
-oct,162.56,hazel,cat,Ambitious Fun Friendly,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,163,green,cat,"funny, driven, curious",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,163,green,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,164,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,164,blue,cat,"sarcastic, indecisive, kind",2021,usmr,NA,female,100,85,Evening person,26,47,37,27,31,27,,NA
-nov,165,brown,cat,"colourful, linguist, overthinker",2021,usmr,NA,male,85,90,Evening person,21,44,34,32,39,24,,NA
-nov,165,brown,cat,"optimistic, hard-working, dedicated",2021,usmr,NA,female,50,60,Morning person,25,41,43,30,31,28,,NA
-may,165,NA,cat,"Likeable, friendly, creative",2021,usmr,NA,female,80,20,Morning person,24,41,28,39,29,20,,NA
-oct,168,brown,cat,lazy,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,168,other,cat,Night Owl Glasses,2021,usmr,NA,female,90,60,Morning person,33,39,29,20,42,21,,NA
-jun,168,brown,cat,I don't know,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,169,brown,cat,"outgoing, ambitious, compassiote",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,170,green,cat,"Independent, Resourceful, Shy",2021,usmr,NA,female,50,90,Evening person,40,48,35,16,34,18,,NA
-sep,170,hazel,cat,"creative, optimistic, sociable",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,170,brown,cat,"straight-forward, persistence, interesting",2021,usmr,NA,female,75,75,Evening person,34,47,42,22,39,19,,NA
-mar,171,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,172,brown,cat,"Chaotic, happy, busy",2021,usmr,NA,non-biry,100,70,Evening person,36,44,26,29,46,24,,NA
-oct,173,brown,cat,anxious creative haunted,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,175,green,cat,"Creative, introspective, dedicated",2021,usmr,NA,female,60,2,Evening person,27,39,33,31,49,22,,NA
-feb,175,hazel,cat,"quiet, thoughtful, anxious",2021,usmr,NA,female,63,10,Evening person,20,37,34,18,36,26,,NA
-nov,178,green,cat,NA,2021,usmr,NA,male,87,67,Evening person,24,42,45,33,37,26,,NA
-jan,180,blue,cat,NA,2021,usmr,NA,male,75,20,Evening person,29,30,38,34,33,29,,NA
-nov,183,brown,cat,"hiking, photographing, open-minded",2021,usmr,NA,male,30,5,Evening person,39,45,25,45,40,20,,NA
-sep,190,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,191,brown,cat,NA,2021,usmr,NA,male,65,15,Evening person,20,44,36,18,41,13,,NA
-oct,NA,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,152,blue,dog,"creative, kind, fun",2021,usmr,NA,female,75,85,Morning person,22,48,34,26,37,24,,NA
-apr,153,brown,dog,"kind, funny, smart",2021,usmr,NA,female,70,60,Evening person,35,42,30,32,32,18,,NA
-oct,154.94,green,dog,"ambitious, empathetic, passiote",2021,usmr,NA,female,50,20,Evening person,32,42,35,18,37,23,,NA
-feb,157,brown,dog,"Funny, Smart, Witty",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,158,brown,dog,"quiet, easy-going",2021,usmr,NA,female,78,50,Evening person,19,43,33,22,42,24,,NA
-may,160,brown,dog,excited outgoing friendly,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,160,hazel,dog,NA,2021,usmr,NA,female,10,100,Morning person,14,39,39,25,37,23,,NA
-feb,160,brown,dog,"strong, funny, smart",2021,usmr,NA,female,90,90,Morning person,25,37,31,31,28,19,,NA
-aug,160,other,dog,"Enthusiastic, passiote, intelligent",2021,usmr,NA,female,80,80,Evening person,41,34,32,31,36,24,,NA
-oct,160,brown,dog,like a sun,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,162.56,brown,dog,Often googling stuff,2021,usmr,NA,female,50,50,Evening person,25,31,32,20,34,15,,NA
-nov,163,grey,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,163,brown,dog,NA,2021,usmr,NA,female,60,30,Evening person,33,39,33,26,34,26,,NA
-sep,164,brown,dog,"warm,open-minded,perseverant",2021,usmr,NA,female,5,0,Evening person,21,44,40,16,50,14,,NA
-sep,164,brown,dog,"Procrastitor, Tired, Determined",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,165.09,blue,dog,"Chatty, social, caring",2021,usmr,NA,female,88,0,Evening person,30,47,29,25,39,24,,NA
-jan,165.1,brown,dog,NA,2021,usmr,NA,female,50,50,Evening person,24,43,38,26,31,27,,NA
-feb,166,green,dog,"Empathetic, motivated, disorganised",2021,usmr,NA,female,70,10,Evening person,37,44,22,27,42,21,,NA
-apr,167,brown,dog,Awkward Sleepy Kind,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,167,other,dog,a sleepy student,2021,usmr,NA,female,20,90,Evening person,28,26,39,19,31,17,,NA
-apr,167.64,brown,dog,"curious, mountain-lover, Iraqi",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,168,blue,dog,"curious, thoughtful, funny(ish)",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,168,brown,dog,"nerdy, artsy, adventurous",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,168,grey,dog,"Student, Psychologist, Tourist",2021,usmr,NA,female,85,50,Evening person,29,37,35,38,32,21,,NA
-jun,169,brown,dog,"sensitive, kind, ordiry",2021,usmr,NA,female,90,0,Evening person,37,41,32,30,29,18,,NA
-may,170,blue,dog,NA,2021,usmr,NA,female,50,5,Evening person,26,46,42,31,39,25,,NA
-nov,170,blue,dog,"kind, generous, crazy",2021,usmr,NA,non-biry,100,0,Morning person,41,49,47,17,50,25,,NA
-sep,170,brown,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,170,hazel,dog,"sociable, funny, clever",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,170.7,blue,dog,"Caring, Honest, Loyal",2021,usmr,NA,female,65,54,Evening person,26,49,36,23,41,26,,NA
-dec,171,green,dog,NA,2021,usmr,NA,female,65,60,Evening person,34,48,37,23,31,23,,NA
-jun,173,brown,dog,timid positive listenting,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,173,brown,dog,"curious, stupid, happy",2021,usmr,NA,female,50,65,Morning person,41,45,26,23,37,16,,NA
-jul,174,brown,dog,"resilient, lively, confident",2021,usmr,NA,male,70,80,Morning person,31,43,36,30,32,21,,NA
-apr,175,hazel,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,175,brown,dog,I am excited,2021,usmr,NA,female,90,24,Evening person,35,47,45,32,46,27,,NA
-dec,175,brown,dog,NA,2021,usmr,NA,female,80,50,Morning person,40,45,35,36,30,21,,NA
-dec,175.5,green,dog,"spontaneous, curious, loving",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,177,brown,dog,kind postive trustworthy,2021,usmr,NA,male,10,60,Evening person,23,41,33,23,39,14,,NA
-nov,178,brown,dog,"Hard-working, loyal, determined",2021,usmr,NA,male,60,50,Evening person,25,37,28,27,34,23,,NA
-may,185,blue,dog,curious deliberate motivated,2021,usmr,NA,male,100,0,Morning person,15,29,37,17,46,16,,NA
-may,195,grey,dog,Tall Lanky Pole,2021,usmr,NA,male,70,10,Morning person,29,37,39,33,42,23,,NA
-may,154,brown,cat,Short Passiote Compassiote,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,158,brown,cat,"creative, curious, neat",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,158,brown,cat,"creative, reflexive, chill",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,158,other,cat,smart diligent lazy,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,159,brown,cat,"introvert, smart, honest",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,160,brown,cat,"passioted, diligent, kind",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,162,brown,cat,"Intense, eloquent, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,163,brown,cat,"Stubborn, ambitious and prudent",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,163,blue,cat,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,163,brown,cat,nerdy independent friendly,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,165,hazel,cat,"Strong, silly, open",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,166,blue,cat,"Kind, Open-minded, Curious",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,166,brown,cat,"Curious, emotiol, annoying",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,167,hazel,cat,"optimistic, persistent, innovative",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,167,brown,cat,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,167,brown,cat,"friendly, shy, gentle",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,168,brown,cat,"athletic, responsible, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,168,brown,cat,human optimism psychology,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,172,green,cat,Crazy but ambitious,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,174,brown,cat,NA,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,174,brown,cat,"nice, kind, listening",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,177,blue,cat,"friendly, observant, nerdy",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,177,green,cat,"Open, Sincere, Curious",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,178,blue,cat,"curious, distractible, funny",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,185.5,brown,cat,"aggressive, independent, amiable",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,188,blue,cat,"fortute, adventurous, thoughtful",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,149,blue,dog,"Awkward, smart, funny.",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,154,brown,dog,"Curious, Calm, Adventurous",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,157,blue,dog,"Conscientious, Enthusiastic, Patient",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,157,green,dog,Short and sweet,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,157,brown,dog,"Motivated, lazy, hard-working",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,158,brown,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,160,brown,dog,quiet deep thinker,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,160,hazel,dog,"Adventurous, Curious, Gregarious",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,160,brown,dog,unrestrained diverisitied humurous,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,161,brown,dog,"Caring, funny, thinker",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,162,brown,dog,"Optimistic, Emotiol, Hardworking",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,163,brown,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,163,other,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,164,brown,dog,"Curious, observant and nervous",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,164,brown,dog,"Curious, Creative, Carer",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,165,brown,dog,"warm, reliable, open-minded",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,165,brown,dog,"confident, indepent, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,165,green,dog,"Bubbly, Charismatic, Fun",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,165,blue,dog,"curious, passiote, collaborative",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,165,blue,dog,"curious, passiote, collaborative",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,166,brown,dog,"dedicated, resourceful, friendly",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,166,blue,dog,"language-nerd, plant-lover, dancer",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,166,blue,dog,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,167.64,brown,dog,"Quirky, Pensive, Argumentative",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,168,brown,dog,always always sleepy,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,169,hazel,dog,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,169,brown,dog,"ratiol, empathetic, competitive",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,170,brown,dog,"Friendly, dedicated and curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,170,blue,dog,"clumsy, ambitious, open-minded",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,170,hazel,dog,"Enthusiastic, principled, individualist",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,170,blue,dog,Ready to study,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,170,green,dog,"Creative, Optimistic, Curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,171,brown,dog,"Active, sportive, organized",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,172,blue,dog,"Adventurous, musical and excitable",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,173,brown,dog,curious caring fair,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,175,blue,dog,"active, sports-enthusiast, European",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,176,brown,dog,"Books, tired, interested",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,176,blue,dog,"Patient, hard-working, organised",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,177,green,dog,"violence, speed, momentum",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,177,blue,dog,"sporty, quiet, funny",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,177,blue,dog,"Adventurous, Inquisitive, Compassiote",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,179,green,dog,curious practical deliberate,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,180,blue,dog,"curious, dreamy, coffee",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,180,other,dog,gourmet  sport  happy,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,185,brown,dog,"effective, spontanious, resilient",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,185,blue,dog,Friendly Happy Driven,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,187,brown,dog,Easy-going; Left-handed; Engineer,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,187,hazel,dog,no thank you,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,193,green,dog,NA,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,193,green,dog,"funky, highly strung",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,158,brown,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,160,blue,cat,"Organised, colourful, smart",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,160,green,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,160,brown,cat,"ratiol, procrastiting, compassiote",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,160,hazel,cat,"Sociable, ambitious, optimistic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,161,blue,cat,"fun, adventurous, understanding",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,163,brown,cat,"outgoing, kind, girl",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,163,blue,cat,"ambitious, calm, caring",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,165,blue,cat,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,165,blue,cat,"thoughtful, pragmatic, forgetful",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,165,green,cat,"Outgoing, funny, sassy",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,166,brown,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,166,hazel,cat,"creative, anxious, introspective",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,168,hazel,cat,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,172,green,cat,A perfectionist procrastitor,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,172,hazel,cat,"tired, chatty, funny",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,173,green,cat,"sporty, friendly, bookworm",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,173,blue,cat,"Creative, Hardworking, Caring",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,173,green,cat,"Kind, Generous, Quick-witted",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,174,hazel,cat,"curious, kind, introvert",2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,175,hazel,cat,trying my best,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,180,green,cat,"Creative, Teamplayer, Creative",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,182,brown,cat,"Tall, Conscientious, liberal",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,148,brown,dog,"outgoing, anxious, witty",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,155,hazel,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,155,brown,dog,"Lively, short and bubbly",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,157,hazel,dog,"calm, open-minded, positive",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,157,blue,dog,"Chill, Curious, Sporty",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,158,brown,dog,"Reserved, Friendly, Anxious",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,159,blue,dog,"Quiet, sarcastic, kind",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,160,green,dog,Sarcastic fun easygoing,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,160,hazel,dog,"Organised, Generous and Hard-working",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,160,brown,dog,"Determined, Warm, Enthusiastic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,160,green,dog,"funny, loyal, kind",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,160,blue,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,161,blue,dog,"Ambitious, caring, small",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,162,brown,dog,"Hard-working, creative and organized",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,162,hazel,dog,"friendly, fun, loving",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,162,brown,dog,"Optimistic, restless, over thinker",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,163,brown,dog,"Outgoing, meticulous, responsible",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,163,brown,dog,"Kind, easygoing, organised",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,164.7,blue,dog,"Neurotic, empathetic, anxious",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,165,brown,dog,"unorganised, optimistic and friendly",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,165,hazel,dog,"Passiote, curious, positive",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,167,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,167,blue,dog,"Energetic, Emotiol, Adaptable",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,167.5,brown,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,169,brown,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,169,hazel,dog,"empathetic, strong-willed, loyal",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,169,hazel,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,170,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,170,hazel,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,170,brown,dog,"bubbly, ambitious, energetic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,173,brown,dog,Smart Fun High,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,174,blue,dog,"outgoing, honest, athletic",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,174,blue,dog,"Caring, thoughtful, dedicated",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,176,green,dog,iced latte lover,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,176,blue,dog,"positive, considerate, friendly",2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,178,grey,dog,"Inquisitive, Eccentric, Humorous",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,178,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,180,blue,dog,"King, Giving, Reflective",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,180.34,brown,dog,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,181,blue,dog,"passiote, thoughtful, balanced",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,182,green,dog,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,185,brown,dog,"outgoing, polite, tall",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,172,blue,NA,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,177,green,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-NA,NA,NA,NA,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-NA,NA,NA,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-NA,NA,NA,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,145.5,brown,cat,plant-obsessed non-biry person,2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,157,green,cat,"Positive, funny, organised",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,159,blue,cat,"chaotic, nerd, functiol",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,160.4,brown,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,161,blue,cat,"lazy, smart, short",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,162,brown,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,162,brown,cat,"kind, cool, helpful",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,162,brown,cat,"moody, fun, determined",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,162.5,brown,cat,"Empathetic, quirky, creative",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,163,brown,cat,"Ambitious, shy, friendly",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,164.5,brown,cat,"Insane, Challenge, Bright",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,165,amber,cat,"sensitive, ambitious, adaptable",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,168,brown,cat,"quiet, kind and introverted",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,169,green,cat,"hard-working, friendly, curious",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,170,blue,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,170,blue,cat,"bookworm, open-minded, organized",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,170,brown,cat,passion,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,171,brown,cat,happy with herself,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,171,brown,cat,happy with herself,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,173,other,cat,"crunchy, sour, gelatinous",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,175,blue,cat,creative inquisitive friendly,2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,175,blue,cat,"Funny, Determined, Clever",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,180,brown,cat,Hungry Spacey Neat,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,153,brown,dog,"Emotionless, Hardworking and Cool",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,157,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,159,brown,dog,"Good-looking, intelligent, shameless",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,160,blue,dog,"honest, driven, organised",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,161.544,green,dog,"happy, kind, energetic",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,162.56,green,dog,"Helpful, enthusiastic, conscientious",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,164,grey,dog,"Polish, ambitious, hard-working",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,165,brown,dog,"passiote, sensitive, fair",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,165,blue,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,165,brown,dog,"shy, loving, dependable",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,167,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,167,hazel,dog,"insecure, incompetent, honest",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,167,brown,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,167,brown,dog,"funny, chill, friendly",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,168,blue,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,169,brown,dog,"ooft, angry, fluffy",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,170,brown,dog,"Ambitious, Witty, Caring",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,170,blue,dog,kind ginger clumsy,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,171,green,dog,"Funny, Supportive, Honest",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,172,amber,dog,"smart, laidback, active",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,173,blue,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,173,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,180,blue,dog,"passiote, loose, weird",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,187,blue,dog,Charming Dexterous Curious,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,188,green,dog,"Empathetic, Ambitious, Curious",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,NA,hazel,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,NA,brown,dog,"Responsible, independent and caring",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,NA,blue,NA,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,150,brown,cat,small asian kid,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,156,grey,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,157,brown,cat,"Outgoing, fun and ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,157.1,brown,cat,"fabulous, careful, logical",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,158,brown,cat,ALSO LOVE DOGS,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,158,brown,cat,laziness and procrastition,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,158,green,cat,"Confident, cheeky, candid",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,158,brown,cat,Not Enough Words,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,158.75,brown,cat,"Loud, intelligent, understanding",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,160,brown,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,160,green,cat,"creative, quiet, ginger",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,161,other,cat,"persevering, easygoing, passiote (if good words are needed)",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,162,hazel,cat,Perfectionist who procrastites,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,163,brown,cat,weird independent outgoing,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,163,green,cat,introverted night owl,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,163,blue,cat,"kind, creative, thoughtful",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,164,brown,cat,"Honest, trustworthy, kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,164,blue,cat,"hardworking, optimistic, creative",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,165,blue,cat,"Curious, Passiote, Ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,165,other,cat,creative curious hyperactive rebel,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,166,hazel,cat,friendly,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,166,hazel,cat,"friendly, kind and considerate",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,167,brown,cat,"Calm, Alytical, and Adventurous",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,167,brown,cat,"weird, shy, awkward",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,167,other,cat,Really don't know!,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,167,brown,cat,trying my best,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,170,blue,cat,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,170,blue,cat,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,170,hazel,cat,"Curious, caring,",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,170,hazel,cat,"Caring, curious, organised",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,170.18,blue,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,171,other,cat,Sleepy Tired Confused,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,172,hazel,cat,"peaceful, ambitious, empathetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,172,brown,cat,sporty quiet dedicated,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,172.72,blue,cat,"outgoing, patient, chill",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,173,brown,cat,"Energetic, Independent, Leader",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,173,blue,cat,"creative, outgoing, adventurous",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,174,brown,cat,Happy Go Lucky :),2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,175,blue,cat,"friendly, bookworm, foodie",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,175,blue,cat,super duper dysfunctiol,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,176,brown,cat,Active Sporty Sociable,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,178,green,cat,"introverted, intense, and intelligent,",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,178,blue,cat,"kind, motivated, creative",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,183,blue,cat,"Tall, hard-working, kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,149,brown,dog,"Quirky, sociable, resilient",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,150,brown,dog,small asian kid,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,155,blue,dog,"Loud, Chatty and kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,156,brown,dog,"Confident, Passiote, Procrastitor",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,157,hazel,dog,NA,2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,158.5,brown,dog,"Empathy, Friendly, INFP:)",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,159,brown,dog,Friendly Adventurous kind,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,160,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,160,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,161,blue,dog,"Caring, funny and social",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,162,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,162,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,162,brown,dog,"confident, powerful, charismatic,",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,162.6,brown,dog,"Friendly, introverted, motivated",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,163,green,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,163,green,dog,"Chatty, positive and determined.",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,163,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,164,brown,dog,"Cheerful, curious, persevering",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,165,blue,dog,tired lonely confused,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,165,green,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,165,blue,dog,"Chaotic, empathetic, excited",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,165,brown,dog,"Whimsical, warmhearted, shy",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,165,amber,dog,"funny, easy-going, driven",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,165,brown,dog,"Enthusiastic, perfectionist multipotential",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,166,hazel,dog,"strong-willed, approachable, emotiol",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,166,green,dog,"talkative, energetic, optimistic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,166,brown,dog,"""average human being""",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,167,blue,dog,"Blunt, sarcastic, caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,167,blue,dog,"Quiet, cute, quirky",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,168,brown,dog,"Plant-mom, sound, happy",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,168,brown,dog,"empathetic, honest, friendly",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,168,other,dog,Lay,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,168,other,dog,"Easy-going, optimistic, shy",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,168,brown,dog,"extrovert, determined, optimist",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,168,other,dog,NA,2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,168,blue,dog,"Indecisive, sympathetic and caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-nov,168,green,dog,"Friendly, Imagitive, Ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,170,brown,dog,"Sporty , outgoing , fun",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,170,brown,dog,"hilarious, unstable, alcoholic",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,170,green,dog,"sporty, outgoing, friendly",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-aug,170,brown,dog,"friendly, outgoing, ?",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-apr,170,blue,dog,Not very funny,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,170,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,170,green,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,171,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,171,blue,dog,"Dymic, funny, understanding",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,171,green,dog,Optimistic diligent outgoing,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,171,grey,dog,"enthusiastic, polish, blond",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,172,brown,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,172,blue,dog,"fun, kind, resilient",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,172,other,dog,"nothing, everything, ok",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,172.72,hazel,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,172.72,hazel,dog,"American, Cheerful, Energetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,173,grey,dog,"stubborn, open, talkative",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,173.5,green,dog,"Friendly, patient, helpful",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,174,brown,dog,"shy, dorky, affectiote",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,174,brown,dog,"Empathetic, perfectionistic, inquisitive",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jan,174,blue,dog,"ambitious, energetic, critical",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,174,brown,dog,"Determined,respectful,sensitive",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,175,blue,dog,"Confident, funny, tall",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,175,brown,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-feb,176,green,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,176.8,brown,dog,"Realist, Organised, Caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,177,blue,dog,"Geeky, sporty, empathetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,177.8,green,dog,"caring,ambitious,daydreamer",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jun,178,brown,dog,"curious, ambitious, organised",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,179,hazel,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,180,blue,dog,An Introverted Extrovert,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,180,brown,dog,"Determined, Ambitious, Out-going",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-oct,180,green,dog,Bubbly friendly adventurous,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-may,180,brown,dog,"calm, open, lazy",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-dec,180,blue,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-sep,181,blue,dog,"American, unpredictable, dilligent",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-jul,188,hazel,dog,"sociable, confident, hard-working",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
-mar,NA,brown,dog,"Determined, kind, observant",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA
+dec,180,brown,Dog,agreeable; conscientious; excitable,2022,usmr,NA,NA,NA,10,Morning person,30,42,33,30,33,26,buddy0115,73
+jul,162,brown,Dog,"Creative, Positive, Distractible",2022,usmr,NA,NA,NA,65,Evening person,34,39,36,31,33,24,Kitty,NA
+nov,175,brown,Cat,"imaginative, analytical and introverted",2022,usmr,NA,NA,NA,20,Evening person,22,44,29,27,37,22,NA,75
+nov,175,brown,Cat,inquisitive; introverted; creative,2022,usmr,NA,NA,NA,50,Morning person,23,40,35,20,42,22,NA,75
+jul,168.5,brown,Dog,"Persistent, youthful, melancholic",2022,usmr,NA,NA,NA,44,Morning person,16,36,31,27,40,21,1208,66
+may,157.48,brown,Dog,"flexible, adventurous, organized",2022,usmr,NA,NA,NA,80,Evening person,34,44,42,37,36,27,silly sausage,80
+may,170,brown,Cat,"Passionate, curious, creative",2022,usmr,NA,NA,NA,60,Morning person,32,43,32,24,40,26,Nsqrl,60
+aug,168,blue,Dog,"Non-judgemental, introverted, stressed",2022,usmr,NA,NA,NA,50,Morning person,32,35,43,16,28,24,April,60
+jul,178,blue,Cat,"Determined, organised, honest",2022,usmr,NA,NA,NA,60,Morning person,31,42,42,20,46,26,Agirl,90
+jun,166,brown,Cat,"Happy, curious, mediterranean",2022,usmr,NA,NA,NA,80,Evening person,31,43,39,36,34,23,DELL73,85
+jul,189,green,Dog,"energetic, thinker, excited",2022,usmr,NA,NA,NA,90,Evening person,40,44,33,27,40,28,Casey,78
+apr,180,brown,Dog,"Smart, Honest, Lazy",2022,usmr,NA,NA,NA,20,Evening person,18,44,36,25,34,18,Dreamy,60
+jul,168,brown,Dog,"Rational, assertive, introverted",2022,usmr,NA,NA,NA,60,Evening person,21,31,41,24,49,23,SL,40
+jul,154,brown,Cat,"Stubborn, opinionated, eccentric",2022,usmr,NA,NA,NA,70,Morning person,24,30,27,13,37,18,NA,40
+aug,159,brown,Cat,sleepy all day,2022,usmr,NA,NA,NA,30,Evening person,27,39,26,27,26,20,penguin,90
+nov,177,blue,Cat,"Introspective, anxious, existentialist",2022,usmr,NA,NA,NA,4,Morning person,19,41,32,34,42,23,LL8991,79
+jun,161,brown,Dog,"Funny, Brave, Kind",2022,usmr,NA,NA,NA,80,Morning person,30,44,38,27,40,27,Tom,87
+jan,177,blue,Dog,I am Josiah!,2022,usmr,NA,NA,NA,15,Morning person,20,38,39,31,39,22,Josiah,50
+jun,188,blue,Dog,Open; Driven; Contemplative,2022,usmr,NA,NA,NA,70,Morning person,33,36,37,38,46,26,Decimus,75
+sep,170,grey,Cat,"Funny, curious, moody",2022,usmr,NA,NA,NA,65,Morning person,32,NA,32,20,44,22,NA,25
+sep,152.7,blue,Cat,"ambicious, , brave, curious",2022,usmr,NA,NA,NA,0,Evening person,24,29,46,14,47,30,NA,68
+may,170.18,blue,Cat,"Indecisive, open, and curious.",2022,usmr,NA,NA,NA,75,Evening person,26,43,37,23,41,23,SU,50
+aug,166,brown,Cat,curious passionate energetic,2022,usmr,NA,NA,NA,10,Evening person,40,43,38,21,45,22,NA,80
+dec,161,other,Cat,Motivated  warm collaborated,2022,usmr,NA,NA,NA,85,Evening person,37,40,31,42,35,20,DD,90
+nov,168,hazel,Cat,"Conscientious, Disagreeable, Introverted",2022,usmr,NA,NA,NA,50,Evening person,20,17,42,47,50,30,D.J.,90
+nov,153,blue,Cat,"curious, sensitive, driven",2022,usmr,NA,NA,NA,75,Morning person,29,43,30,22,38,19,w,60
+may,168,brown,Cat,"ideological, curious, empathetic",2022,usmr,NA,NA,NA,30,Evening person,35,44,41,18,39,19,NA,45
+jun,163.8,hazel,Dog,"Emotional, stubborn, observant",2022,usmr,NA,NA,NA,15,Evening person,37,32,22,18,35,25,F0104,70
+apr,181,brown,Dog,Never give up,2022,usmr,NA,NA,NA,40,Evening person,34,44,35,34,39,26,CNF,70
+may,158,brown,Cat,"adventurous, shy, independent",2022,usmr,NA,NA,NA,90,Morning person,19,40,39,20,35,22,J,78
+oct,165,brown,Dog,"bubbly, amiable, thoughtful",2022,usmr,NA,NA,NA,80,Morning person,40,46,31,10,44,20,salmon,20
+oct,178,brown,Dog,"Happy, crazy, curious",2022,usmr,NA,NA,NA,60,Morning person,34,44,29,38,31,25,Tupeaux,90
+aug,175,blue,Cat,"Cunning, Caring, Impulsive",2022,usmr,NA,NA,NA,85,Evening person,40,41,26,27,46,21,Uncle,70
+mar,157.4,brown,Dog,Independent. Resourceful. Creative.,2022,usmr,NA,NA,NA,85,Morning person,30,41,40,27,47,23,Matilda,75
+dec,168.5,brown,Dog,"Introverted, nice, interesting",2022,usmr,NA,NA,NA,90,Evening person,18,41,37,28,26,15,Karen,85
+aug,160,other,Dog,"idealist, procrastinator, bookworm",2022,usmr,NA,NA,NA,70,Morning person,29,43,36,26,34,20,77,50
+oct,158,brown,Dog,"Kind, silent, and calm.",2022,usmr,NA,NA,NA,89,Evening person,12,35,42,22,28,18,NA,99
+mar,NA,brown,Cat,NA,2022,usmr,NA,NA,NA,20,Morning person,27,33,33,39,26,23,NA,90
+apr,164,brown,Dog,positive development  free,2022,usmr,NA,NA,NA,90,Evening person,33,39,31,35,30,25,LLL,85
+apr,1.82,green,Dog,"kind, empathetic, sensitive",2022,usmr,NA,NA,NA,50,Morning person,26,43,35,25,30,23,susanne,75
+jun,157,hazel,Dog,"fun, overthinker, movie junkie",2022,usmr,NA,NA,NA,50,Evening person,40,45,39,32,40,25,Hermione Granger,70
+jun,156,brown,Cat,"Honest, Passionate, Organised",2022,usmr,NA,NA,NA,90,Morning person,36,45,39,28,37,24,Monica,80
+sep,157,brown,Dog,"Intelligent, witty, caring",2022,usmr,NA,NA,NA,88,Evening person,40,47,47,39,45,21,Diana,78
+jan,172,blue,Dog,"Athletic, chatty, easygoing",2022,usmr,NA,NA,NA,60,Evening person,43,40,40,28,34,21,1845,89
+dec,177.8,green,Dog,"curious, kind, open-minded",2022,usmr,NA,NA,NA,70,Morning person,38,46,35,38,36,23,michael,80
+dec,154,brown,Cat,"open-minded, myopic, musical",2022,usmr,NA,NA,NA,70,Evening person,28,30,36,41,36,24,NA,15
+jul,162,brown,Dog,"quiet, silly, curious",2022,usmr,NA,NA,NA,8,Morning person,26,44,34,23,45,26,NA,7
+sep,175.26,other,Dog,"Caring, Enthusiastic, Respectful",2022,usmr,NA,NA,NA,50,Evening person,31,41,NA,38,32,24,I21J,70
+apr,162.56,brown,Cat,"creative, optimistic, curious",2022,usmr,NA,NA,NA,0,Morning person,36,43,31,27,38,19,grace f,90
+may,170,hazel,Dog,Trying my best,2022,usmr,NA,NA,NA,90,Morning person,17,32,29,25,26,16,NA,60
+mar,178,blue,Dog,"Ambitious, Weird, Loyal",2022,usmr,NA,NA,NA,70,Evening person,30,36,37,24,40,24,Eliza,50
+jul,167,green,Cat,"Resillient, intuitive, open-minded",2022,usmr,NA,NA,NA,25,Evening person,37,44,35,37,36,26,NA,75
+apr,170,blue,Dog,"open-minded, excitable, sociable",2022,usmr,NA,NA,NA,20,Evening person,39,42,37,31,36,24,RedPandaLover123,70
+mar,157,hazel,Dog,"Sweet, curious, adaptable.",2022,usmr,NA,NA,NA,100,Evening person,23,47,45,33,42,27,WSKYLPZ,90
+feb,162.4,brown,Dog,"introvert, earnest，dependent",2022,usmr,NA,NA,NA,50,Evening person,15,32,27,29,35,23,cool,66
+aug,157,green,Dog,Fun smiley friendly,2022,usmr,NA,NA,NA,100,Morning person,46,39,45,27,38,26,NEB,50
+dec,164,brown,Dog,"Honest, Friendly, Sensitive",2022,usmr,NA,NA,NA,70,Morning person,29,45,40,26,32,21,Y,70
+may,162.5,brown,Dog,"anxious, curious, kind",2022,usmr,NA,NA,NA,100,Evening person,26,34,29,25,29,23,dex09,65
+nov,149,hazel,cat,"Excited, anxious, passiote",2021,usmr,NA,female,80,10,Evening person,33,44,44,22,39,28,NA,NA
+dec,153,hazel,cat,"reserved, nerdy, approachable",2021,usmr,NA,female,40,40,Evening person,17,32,28,15,22,15,NA,NA
+sep,155,green,cat,"curious, sociable, diplomatic",2021,usmr,NA,NA,154,95,Morning person,26,41,43,26,25,26,NA,NA
+jun,158,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,158,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,160,brown,cat,diligent smart optimistic,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,160,brown,cat,"low-key, funny, nervous",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,160,brown,cat,agreeable female sociophobic,2021,usmr,NA,female,68,25,Evening person,23,40,34,25,39,19,NA,NA
+nov,162,hazel,cat,"Motivated, passiote, patient",2021,usmr,NA,female,73,25,Evening person,37,41,26,22,43,24,NA,NA
+oct,162.56,hazel,cat,Ambitious Fun Friendly,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,163,green,cat,"funny, driven, curious",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,163,green,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,164,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,164,blue,cat,"sarcastic, indecisive, kind",2021,usmr,NA,female,100,85,Evening person,26,47,37,27,31,27,NA,NA
+nov,165,brown,cat,"colourful, linguist, overthinker",2021,usmr,NA,male,85,90,Evening person,21,44,34,32,39,24,NA,NA
+nov,165,brown,cat,"optimistic, hard-working, dedicated",2021,usmr,NA,female,50,60,Morning person,25,41,43,30,31,28,NA,NA
+may,165,NA,cat,"Likeable, friendly, creative",2021,usmr,NA,female,80,20,Morning person,24,41,28,39,29,20,NA,NA
+oct,168,brown,cat,lazy,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,168,other,cat,Night Owl Glasses,2021,usmr,NA,female,90,60,Morning person,33,39,29,20,42,21,NA,NA
+jun,168,brown,cat,I don't know,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,169,brown,cat,"outgoing, ambitious, compassiote",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,170,green,cat,"Independent, Resourceful, Shy",2021,usmr,NA,female,50,90,Evening person,40,48,35,16,34,18,NA,NA
+sep,170,hazel,cat,"creative, optimistic, sociable",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,170,brown,cat,"straight-forward, persistence, interesting",2021,usmr,NA,female,75,75,Evening person,34,47,42,22,39,19,NA,NA
+mar,171,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,172,brown,cat,"Chaotic, happy, busy",2021,usmr,NA,non-biry,100,70,Evening person,36,44,26,29,46,24,NA,NA
+oct,173,brown,cat,anxious creative haunted,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,175,green,cat,"Creative, introspective, dedicated",2021,usmr,NA,female,60,2,Evening person,27,39,33,31,49,22,NA,NA
+feb,175,hazel,cat,"quiet, thoughtful, anxious",2021,usmr,NA,female,63,10,Evening person,20,37,34,18,36,26,NA,NA
+nov,178,green,cat,NA,2021,usmr,NA,male,87,67,Evening person,24,42,45,33,37,26,NA,NA
+jan,180,blue,cat,NA,2021,usmr,NA,male,75,20,Evening person,29,30,38,34,33,29,NA,NA
+nov,183,brown,cat,"hiking, photographing, open-minded",2021,usmr,NA,male,30,5,Evening person,39,45,25,45,40,20,NA,NA
+sep,190,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,191,brown,cat,NA,2021,usmr,NA,male,65,15,Evening person,20,44,36,18,41,13,NA,NA
+oct,NA,brown,cat,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,152,blue,dog,"creative, kind, fun",2021,usmr,NA,female,75,85,Morning person,22,48,34,26,37,24,NA,NA
+apr,153,brown,dog,"kind, funny, smart",2021,usmr,NA,female,70,60,Evening person,35,42,30,32,32,18,NA,NA
+oct,154.94,green,dog,"ambitious, empathetic, passiote",2021,usmr,NA,female,50,20,Evening person,32,42,35,18,37,23,NA,NA
+feb,157,brown,dog,"Funny, Smart, Witty",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,158,brown,dog,"quiet, easy-going",2021,usmr,NA,female,78,50,Evening person,19,43,33,22,42,24,NA,NA
+may,160,brown,dog,excited outgoing friendly,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,160,hazel,dog,NA,2021,usmr,NA,female,10,100,Morning person,14,39,39,25,37,23,NA,NA
+feb,160,brown,dog,"strong, funny, smart",2021,usmr,NA,female,90,90,Morning person,25,37,31,31,28,19,NA,NA
+aug,160,other,dog,"Enthusiastic, passiote, intelligent",2021,usmr,NA,female,80,80,Evening person,41,34,32,31,36,24,NA,NA
+oct,160,brown,dog,like a sun,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,162.56,brown,dog,Often googling stuff,2021,usmr,NA,female,50,50,Evening person,25,31,32,20,34,15,NA,NA
+nov,163,grey,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,163,brown,dog,NA,2021,usmr,NA,female,60,30,Evening person,33,39,33,26,34,26,NA,NA
+sep,164,brown,dog,"warm,open-minded,perseverant",2021,usmr,NA,female,5,0,Evening person,21,44,40,16,50,14,NA,NA
+sep,164,brown,dog,"Procrastitor, Tired, Determined",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,165.09,blue,dog,"Chatty, social, caring",2021,usmr,NA,female,88,0,Evening person,30,47,29,25,39,24,NA,NA
+jan,165.1,brown,dog,NA,2021,usmr,NA,female,50,50,Evening person,24,43,38,26,31,27,NA,NA
+feb,166,green,dog,"Empathetic, motivated, disorganised",2021,usmr,NA,female,70,10,Evening person,37,44,22,27,42,21,NA,NA
+apr,167,brown,dog,Awkward Sleepy Kind,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,167,other,dog,a sleepy student,2021,usmr,NA,female,20,90,Evening person,28,26,39,19,31,17,NA,NA
+apr,167.64,brown,dog,"curious, mountain-lover, Iraqi",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,168,blue,dog,"curious, thoughtful, funny(ish)",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,168,brown,dog,"nerdy, artsy, adventurous",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,168,grey,dog,"Student, Psychologist, Tourist",2021,usmr,NA,female,85,50,Evening person,29,37,35,38,32,21,NA,NA
+jun,169,brown,dog,"sensitive, kind, ordiry",2021,usmr,NA,female,90,0,Evening person,37,41,32,30,29,18,NA,NA
+may,170,blue,dog,NA,2021,usmr,NA,female,50,5,Evening person,26,46,42,31,39,25,NA,NA
+nov,170,blue,dog,"kind, generous, crazy",2021,usmr,NA,non-biry,100,0,Morning person,41,49,47,17,50,25,NA,NA
+sep,170,brown,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,170,hazel,dog,"sociable, funny, clever",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,170.7,blue,dog,"Caring, Honest, Loyal",2021,usmr,NA,female,65,54,Evening person,26,49,36,23,41,26,NA,NA
+dec,171,green,dog,NA,2021,usmr,NA,female,65,60,Evening person,34,48,37,23,31,23,NA,NA
+jun,173,brown,dog,timid positive listenting,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,173,brown,dog,"curious, stupid, happy",2021,usmr,NA,female,50,65,Morning person,41,45,26,23,37,16,NA,NA
+jul,174,brown,dog,"resilient, lively, confident",2021,usmr,NA,male,70,80,Morning person,31,43,36,30,32,21,NA,NA
+apr,175,hazel,dog,NA,2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,175,brown,dog,I am excited,2021,usmr,NA,female,90,24,Evening person,35,47,45,32,46,27,NA,NA
+dec,175,brown,dog,NA,2021,usmr,NA,female,80,50,Morning person,40,45,35,36,30,21,NA,NA
+dec,175.5,green,dog,"spontaneous, curious, loving",2021,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,177,brown,dog,kind postive trustworthy,2021,usmr,NA,male,10,60,Evening person,23,41,33,23,39,14,NA,NA
+nov,178,brown,dog,"Hard-working, loyal, determined",2021,usmr,NA,male,60,50,Evening person,25,37,28,27,34,23,NA,NA
+may,185,blue,dog,curious deliberate motivated,2021,usmr,NA,male,100,0,Morning person,15,29,37,17,46,16,NA,NA
+may,195,grey,dog,Tall Lanky Pole,2021,usmr,NA,male,70,10,Morning person,29,37,39,33,42,23,NA,NA
+may,154,brown,cat,Short Passiote Compassiote,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,158,brown,cat,"creative, curious, neat",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,158,brown,cat,"creative, reflexive, chill",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,158,other,cat,smart diligent lazy,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,159,brown,cat,"introvert, smart, honest",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,160,brown,cat,"passioted, diligent, kind",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,162,brown,cat,"Intense, eloquent, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,163,brown,cat,"Stubborn, ambitious and prudent",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,163,blue,cat,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,163,brown,cat,nerdy independent friendly,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,165,hazel,cat,"Strong, silly, open",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,166,blue,cat,"Kind, Open-minded, Curious",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,166,brown,cat,"Curious, emotiol, annoying",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,167,hazel,cat,"optimistic, persistent, innovative",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,167,brown,cat,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,167,brown,cat,"friendly, shy, gentle",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,168,brown,cat,"athletic, responsible, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,168,brown,cat,human optimism psychology,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,172,green,cat,Crazy but ambitious,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,174,brown,cat,NA,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,174,brown,cat,"nice, kind, listening",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,177,blue,cat,"friendly, observant, nerdy",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,177,green,cat,"Open, Sincere, Curious",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,178,blue,cat,"curious, distractible, funny",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,185.5,brown,cat,"aggressive, independent, amiable",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,188,blue,cat,"fortute, adventurous, thoughtful",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,149,blue,dog,"Awkward, smart, funny.",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,154,brown,dog,"Curious, Calm, Adventurous",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,157,blue,dog,"Conscientious, Enthusiastic, Patient",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,157,green,dog,Short and sweet,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,157,brown,dog,"Motivated, lazy, hard-working",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,158,brown,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,160,brown,dog,quiet deep thinker,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,160,hazel,dog,"Adventurous, Curious, Gregarious",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,160,brown,dog,unrestrained diverisitied humurous,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,161,brown,dog,"Caring, funny, thinker",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,162,brown,dog,"Optimistic, Emotiol, Hardworking",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,163,brown,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,163,other,dog,NA,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,164,brown,dog,"Curious, observant and nervous",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,164,brown,dog,"Curious, Creative, Carer",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,165,brown,dog,"warm, reliable, open-minded",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,165,brown,dog,"confident, indepent, curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,165,green,dog,"Bubbly, Charismatic, Fun",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,165,blue,dog,"curious, passiote, collaborative",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,165,blue,dog,"curious, passiote, collaborative",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,166,brown,dog,"dedicated, resourceful, friendly",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,166,blue,dog,"language-nerd, plant-lover, dancer",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,166,blue,dog,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,167.64,brown,dog,"Quirky, Pensive, Argumentative",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,168,brown,dog,always always sleepy,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,169,hazel,dog,NA,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,169,brown,dog,"ratiol, empathetic, competitive",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,170,brown,dog,"Friendly, dedicated and curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,170,blue,dog,"clumsy, ambitious, open-minded",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,170,hazel,dog,"Enthusiastic, principled, individualist",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,170,blue,dog,Ready to study,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,170,green,dog,"Creative, Optimistic, Curious",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,171,brown,dog,"Active, sportive, organized",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,172,blue,dog,"Adventurous, musical and excitable",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,173,brown,dog,curious caring fair,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,175,blue,dog,"active, sports-enthusiast, European",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,176,brown,dog,"Books, tired, interested",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,176,blue,dog,"Patient, hard-working, organised",2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,177,green,dog,"violence, speed, momentum",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,177,blue,dog,"sporty, quiet, funny",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,177,blue,dog,"Adventurous, Inquisitive, Compassiote",2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,179,green,dog,curious practical deliberate,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,180,blue,dog,"curious, dreamy, coffee",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,180,other,dog,gourmet  sport  happy,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,185,brown,dog,"effective, spontanious, resilient",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,185,blue,dog,Friendly Happy Driven,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,187,brown,dog,Easy-going; Left-handed; Engineer,2020,usmr,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,187,hazel,dog,no thank you,2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,193,green,dog,NA,2020,usmr,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,193,green,dog,"funky, highly strung",2020,usmr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,158,brown,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,160,blue,cat,"Organised, colourful, smart",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,160,green,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,160,brown,cat,"ratiol, procrastiting, compassiote",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,160,hazel,cat,"Sociable, ambitious, optimistic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,161,blue,cat,"fun, adventurous, understanding",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,163,brown,cat,"outgoing, kind, girl",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,163,blue,cat,"ambitious, calm, caring",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,165,blue,cat,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,165,blue,cat,"thoughtful, pragmatic, forgetful",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,165,green,cat,"Outgoing, funny, sassy",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,166,brown,cat,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,166,hazel,cat,"creative, anxious, introspective",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,168,hazel,cat,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,172,green,cat,A perfectionist procrastitor,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,172,hazel,cat,"tired, chatty, funny",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,173,green,cat,"sporty, friendly, bookworm",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,173,blue,cat,"Creative, Hardworking, Caring",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,173,green,cat,"Kind, Generous, Quick-witted",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,174,hazel,cat,"curious, kind, introvert",2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,175,hazel,cat,trying my best,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,180,green,cat,"Creative, Teamplayer, Creative",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,182,brown,cat,"Tall, Conscientious, liberal",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,148,brown,dog,"outgoing, anxious, witty",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,155,hazel,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,155,brown,dog,"Lively, short and bubbly",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,157,hazel,dog,"calm, open-minded, positive",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,157,blue,dog,"Chill, Curious, Sporty",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,158,brown,dog,"Reserved, Friendly, Anxious",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,159,blue,dog,"Quiet, sarcastic, kind",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,160,green,dog,Sarcastic fun easygoing,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,160,hazel,dog,"Organised, Generous and Hard-working",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,160,brown,dog,"Determined, Warm, Enthusiastic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,160,green,dog,"funny, loyal, kind",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,160,blue,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,161,blue,dog,"Ambitious, caring, small",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,162,brown,dog,"Hard-working, creative and organized",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,162,hazel,dog,"friendly, fun, loving",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,162,brown,dog,"Optimistic, restless, over thinker",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,163,brown,dog,"Outgoing, meticulous, responsible",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,163,brown,dog,"Kind, easygoing, organised",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,164.7,blue,dog,"Neurotic, empathetic, anxious",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,165,brown,dog,"unorganised, optimistic and friendly",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,165,hazel,dog,"Passiote, curious, positive",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,167,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,167,blue,dog,"Energetic, Emotiol, Adaptable",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,167.5,brown,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,169,brown,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,169,hazel,dog,"empathetic, strong-willed, loyal",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,169,hazel,dog,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,170,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,170,hazel,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,170,brown,dog,"bubbly, ambitious, energetic",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,173,brown,dog,Smart Fun High,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,174,blue,dog,"outgoing, honest, athletic",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,174,blue,dog,"Caring, thoughtful, dedicated",2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,176,green,dog,iced latte lover,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,176,blue,dog,"positive, considerate, friendly",2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,178,grey,dog,"Inquisitive, Eccentric, Humorous",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,178,brown,dog,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,180,blue,dog,"King, Giving, Reflective",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,180.34,brown,dog,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,181,blue,dog,"passiote, thoughtful, balanced",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,182,green,dog,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,185,brown,dog,"outgoing, polite, tall",2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,172,blue,NA,NA,2020,rms2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,177,green,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,2020,rms2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,2020,rms2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,145.5,brown,cat,plant-obsessed non-biry person,2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,157,green,cat,"Positive, funny, organised",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,159,blue,cat,"chaotic, nerd, functiol",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,160.4,brown,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,161,blue,cat,"lazy, smart, short",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,162,brown,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,162,brown,cat,"kind, cool, helpful",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,162,brown,cat,"moody, fun, determined",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,162.5,brown,cat,"Empathetic, quirky, creative",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,163,brown,cat,"Ambitious, shy, friendly",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,164.5,brown,cat,"Insane, Challenge, Bright",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,165,amber,cat,"sensitive, ambitious, adaptable",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,168,brown,cat,"quiet, kind and introverted",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,169,green,cat,"hard-working, friendly, curious",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,170,blue,cat,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,170,blue,cat,"bookworm, open-minded, organized",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,170,brown,cat,passion,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,171,brown,cat,happy with herself,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,171,brown,cat,happy with herself,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,173,other,cat,"crunchy, sour, gelatinous",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,175,blue,cat,creative inquisitive friendly,2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,175,blue,cat,"Funny, Determined, Clever",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,180,brown,cat,Hungry Spacey Neat,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,153,brown,dog,"Emotionless, Hardworking and Cool",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,157,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,159,brown,dog,"Good-looking, intelligent, shameless",2020,dapr2,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,160,blue,dog,"honest, driven, organised",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,161.544,green,dog,"happy, kind, energetic",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,162.56,green,dog,"Helpful, enthusiastic, conscientious",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,164,grey,dog,"Polish, ambitious, hard-working",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,165,brown,dog,"passiote, sensitive, fair",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,165,blue,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,165,brown,dog,"shy, loving, dependable",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,167,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,167,hazel,dog,"insecure, incompetent, honest",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,167,brown,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,167,brown,dog,"funny, chill, friendly",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,168,blue,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,169,brown,dog,"ooft, angry, fluffy",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,170,brown,dog,"Ambitious, Witty, Caring",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,170,blue,dog,kind ginger clumsy,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,171,green,dog,"Funny, Supportive, Honest",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,172,amber,dog,"smart, laidback, active",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,173,blue,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,173,brown,dog,NA,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,180,blue,dog,"passiote, loose, weird",2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,187,blue,dog,Charming Dexterous Curious,2020,dapr2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,188,green,dog,"Empathetic, Ambitious, Curious",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,NA,hazel,dog,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,NA,brown,dog,"Responsible, independent and caring",2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,NA,blue,NA,NA,2020,dapr2,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,150,brown,cat,small asian kid,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,156,grey,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,157,brown,cat,"Outgoing, fun and ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,157.1,brown,cat,"fabulous, careful, logical",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,158,brown,cat,ALSO LOVE DOGS,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,158,brown,cat,laziness and procrastition,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,158,green,cat,"Confident, cheeky, candid",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,158,brown,cat,Not Enough Words,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,158.75,brown,cat,"Loud, intelligent, understanding",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,160,brown,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,160,green,cat,"creative, quiet, ginger",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,161,other,cat,"persevering, easygoing, passiote (if good words are needed)",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,162,hazel,cat,Perfectionist who procrastites,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,163,brown,cat,weird independent outgoing,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,163,green,cat,introverted night owl,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,163,blue,cat,"kind, creative, thoughtful",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,164,brown,cat,"Honest, trustworthy, kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,164,blue,cat,"hardworking, optimistic, creative",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,165,blue,cat,"Curious, Passiote, Ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,165,other,cat,creative curious hyperactive rebel,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,166,hazel,cat,friendly,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,166,hazel,cat,"friendly, kind and considerate",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,167,brown,cat,"Calm, Alytical, and Adventurous",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,167,brown,cat,"weird, shy, awkward",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,167,other,cat,Really don't know!,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,167,brown,cat,trying my best,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,170,blue,cat,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,170,blue,cat,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,170,hazel,cat,"Curious, caring,",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,170,hazel,cat,"Caring, curious, organised",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,170.18,blue,cat,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,171,other,cat,Sleepy Tired Confused,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,172,hazel,cat,"peaceful, ambitious, empathetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,172,brown,cat,sporty quiet dedicated,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,172.72,blue,cat,"outgoing, patient, chill",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,173,brown,cat,"Energetic, Independent, Leader",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,173,blue,cat,"creative, outgoing, adventurous",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,174,brown,cat,Happy Go Lucky :),2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,175,blue,cat,"friendly, bookworm, foodie",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,175,blue,cat,super duper dysfunctiol,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,176,brown,cat,Active Sporty Sociable,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,178,green,cat,"introverted, intense, and intelligent,",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,178,blue,cat,"kind, motivated, creative",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,183,blue,cat,"Tall, hard-working, kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,149,brown,dog,"Quirky, sociable, resilient",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,150,brown,dog,small asian kid,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,155,blue,dog,"Loud, Chatty and kind",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,156,brown,dog,"Confident, Passiote, Procrastitor",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,157,hazel,dog,NA,2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,158.5,brown,dog,"Empathy, Friendly, INFP:)",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,159,brown,dog,Friendly Adventurous kind,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,160,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,160,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,161,blue,dog,"Caring, funny and social",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,162,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,162,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,162,brown,dog,"confident, powerful, charismatic,",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,162.6,brown,dog,"Friendly, introverted, motivated",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,163,green,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,163,green,dog,"Chatty, positive and determined.",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,163,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,164,brown,dog,"Cheerful, curious, persevering",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,165,blue,dog,tired lonely confused,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,165,green,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,165,blue,dog,"Chaotic, empathetic, excited",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,165,brown,dog,"Whimsical, warmhearted, shy",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,165,amber,dog,"funny, easy-going, driven",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,165,brown,dog,"Enthusiastic, perfectionist multipotential",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,166,hazel,dog,"strong-willed, approachable, emotiol",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,166,green,dog,"talkative, energetic, optimistic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,166,brown,dog,"""average human being""",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,167,blue,dog,"Blunt, sarcastic, caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,167,blue,dog,"Quiet, cute, quirky",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,168,brown,dog,"Plant-mom, sound, happy",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,168,brown,dog,"empathetic, honest, friendly",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,168,other,dog,Lay,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,168,other,dog,"Easy-going, optimistic, shy",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,168,brown,dog,"extrovert, determined, optimist",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,168,other,dog,NA,2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,168,blue,dog,"Indecisive, sympathetic and caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nov,168,green,dog,"Friendly, Imagitive, Ambitious",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,170,brown,dog,"Sporty , outgoing , fun",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,170,brown,dog,"hilarious, unstable, alcoholic",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,170,green,dog,"sporty, outgoing, friendly",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+aug,170,brown,dog,"friendly, outgoing, ?",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apr,170,blue,dog,Not very funny,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,170,brown,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,170,green,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,171,blue,dog,NA,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,171,blue,dog,"Dymic, funny, understanding",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,171,green,dog,Optimistic diligent outgoing,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,171,grey,dog,"enthusiastic, polish, blond",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,172,brown,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,172,blue,dog,"fun, kind, resilient",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,172,other,dog,"nothing, everything, ok",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,172.72,hazel,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,172.72,hazel,dog,"American, Cheerful, Energetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,173,grey,dog,"stubborn, open, talkative",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,173.5,green,dog,"Friendly, patient, helpful",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,174,brown,dog,"shy, dorky, affectiote",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,174,brown,dog,"Empathetic, perfectionistic, inquisitive",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jan,174,blue,dog,"ambitious, energetic, critical",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,174,brown,dog,"Determined,respectful,sensitive",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,175,blue,dog,"Confident, funny, tall",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,175,brown,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+feb,176,green,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,176.8,brown,dog,"Realist, Organised, Caring",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,177,blue,dog,"Geeky, sporty, empathetic",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,177.8,green,dog,"caring,ambitious,daydreamer",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jun,178,brown,dog,"curious, ambitious, organised",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,179,hazel,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,180,blue,dog,An Introverted Extrovert,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,180,brown,dog,"Determined, Ambitious, Out-going",2020,dapr1,Elsewhere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oct,180,green,dog,Bubbly friendly adventurous,2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+may,180,brown,dog,"calm, open, lazy",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dec,180,blue,dog,NA,2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+sep,181,blue,dog,"American, unpredictable, dilligent",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+jul,188,hazel,dog,"sociable, confident, hard-working",2020,dapr1,UK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mar,NA,brown,dog,"Determined, kind, observant",2020,dapr1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
