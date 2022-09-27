@@ -18,7 +18,7 @@ nov,177,blue,Cat,"Introspective, anxious, existentialist",2022,usmr,NA,NA,NA,4,M
 jun,161,brown,Dog,"Funny, Brave, Kind",2022,usmr,NA,NA,NA,80,Morning person,30,44,38,27,40,27,Tom,87
 jan,177,blue,Dog,I am Josiah!,2022,usmr,NA,NA,NA,15,Morning person,20,38,39,31,39,22,Josiah,50
 jun,188,blue,Dog,Open; Driven; Contemplative,2022,usmr,NA,NA,NA,70,Morning person,33,36,37,38,46,26,Decimus,75
-sep,170,grey,Cat,"Funny, curious, moody",2022,usmr,NA,NA,NA,65,Morning person,32,NA,32,20,44,22,NA,25
+sep,170,grey,Cat,"Funny, curious, moody",2022,usmr,NA,NA,NA,65,Morning person,32,34,32,20,44,22,NA,25
 sep,152.7,blue,Cat,"ambicious, , brave, curious",2022,usmr,NA,NA,NA,0,Evening person,24,29,46,14,47,30,NA,68
 may,170.18,blue,Cat,"Indecisive, open, and curious.",2022,usmr,NA,NA,NA,75,Evening person,26,43,37,23,41,23,SU,50
 aug,166,brown,Cat,curious passionate energetic,2022,usmr,NA,NA,NA,10,Evening person,40,43,38,21,45,22,NA,80
@@ -38,7 +38,7 @@ aug,160,other,Dog,"idealist, procrastinator, bookworm",2022,usmr,NA,NA,NA,70,Mor
 oct,158,brown,Dog,"Kind, silent, and calm.",2022,usmr,NA,NA,NA,89,Evening person,12,35,42,22,28,18,NA,99
 mar,NA,brown,Cat,NA,2022,usmr,NA,NA,NA,20,Morning person,27,33,33,39,26,23,NA,90
 apr,164,brown,Dog,positive development  free,2022,usmr,NA,NA,NA,90,Evening person,33,39,31,35,30,25,LLL,85
-apr,1.82,green,Dog,"kind, empathetic, sensitive",2022,usmr,NA,NA,NA,50,Morning person,26,43,35,25,30,23,susanne,75
+apr,182,green,Dog,"kind, empathetic, sensitive",2022,usmr,NA,NA,NA,50,Morning person,26,43,35,25,30,23,susanne,75
 jun,157,hazel,Dog,"fun, overthinker, movie junkie",2022,usmr,NA,NA,NA,50,Evening person,40,45,39,32,40,25,Hermione Granger,70
 jun,156,brown,Cat,"Honest, Passionate, Organised",2022,usmr,NA,NA,NA,90,Morning person,36,45,39,28,37,24,Monica,80
 sep,157,brown,Dog,"Intelligent, witty, caring",2022,usmr,NA,NA,NA,88,Evening person,40,47,47,39,45,21,Diana,78
@@ -46,7 +46,7 @@ jan,172,blue,Dog,"Athletic, chatty, easygoing",2022,usmr,NA,NA,NA,60,Evening per
 dec,177.8,green,Dog,"curious, kind, open-minded",2022,usmr,NA,NA,NA,70,Morning person,38,46,35,38,36,23,michael,80
 dec,154,brown,Cat,"open-minded, myopic, musical",2022,usmr,NA,NA,NA,70,Evening person,28,30,36,41,36,24,NA,15
 jul,162,brown,Dog,"quiet, silly, curious",2022,usmr,NA,NA,NA,8,Morning person,26,44,34,23,45,26,NA,7
-sep,175.26,other,Dog,"Caring, Enthusiastic, Respectful",2022,usmr,NA,NA,NA,50,Evening person,31,41,NA,38,32,24,I21J,70
+sep,175.26,other,Dog,"Caring, Enthusiastic, Respectful",2022,usmr,NA,NA,NA,50,Evening person,31,41,39,38,32,24,I21J,70
 apr,162.56,brown,Cat,"creative, optimistic, curious",2022,usmr,NA,NA,NA,0,Morning person,36,43,31,27,38,19,grace f,90
 may,170,hazel,Dog,Trying my best,2022,usmr,NA,NA,NA,90,Morning person,17,32,29,25,26,16,NA,60
 mar,178,blue,Dog,"Ambitious, Weird, Loyal",2022,usmr,NA,NA,NA,70,Evening person,30,36,37,24,40,24,Eliza,50
@@ -64,7 +64,9 @@ mar,177,brown,Cat,"patient, friendly, good-listener",2022,usmr,NA,NA,NA,70,Morni
 may,182,brown,Dog,"confident, smart, outgoing",2022,usmr,NA,NA,NA,80,Evening person,30,39,37,26,41,18,MeiYR,90
 may,164,brown,Cat,authentic slow observant,2022,usmr,NA,NA,NA,90,Evening person,36,46,26,35,50,23,Niña,75
 may,178,green,Cat,NA,2022,usmr,NA,NA,NA,99,Morning person,50,22,14,18,18,6,Definitely not Ian,3
-jun,173,hazel,Dog,"gameness, foodie, chitchat",2022,usmr,NA,NA,NA,60,Evening person,36,NA,20,31,41,16,NA,75
+jun,173,hazel,Dog,"gameness, foodie, chitchat",2022,usmr,NA,NA,NA,60,Evening person,36,33,20,31,41,16,NA,75
+jul,173.4,brown,Dog,extrovert helpful emotional,2022,usmr,NA,NA,NA,70,Evening person,32,34,30,32,43,20,NA,45
+jul,172,brown,Dog,"Adventurous, energetic, positive",2022,usmr,NA,NA,NA,50,Evening person,39,46,27,45,39,30,7,73
 nov,149,hazel,cat,"Excited, anxious, passiote",2021,usmr,NA,female,80,10,Evening person,33,44,44,22,39,28,NA,NA
 dec,153,hazel,cat,"reserved, nerdy, approachable",2021,usmr,NA,female,40,40,Evening person,17,32,28,15,22,15,NA,NA
 sep,155,green,cat,"curious, sociable, diplomatic",2021,usmr,NA,NA,154,95,Morning person,26,41,43,26,25,26,NA,NA
