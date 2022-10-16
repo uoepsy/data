@@ -17,7 +17,7 @@ while (doit) {
         x = map(1:Ngroups, ~1:NperGroup[.]) %>% unlist
         x2 = i%%2
         e = rnorm(N, sd = 10)
-        y = 0 + dd[groups,1]+dd2[i,1] + (2+dd[groups,2]+dd2[i,2])*x + (-4 * x2)*x+ (4 * x2) + e
+        y = 0 + dd[groups,1]+dd2[i,1] + (3+dd[groups,2]+dd2[i,2])*x + (-4 * x2)*x+ (4 * x2) + e
         d = data.frame(x,x2, y, groups)
         d$ng2 = i
         df<-rbind(df,d)
@@ -59,4 +59,5 @@ df3 <- expand_grid(schoolppt = unique(paste0(df2$schoolid,"_",df2$ppt)), age = u
     left_join(.,df2 %>% mutate(schoolppt = paste0(schoolid,"_",ppt))) %>% select(-schoolid, ppt) %>%
     separate(schoolppt, into=c("schoolid","ppt"), sep="_")
 
-#write.csv(df3, "../../data/abs_intervention.csv",row.names=F)
+
+# write.csv(df3, "../../data/abs_intervention.csv",row.names=F)
