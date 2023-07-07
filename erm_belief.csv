@@ -1,0 +1,601 @@
+ppt,trial_n,sentence,condition,belief,statement
+ppt_1,trial_01,20,fluent,59.691609617635365,The square root of 16 is 4
+ppt_1,trial_02,18,fluent,50.53310276069837,Rabbits can't be sick
+ppt_1,trial_03,16,fluent,51.91906796683617,The Eiffel Tower grows 6 inches in summer
+ppt_1,trial_04,19,fluent,36.4226146134157,The dot over a lowercase i and j is called a tittle
+ppt_1,trial_05,11,fluent,53.61107983012066,The Sahara desert is only 25% sand
+ppt_1,trial_06,6,disfluent,55.85147186315065,Water makes different sounds depending on its temperature
+ppt_1,trial_07,3,disfluent,46.94614208614824,Honey doesn't go off
+ppt_1,trial_08,2,disfluent,44.71839608825625,The first speeding fine was given in 1896
+ppt_1,trial_09,13,fluent,52.226467535874036,It would take 19 minutes to fall to the center of the earth
+ppt_1,trial_10,10,disfluent,48.77685255655878,You can draw a line 35 miles long using one pencil
+ppt_1,trial_11,5,disfluent,44.5433447771932,The largest snowflake was bigger than most pizzas
+ppt_1,trial_12,14,fluent,55.009636848170544,Sloths don't fart
+ppt_1,trial_13,9,disfluent,45.17997638327474,It's impossible to hum while holding your nose
+ppt_1,trial_14,15,fluent,46.736327041056086,Pigs don't sweat
+ppt_1,trial_15,7,disfluent,43.97671340197671,Mickey Mouse was originally called Mortimer
+ppt_1,trial_16,12,fluent,42.3721838013315,A hashtag is technically called an octothorp
+ppt_1,trial_17,8,disfluent,48.96345595913739,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_1,trial_18,4,disfluent,50.83027774989861,A dog was voted mayor of a town in Minnesot 4 times
+ppt_1,trial_19,1,disfluent,53.22920871309297,Candy floss was invented by a dentist
+ppt_1,trial_20,17,fluent,44.209493705064226,Flamingos are pink because of their diet
+ppt_10,trial_01,7,fluent,53.73433014121478,Mickey Mouse was originally called Mortimer
+ppt_10,trial_02,16,disfluent,46.16870462445961,The Eiffel Tower grows 6 inches in summer
+ppt_10,trial_03,17,disfluent,55.49409890784193,Flamingos are pink because of their diet
+ppt_10,trial_04,14,disfluent,49.801743806749954,Sloths don't fart
+ppt_10,trial_05,3,fluent,46.20950864678745,Honey doesn't go off
+ppt_10,trial_06,13,disfluent,46.248244577047814,It would take 19 minutes to fall to the center of the earth
+ppt_10,trial_07,5,fluent,48.6562249444225,The largest snowflake was bigger than most pizzas
+ppt_10,trial_08,12,disfluent,49.32747606215076,A hashtag is technically called an octothorp
+ppt_10,trial_09,18,disfluent,48.628303054824094,Rabbits can't be sick
+ppt_10,trial_10,9,fluent,55.526196764314406,It's impossible to hum while holding your nose
+ppt_10,trial_11,10,fluent,39.56357543397809,You can draw a line 35 miles long using one pencil
+ppt_10,trial_12,4,fluent,44.78217319271814,A dog was voted mayor of a town in Minnesot 4 times
+ppt_10,trial_13,6,fluent,57.201599255319564,Water makes different sounds depending on its temperature
+ppt_10,trial_14,15,disfluent,49.33305750948883,Pigs don't sweat
+ppt_10,trial_15,1,fluent,53.58915282662685,Candy floss was invented by a dentist
+ppt_10,trial_16,20,disfluent,57.07602559062862,The square root of 16 is 4
+ppt_10,trial_17,2,fluent,59.826583128669725,The first speeding fine was given in 1896
+ppt_10,trial_18,8,fluent,40.66150238389805,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_10,trial_19,19,disfluent,39.290099448508556,The dot over a lowercase i and j is called a tittle
+ppt_10,trial_20,11,disfluent,41.80657377075023,The Sahara desert is only 25% sand
+ppt_11,trial_01,17,fluent,49.579926051344614,Flamingos are pink because of their diet
+ppt_11,trial_02,1,disfluent,45.318891862213235,Candy floss was invented by a dentist
+ppt_11,trial_03,18,fluent,52.244725433268165,Rabbits can't be sick
+ppt_11,trial_04,3,disfluent,46.565336353427384,Honey doesn't go off
+ppt_11,trial_05,11,fluent,43.545394002810724,The Sahara desert is only 25% sand
+ppt_11,trial_06,13,fluent,47.91607785651739,It would take 19 minutes to fall to the center of the earth
+ppt_11,trial_07,2,disfluent,32.99176348815655,The first speeding fine was given in 1896
+ppt_11,trial_08,10,disfluent,43.738934034709935,You can draw a line 35 miles long using one pencil
+ppt_11,trial_09,14,fluent,53.526459630846695,Sloths don't fart
+ppt_11,trial_10,4,disfluent,53.60498097973452,A dog was voted mayor of a town in Minnesot 4 times
+ppt_11,trial_11,5,disfluent,50.41205560644969,The largest snowflake was bigger than most pizzas
+ppt_11,trial_12,20,fluent,51.11564217207449,The square root of 16 is 4
+ppt_11,trial_13,19,fluent,34.028182207042974,The dot over a lowercase i and j is called a tittle
+ppt_11,trial_14,8,disfluent,50.72319446325853,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_11,trial_15,12,fluent,41.59668069421407,A hashtag is technically called an octothorp
+ppt_11,trial_16,7,disfluent,49.41062132567033,Mickey Mouse was originally called Mortimer
+ppt_11,trial_17,15,fluent,50.69263238511315,Pigs don't sweat
+ppt_11,trial_18,6,disfluent,53.93246324838089,Water makes different sounds depending on its temperature
+ppt_11,trial_19,16,fluent,47.1213763876963,The Eiffel Tower grows 6 inches in summer
+ppt_11,trial_20,9,disfluent,42.953096976658216,It's impossible to hum while holding your nose
+ppt_12,trial_01,9,fluent,51.26269258769514,It's impossible to hum while holding your nose
+ppt_12,trial_02,14,disfluent,43.08324258205066,Sloths don't fart
+ppt_12,trial_03,15,disfluent,50.76751758601861,Pigs don't sweat
+ppt_12,trial_04,1,fluent,55.737754525962295,Candy floss was invented by a dentist
+ppt_12,trial_05,4,fluent,45.39839640103055,A dog was voted mayor of a town in Minnesot 4 times
+ppt_12,trial_06,10,fluent,47.558627428904806,You can draw a line 35 miles long using one pencil
+ppt_12,trial_07,3,fluent,45.405085084181145,Honey doesn't go off
+ppt_12,trial_08,16,disfluent,39.69325636524963,The Eiffel Tower grows 6 inches in summer
+ppt_12,trial_09,17,disfluent,52.421870480661354,Flamingos are pink because of their diet
+ppt_12,trial_10,12,disfluent,48.693351598021145,A hashtag is technically called an octothorp
+ppt_12,trial_11,5,fluent,44.803251851399,The largest snowflake was bigger than most pizzas
+ppt_12,trial_12,8,fluent,53.68616522336557,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_12,trial_13,11,disfluent,54.69321090855575,The Sahara desert is only 25% sand
+ppt_12,trial_14,6,fluent,48.23762806243582,Water makes different sounds depending on its temperature
+ppt_12,trial_15,18,disfluent,39.65268342315427,Rabbits can't be sick
+ppt_12,trial_16,19,disfluent,38.549176453316605,The dot over a lowercase i and j is called a tittle
+ppt_12,trial_17,20,disfluent,59.248447969925934,The square root of 16 is 4
+ppt_12,trial_18,7,fluent,42.05342919736609,Mickey Mouse was originally called Mortimer
+ppt_12,trial_19,2,fluent,46.696301655998916,The first speeding fine was given in 1896
+ppt_12,trial_20,13,disfluent,37.204342852620584,It would take 19 minutes to fall to the center of the earth
+ppt_13,trial_01,18,fluent,58.71344115931889,Rabbits can't be sick
+ppt_13,trial_02,4,disfluent,43.54321355154114,A dog was voted mayor of a town in Minnesot 4 times
+ppt_13,trial_03,16,fluent,43.99145581793327,The Eiffel Tower grows 6 inches in summer
+ppt_13,trial_04,15,fluent,48.06726250786894,Pigs don't sweat
+ppt_13,trial_05,6,disfluent,48.84906130343237,Water makes different sounds depending on its temperature
+ppt_13,trial_06,5,disfluent,53.578971240320556,The largest snowflake was bigger than most pizzas
+ppt_13,trial_07,7,disfluent,38.487483276057596,Mickey Mouse was originally called Mortimer
+ppt_13,trial_08,11,fluent,48.49843564708234,The Sahara desert is only 25% sand
+ppt_13,trial_09,3,disfluent,47.87973784011431,Honey doesn't go off
+ppt_13,trial_10,9,disfluent,49.02662297069876,It's impossible to hum while holding your nose
+ppt_13,trial_11,1,disfluent,47.59340913270796,Candy floss was invented by a dentist
+ppt_13,trial_12,12,fluent,50.99033579546175,A hashtag is technically called an octothorp
+ppt_13,trial_13,8,disfluent,50.85606014874637,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_13,trial_14,19,fluent,38.60906337670771,The dot over a lowercase i and j is called a tittle
+ppt_13,trial_15,14,fluent,48.964914638786155,Sloths don't fart
+ppt_13,trial_16,17,fluent,48.51561450296562,Flamingos are pink because of their diet
+ppt_13,trial_17,2,disfluent,40.46224480937762,The first speeding fine was given in 1896
+ppt_13,trial_18,13,fluent,41.51321227532631,It would take 19 minutes to fall to the center of the earth
+ppt_13,trial_19,10,disfluent,44.954910862523874,You can draw a line 35 miles long using one pencil
+ppt_13,trial_20,20,fluent,54.43501116383291,The square root of 16 is 4
+ppt_14,trial_01,6,fluent,46.65361015269918,Water makes different sounds depending on its temperature
+ppt_14,trial_02,3,fluent,46.64901686903064,Honey doesn't go off
+ppt_14,trial_03,17,disfluent,51.26118258479415,Flamingos are pink because of their diet
+ppt_14,trial_04,13,disfluent,46.98246530851528,It would take 19 minutes to fall to the center of the earth
+ppt_14,trial_05,4,fluent,48.4264908484804,A dog was voted mayor of a town in Minnesot 4 times
+ppt_14,trial_06,9,fluent,46.587603927715406,It's impossible to hum while holding your nose
+ppt_14,trial_07,1,fluent,52.150620854452534,Candy floss was invented by a dentist
+ppt_14,trial_08,16,disfluent,47.06539612980291,The Eiffel Tower grows 6 inches in summer
+ppt_14,trial_09,20,disfluent,48.981821551204206,The square root of 16 is 4
+ppt_14,trial_10,14,disfluent,43.45540271588255,Sloths don't fart
+ppt_14,trial_11,11,disfluent,48.84168810452609,The Sahara desert is only 25% sand
+ppt_14,trial_12,7,fluent,50.88528673109588,Mickey Mouse was originally called Mortimer
+ppt_14,trial_13,8,fluent,45.20278254528384,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_14,trial_14,2,fluent,46.31032000159092,The first speeding fine was given in 1896
+ppt_14,trial_15,15,disfluent,56.87490004479292,Pigs don't sweat
+ppt_14,trial_16,12,disfluent,47.569018969528734,A hashtag is technically called an octothorp
+ppt_14,trial_17,10,fluent,50.64417835589748,You can draw a line 35 miles long using one pencil
+ppt_14,trial_18,18,disfluent,41.31359503015194,Rabbits can't be sick
+ppt_14,trial_19,19,disfluent,45.10594713730208,The dot over a lowercase i and j is called a tittle
+ppt_14,trial_20,5,fluent,48.104908659544606,The largest snowflake was bigger than most pizzas
+ppt_15,trial_01,19,fluent,45.779167686716654,The dot over a lowercase i and j is called a tittle
+ppt_15,trial_02,18,fluent,53.577433090108194,Rabbits can't be sick
+ppt_15,trial_03,16,fluent,62.47209736256818,The Eiffel Tower grows 6 inches in summer
+ppt_15,trial_04,8,disfluent,42.93432159374794,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_15,trial_05,11,fluent,52.4902691908271,The Sahara desert is only 25% sand
+ppt_15,trial_06,10,disfluent,42.41082679202292,You can draw a line 35 miles long using one pencil
+ppt_15,trial_07,20,fluent,55.79523839128657,The square root of 16 is 4
+ppt_15,trial_08,14,fluent,52.98307209671072,Sloths don't fart
+ppt_15,trial_09,7,disfluent,46.31143664931504,Mickey Mouse was originally called Mortimer
+ppt_15,trial_10,12,fluent,42.220422155361554,A hashtag is technically called an octothorp
+ppt_15,trial_11,17,fluent,53.753444492240476,Flamingos are pink because of their diet
+ppt_15,trial_12,6,disfluent,50.09283522938082,Water makes different sounds depending on its temperature
+ppt_15,trial_13,5,disfluent,52.07449941741218,The largest snowflake was bigger than most pizzas
+ppt_15,trial_14,9,disfluent,51.15563153689338,It's impossible to hum while holding your nose
+ppt_15,trial_15,3,disfluent,48.276940850555384,Honey doesn't go off
+ppt_15,trial_16,13,fluent,56.008310492820605,It would take 19 minutes to fall to the center of the earth
+ppt_15,trial_17,4,disfluent,52.24021788266137,A dog was voted mayor of a town in Minnesot 4 times
+ppt_15,trial_18,1,disfluent,47.22301992699738,Candy floss was invented by a dentist
+ppt_15,trial_19,15,fluent,43.67281445171384,Pigs don't sweat
+ppt_15,trial_20,2,disfluent,38.00664727931618,The first speeding fine was given in 1896
+ppt_16,trial_01,8,fluent,53.57912141412542,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_16,trial_02,4,fluent,54.95045990392248,A dog was voted mayor of a town in Minnesot 4 times
+ppt_16,trial_03,18,disfluent,45.292524183029386,Rabbits can't be sick
+ppt_16,trial_04,19,disfluent,41.92589405426744,The dot over a lowercase i and j is called a tittle
+ppt_16,trial_05,13,disfluent,43.08984285648218,It would take 19 minutes to fall to the center of the earth
+ppt_16,trial_06,5,fluent,47.288057025938265,The largest snowflake was bigger than most pizzas
+ppt_16,trial_07,16,disfluent,48.210910472588935,The Eiffel Tower grows 6 inches in summer
+ppt_16,trial_08,20,disfluent,50.417392187960004,The square root of 16 is 4
+ppt_16,trial_09,6,fluent,49.842192955536035,Water makes different sounds depending on its temperature
+ppt_16,trial_10,11,disfluent,38.17994106585291,The Sahara desert is only 25% sand
+ppt_16,trial_11,9,fluent,48.550963744342056,It's impossible to hum while holding your nose
+ppt_16,trial_12,10,fluent,39.07280190266583,You can draw a line 35 miles long using one pencil
+ppt_16,trial_13,12,disfluent,46.56408035956033,A hashtag is technically called an octothorp
+ppt_16,trial_14,14,disfluent,42.358252406579886,Sloths don't fart
+ppt_16,trial_15,3,fluent,50.88341671905528,Honey doesn't go off
+ppt_16,trial_16,2,fluent,49.088640628860034,The first speeding fine was given in 1896
+ppt_16,trial_17,1,fluent,47.28632836804174,Candy floss was invented by a dentist
+ppt_16,trial_18,17,disfluent,44.624946799698975,Flamingos are pink because of their diet
+ppt_16,trial_19,7,fluent,38.78917559894174,Mickey Mouse was originally called Mortimer
+ppt_16,trial_20,15,disfluent,49.93623281289775,Pigs don't sweat
+ppt_17,trial_01,5,disfluent,39.91419145137447,The largest snowflake was bigger than most pizzas
+ppt_17,trial_02,10,disfluent,39.418242139300986,You can draw a line 35 miles long using one pencil
+ppt_17,trial_03,8,disfluent,50.6508551171798,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_17,trial_04,3,disfluent,53.16000491678063,Honey doesn't go off
+ppt_17,trial_05,19,fluent,44.11086543075376,The dot over a lowercase i and j is called a tittle
+ppt_17,trial_06,1,disfluent,42.98541238330737,Candy floss was invented by a dentist
+ppt_17,trial_07,11,fluent,48.890964187661055,The Sahara desert is only 25% sand
+ppt_17,trial_08,4,disfluent,43.14441774629404,A dog was voted mayor of a town in Minnesot 4 times
+ppt_17,trial_09,13,fluent,54.48028414312738,It would take 19 minutes to fall to the center of the earth
+ppt_17,trial_10,12,fluent,52.72813684565293,A hashtag is technically called an octothorp
+ppt_17,trial_11,7,disfluent,42.548755601184375,Mickey Mouse was originally called Mortimer
+ppt_17,trial_12,16,fluent,54.7095608122923,The Eiffel Tower grows 6 inches in summer
+ppt_17,trial_13,17,fluent,58.47330692742115,Flamingos are pink because of their diet
+ppt_17,trial_14,2,disfluent,44.489507742480406,The first speeding fine was given in 1896
+ppt_17,trial_15,14,fluent,50.074640994360536,Sloths don't fart
+ppt_17,trial_16,15,fluent,41.795758048020645,Pigs don't sweat
+ppt_17,trial_17,20,fluent,55.15191887017139,The square root of 16 is 4
+ppt_17,trial_18,18,fluent,43.717805393503454,Rabbits can't be sick
+ppt_17,trial_19,6,disfluent,46.726426250402824,Water makes different sounds depending on its temperature
+ppt_17,trial_20,9,disfluent,53.862505006704495,It's impossible to hum while holding your nose
+ppt_18,trial_01,3,fluent,55.75094712871624,Honey doesn't go off
+ppt_18,trial_02,19,disfluent,42.31302046507997,The dot over a lowercase i and j is called a tittle
+ppt_18,trial_03,2,fluent,41.4304900798991,The first speeding fine was given in 1896
+ppt_18,trial_04,1,fluent,38.75979819286469,Candy floss was invented by a dentist
+ppt_18,trial_05,17,disfluent,51.790315569750305,Flamingos are pink because of their diet
+ppt_18,trial_06,8,fluent,48.098150818730126,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_18,trial_07,6,fluent,49.299138410271766,Water makes different sounds depending on its temperature
+ppt_18,trial_08,12,disfluent,52.403466339433315,A hashtag is technically called an octothorp
+ppt_18,trial_09,11,disfluent,48.07845799577736,The Sahara desert is only 25% sand
+ppt_18,trial_10,7,fluent,66.18295334359883,Mickey Mouse was originally called Mortimer
+ppt_18,trial_11,15,disfluent,47.178490158173304,Pigs don't sweat
+ppt_18,trial_12,5,fluent,58.279312880827646,The largest snowflake was bigger than most pizzas
+ppt_18,trial_13,10,fluent,48.150403637871726,You can draw a line 35 miles long using one pencil
+ppt_18,trial_14,16,disfluent,48.315633471079806,The Eiffel Tower grows 6 inches in summer
+ppt_18,trial_15,20,disfluent,60.55391130033306,The square root of 16 is 4
+ppt_18,trial_16,13,disfluent,48.71381919738478,It would take 19 minutes to fall to the center of the earth
+ppt_18,trial_17,14,disfluent,40.250322445336394,Sloths don't fart
+ppt_18,trial_18,9,fluent,42.58161521354568,It's impossible to hum while holding your nose
+ppt_18,trial_19,18,disfluent,40.81480527794837,Rabbits can't be sick
+ppt_18,trial_20,4,fluent,59.97526837734108,A dog was voted mayor of a town in Minnesot 4 times
+ppt_19,trial_01,14,fluent,50.097715837088856,Sloths don't fart
+ppt_19,trial_02,2,disfluent,47.33020709793306,The first speeding fine was given in 1896
+ppt_19,trial_03,6,disfluent,53.81844871737695,Water makes different sounds depending on its temperature
+ppt_19,trial_04,16,fluent,49.37204405570727,The Eiffel Tower grows 6 inches in summer
+ppt_19,trial_05,5,disfluent,35.90939996056586,The largest snowflake was bigger than most pizzas
+ppt_19,trial_06,15,fluent,42.23014193318136,Pigs don't sweat
+ppt_19,trial_07,11,fluent,62.2911133875247,The Sahara desert is only 25% sand
+ppt_19,trial_08,10,disfluent,47.62697043313943,You can draw a line 35 miles long using one pencil
+ppt_19,trial_09,13,fluent,42.919686652959044,It would take 19 minutes to fall to the center of the earth
+ppt_19,trial_10,1,disfluent,49.57554097668932,Candy floss was invented by a dentist
+ppt_19,trial_11,18,fluent,58.78547246717161,Rabbits can't be sick
+ppt_19,trial_12,4,disfluent,42.70201934508185,A dog was voted mayor of a town in Minnesot 4 times
+ppt_19,trial_13,17,fluent,41.429684053556294,Flamingos are pink because of their diet
+ppt_19,trial_14,3,disfluent,46.96560203776481,Honey doesn't go off
+ppt_19,trial_15,19,fluent,41.868316483517724,The dot over a lowercase i and j is called a tittle
+ppt_19,trial_16,12,fluent,46.19926531035013,A hashtag is technically called an octothorp
+ppt_19,trial_17,8,disfluent,55.564123364267445,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_19,trial_18,7,disfluent,47.69559203710791,Mickey Mouse was originally called Mortimer
+ppt_19,trial_19,20,fluent,51.90677092508368,The square root of 16 is 4
+ppt_19,trial_20,9,disfluent,40.77138299828781,It's impossible to hum while holding your nose
+ppt_2,trial_01,5,fluent,51.654246455272556,The largest snowflake was bigger than most pizzas
+ppt_2,trial_02,9,fluent,43.76030091476686,It's impossible to hum while holding your nose
+ppt_2,trial_03,7,fluent,41.54089064320783,Mickey Mouse was originally called Mortimer
+ppt_2,trial_04,20,disfluent,62.85928182712071,The square root of 16 is 4
+ppt_2,trial_05,10,fluent,42.25841474750932,You can draw a line 35 miles long using one pencil
+ppt_2,trial_06,6,fluent,54.83545307211166,Water makes different sounds depending on its temperature
+ppt_2,trial_07,18,disfluent,50.221221402192,Rabbits can't be sick
+ppt_2,trial_08,2,fluent,49.36844264291779,The first speeding fine was given in 1896
+ppt_2,trial_09,15,disfluent,45.418881967114054,Pigs don't sweat
+ppt_2,trial_10,4,fluent,50.969706610282266,A dog was voted mayor of a town in Minnesot 4 times
+ppt_2,trial_11,14,disfluent,48.844670467721194,Sloths don't fart
+ppt_2,trial_12,1,fluent,50.36259358402098,Candy floss was invented by a dentist
+ppt_2,trial_13,3,fluent,44.54536373923061,Honey doesn't go off
+ppt_2,trial_14,16,disfluent,45.76935103582036,The Eiffel Tower grows 6 inches in summer
+ppt_2,trial_15,11,disfluent,53.58259926000133,The Sahara desert is only 25% sand
+ppt_2,trial_16,12,disfluent,35.397183667947374,A hashtag is technically called an octothorp
+ppt_2,trial_17,13,disfluent,46.4271858774628,It would take 19 minutes to fall to the center of the earth
+ppt_2,trial_18,8,fluent,48.26012992906527,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_2,trial_19,17,disfluent,45.27307356165277,Flamingos are pink because of their diet
+ppt_2,trial_20,19,disfluent,43.04747887332953,The dot over a lowercase i and j is called a tittle
+ppt_20,trial_01,18,disfluent,44.986453384312554,Rabbits can't be sick
+ppt_20,trial_02,7,fluent,45.473963299858816,Mickey Mouse was originally called Mortimer
+ppt_20,trial_03,14,disfluent,40.57317426446553,Sloths don't fart
+ppt_20,trial_04,13,disfluent,39.49705085930408,It would take 19 minutes to fall to the center of the earth
+ppt_20,trial_05,5,fluent,46.837719420491595,The largest snowflake was bigger than most pizzas
+ppt_20,trial_06,8,fluent,51.47923082959733,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_20,trial_07,1,fluent,46.587758485401864,Candy floss was invented by a dentist
+ppt_20,trial_08,17,disfluent,55.330496397260454,Flamingos are pink because of their diet
+ppt_20,trial_09,15,disfluent,48.31525240141052,Pigs don't sweat
+ppt_20,trial_10,10,fluent,48.08615679103506,You can draw a line 35 miles long using one pencil
+ppt_20,trial_11,3,fluent,49.49566553637354,Honey doesn't go off
+ppt_20,trial_12,4,fluent,42.44115096603133,A dog was voted mayor of a town in Minnesot 4 times
+ppt_20,trial_13,9,fluent,36.72001088283433,It's impossible to hum while holding your nose
+ppt_20,trial_14,2,fluent,55.05779940653529,The first speeding fine was given in 1896
+ppt_20,trial_15,16,disfluent,47.58565752742962,The Eiffel Tower grows 6 inches in summer
+ppt_20,trial_16,19,disfluent,48.71159846093576,The dot over a lowercase i and j is called a tittle
+ppt_20,trial_17,12,disfluent,50.10732661808525,A hashtag is technically called an octothorp
+ppt_20,trial_18,6,fluent,47.796818601465844,Water makes different sounds depending on its temperature
+ppt_20,trial_19,20,disfluent,58.11169340942718,The square root of 16 is 4
+ppt_20,trial_20,11,disfluent,62.80605317898804,The Sahara desert is only 25% sand
+ppt_21,trial_01,16,fluent,53.7831750392328,The Eiffel Tower grows 6 inches in summer
+ppt_21,trial_02,2,disfluent,44.593030651989075,The first speeding fine was given in 1896
+ppt_21,trial_03,4,disfluent,56.94438801847274,A dog was voted mayor of a town in Minnesot 4 times
+ppt_21,trial_04,8,disfluent,53.53525263304848,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_21,trial_05,19,fluent,45.08216252709958,The dot over a lowercase i and j is called a tittle
+ppt_21,trial_06,7,disfluent,42.11067050395264,Mickey Mouse was originally called Mortimer
+ppt_21,trial_07,15,fluent,48.55211542639299,Pigs don't sweat
+ppt_21,trial_08,12,fluent,52.33314962833003,A hashtag is technically called an octothorp
+ppt_21,trial_09,17,fluent,50.41514161836631,Flamingos are pink because of their diet
+ppt_21,trial_10,9,disfluent,47.22476771922327,It's impossible to hum while holding your nose
+ppt_21,trial_11,11,fluent,52.533014915656466,The Sahara desert is only 25% sand
+ppt_21,trial_12,13,fluent,49.55499132702986,It would take 19 minutes to fall to the center of the earth
+ppt_21,trial_13,10,disfluent,40.808344581677154,You can draw a line 35 miles long using one pencil
+ppt_21,trial_14,18,fluent,47.91803468752684,Rabbits can't be sick
+ppt_21,trial_15,1,disfluent,43.2380814223924,Candy floss was invented by a dentist
+ppt_21,trial_16,14,fluent,52.693248395284826,Sloths don't fart
+ppt_21,trial_17,5,disfluent,46.09388039141341,The largest snowflake was bigger than most pizzas
+ppt_21,trial_18,3,disfluent,47.073564815177505,Honey doesn't go off
+ppt_21,trial_19,20,fluent,53.779925066022315,The square root of 16 is 4
+ppt_21,trial_20,6,disfluent,57.30548457545229,Water makes different sounds depending on its temperature
+ppt_22,trial_01,2,fluent,51.21253200529468,The first speeding fine was given in 1896
+ppt_22,trial_02,11,disfluent,51.761696936668976,The Sahara desert is only 25% sand
+ppt_22,trial_03,1,fluent,45.26274212900989,Candy floss was invented by a dentist
+ppt_22,trial_04,19,disfluent,43.443369760714546,The dot over a lowercase i and j is called a tittle
+ppt_22,trial_05,14,disfluent,53.69785464057473,Sloths don't fart
+ppt_22,trial_06,12,disfluent,49.02689602282172,A hashtag is technically called an octothorp
+ppt_22,trial_07,3,fluent,57.55387619260389,Honey doesn't go off
+ppt_22,trial_08,18,disfluent,48.74151100840814,Rabbits can't be sick
+ppt_22,trial_09,16,disfluent,56.376441244276656,The Eiffel Tower grows 6 inches in summer
+ppt_22,trial_10,6,fluent,60.49070894178022,Water makes different sounds depending on its temperature
+ppt_22,trial_11,8,fluent,50.27646532157293,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_22,trial_12,20,disfluent,57.86785333374996,The square root of 16 is 4
+ppt_22,trial_13,7,fluent,41.50224699041516,Mickey Mouse was originally called Mortimer
+ppt_22,trial_14,10,fluent,52.81630577530638,You can draw a line 35 miles long using one pencil
+ppt_22,trial_15,15,disfluent,50.37981015448631,Pigs don't sweat
+ppt_22,trial_16,17,disfluent,54.142055857424445,Flamingos are pink because of their diet
+ppt_22,trial_17,13,disfluent,43.796766457965894,It would take 19 minutes to fall to the center of the earth
+ppt_22,trial_18,4,fluent,55.43289328709119,A dog was voted mayor of a town in Minnesot 4 times
+ppt_22,trial_19,5,fluent,52.81799593343417,The largest snowflake was bigger than most pizzas
+ppt_22,trial_20,9,fluent,49.7062293456854,It's impossible to hum while holding your nose
+ppt_23,trial_01,13,fluent,54.09777506699659,It would take 19 minutes to fall to the center of the earth
+ppt_23,trial_02,18,fluent,53.54158219269807,Rabbits can't be sick
+ppt_23,trial_03,6,disfluent,50.843071389138075,Water makes different sounds depending on its temperature
+ppt_23,trial_04,10,disfluent,44.444905080122375,You can draw a line 35 miles long using one pencil
+ppt_23,trial_05,7,disfluent,40.51451492220654,Mickey Mouse was originally called Mortimer
+ppt_23,trial_06,1,disfluent,44.22059530233021,Candy floss was invented by a dentist
+ppt_23,trial_07,8,disfluent,44.483278087312584,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_23,trial_08,11,fluent,45.995273352495985,The Sahara desert is only 25% sand
+ppt_23,trial_09,4,disfluent,47.389799833267375,A dog was voted mayor of a town in Minnesot 4 times
+ppt_23,trial_10,5,disfluent,48.12634531144715,The largest snowflake was bigger than most pizzas
+ppt_23,trial_11,2,disfluent,41.55120462998321,The first speeding fine was given in 1896
+ppt_23,trial_12,16,fluent,44.99843660382217,The Eiffel Tower grows 6 inches in summer
+ppt_23,trial_13,20,fluent,51.03849278132823,The square root of 16 is 4
+ppt_23,trial_14,19,fluent,46.65408857492146,The dot over a lowercase i and j is called a tittle
+ppt_23,trial_15,3,disfluent,45.408851888347165,Honey doesn't go off
+ppt_23,trial_16,17,fluent,47.78343099556805,Flamingos are pink because of their diet
+ppt_23,trial_17,12,fluent,44.65544237343247,A hashtag is technically called an octothorp
+ppt_23,trial_18,15,fluent,42.913576407754384,Pigs don't sweat
+ppt_23,trial_19,9,disfluent,46.04215812687016,It's impossible to hum while holding your nose
+ppt_23,trial_20,14,fluent,41.16647362666008,Sloths don't fart
+ppt_24,trial_01,12,disfluent,50.36072766078171,A hashtag is technically called an octothorp
+ppt_24,trial_02,4,fluent,48.4739547526421,A dog was voted mayor of a town in Minnesot 4 times
+ppt_24,trial_03,7,fluent,51.623818039965464,Mickey Mouse was originally called Mortimer
+ppt_24,trial_04,19,disfluent,44.62126386392732,The dot over a lowercase i and j is called a tittle
+ppt_24,trial_05,16,disfluent,42.197558455632986,The Eiffel Tower grows 6 inches in summer
+ppt_24,trial_06,5,fluent,45.56314411988468,The largest snowflake was bigger than most pizzas
+ppt_24,trial_07,11,disfluent,52.37227627891332,The Sahara desert is only 25% sand
+ppt_24,trial_08,10,fluent,52.69044744309539,You can draw a line 35 miles long using one pencil
+ppt_24,trial_09,17,disfluent,49.270615199570116,Flamingos are pink because of their diet
+ppt_24,trial_10,3,fluent,50.11587794151823,Honey doesn't go off
+ppt_24,trial_11,18,disfluent,45.825116718225445,Rabbits can't be sick
+ppt_24,trial_12,14,disfluent,36.27745387992788,Sloths don't fart
+ppt_24,trial_13,1,fluent,55.73121392493492,Candy floss was invented by a dentist
+ppt_24,trial_14,15,disfluent,48.70162944706323,Pigs don't sweat
+ppt_24,trial_15,6,fluent,48.56496437236018,Water makes different sounds depending on its temperature
+ppt_24,trial_16,9,fluent,49.271318743749276,It's impossible to hum while holding your nose
+ppt_24,trial_17,13,disfluent,47.21919084549945,It would take 19 minutes to fall to the center of the earth
+ppt_24,trial_18,8,fluent,59.65496530305525,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_24,trial_19,20,disfluent,68.84196778867042,The square root of 16 is 4
+ppt_24,trial_20,2,fluent,40.962614749108454,The first speeding fine was given in 1896
+ppt_25,trial_01,5,disfluent,41.94914797377608,The largest snowflake was bigger than most pizzas
+ppt_25,trial_02,12,fluent,46.906628509990576,A hashtag is technically called an octothorp
+ppt_25,trial_03,18,fluent,48.892677850057765,Rabbits can't be sick
+ppt_25,trial_04,1,disfluent,54.361743573778675,Candy floss was invented by a dentist
+ppt_25,trial_05,2,disfluent,46.831032892364846,The first speeding fine was given in 1896
+ppt_25,trial_06,13,fluent,53.7439524651394,It would take 19 minutes to fall to the center of the earth
+ppt_25,trial_07,9,disfluent,46.323858860741645,It's impossible to hum while holding your nose
+ppt_25,trial_08,14,fluent,59.61469399449334,Sloths don't fart
+ppt_25,trial_09,8,disfluent,48.306862157122175,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_25,trial_10,4,disfluent,44.6406392602891,A dog was voted mayor of a town in Minnesot 4 times
+ppt_25,trial_11,10,disfluent,35.75615802911568,You can draw a line 35 miles long using one pencil
+ppt_25,trial_12,3,disfluent,52.83089917740236,Honey doesn't go off
+ppt_25,trial_13,19,fluent,43.11564468015888,The dot over a lowercase i and j is called a tittle
+ppt_25,trial_14,20,fluent,53.39124617924273,The square root of 16 is 4
+ppt_25,trial_15,7,disfluent,45.29091914347841,Mickey Mouse was originally called Mortimer
+ppt_25,trial_16,6,disfluent,43.89485824574685,Water makes different sounds depending on its temperature
+ppt_25,trial_17,11,fluent,54.0102854999264,The Sahara desert is only 25% sand
+ppt_25,trial_18,16,fluent,54.33305670745882,The Eiffel Tower grows 6 inches in summer
+ppt_25,trial_19,17,fluent,56.000941485262025,Flamingos are pink because of their diet
+ppt_25,trial_20,15,fluent,53.255374498488514,Pigs don't sweat
+ppt_26,trial_01,12,disfluent,43.67182989824095,A hashtag is technically called an octothorp
+ppt_26,trial_02,18,disfluent,44.41989907508128,Rabbits can't be sick
+ppt_26,trial_03,19,disfluent,43.01920545886773,The dot over a lowercase i and j is called a tittle
+ppt_26,trial_04,15,disfluent,58.520053550320185,Pigs don't sweat
+ppt_26,trial_05,2,fluent,51.89524705654935,The first speeding fine was given in 1896
+ppt_26,trial_06,16,disfluent,41.45354954770906,The Eiffel Tower grows 6 inches in summer
+ppt_26,trial_07,1,fluent,50.13141957509814,Candy floss was invented by a dentist
+ppt_26,trial_08,17,disfluent,45.24782800451082,Flamingos are pink because of their diet
+ppt_26,trial_09,6,fluent,44.515261545641735,Water makes different sounds depending on its temperature
+ppt_26,trial_10,3,fluent,47.7578838019205,Honey doesn't go off
+ppt_26,trial_11,10,fluent,55.44962444206368,You can draw a line 35 miles long using one pencil
+ppt_26,trial_12,5,fluent,47.2143159862526,The largest snowflake was bigger than most pizzas
+ppt_26,trial_13,7,fluent,55.68657686304553,Mickey Mouse was originally called Mortimer
+ppt_26,trial_14,8,fluent,50.05815784830846,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_26,trial_15,13,disfluent,38.040409857140816,It would take 19 minutes to fall to the center of the earth
+ppt_26,trial_16,4,fluent,53.24186384992523,A dog was voted mayor of a town in Minnesot 4 times
+ppt_26,trial_17,20,disfluent,62.01198123560974,The square root of 16 is 4
+ppt_26,trial_18,9,fluent,37.66937939396177,It's impossible to hum while holding your nose
+ppt_26,trial_19,11,disfluent,38.71768433685631,The Sahara desert is only 25% sand
+ppt_26,trial_20,14,disfluent,40.67620370117777,Sloths don't fart
+ppt_27,trial_01,4,disfluent,52.266972632506345,A dog was voted mayor of a town in Minnesot 4 times
+ppt_27,trial_02,13,fluent,47.919998018357916,It would take 19 minutes to fall to the center of the earth
+ppt_27,trial_03,11,fluent,51.945138628148385,The Sahara desert is only 25% sand
+ppt_27,trial_04,18,fluent,47.07043500422866,Rabbits can't be sick
+ppt_27,trial_05,14,fluent,45.93866986218776,Sloths don't fart
+ppt_27,trial_06,2,disfluent,43.656960924352106,The first speeding fine was given in 1896
+ppt_27,trial_07,19,fluent,43.660356102896984,The dot over a lowercase i and j is called a tittle
+ppt_27,trial_08,20,fluent,58.33470731829129,The square root of 16 is 4
+ppt_27,trial_09,15,fluent,51.78860559263541,Pigs don't sweat
+ppt_27,trial_10,6,disfluent,45.16794141111195,Water makes different sounds depending on its temperature
+ppt_27,trial_11,8,disfluent,46.59393015741308,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_27,trial_12,9,disfluent,49.1574903810107,It's impossible to hum while holding your nose
+ppt_27,trial_13,3,disfluent,35.04404955738968,Honey doesn't go off
+ppt_27,trial_14,16,fluent,47.02570368642066,The Eiffel Tower grows 6 inches in summer
+ppt_27,trial_15,12,fluent,45.768927233091695,A hashtag is technically called an octothorp
+ppt_27,trial_16,10,disfluent,47.13808186601516,You can draw a line 35 miles long using one pencil
+ppt_27,trial_17,17,fluent,54.209585280868964,Flamingos are pink because of their diet
+ppt_27,trial_18,1,disfluent,50.46251633441369,Candy floss was invented by a dentist
+ppt_27,trial_19,5,disfluent,38.67388488208239,The largest snowflake was bigger than most pizzas
+ppt_27,trial_20,7,disfluent,44.673458725964174,Mickey Mouse was originally called Mortimer
+ppt_28,trial_01,20,disfluent,61.36456023943856,The square root of 16 is 4
+ppt_28,trial_02,11,disfluent,46.252851707211065,The Sahara desert is only 25% sand
+ppt_28,trial_03,12,disfluent,51.44414493700295,A hashtag is technically called an octothorp
+ppt_28,trial_04,1,fluent,52.09912661956834,Candy floss was invented by a dentist
+ppt_28,trial_05,15,disfluent,47.33500367619078,Pigs don't sweat
+ppt_28,trial_06,9,fluent,49.366461815400385,It's impossible to hum while holding your nose
+ppt_28,trial_07,4,fluent,56.31565910119404,A dog was voted mayor of a town in Minnesot 4 times
+ppt_28,trial_08,2,fluent,40.97529952330001,The first speeding fine was given in 1896
+ppt_28,trial_09,3,fluent,51.085878250485834,Honey doesn't go off
+ppt_28,trial_10,18,disfluent,46.09711971879513,Rabbits can't be sick
+ppt_28,trial_11,6,fluent,44.98690556747644,Water makes different sounds depending on its temperature
+ppt_28,trial_12,17,disfluent,43.57727187710353,Flamingos are pink because of their diet
+ppt_28,trial_13,7,fluent,40.23411256016459,Mickey Mouse was originally called Mortimer
+ppt_28,trial_14,19,disfluent,48.4089264361578,The dot over a lowercase i and j is called a tittle
+ppt_28,trial_15,13,disfluent,43.34867818303983,It would take 19 minutes to fall to the center of the earth
+ppt_28,trial_16,8,fluent,49.44495824416354,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_28,trial_17,10,fluent,46.35481604707844,You can draw a line 35 miles long using one pencil
+ppt_28,trial_18,16,disfluent,47.988576134503624,The Eiffel Tower grows 6 inches in summer
+ppt_28,trial_19,5,fluent,41.6663144903668,The largest snowflake was bigger than most pizzas
+ppt_28,trial_20,14,disfluent,42.1883479558745,Sloths don't fart
+ppt_29,trial_01,15,fluent,46.97192164550882,Pigs don't sweat
+ppt_29,trial_02,12,fluent,45.16181994471137,A hashtag is technically called an octothorp
+ppt_29,trial_03,18,fluent,67.51794493384347,Rabbits can't be sick
+ppt_29,trial_04,14,fluent,48.58126759835262,Sloths don't fart
+ppt_29,trial_05,17,fluent,55.177830248763826,Flamingos are pink because of their diet
+ppt_29,trial_06,8,disfluent,61.54093618213115,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_29,trial_07,3,disfluent,51.81681872091695,Honey doesn't go off
+ppt_29,trial_08,20,fluent,56.88535102675651,The square root of 16 is 4
+ppt_29,trial_09,16,fluent,46.494965862107364,The Eiffel Tower grows 6 inches in summer
+ppt_29,trial_10,10,disfluent,45.654912680790666,You can draw a line 35 miles long using one pencil
+ppt_29,trial_11,5,disfluent,48.615766799161634,The largest snowflake was bigger than most pizzas
+ppt_29,trial_12,6,disfluent,57.98056961004887,Water makes different sounds depending on its temperature
+ppt_29,trial_13,13,fluent,50.15777465363408,It would take 19 minutes to fall to the center of the earth
+ppt_29,trial_14,9,disfluent,36.891201809992396,It's impossible to hum while holding your nose
+ppt_29,trial_15,7,disfluent,48.13595323769881,Mickey Mouse was originally called Mortimer
+ppt_29,trial_16,4,disfluent,44.83944201115811,A dog was voted mayor of a town in Minnesot 4 times
+ppt_29,trial_17,19,fluent,30.448288633490414,The dot over a lowercase i and j is called a tittle
+ppt_29,trial_18,1,disfluent,48.57802315527712,Candy floss was invented by a dentist
+ppt_29,trial_19,2,disfluent,51.60821226910532,The first speeding fine was given in 1896
+ppt_29,trial_20,11,fluent,49.95609201437343,The Sahara desert is only 25% sand
+ppt_3,trial_01,19,fluent,41.576758199590564,The dot over a lowercase i and j is called a tittle
+ppt_3,trial_02,15,fluent,56.87543649982855,Pigs don't sweat
+ppt_3,trial_03,5,disfluent,44.48736764832429,The largest snowflake was bigger than most pizzas
+ppt_3,trial_04,3,disfluent,47.38970897772534,Honey doesn't go off
+ppt_3,trial_05,16,fluent,46.46402363150711,The Eiffel Tower grows 6 inches in summer
+ppt_3,trial_06,12,fluent,43.052388263132606,A hashtag is technically called an octothorp
+ppt_3,trial_07,8,disfluent,49.146007466749346,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_3,trial_08,11,fluent,52.57455646706416,The Sahara desert is only 25% sand
+ppt_3,trial_09,18,fluent,52.123838302183266,Rabbits can't be sick
+ppt_3,trial_10,13,fluent,36.02003046953423,It would take 19 minutes to fall to the center of the earth
+ppt_3,trial_11,20,fluent,52.27654290807614,The square root of 16 is 4
+ppt_3,trial_12,9,disfluent,41.65617695938674,It's impossible to hum while holding your nose
+ppt_3,trial_13,14,fluent,38.608006843269656,Sloths don't fart
+ppt_3,trial_14,10,disfluent,51.10765948474702,You can draw a line 35 miles long using one pencil
+ppt_3,trial_15,1,disfluent,46.97911499302323,Candy floss was invented by a dentist
+ppt_3,trial_16,17,fluent,54.26446826125591,Flamingos are pink because of their diet
+ppt_3,trial_17,2,disfluent,43.053746336335415,The first speeding fine was given in 1896
+ppt_3,trial_18,6,disfluent,54.204093959379016,Water makes different sounds depending on its temperature
+ppt_3,trial_19,7,disfluent,44.79233117774511,Mickey Mouse was originally called Mortimer
+ppt_3,trial_20,4,disfluent,37.983638335437746,A dog was voted mayor of a town in Minnesot 4 times
+ppt_30,trial_01,14,disfluent,49.88254998803375,Sloths don't fart
+ppt_30,trial_02,3,fluent,61.205598432070005,Honey doesn't go off
+ppt_30,trial_03,8,fluent,45.77363488531454,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_30,trial_04,15,disfluent,47.16526476087782,Pigs don't sweat
+ppt_30,trial_05,12,disfluent,55.46240676938323,A hashtag is technically called an octothorp
+ppt_30,trial_06,1,fluent,49.998440211930294,Candy floss was invented by a dentist
+ppt_30,trial_07,20,disfluent,55.608797664295714,The square root of 16 is 4
+ppt_30,trial_08,9,fluent,44.72718355146739,It's impossible to hum while holding your nose
+ppt_30,trial_09,6,fluent,34.98721935462023,Water makes different sounds depending on its temperature
+ppt_30,trial_10,4,fluent,48.469984207338435,A dog was voted mayor of a town in Minnesot 4 times
+ppt_30,trial_11,17,disfluent,46.00426965329725,Flamingos are pink because of their diet
+ppt_30,trial_12,18,disfluent,52.95790590918598,Rabbits can't be sick
+ppt_30,trial_13,16,disfluent,47.83627899949566,The Eiffel Tower grows 6 inches in summer
+ppt_30,trial_14,5,fluent,41.96182662636359,The largest snowflake was bigger than most pizzas
+ppt_30,trial_15,10,fluent,45.66805312551978,You can draw a line 35 miles long using one pencil
+ppt_30,trial_16,11,disfluent,44.1605959435674,The Sahara desert is only 25% sand
+ppt_30,trial_17,7,fluent,57.93358392097171,Mickey Mouse was originally called Mortimer
+ppt_30,trial_18,2,fluent,44.433051338655844,The first speeding fine was given in 1896
+ppt_30,trial_19,13,disfluent,47.0758782523954,It would take 19 minutes to fall to the center of the earth
+ppt_30,trial_20,19,disfluent,51.00097964137272,The dot over a lowercase i and j is called a tittle
+ppt_4,trial_01,14,disfluent,35.2708675476033,Sloths don't fart
+ppt_4,trial_02,16,disfluent,34.27486754193918,The Eiffel Tower grows 6 inches in summer
+ppt_4,trial_03,4,fluent,40.29066577882963,A dog was voted mayor of a town in Minnesot 4 times
+ppt_4,trial_04,2,fluent,45.85050810852497,The first speeding fine was given in 1896
+ppt_4,trial_05,1,fluent,50.0773716923256,Candy floss was invented by a dentist
+ppt_4,trial_06,17,disfluent,42.983575793833424,Flamingos are pink because of their diet
+ppt_4,trial_07,9,fluent,50.37816706370361,It's impossible to hum while holding your nose
+ppt_4,trial_08,12,disfluent,39.46377927445106,A hashtag is technically called an octothorp
+ppt_4,trial_09,6,fluent,45.27145837349757,Water makes different sounds depending on its temperature
+ppt_4,trial_10,5,fluent,50.92525453124685,The largest snowflake was bigger than most pizzas
+ppt_4,trial_11,15,disfluent,41.9892008233284,Pigs don't sweat
+ppt_4,trial_12,10,fluent,49.65804402012298,You can draw a line 35 miles long using one pencil
+ppt_4,trial_13,18,disfluent,45.76443951912283,Rabbits can't be sick
+ppt_4,trial_14,13,disfluent,44.189918878612694,It would take 19 minutes to fall to the center of the earth
+ppt_4,trial_15,7,fluent,46.27893038831063,Mickey Mouse was originally called Mortimer
+ppt_4,trial_16,8,fluent,59.87148847831679,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_4,trial_17,11,disfluent,45.046700923356184,The Sahara desert is only 25% sand
+ppt_4,trial_18,3,fluent,44.900508977869706,Honey doesn't go off
+ppt_4,trial_19,20,disfluent,51.20075911801811,The square root of 16 is 4
+ppt_4,trial_20,19,disfluent,38.21788215523621,The dot over a lowercase i and j is called a tittle
+ppt_5,trial_01,14,fluent,50.505658610361586,Sloths don't fart
+ppt_5,trial_02,15,fluent,53.981308622531714,Pigs don't sweat
+ppt_5,trial_03,6,disfluent,38.70862218554915,Water makes different sounds depending on its temperature
+ppt_5,trial_04,8,disfluent,40.51828957257966,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_5,trial_05,16,fluent,52.531819417610954,The Eiffel Tower grows 6 inches in summer
+ppt_5,trial_06,10,disfluent,55.40320360325559,You can draw a line 35 miles long using one pencil
+ppt_5,trial_07,4,disfluent,42.73026965618935,A dog was voted mayor of a town in Minnesot 4 times
+ppt_5,trial_08,9,disfluent,58.32185049626573,It's impossible to hum while holding your nose
+ppt_5,trial_09,2,disfluent,51.64886921703417,The first speeding fine was given in 1896
+ppt_5,trial_10,19,fluent,52.706020206570756,The dot over a lowercase i and j is called a tittle
+ppt_5,trial_11,1,disfluent,45.044174584477545,Candy floss was invented by a dentist
+ppt_5,trial_12,5,disfluent,45.24320537793652,The largest snowflake was bigger than most pizzas
+ppt_5,trial_13,3,disfluent,49.38267035761394,Honey doesn't go off
+ppt_5,trial_14,13,fluent,45.763482287977155,It would take 19 minutes to fall to the center of the earth
+ppt_5,trial_15,11,fluent,52.235100914318664,The Sahara desert is only 25% sand
+ppt_5,trial_16,17,fluent,50.79434453835934,Flamingos are pink because of their diet
+ppt_5,trial_17,7,disfluent,43.970917193298085,Mickey Mouse was originally called Mortimer
+ppt_5,trial_18,12,fluent,53.2702385979383,A hashtag is technically called an octothorp
+ppt_5,trial_19,18,fluent,57.27746172594324,Rabbits can't be sick
+ppt_5,trial_20,20,fluent,60.16036873790338,The square root of 16 is 4
+ppt_6,trial_01,2,fluent,49.74363689944447,The first speeding fine was given in 1896
+ppt_6,trial_02,6,fluent,42.349697192130364,Water makes different sounds depending on its temperature
+ppt_6,trial_03,8,fluent,61.1364613261737,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_6,trial_04,17,disfluent,42.195302650492536,Flamingos are pink because of their diet
+ppt_6,trial_05,18,disfluent,48.61954333344228,Rabbits can't be sick
+ppt_6,trial_06,4,fluent,46.13365660255331,A dog was voted mayor of a town in Minnesot 4 times
+ppt_6,trial_07,20,disfluent,50.46401146896468,The square root of 16 is 4
+ppt_6,trial_08,10,fluent,49.89190552313844,You can draw a line 35 miles long using one pencil
+ppt_6,trial_09,15,disfluent,52.11454250451583,Pigs don't sweat
+ppt_6,trial_10,14,disfluent,39.056299103021225,Sloths don't fart
+ppt_6,trial_11,13,disfluent,51.501897883589365,It would take 19 minutes to fall to the center of the earth
+ppt_6,trial_12,3,fluent,47.85184987059093,Honey doesn't go off
+ppt_6,trial_13,9,fluent,40.50440234159181,It's impossible to hum while holding your nose
+ppt_6,trial_14,1,fluent,51.62795371837098,Candy floss was invented by a dentist
+ppt_6,trial_15,12,disfluent,45.51988686626438,A hashtag is technically called an octothorp
+ppt_6,trial_16,19,disfluent,39.3457717969392,The dot over a lowercase i and j is called a tittle
+ppt_6,trial_17,7,fluent,42.7085956313801,Mickey Mouse was originally called Mortimer
+ppt_6,trial_18,16,disfluent,54.21631616117347,The Eiffel Tower grows 6 inches in summer
+ppt_6,trial_19,5,fluent,52.087226568161526,The largest snowflake was bigger than most pizzas
+ppt_6,trial_20,11,disfluent,49.21813092324207,The Sahara desert is only 25% sand
+ppt_7,trial_01,9,disfluent,41.8308420117049,It's impossible to hum while holding your nose
+ppt_7,trial_02,8,disfluent,44.883093430913775,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_7,trial_03,2,disfluent,53.31737703666653,The first speeding fine was given in 1896
+ppt_7,trial_04,16,fluent,55.99116069576127,The Eiffel Tower grows 6 inches in summer
+ppt_7,trial_05,17,fluent,49.94432531057382,Flamingos are pink because of their diet
+ppt_7,trial_06,3,disfluent,52.63105382332734,Honey doesn't go off
+ppt_7,trial_07,11,fluent,50.168350840996666,The Sahara desert is only 25% sand
+ppt_7,trial_08,1,disfluent,57.26354887874656,Candy floss was invented by a dentist
+ppt_7,trial_09,20,fluent,65.68354644894679,The square root of 16 is 4
+ppt_7,trial_10,5,disfluent,51.70024940136983,The largest snowflake was bigger than most pizzas
+ppt_7,trial_11,14,fluent,55.482184682335195,Sloths don't fart
+ppt_7,trial_12,19,fluent,48.35944231912673,The dot over a lowercase i and j is called a tittle
+ppt_7,trial_13,12,fluent,49.446678794179974,A hashtag is technically called an octothorp
+ppt_7,trial_14,18,fluent,46.78059714011877,Rabbits can't be sick
+ppt_7,trial_15,6,disfluent,53.74118309760236,Water makes different sounds depending on its temperature
+ppt_7,trial_16,4,disfluent,57.6811342100835,A dog was voted mayor of a town in Minnesot 4 times
+ppt_7,trial_17,7,disfluent,50.8974996041487,Mickey Mouse was originally called Mortimer
+ppt_7,trial_18,15,fluent,44.3235325173989,Pigs don't sweat
+ppt_7,trial_19,13,fluent,42.08435932950749,It would take 19 minutes to fall to the center of the earth
+ppt_7,trial_20,10,disfluent,38.7305111202501,You can draw a line 35 miles long using one pencil
+ppt_8,trial_01,8,fluent,47.59384632540242,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_8,trial_02,12,disfluent,46.38134773617153,A hashtag is technically called an octothorp
+ppt_8,trial_03,13,disfluent,50.51749928850231,It would take 19 minutes to fall to the center of the earth
+ppt_8,trial_04,2,fluent,43.12858898137807,The first speeding fine was given in 1896
+ppt_8,trial_05,10,fluent,44.769380099181355,You can draw a line 35 miles long using one pencil
+ppt_8,trial_06,11,disfluent,43.93108290096223,The Sahara desert is only 25% sand
+ppt_8,trial_07,9,fluent,37.96585361002389,It's impossible to hum while holding your nose
+ppt_8,trial_08,1,fluent,57.25556107558282,Candy floss was invented by a dentist
+ppt_8,trial_09,18,disfluent,42.24728334373441,Rabbits can't be sick
+ppt_8,trial_10,15,disfluent,44.83336181924639,Pigs don't sweat
+ppt_8,trial_11,5,fluent,39.844685097672354,The largest snowflake was bigger than most pizzas
+ppt_8,trial_12,3,fluent,46.61275995042858,Honey doesn't go off
+ppt_8,trial_13,6,fluent,42.00152883794631,Water makes different sounds depending on its temperature
+ppt_8,trial_14,14,disfluent,49.45655132472227,Sloths don't fart
+ppt_8,trial_15,4,fluent,54.607304529648744,A dog was voted mayor of a town in Minnesot 4 times
+ppt_8,trial_16,16,disfluent,47.28509676680388,The Eiffel Tower grows 6 inches in summer
+ppt_8,trial_17,20,disfluent,57.59839610461131,The square root of 16 is 4
+ppt_8,trial_18,7,fluent,46.8886146833857,Mickey Mouse was originally called Mortimer
+ppt_8,trial_19,19,disfluent,44.36231406584284,The dot over a lowercase i and j is called a tittle
+ppt_8,trial_20,17,disfluent,44.977553354932944,Flamingos are pink because of their diet
+ppt_9,trial_01,14,fluent,53.56595061436395,Sloths don't fart
+ppt_9,trial_02,11,fluent,59.24100210023938,The Sahara desert is only 25% sand
+ppt_9,trial_03,18,fluent,51.92056162006478,Rabbits can't be sick
+ppt_9,trial_04,10,disfluent,43.48103869596766,You can draw a line 35 miles long using one pencil
+ppt_9,trial_05,15,fluent,56.56104517265654,Pigs don't sweat
+ppt_9,trial_06,17,fluent,53.76342023517667,Flamingos are pink because of their diet
+ppt_9,trial_07,12,fluent,48.978076080141605,A hashtag is technically called an octothorp
+ppt_9,trial_08,9,disfluent,40.430058472519875,It's impossible to hum while holding your nose
+ppt_9,trial_09,20,fluent,62.84597092487877,The square root of 16 is 4
+ppt_9,trial_10,3,disfluent,45.977655969426785,Honey doesn't go off
+ppt_9,trial_11,6,disfluent,44.615195639154315,Water makes different sounds depending on its temperature
+ppt_9,trial_12,1,disfluent,53.37023438797833,Candy floss was invented by a dentist
+ppt_9,trial_13,5,disfluent,43.23966242182936,The largest snowflake was bigger than most pizzas
+ppt_9,trial_14,7,disfluent,46.416093760310055,Mickey Mouse was originally called Mortimer
+ppt_9,trial_15,2,disfluent,43.607675228441664,The first speeding fine was given in 1896
+ppt_9,trial_16,13,fluent,47.34390669432241,It would take 19 minutes to fall to the center of the earth
+ppt_9,trial_17,8,disfluent,53.1089235084487,Cats have 5 paws on their front feet and 4 paws on their back feet
+ppt_9,trial_18,19,fluent,51.23977290523119,The dot over a lowercase i and j is called a tittle
+ppt_9,trial_19,4,disfluent,49.84929137542686,A dog was voted mayor of a town in Minnesot 4 times
+ppt_9,trial_20,16,fluent,55.72818231149783,The Eiffel Tower grows 6 inches in summer
