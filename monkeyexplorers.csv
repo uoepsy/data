@@ -1,109 +1,109 @@
 name,age,species,obj_type,obj_colour,obj_size,exploration_time
-Ed Sheeran,8,macaque,soft,red,52,8.8
-Vince Gill,12,macaque,soft,red,38,15.9
-Jewel,18,macaque,soft,red,30,13.1
-Jaden Smith,7,capuchin,soft,red,27,5.7
-Reba McEntire,12,capuchin,soft,red,46,10.6
-Metallica,16,capuchin,soft,red,28,5.5
-JoJo,19,capuchin,soft,red,52,4.5
-Cole Swindell,8,capuchin,soft,red,27,14.3
-Alejandro Fernández,12,capuchin,soft,red,61,5.4
-Kid Rock,10,capuchin,soft,red,55,9.1
-Maroon 5,20,capuchin,soft,red,48,8.9
-BLACKBEAR,12,macaque,soft,red,38,10.6
-Little Big Town,17,capuchin,soft,red,56,6.4
-Gary Allan,3,capuchin,soft,red,68,13.9
-Meghan Trainor,19,capuchin,soft,red,76,2.8
-Shakira,6,macaque,soft,red,84,11.4
-Panic! At the Disco,12,capuchin,soft,red,53,6.3
-Randy Owen,12,macaque,soft,red,75,1
-Merle Haggard,8,capuchin,soft,green,51,14.4
-Brothers Osborne,2,capuchin,soft,green,41,13.6
-James Bay,19,capuchin,soft,green,52,8.1
-Kelsea Ballerini,14,macaque,soft,green,21,10.3
-Ray Charles,12,capuchin,soft,green,29,13.8
-Dan + Shay,15,capuchin,soft,green,35,8.2
-Mariah Carey,19,macaque,soft,green,51,9.2
-Jamey Johnson,7,capuchin,soft,green,65,14.1
-Josh Turner,9,macaque,soft,green,45,7.9
-Sean Paul,15,macaque,soft,green,50,10.2
-John Legend,11,macaque,soft,green,61,6.7
-Selena Gomez,19,capuchin,soft,green,50,8.9
-George Strait,7,capuchin,soft,green,75,8.8
-Brantley Gilbert,1,macaque,soft,green,60,9
-Luciano Pavarotti,10,capuchin,soft,green,67,8
-Ariana Grande,13,macaque,soft,green,88,4.7
-The Oak Ridge Boys,5,macaque,soft,green,76,5.9
-Eminem,2,macaque,soft,green,61,9.8
-Trace Adkins,10,macaque,soft,blue,12,9.3
-Dr. Dre,17,capuchin,soft,blue,18,6.5
-Mumford & Sons,14,capuchin,soft,blue,29,19.2
-Katy Perry,13,capuchin,soft,blue,17,5.1
-Gwen Stefani,9,macaque,soft,blue,10,3.1
-Marvin Gaye,3,capuchin,soft,blue,10,11.7
-Akon,9,macaque,soft,blue,43,2.4
-Dustin Lynch,3,capuchin,soft,blue,44,12
-Justin Timberlake,5,macaque,soft,blue,33,15.1
-Kenny Chesney,18,capuchin,soft,blue,30,6.6
-Backstreet Boys,19,capuchin,soft,blue,93,3.2
-Ja Rule,5,macaque,soft,blue,47,17.6
-A$AP Rocky,15,macaque,soft,blue,68,8.8
-Wiz Khalifa,11,capuchin,soft,blue,62,9.7
-Justin Bieber,8,macaque,soft,blue,74,9.7
-Britney Spears,15,macaque,soft,blue,59,9.7
-The Pussycat Dolls,3,macaque,soft,blue,77,14.2
-Rascal Flatts,3,macaque,soft,blue,58,14.6
-Lil Wayne,13,macaque,moving,red,14,12.7
-Whitney Houston,17,capuchin,moving,red,19,8.2
-Lil Fizz,5,capuchin,moving,red,26,33.1
-Joe Jonas,13,capuchin,moving,red,50,10.7
-Lady Antebellum,14,capuchin,moving,red,44,6.5
-The XX,9,capuchin,moving,red,36,19.2
-Kip Moore,8,macaque,moving,red,44,18.6
-Mason Noise,5,macaque,moving,red,43,22.3
-Rita Ora,7,capuchin,moving,red,70,7.2
-Enrique Iglesias,14,capuchin,moving,red,24,16.8
-Krystal Keith,14,macaque,moving,red,49,9.5
-Alan Jackson,25,capuchin,moving,red,71,2.2
-Aaliyah,18,macaque,moving,red,73,16.1
-Jason Aldean,9,capuchin,moving,red,57,14.5
-Ed Roman,14,capuchin,moving,red,90,5.1
-Zedd,7,capuchin,moving,red,68,12.1
-Justin Moore,8,capuchin,moving,red,64,10.5
-Fall Out Boy,15,capuchin,moving,red,70,8.4
-Travis Tritt,16,capuchin,moving,green,13,7.7
-Gretchen Wilson,10,capuchin,moving,green,22,12.3
-TLC,6,macaque,moving,green,27,14.6
-Brian Collins,7,capuchin,moving,green,31,10.5
-Toby Keith,20,capuchin,moving,green,26,7.5
-Darius Rucker,8,macaque,moving,green,43,13.6
-Canaan Smith,12,macaque,moving,green,50,16.9
-Barbra Streisand,15,capuchin,moving,green,35,11.4
-Tim McGraw,16,macaque,moving,green,36,10.8
-Taylor Swift,9,macaque,moving,green,53,9.7
-Brooks & Dunn,21,capuchin,moving,green,38,6.1
-Drake,20,capuchin,moving,green,35,5.1
-Avenged Sevenfold,8,capuchin,moving,green,55,8.8
-Florida Georgia Line,21,macaque,moving,green,71,4.3
-Jennifer Lopez,15,macaque,moving,green,68,8.1
-Conway Twitty,6,macaque,moving,green,74,9
-YonnieMcfly,22,capuchin,moving,green,80,11.6
-Danielle Bradbery,15,macaque,moving,green,67,11.4
-Elle King,10,macaque,moving,blue,29,6.6
-One Direction,22,macaque,moving,blue,24,5.4
-Cher Lloyd,21,capuchin,moving,blue,40,12.3
-Tyga,15,capuchin,moving,blue,51,12.7
-Guns N' Roses,23,capuchin,moving,blue,19,13.6
-Charli XCX,23,capuchin,moving,blue,36,16.2
-Disclosure,21,capuchin,moving,blue,53,5.3
-Brett Eldredge,11,macaque,moving,blue,52,9.2
-Alessia Cara,21,capuchin,moving,blue,43,10.9
-2Pac,12,macaque,moving,blue,46,15.3
-Kanye West,6,macaque,moving,blue,57,12.7
-Lady Gaga,18,capuchin,moving,blue,59,6.8
-The Vamps,13,macaque,moving,blue,57,12.9
-SayWeCanFly,8,macaque,moving,blue,78,12.2
-Meek Mill,14,macaque,moving,blue,61,7.5
-Pitbull,8,capuchin,moving,blue,54,9.2
-Martina McBride,6,macaque,moving,blue,49,6.8
-Zac Brown Band,14,capuchin,moving,blue,66,20.1
+Ed Sheeran,8,capuchin,soft,red,24,13.1
+Vince Gill,17,capuchin,soft,red,47,6.8
+Jewel,13,capuchin,soft,red,29,12.8
+Jaden Smith,18,capuchin,soft,red,47,8.9
+Reba McEntire,16,macaque,soft,red,38,1.1
+Metallica,13,macaque,soft,red,26,5.7
+JoJo,11,macaque,soft,red,52,3.6
+Cole Swindell,21,capuchin,soft,red,43,8.9
+Alejandro Fernández,3,capuchin,soft,red,56,5.6
+Kid Rock,4,macaque,soft,red,43,5.2
+Maroon 5,11,capuchin,soft,red,59,12.3
+BLACKBEAR,19,macaque,soft,red,55,1.3
+Little Big Town,11,macaque,soft,red,81,3.7
+Gary Allan,21,macaque,soft,red,72,5.4
+Meghan Trainor,3,macaque,soft,red,52,0.4
+Shakira,16,macaque,soft,red,55,6.9
+Panic! At the Disco,10,macaque,soft,red,66,6.1
+Randy Owen,8,macaque,soft,red,92,12.3
+Merle Haggard,11,macaque,soft,green,42,12.8
+Brothers Osborne,20,macaque,soft,green,41,11.5
+James Bay,19,macaque,soft,green,64,0.5
+Kelsea Ballerini,14,macaque,soft,green,36,9.3
+Ray Charles,5,macaque,soft,green,34,10.4
+Dan + Shay,10,macaque,soft,green,37,11.6
+Mariah Carey,15,macaque,soft,green,56,7.5
+Jamey Johnson,15,macaque,soft,green,36,9.6
+Josh Turner,14,capuchin,soft,green,68,10.5
+Sean Paul,11,macaque,soft,green,24,8
+John Legend,11,macaque,soft,green,63,9.1
+Selena Gomez,7,capuchin,soft,green,40,13.3
+George Strait,2,macaque,soft,green,69,7
+Brantley Gilbert,7,macaque,soft,green,66,10
+Luciano Pavarotti,11,capuchin,soft,green,63,13.6
+Ariana Grande,18,macaque,soft,green,81,5
+The Oak Ridge Boys,19,macaque,soft,green,60,3.9
+Eminem,2,capuchin,soft,green,64,17.9
+Trace Adkins,10,macaque,soft,blue,22,12.2
+Dr. Dre,1,macaque,soft,blue,37,12.7
+Mumford & Sons,7,capuchin,soft,blue,33,12.6
+Katy Perry,19,macaque,soft,blue,19,8.7
+Gwen Stefani,4,capuchin,soft,blue,15,12.8
+Marvin Gaye,9,macaque,soft,blue,20,8.5
+Akon,15,macaque,soft,blue,65,4.8
+Dustin Lynch,19,macaque,soft,blue,58,7.6
+Justin Timberlake,17,macaque,soft,blue,62,4.2
+Kenny Chesney,9,capuchin,soft,blue,49,4.6
+Backstreet Boys,12,capuchin,soft,blue,21,10.7
+Ja Rule,18,macaque,soft,blue,68,2.6
+A$AP Rocky,19,capuchin,soft,blue,84,9
+Wiz Khalifa,11,capuchin,soft,blue,72,19.5
+Justin Bieber,10,capuchin,soft,blue,60,8.7
+Britney Spears,14,capuchin,soft,blue,56,9.5
+The Pussycat Dolls,3,macaque,soft,blue,76,6.1
+Rascal Flatts,13,macaque,soft,blue,84,11.7
+Lil Wayne,20,capuchin,moving,red,26,12.6
+Whitney Houston,23,macaque,moving,red,20,10.1
+Lil Fizz,5,capuchin,moving,red,45,33.1
+Joe Jonas,18,capuchin,moving,red,31,10
+Lady Antebellum,11,macaque,moving,red,44,14
+The XX,24,capuchin,moving,red,31,9.4
+Kip Moore,15,capuchin,moving,red,56,11.3
+Mason Noise,15,macaque,moving,red,58,5.3
+Rita Ora,17,capuchin,moving,red,54,7.6
+Enrique Iglesias,22,macaque,moving,red,49,8.3
+Krystal Keith,22,capuchin,moving,red,46,8.8
+Alan Jackson,17,capuchin,moving,red,62,12.3
+Aaliyah,16,macaque,moving,red,78,7
+Jason Aldean,15,macaque,moving,red,63,8.8
+Ed Roman,17,macaque,moving,red,64,6.3
+Zedd,21,macaque,moving,red,76,7.8
+Justin Moore,11,capuchin,moving,red,91,12.3
+Fall Out Boy,22,macaque,moving,red,53,6.6
+Travis Tritt,14,macaque,moving,green,24,7.4
+Gretchen Wilson,10,macaque,moving,green,42,7.5
+TLC,23,capuchin,moving,green,29,14.1
+Brian Collins,22,macaque,moving,green,22,9.7
+Toby Keith,19,capuchin,moving,green,29,12.7
+Darius Rucker,7,capuchin,moving,green,34,17.8
+Canaan Smith,24,capuchin,moving,green,36,3.9
+Barbra Streisand,17,capuchin,moving,green,56,9.5
+Tim McGraw,19,capuchin,moving,green,64,13.1
+Taylor Swift,8,macaque,moving,green,51,10.9
+Brooks & Dunn,23,capuchin,moving,green,68,9.5
+Drake,10,capuchin,moving,green,58,17.3
+Avenged Sevenfold,24,capuchin,moving,green,74,5.1
+Florida Georgia Line,11,macaque,moving,green,67,10.8
+Jennifer Lopez,22,macaque,moving,green,94,0
+Conway Twitty,8,capuchin,moving,green,52,8.9
+YonnieMcfly,9,macaque,moving,green,80,6.5
+Danielle Bradbery,15,macaque,moving,green,55,8.4
+Elle King,7,macaque,moving,blue,27,12.1
+One Direction,15,capuchin,moving,blue,33,9.6
+Cher Lloyd,10,macaque,moving,blue,21,6.9
+Tyga,8,macaque,moving,blue,27,8.7
+Guns N' Roses,20,capuchin,moving,blue,21,12.5
+Charli XCX,8,macaque,moving,blue,33,16.5
+Disclosure,17,macaque,moving,blue,53,8.4
+Brett Eldredge,13,macaque,moving,blue,68,5.4
+Alessia Cara,6,capuchin,moving,blue,58,11
+2Pac,14,capuchin,moving,blue,53,16.7
+Kanye West,8,macaque,moving,blue,47,12.6
+Lady Gaga,16,macaque,moving,blue,39,8.7
+The Vamps,13,capuchin,moving,blue,53,11.5
+SayWeCanFly,14,capuchin,moving,blue,82,12.3
+Meek Mill,6,macaque,moving,blue,89,14.2
+Pitbull,19,macaque,moving,blue,69,9.7
+Martina McBride,24,capuchin,moving,blue,79,7.6
+Zac Brown Band,5,macaque,moving,blue,81,7.6
