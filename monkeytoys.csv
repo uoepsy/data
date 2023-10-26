@@ -1,0 +1,120 @@
+name,age,obj_type,obj_colour,obj_size,exploration_time
+John Paul Stevens,20,soft,blue,46,0
+Ben Stiller,18,soft,blue,43,7.4
+Deborah Gibson,16,soft,blue,68,3.3
+James Randi,3,soft,green,64,1
+Eddie Money,24,mechanical,blue,54,8.5
+Chad Everett,2,soft,green,38,11.8
+Robin Williams,14,mechanical,red,58,8.4
+Carl Sandburg,16,mechanical,red,28,12.7
+James Hetfield,23,mechanical,blue,10,4.5
+Alan Autry,3,soft,red,46,9.3
+Brendan Shanahan,6,mechanical,red,72,17.2
+Gilda Radner,6,mechanical,blue,53,12.5
+Deborah Harry,4,soft,green,49,9.7
+Patrick Swayze,17,soft,blue,38,7.1
+Dinah Shore,6,soft,blue,64,5.1
+George Foreman,17,mechanical,green,61,1.2
+Russell Crowe,7,soft,green,47,16.3
+Oscar Delahoya,9,mechanical,green,82,4.6
+Charles Schulz,11,mechanical,blue,25,10.8
+Seal,18,soft,red,22,13.4
+Gale Storm,3,soft,blue,45,14.3
+Pearl S. Buck,22,mechanical,blue,57,3.7
+Aida Turturro,20,mechanical,blue,63,1
+Sabrina Bryan,17,mechanical,red,19,8.2
+Duane Allman,16,mechanical,blue,42,9.8
+Claudia Schiffer,7,mechanical,red,22,10.3
+Roscoe Lee Browne,18,mechanical,red,1,9.6
+Evel Knievel,25,mechanical,blue,38,8.2
+Frankie Manning,7,mechanical,green,54,16.6
+Georges Pompidou,6,mechanical,blue,79,9.5
+Colleen Dewhurst,8,mechanical,green,77,9.6
+Michael Learned,21,mechanical,green,28,7.2
+Garrett Morgan,20,mechanical,red,57,9.6
+Angela Davis,7,soft,green,42,10
+Lou,11,mechanical,red,29,6.2
+Jack Benny,24,mechanical,green,43,10.5
+Ryan Merriman,19,mechanical,red,71,10.2
+Bruce Lee,12,soft,red,33,9.6
+Bob Edwards,9,soft,blue,55,5.9
+Paul Hogan,17,mechanical,green,61,13.5
+Ray Bolger,15,soft,green,65,7.1
+Connie Stevens,7,soft,red,54,6.8
+Charles Barkley,16,mechanical,red,44,7.7
+Rudi Gernreich,12,soft,green,28,8.9
+Rob Lowe,7,soft,red,61,0
+Bedrich Smetana,4,soft,blue,44,11.1
+Artie Shaw,11,soft,green,25,6.3
+Magic Johnson,13,soft,blue,14,9.7
+Curly Howard,9,soft,blue,50,3.9
+Christian Slater,17,soft,red,57,0
+Kristy McNichol,10,mechanical,blue,31,9.6
+Alf,14,mechanical,red,87,9.2
+Dabney Coleman,15,mechanical,green,31,9.8
+Patrick Henry,15,mechanical,green,69,4.4
+Pauly Shore,23,mechanical,red,40,4.3
+Al Roker,10,soft,red,67,7.7
+David Crosby,10,soft,green,67,10.7
+Michael J. Dady,15,soft,red,72,5.5
+Rollie Fingers,6,mechanical,red,51,14.8
+Eddie Belfour,12,soft,green,39,13.4
+H. Ross Perot,3,soft,red,81,12.9
+Mark Zuckerberg,9,soft,red,45,15
+Bill Cosby,24,mechanical,blue,77,7.2
+Napolenon,23,mechanical,green,71,4.7
+Steve Guttenburg,17,soft,green,35,3.1
+Herbie Hancock,16,mechanical,blue,68,1.9
+Phoenix,1,soft,blue,44,1.9
+Natalie Cole,23,mechanical,green,27,10.3
+Ron Wood,20,soft,red,33,7.4
+Eric Burdon,8,mechanical,green,11,12.1
+Christopher Walken,23,mechanical,blue,98,3
+Daryl Dragon,23,mechanical,green,10,5.6
+Heavy D,21,soft,red,27,6.5
+Andy Kaufman,9,soft,blue,55,9.3
+Linda Blair,16,mechanical,red,27,7.5
+Michael Nesmith,15,mechanical,red,50,9.8
+Christopher Lee,4,soft,blue,46,9.7
+Melissa Joan-Hart,20,soft,green,11,7.9
+Roy Acuff,13,soft,red,83,2.6
+Beau Bridges,17,soft,blue,80,7.6
+John Mayer,14,soft,blue,51,7.2
+LL Cool-J,16,soft,green,71,4.3
+David Geffen,6,mechanical,red,79,13.3
+Mary Queen of Scots,9,mechanical,blue,28,17.2
+Patty Hearst,17,soft,green,25,11.6
+Andrew Young,19,soft,red,36,4.3
+Janet Jackson,14,soft,red,35,8.8
+Robert Wagner,3,soft,red,76,8.7
+Enrique Iglesias,22,mechanical,green,29,9.5
+David Brenner,21,mechanical,green,79,10.7
+Benjamin Britten,6,soft,green,45,12.5
+David Gavurin,16,soft,blue,56,0
+Jacob Underwood,22,mechanical,red,40,12
+Shelley Duvall,9,mechanical,green,84,8.3
+Phil Everly,13,soft,blue,53,9.3
+Danny Kaye,15,mechanical,green,17,17.9
+Kareem Abdul Jabbar,6,soft,green,52,10.3
+Charlie Watts,2,soft,red,69,5.2
+Gracie Fields,13,soft,green,68,13.6
+Loudon Wainwright,23,mechanical,red,84,5.7
+Aldous Huxley,6,mechanical,green,37,9
+Michelle Branch,8,mechanical,red,60,12.1
+Jeanne Robertson,1,soft,green,82,10.4
+Ryan Key,19,mechanical,blue,41,2.5
+Bill Haley,11,mechanical,blue,68,9.3
+Heloise Bowles Cruse,12,soft,green,53,8.2
+Mel Allen,11,mechanical,red,35,14.2
+John Hancock,14,mechanical,blue,45,15.7
+Carl Jung,11,mechanical,blue,12,15.6
+Lee Iacocca,20,soft,green,86,4.6
+Harvey Fierstein,5,soft,red,48,13.6
+Divine,18,mechanical,blue,66,12.1
+Leonardo da-Vinci,21,mechanical,green,36,7.4
+Juliette Lewis,17,soft,blue,80,8.3
+Merce Cunningham,21,mechanical,green,53,3.7
+Lauren Conrad,5,mechanical,red,20,20.5
+Johann Sebastian Bach,2,soft,red,39,8.4
+Jack Webb,6,soft,red,71,13.5
+Blaise Pascal,24,mechanical,blue,46,0.7
