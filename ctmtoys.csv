@@ -1,0 +1,217 @@
+name,age,species,obj_type,obj_colour,obj_size,exptime
+Jimmie Walker,17,tamarin,soft,red,30,8.6
+Maxene Andrews,15,capuchin,soft,red,28,13.4
+Ellen Johnson Sirleaf,15,macaque,soft,red,56,11
+Sandra Bullock,4,macaque,soft,red,27,12.7
+Maureen McCormick,10,macaque,soft,red,19,7.1
+Harry Shearer,21,capuchin,soft,red,32,18.4
+Mary Tyler Moore,7,capuchin,soft,red,25,11.8
+Chris Brown,17,capuchin,soft,red,37,22
+Sarah Michelle Gellar,16,capuchin,soft,red,11,17
+John Lithgow,8,capuchin,soft,red,20,10.9
+Eric Szmanda,13,capuchin,soft,red,30,11.6
+Patricia Heaton,20,capuchin,soft,red,38,11.6
+Donna Karan,25,tamarin,soft,red,46,11.2
+Charlize Theron,15,tamarin,soft,red,45,12.6
+Frankie Valli,18,macaque,soft,red,60,11.3
+Jill Hennessy,1,macaque,soft,red,46,12.9
+Bud Cort,5,capuchin,soft,red,45,18.4
+George Jones,24,tamarin,soft,red,62,4.2
+Jay Silverheels,23,tamarin,soft,red,42,4.8
+Bryan Adams,15,macaque,soft,red,61,11.3
+Freddie Mercury,8,macaque,soft,red,50,11.6
+Gloria Swanson,18,capuchin,soft,red,64,18.2
+Suzy Bogguss,7,macaque,soft,red,57,9.6
+Bill Clinton,13,tamarin,soft,red,44,10.9
+French Stewart,9,macaque,soft,red,63,14.5
+David Geffen,21,tamarin,soft,red,70,19
+Lea Michele,25,tamarin,soft,red,68,8.4
+Judge Judy Sheindlin,15,macaque,soft,red,73,6
+Ice T,11,tamarin,soft,red,86,14.6
+Brian Boitano,9,tamarin,soft,red,67,12.4
+Lucille Ball,1,capuchin,soft,red,60,20.9
+Earl Anthony,20,tamarin,soft,red,94,8
+Jim Belushi,19,macaque,soft,red,66,11
+Kajol,16,tamarin,soft,red,65,8.7
+Emmylou Harris,18,macaque,soft,red,65,5.6
+Dr. Drew,16,macaque,soft,red,59,13.6
+Matt Damon,20,capuchin,soft,green,50,13.9
+Bob Wian,16,tamarin,soft,green,31,7.8
+Cuba Gooding,7,macaque,soft,green,23,12
+Kherington Payne,20,capuchin,soft,green,49,12.9
+Sam Elliot,8,capuchin,soft,green,33,11.9
+Agnetha Fältskog,10,macaque,soft,green,36,9.6
+Jean Luc Ponty,10,capuchin,soft,green,42,18.8
+Chevy Chase,2,capuchin,soft,green,13,13.8
+J.P. Big Bopper Richardson,14,capuchin,soft,green,15,13.7
+Colette,18,tamarin,soft,green,27,14.5
+Michael Jackson,19,tamarin,soft,green,23,11
+Harriet Nelson,13,macaque,soft,green,48,12.9
+Nick Jonas,2,macaque,soft,green,50,12.9
+Kat Von-D,18,tamarin,soft,green,49,10.4
+Quincy Jones,9,macaque,soft,green,29,13.7
+Picabo Street,17,tamarin,soft,green,47,15.8
+Nancy Grace,15,macaque,soft,green,36,4.5
+Dr. Seuss,3,capuchin,soft,green,37,13.2
+Elmore Leonard,20,capuchin,soft,green,45,16
+Obi Wan-Kenobi,10,tamarin,soft,green,59,9.4
+Martina Hingis,10,tamarin,soft,green,58,19.9
+Richard Dawson,15,macaque,soft,green,37,10.8
+Dr. Laura Schlessinger,12,tamarin,soft,green,51,12
+Billie Holiday,18,capuchin,soft,green,47,18.9
+Drew Barymore,18,tamarin,soft,green,60,5.7
+George Noory,14,tamarin,soft,green,92,9.6
+Osama Bin-Laden,18,macaque,soft,green,67,4.6
+Antonio Vivaldi,8,tamarin,soft,green,72,11.4
+Connie Francis,7,tamarin,soft,green,73,10.6
+Brian Jones,21,macaque,soft,green,57,14.3
+Niels Bohr,7,capuchin,soft,green,68,13.2
+Mack Sennett,12,capuchin,soft,green,62,15.8
+Peter Sellers,13,tamarin,soft,green,84,14.4
+Harvey Milk,20,capuchin,soft,green,59,15.2
+Fats Domino,2,capuchin,soft,green,57,14.6
+Gary Oldman,15,tamarin,soft,green,84,14
+Jackson Browne,2,capuchin,soft,blue,41,14.9
+Peter Scolari,12,macaque,soft,blue,15,9.5
+John Keats,19,capuchin,soft,blue,7,17.2
+Kareem Abdul-Jabbar,7,macaque,soft,blue,16,16.7
+Bob Weir,12,capuchin,soft,blue,36,20.6
+Cole Porter,21,capuchin,soft,blue,38,17.7
+Johann von Goethe,15,macaque,soft,blue,34,4.3
+Arthur Miller,9,tamarin,soft,blue,37,16
+Anthony Hopkins,14,capuchin,soft,blue,19,15.9
+Marlon Wayans,2,capuchin,soft,blue,28,18.3
+Alexandre Tansman,17,capuchin,soft,blue,23,14.2
+Manny Pacquiao,18,tamarin,soft,blue,34,11.8
+Lee Marvin,13,macaque,soft,blue,44,9
+Nathaniel Currier,25,tamarin,soft,blue,66,9.8
+Gary Burghoff,20,macaque,soft,blue,37,11.1
+Conrad Hilton,17,macaque,soft,blue,57,11.1
+Ray Parker,7,tamarin,soft,blue,46,13.8
+Harold Robbins,18,tamarin,soft,blue,57,11.7
+Emily Osment,6,capuchin,soft,blue,38,19.2
+Michael Douglas,2,macaque,soft,blue,53,8
+Phyllis George,8,capuchin,soft,blue,36,18.4
+James Agee,20,macaque,soft,blue,50,12.8
+Johnny Otis,16,macaque,soft,blue,62,4.3
+Bedrich Smetana,25,tamarin,soft,blue,43,10.8
+Garrett Morris,10,capuchin,soft,blue,71,19.2
+Dave Chappelle,18,tamarin,soft,blue,77,11
+Anthony Glise,9,tamarin,soft,blue,49,14.9
+Madeleine Carroll,11,capuchin,soft,blue,58,9.8
+John Grisham,18,capuchin,soft,blue,69,13.8
+Charles Babbage,12,tamarin,soft,blue,51,13.5
+Seth Green,24,tamarin,soft,blue,55,8.9
+Buck Henry,5,tamarin,soft,blue,69,16.6
+John Singer-Sargent,14,tamarin,soft,blue,90,12.2
+George Machine Gun Kelly,10,macaque,soft,blue,86,11.4
+Kate Bush,1,macaque,soft,blue,69,11.3
+Eric Sevareid,5,tamarin,soft,blue,76,20
+Arthur Kennedy,16,macaque,mechanical,red,36,12.8
+Penny Marshall,21,capuchin,mechanical,red,31,19.2
+Al Pacino,16,capuchin,mechanical,red,26,19
+Nanette Fabray,6,capuchin,mechanical,red,7,15.5
+Andy Williams,5,macaque,mechanical,red,46,22.1
+Dwight Yoakam,10,tamarin,mechanical,red,24,5
+Joe E. Brown,10,tamarin,mechanical,red,17,11.8
+Kate Capshaw,14,macaque,mechanical,red,31,17.3
+John Paul Stevens,18,macaque,mechanical,red,23,10.7
+David Niven,10,capuchin,mechanical,red,24,12.9
+Paul Harvey,11,macaque,mechanical,red,39,14
+Colin L. Powell,17,tamarin,mechanical,red,40,10.2
+Harriet Wheeler,9,tamarin,mechanical,red,49,8.4
+Daniel Stern,8,tamarin,mechanical,red,47,20.3
+Andre Previn,15,macaque,mechanical,red,43,9.9
+Elizabeth Ann Seton,19,macaque,mechanical,red,36,9.4
+Liv Ullmann,16,tamarin,mechanical,red,65,17.2
+Deion Sanders,8,capuchin,mechanical,red,40,15.2
+C. Thomas Howell,11,tamarin,mechanical,red,40,10.9
+Carlos Bernard,12,tamarin,mechanical,red,43,18.6
+Reverend Jerry Falwell,7,tamarin,mechanical,red,49,18.5
+Joel McCrea,9,capuchin,mechanical,red,41,21.1
+Duff Goldman,18,tamarin,mechanical,red,55,9.4
+Sheena Easton,15,macaque,mechanical,red,57,15.4
+David Frost,5,capuchin,mechanical,red,58,25.1
+Jerry Garcia,8,tamarin,mechanical,red,71,11.2
+Patrick Stewart,10,capuchin,mechanical,red,63,14.6
+Conan OBrien,21,capuchin,mechanical,red,79,16.3
+Ernest Borgnine,3,macaque,mechanical,red,68,16.7
+Jennifer Jason Leigh,15,tamarin,mechanical,red,77,7.6
+Buffalo Bob Smith,10,tamarin,mechanical,red,67,13
+Santana,21,macaque,mechanical,red,52,22.1
+Art Bell,17,tamarin,mechanical,red,69,8.4
+Richard Gere,23,tamarin,mechanical,red,90,8.6
+Joan Sutherland,18,macaque,mechanical,red,68,17
+Giada De Laurentiis,13,capuchin,mechanical,red,45,11.9
+Mary Travers,22,tamarin,mechanical,green,22,11.3
+Josh Groban,20,macaque,mechanical,green,46,9.6
+Edward M. Kennedy,12,macaque,mechanical,green,47,13.4
+Dick Cavett,5,macaque,mechanical,green,28,11.8
+Charles Darwin,8,tamarin,mechanical,green,25,12.9
+Keith Moon,1,macaque,mechanical,green,37,20.1
+Kanye West,14,tamarin,mechanical,green,35,13.8
+Franz Kafka,2,macaque,mechanical,green,28,6.3
+Noel Paul Stookey,20,capuchin,mechanical,green,39,18.6
+Ben Kingsley,8,tamarin,mechanical,green,28,15.1
+Peter Graves,2,macaque,mechanical,green,34,17.4
+Cameron Diaz,10,capuchin,mechanical,green,30,23
+Nathan Bedford Forrest,17,tamarin,mechanical,green,60,13.7
+Chiang Kai-Shek,13,tamarin,mechanical,green,55,18.8
+Barack Obama,5,macaque,mechanical,green,40,16.3
+Bat Masterson,13,capuchin,mechanical,green,62,20.1
+Oskar Werner,14,capuchin,mechanical,green,61,18.6
+Anna Nicole Smith,11,capuchin,mechanical,green,51,16.6
+Larry the Cable-Guy,23,tamarin,mechanical,green,41,6.5
+Larry Byrd,12,macaque,mechanical,green,66,10.2
+Madame Curie,11,macaque,mechanical,green,53,15.3
+Loni Anderson,10,capuchin,mechanical,green,28,20.2
+Michael Waltrip,15,capuchin,mechanical,green,45,12.6
+Deborah Kerr,6,capuchin,mechanical,green,59,23.4
+Seal,9,macaque,mechanical,green,74,13.8
+Ray Price,3,capuchin,mechanical,green,61,17.9
+Laura Nyro,2,macaque,mechanical,green,60,18.6
+Joseph Haydn,16,tamarin,mechanical,green,43,11
+Humphrey Bogart,13,capuchin,mechanical,green,75,15.6
+Eugene Ormandy,13,capuchin,mechanical,green,78,17.8
+Bobby Darin,12,tamarin,mechanical,green,71,14
+Monty Hall,7,capuchin,mechanical,green,67,19
+Gene De Paul,24,tamarin,mechanical,green,73,13
+Donna Summer,3,macaque,mechanical,green,66,17.9
+Nelson Mandela,13,capuchin,mechanical,green,62,16.9
+Gene Wilder,7,macaque,mechanical,green,61,14.6
+Diana DeGarmo,19,capuchin,mechanical,blue,5,19.6
+Leontyne Price,18,macaque,mechanical,blue,38,13
+Otto Klemperer,17,tamarin,mechanical,blue,38,13.6
+Ben Blue,18,macaque,mechanical,blue,32,12
+Concetta Tomei,14,capuchin,mechanical,blue,38,17.2
+Andre the Giant,12,tamarin,mechanical,blue,12,10.6
+Brenda Vaccaro,15,macaque,mechanical,blue,24,8
+Jimmy Webb,7,macaque,mechanical,blue,25,12.9
+Culkin,10,capuchin,mechanical,blue,49,18.1
+Daniel Schorr,16,tamarin,mechanical,blue,26,12
+Ansel Adams,13,macaque,mechanical,blue,17,13.5
+Gordon Jump,14,macaque,mechanical,blue,41,15.1
+Al Roker,17,macaque,mechanical,blue,56,13.6
+Greg LeMond,19,capuchin,mechanical,blue,39,19.2
+Abraham Lincoln,6,macaque,mechanical,blue,42,17.2
+Nik Kershaw,15,macaque,mechanical,blue,52,12.8
+Morgan Freeman,6,capuchin,mechanical,blue,49,14
+Blaise Pascal,18,macaque,mechanical,blue,42,14.4
+Gordie Howe,14,macaque,mechanical,blue,34,14.6
+Chuck Norris,15,macaque,mechanical,blue,59,15.5
+John Deacon,6,capuchin,mechanical,blue,41,19.8
+Larry Hagman,11,macaque,mechanical,blue,51,13.4
+Norman Schwarzkopf,16,macaque,mechanical,blue,57,12.3
+Ken Russell,14,tamarin,mechanical,blue,52,11.6
+Ray Manzarek,20,tamarin,mechanical,blue,64,8.4
+Notorious BIG,10,macaque,mechanical,blue,49,9.9
+Captain Kangaroo,16,capuchin,mechanical,blue,72,13.5
+Dean Jones,8,macaque,mechanical,blue,66,14.3
+Charles Goodyear,9,tamarin,mechanical,blue,56,12.1
+Red Barber,20,macaque,mechanical,blue,66,11.4
+Sigmund Freud,18,capuchin,mechanical,blue,70,16.4
+Mike Connors,7,capuchin,mechanical,blue,81,20
+Ed Begley,1,macaque,mechanical,blue,84,12.3
+Brigitte Bardot,21,macaque,mechanical,blue,57,10.2
+Calvin Coolidge,15,tamarin,mechanical,blue,89,17.5
+Rutger Hauer,17,capuchin,mechanical,blue,79,18
