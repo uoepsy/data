@@ -1,0 +1,1201 @@
+dept,pid,CBD,measure,day,stress
+CMVM,Ryan,Y,Self-report,1,0.933
+CMVM,Ryan,Y,Self-report,2,0.997
+CMVM,Ryan,Y,Self-report,3,0.408
+CMVM,Ryan,Y,Self-report,4,0.581
+CMVM,Ryan,Y,Self-report,5,0.442
+CMVM,Nicholas,Y,Self-report,1,0.138
+CMVM,Nicholas,Y,Self-report,2,0.416
+CMVM,Nicholas,Y,Self-report,3,1.143
+CMVM,Nicholas,Y,Self-report,4,0.008
+CMVM,Nicholas,Y,Self-report,5,0.497
+CMVM,Lance,Y,Self-report,1,0.61
+CMVM,Lance,Y,Self-report,2,1.258
+CMVM,Lance,Y,Self-report,3,0.323
+CMVM,Lance,Y,Self-report,4,0.068
+CMVM,Lance,Y,Self-report,5,-0.057
+CMVM,Autumn,Y,Self-report,1,1.454
+CMVM,Autumn,Y,Self-report,2,1.313
+CMVM,Autumn,Y,Self-report,3,0.455
+CMVM,Autumn,Y,Self-report,4,0.883
+CMVM,Autumn,Y,Self-report,5,0.427
+CMVM,Juan,Y,Self-report,1,1.054
+CMVM,Juan,Y,Self-report,2,1.14
+CMVM,Juan,Y,Self-report,3,0.876
+CMVM,Juan,Y,Self-report,4,0.121
+CMVM,Juan,Y,Self-report,5,1.015
+CMVM,Jacob,N,Self-report,1,1.379
+CMVM,Jacob,N,Self-report,2,2.19
+CMVM,Jacob,N,Self-report,3,1.046
+CMVM,Jacob,N,Self-report,4,1.574
+CMVM,Jacob,N,Self-report,5,1.996
+CMVM,Taylor X,Y,Self-report,1,0.471
+CMVM,Taylor X,Y,Self-report,2,0.434
+CMVM,Taylor X,Y,Self-report,3,1.015
+CMVM,Taylor X,Y,Self-report,4,0.116
+CMVM,Taylor X,Y,Self-report,5,0.424
+CMVM,Allison L,Y,Self-report,1,0.52
+CMVM,Allison L,Y,Self-report,2,0.39
+CMVM,Allison L,Y,Self-report,3,0.486
+CMVM,Allison L,Y,Self-report,4,0.713
+CMVM,Allison L,Y,Self-report,5,0.128
+CMVM,Samantha,N,Self-report,1,0.874
+CMVM,Samantha,N,Self-report,2,0.992
+CMVM,Samantha,N,Self-report,3,1.264
+CMVM,Samantha,N,Self-report,4,0.656
+CMVM,Samantha,N,Self-report,5,0.877
+CMVM,Jared,Y,Self-report,1,1.077
+CMVM,Jared,Y,Self-report,2,0.884
+CMVM,Jared,Y,Self-report,3,0.64
+CMVM,Jared,Y,Self-report,4,1.12
+CMVM,Jared,Y,Self-report,5,0.641
+CMVM,Allison I,Y,Self-report,1,0.336
+CMVM,Allison I,Y,Self-report,2,0.238
+CMVM,Allison I,Y,Self-report,3,0.264
+CMVM,Allison I,Y,Self-report,4,-0.302
+CMVM,Allison I,Y,Self-report,5,-0.148
+CMVM,Russel,Y,Self-report,1,0.636
+CMVM,Russel,Y,Self-report,2,0.98
+CMVM,Russel,Y,Self-report,3,0.771
+CMVM,Russel,Y,Self-report,4,-0.059
+CMVM,Russel,Y,Self-report,5,0.272
+CMVM,Dustin,N,Self-report,1,1.344
+CMVM,Dustin,N,Self-report,2,0.903
+CMVM,Dustin,N,Self-report,3,1.345
+CMVM,Dustin,N,Self-report,4,0.587
+CMVM,Dustin,N,Self-report,5,0.786
+CMVM,Tobi,Y,Self-report,1,1.005
+CMVM,Tobi,Y,Self-report,2,0.945
+CMVM,Tobi,Y,Self-report,3,0.905
+CMVM,Tobi,Y,Self-report,4,0.427
+CMVM,Tobi,Y,Self-report,5,0.761
+CMVM,Kaelyn,Y,Self-report,1,0.85
+CMVM,Kaelyn,Y,Self-report,2,1.109
+CMVM,Kaelyn,Y,Self-report,3,1.337
+CMVM,Kaelyn,Y,Self-report,4,1.855
+CMVM,Kaelyn,Y,Self-report,5,1.845
+CMVM,Taylor Q,Y,Self-report,1,1.302
+CMVM,Taylor Q,Y,Self-report,2,0.452
+CMVM,Taylor Q,Y,Self-report,3,0.651
+CMVM,Taylor Q,Y,Self-report,4,1.032
+CMVM,Taylor Q,Y,Self-report,5,0.567
+CMVM,Wasmaaa,Y,Self-report,1,0.998
+CMVM,Wasmaaa,Y,Self-report,2,1.84
+CMVM,Wasmaaa,Y,Self-report,3,0.742
+CMVM,Wasmaaa,Y,Self-report,4,0.828
+CMVM,Wasmaaa,Y,Self-report,5,1.712
+CMVM,Tavon,Y,Self-report,1,0.853
+CMVM,Tavon,Y,Self-report,2,-0.058
+CMVM,Tavon,Y,Self-report,3,0.184
+CMVM,Tavon,Y,Self-report,4,-0.132
+CMVM,Tavon,Y,Self-report,5,-0.121
+CMVM,Beau,Y,Self-report,1,0.939
+CMVM,Beau,Y,Self-report,2,0.307
+CMVM,Beau,Y,Self-report,3,0.106
+CMVM,Beau,Y,Self-report,4,0.483
+CMVM,Beau,Y,Self-report,5,0.197
+CMVM,Nathaniel,Y,Self-report,1,1.047
+CMVM,Nathaniel,Y,Self-report,2,1.308
+CMVM,Nathaniel,Y,Self-report,3,0.941
+CMVM,Nathaniel,Y,Self-report,4,0.437
+CMVM,Nathaniel,Y,Self-report,5,0.905
+Phil,Alexandra,N,Self-report,1,-0.518
+Phil,Alexandra,N,Self-report,2,-0.442
+Phil,Alexandra,N,Self-report,3,-0.234
+Phil,Alexandra,N,Self-report,4,-0.324
+Phil,Alexandra,N,Self-report,5,-0.871
+Phil,Cody,Y,Self-report,1,-0.012
+Phil,Cody,Y,Self-report,2,-0.44
+Phil,Cody,Y,Self-report,3,0.008
+Phil,Cody,Y,Self-report,4,-0.203
+Phil,Cody,Y,Self-report,5,0.04
+Phil,Monica,Y,Self-report,1,0.979
+Phil,Monica,Y,Self-report,2,0.276
+Phil,Monica,Y,Self-report,3,0.303
+Phil,Monica,Y,Self-report,4,-0.133
+Phil,Monica,Y,Self-report,5,-0.699
+Phil,Angela,Y,Self-report,1,0.145
+Phil,Angela,Y,Self-report,2,0.782
+Phil,Angela,Y,Self-report,3,0.199
+Phil,Angela,Y,Self-report,4,0.205
+Phil,Angela,Y,Self-report,5,0.238
+Phil,Nina,Y,Self-report,1,0.374
+Phil,Nina,Y,Self-report,2,-0.28
+Phil,Nina,Y,Self-report,3,0.633
+Phil,Nina,Y,Self-report,4,0.541
+Phil,Nina,Y,Self-report,5,0.753
+Phil,Scott,N,Self-report,1,-0.57
+Phil,Scott,N,Self-report,2,-0.585
+Phil,Scott,N,Self-report,3,0.296
+Phil,Scott,N,Self-report,4,0.113
+Phil,Scott,N,Self-report,5,-1.07
+Phil,Faith,Y,Self-report,1,0.353
+Phil,Faith,Y,Self-report,2,1.171
+Phil,Faith,Y,Self-report,3,0.997
+Phil,Faith,Y,Self-report,4,0.829
+Phil,Faith,Y,Self-report,5,1.631
+Phil,Haniyya,N,Self-report,1,0.154
+Phil,Haniyya,N,Self-report,2,0.604
+Phil,Haniyya,N,Self-report,3,0.422
+Phil,Haniyya,N,Self-report,4,0.727
+Phil,Haniyya,N,Self-report,5,0.203
+Phil,Miles,Y,Self-report,1,-0.074
+Phil,Miles,Y,Self-report,2,-0.291
+Phil,Miles,Y,Self-report,3,0.314
+Phil,Miles,Y,Self-report,4,1.244
+Phil,Miles,Y,Self-report,5,0.663
+Phil,Reilly,N,Self-report,1,-0.52
+Phil,Reilly,N,Self-report,2,-0.343
+Phil,Reilly,N,Self-report,3,-0.613
+Phil,Reilly,N,Self-report,4,-0.794
+Phil,Reilly,N,Self-report,5,-0.403
+Phil,Matthew,N,Self-report,1,-0.204
+Phil,Matthew,N,Self-report,2,0.397
+Phil,Matthew,N,Self-report,3,-0.128
+Phil,Matthew,N,Self-report,4,0.284
+Phil,Matthew,N,Self-report,5,-0.056
+Phil,Andrew,N,Self-report,1,0.382
+Phil,Andrew,N,Self-report,2,0.636
+Phil,Andrew,N,Self-report,3,-0.755
+Phil,Andrew,N,Self-report,4,0.51
+Phil,Andrew,N,Self-report,5,0.911
+Phil,Fabian,Y,Self-report,1,0.55
+Phil,Fabian,Y,Self-report,2,0.643
+Phil,Fabian,Y,Self-report,3,0.511
+Phil,Fabian,Y,Self-report,4,-0.784
+Phil,Fabian,Y,Self-report,5,0.616
+Phil,Benjamin,Y,Self-report,1,0.444
+Phil,Benjamin,Y,Self-report,2,0.312
+Phil,Benjamin,Y,Self-report,3,0.544
+Phil,Benjamin,Y,Self-report,4,0.003
+Phil,Benjamin,Y,Self-report,5,0.194
+Phil,Melanie,Y,Self-report,1,0.571
+Phil,Melanie,Y,Self-report,2,1.032
+Phil,Melanie,Y,Self-report,3,0.644
+Phil,Melanie,Y,Self-report,4,0.595
+Phil,Melanie,Y,Self-report,5,0.394
+Phil,Luis,Y,Self-report,1,-0.306
+Phil,Luis,Y,Self-report,2,-0.651
+Phil,Luis,Y,Self-report,3,0.21
+Phil,Luis,Y,Self-report,4,0.06
+Phil,Luis,Y,Self-report,5,-0.196
+Phil,Idrees,Y,Self-report,1,-0.087
+Phil,Idrees,Y,Self-report,2,-0.028
+Phil,Idrees,Y,Self-report,3,-0.145
+Phil,Idrees,Y,Self-report,4,-0.006
+Phil,Idrees,Y,Self-report,5,-0.268
+Phil,Lucas,N,Self-report,1,0.178
+Phil,Lucas,N,Self-report,2,0.078
+Phil,Lucas,N,Self-report,3,0.47
+Phil,Lucas,N,Self-report,4,0.801
+Phil,Lucas,N,Self-report,5,1.32
+Phil,Katie,Y,Self-report,1,0.308
+Phil,Katie,Y,Self-report,2,0.795
+Phil,Katie,Y,Self-report,3,-0.244
+Phil,Katie,Y,Self-report,4,0.032
+Phil,Katie,Y,Self-report,5,-0.484
+Phil,Jimmy,Y,Self-report,1,-0.342
+Phil,Jimmy,Y,Self-report,2,0.328
+Phil,Jimmy,Y,Self-report,3,1.541
+Phil,Jimmy,Y,Self-report,4,0.757
+Phil,Jimmy,Y,Self-report,5,0.568
+Math,Ramza,Y,Self-report,1,0.048
+Math,Ramza,Y,Self-report,2,-0.924
+Math,Ramza,Y,Self-report,3,-0.167
+Math,Ramza,Y,Self-report,4,-0.145
+Math,Ramza,Y,Self-report,5,0.254
+Math,Ayzia,Y,Self-report,1,-1.009
+Math,Ayzia,Y,Self-report,2,-0.577
+Math,Ayzia,Y,Self-report,3,-0.841
+Math,Ayzia,Y,Self-report,4,-0.376
+Math,Ayzia,Y,Self-report,5,-0.417
+Math,Samuel,Y,Self-report,1,-0.336
+Math,Samuel,Y,Self-report,2,-0.933
+Math,Samuel,Y,Self-report,3,-0.693
+Math,Samuel,Y,Self-report,4,0.049
+Math,Samuel,Y,Self-report,5,-0.344
+Math,Miranda,Y,Self-report,1,0.537
+Math,Miranda,Y,Self-report,2,0.074
+Math,Miranda,Y,Self-report,3,-0.432
+Math,Miranda,Y,Self-report,4,-0.852
+Math,Miranda,Y,Self-report,5,-0.751
+Math,Theodore,Y,Self-report,1,-0.607
+Math,Theodore,Y,Self-report,2,-0.409
+Math,Theodore,Y,Self-report,3,-0.621
+Math,Theodore,Y,Self-report,4,-1.112
+Math,Theodore,Y,Self-report,5,-1.374
+Math,Colton,Y,Self-report,1,-1.484
+Math,Colton,Y,Self-report,2,-0.784
+Math,Colton,Y,Self-report,3,-1.092
+Math,Colton,Y,Self-report,4,-0.815
+Math,Colton,Y,Self-report,5,-0.579
+Math,Shakoora,Y,Self-report,1,-0.445
+Math,Shakoora,Y,Self-report,2,-0.23
+Math,Shakoora,Y,Self-report,3,-0.084
+Math,Shakoora,Y,Self-report,4,0.148
+Math,Shakoora,Y,Self-report,5,-0.147
+Math,Sergio,Y,Self-report,1,-0.704
+Math,Sergio,Y,Self-report,2,-0.298
+Math,Sergio,Y,Self-report,3,-0.086
+Math,Sergio,Y,Self-report,4,0.285
+Math,Sergio,Y,Self-report,5,-0.2
+Math,Naazim,Y,Self-report,1,0.367
+Math,Naazim,Y,Self-report,2,0.449
+Math,Naazim,Y,Self-report,3,-0.279
+Math,Naazim,Y,Self-report,4,-0.01
+Math,Naazim,Y,Self-report,5,0.386
+Math,Sunee,N,Self-report,1,-0.35
+Math,Sunee,N,Self-report,2,0.119
+Math,Sunee,N,Self-report,3,-0.832
+Math,Sunee,N,Self-report,4,-0.439
+Math,Sunee,N,Self-report,5,0.502
+Math,Ashton,Y,Self-report,1,-0.332
+Math,Ashton,Y,Self-report,2,-1.039
+Math,Ashton,Y,Self-report,3,0.217
+Math,Ashton,Y,Self-report,4,-0.124
+Math,Ashton,Y,Self-report,5,0.612
+Math,Breanna,Y,Self-report,1,-0.856
+Math,Breanna,Y,Self-report,2,-0.748
+Math,Breanna,Y,Self-report,3,-1.438
+Math,Breanna,Y,Self-report,4,-1.127
+Math,Breanna,Y,Self-report,5,-1.05
+Math,Rebecca,Y,Self-report,1,-0.693
+Math,Rebecca,Y,Self-report,2,-0.835
+Math,Rebecca,Y,Self-report,3,-0.734
+Math,Rebecca,Y,Self-report,4,-1.456
+Math,Rebecca,Y,Self-report,5,-1.017
+Math,Steven,N,Self-report,1,-1.224
+Math,Steven,N,Self-report,2,-0.361
+Math,Steven,N,Self-report,3,-0.901
+Math,Steven,N,Self-report,4,0.217
+Math,Steven,N,Self-report,5,0.292
+Math,John,Y,Self-report,1,-0.516
+Math,John,Y,Self-report,2,0.258
+Math,John,Y,Self-report,3,-1.709
+Math,John,Y,Self-report,4,-0.459
+Math,John,Y,Self-report,5,-0.842
+Math,Edward,N,Self-report,1,-0.912
+Math,Edward,N,Self-report,2,-0.132
+Math,Edward,N,Self-report,3,-0.942
+Math,Edward,N,Self-report,4,-0.427
+Math,Edward,N,Self-report,5,0.157
+Math,Connor,N,Self-report,1,-0.092
+Math,Connor,N,Self-report,2,0.006
+Math,Connor,N,Self-report,3,0.333
+Math,Connor,N,Self-report,4,0.937
+Math,Connor,N,Self-report,5,1.226
+Math,Alexandria,N,Self-report,1,-0.536
+Math,Alexandria,N,Self-report,2,-0.93
+Math,Alexandria,N,Self-report,3,-1.014
+Math,Alexandria,N,Self-report,4,0.137
+Math,Alexandria,N,Self-report,5,0.06
+Math,Seth,N,Self-report,1,0.027
+Math,Seth,N,Self-report,2,-0.375
+Math,Seth,N,Self-report,3,-0.102
+Math,Seth,N,Self-report,4,-0.2
+Math,Seth,N,Self-report,5,0.974
+Math,Abdul Hai,N,Self-report,1,0.554
+Math,Abdul Hai,N,Self-report,2,0.317
+Math,Abdul Hai,N,Self-report,3,0.359
+Math,Abdul Hai,N,Self-report,4,-0.114
+Math,Abdul Hai,N,Self-report,5,-0.68
+Sociology,Jeelaan,N,Self-report,1,0.147
+Sociology,Jeelaan,N,Self-report,2,0.888
+Sociology,Jeelaan,N,Self-report,3,0.659
+Sociology,Jeelaan,N,Self-report,4,0.995
+Sociology,Jeelaan,N,Self-report,5,0.959
+Sociology,Sydney,N,Self-report,1,-0.097
+Sociology,Sydney,N,Self-report,2,0.563
+Sociology,Sydney,N,Self-report,3,0.752
+Sociology,Sydney,N,Self-report,4,0.75
+Sociology,Sydney,N,Self-report,5,1.087
+Sociology,Razan,N,Self-report,1,0.694
+Sociology,Razan,N,Self-report,2,1.382
+Sociology,Razan,N,Self-report,3,0.488
+Sociology,Razan,N,Self-report,4,1.327
+Sociology,Razan,N,Self-report,5,1.199
+Sociology,Alexander,N,Self-report,1,-0.141
+Sociology,Alexander,N,Self-report,2,0.058
+Sociology,Alexander,N,Self-report,3,0.484
+Sociology,Alexander,N,Self-report,4,0.153
+Sociology,Alexander,N,Self-report,5,1.187
+Sociology,Michaela,N,Self-report,1,1.544
+Sociology,Michaela,N,Self-report,2,1.309
+Sociology,Michaela,N,Self-report,3,1.573
+Sociology,Michaela,N,Self-report,4,2.687
+Sociology,Michaela,N,Self-report,5,2.294
+Sociology,Jaime,N,Self-report,1,1.057
+Sociology,Jaime,N,Self-report,2,0.142
+Sociology,Jaime,N,Self-report,3,0.826
+Sociology,Jaime,N,Self-report,4,1.518
+Sociology,Jaime,N,Self-report,5,0.906
+Sociology,Leticia,N,Self-report,1,0.001
+Sociology,Leticia,N,Self-report,2,0.663
+Sociology,Leticia,N,Self-report,3,0.55
+Sociology,Leticia,N,Self-report,4,0.525
+Sociology,Leticia,N,Self-report,5,0.867
+Sociology,Jared,N,Self-report,1,1.79
+Sociology,Jared,N,Self-report,2,1.518
+Sociology,Jared,N,Self-report,3,1.683
+Sociology,Jared,N,Self-report,4,1.424
+Sociology,Jared,N,Self-report,5,1.054
+Sociology,Savannah,N,Self-report,1,0.433
+Sociology,Savannah,N,Self-report,2,1.043
+Sociology,Savannah,N,Self-report,3,0.266
+Sociology,Savannah,N,Self-report,4,0.99
+Sociology,Savannah,N,Self-report,5,0.818
+Sociology,Spencer,Y,Self-report,1,-0.034
+Sociology,Spencer,Y,Self-report,2,0.333
+Sociology,Spencer,Y,Self-report,3,-0.304
+Sociology,Spencer,Y,Self-report,4,-0.309
+Sociology,Spencer,Y,Self-report,5,-0.56
+Sociology,Gabriel,Y,Self-report,1,-0.213
+Sociology,Gabriel,Y,Self-report,2,0.306
+Sociology,Gabriel,Y,Self-report,3,0.996
+Sociology,Gabriel,Y,Self-report,4,0.516
+Sociology,Gabriel,Y,Self-report,5,1.229
+Sociology,Paola,Y,Self-report,1,0.02
+Sociology,Paola,Y,Self-report,2,0.233
+Sociology,Paola,Y,Self-report,3,1.311
+Sociology,Paola,Y,Self-report,4,0.96
+Sociology,Paola,Y,Self-report,5,1.243
+Sociology,Haylee,N,Self-report,1,0.912
+Sociology,Haylee,N,Self-report,2,0.632
+Sociology,Haylee,N,Self-report,3,1.348
+Sociology,Haylee,N,Self-report,4,1.09
+Sociology,Haylee,N,Self-report,5,1.836
+Sociology,Alexis,N,Self-report,1,0.232
+Sociology,Alexis,N,Self-report,2,0.979
+Sociology,Alexis,N,Self-report,3,0.313
+Sociology,Alexis,N,Self-report,4,0.844
+Sociology,Alexis,N,Self-report,5,0.972
+Sociology,Mariam,N,Self-report,1,0.208
+Sociology,Mariam,N,Self-report,2,0.742
+Sociology,Mariam,N,Self-report,3,-0.079
+Sociology,Mariam,N,Self-report,4,1.063
+Sociology,Mariam,N,Self-report,5,1.923
+Sociology,Kevin,Y,Self-report,1,0.371
+Sociology,Kevin,Y,Self-report,2,0.185
+Sociology,Kevin,Y,Self-report,3,0.987
+Sociology,Kevin,Y,Self-report,4,0.529
+Sociology,Kevin,Y,Self-report,5,-0.021
+Sociology,Nathanael,Y,Self-report,1,-0.124
+Sociology,Nathanael,Y,Self-report,2,0.142
+Sociology,Nathanael,Y,Self-report,3,-0.292
+Sociology,Nathanael,Y,Self-report,4,-0.625
+Sociology,Nathanael,Y,Self-report,5,-0.472
+Sociology,Steele,Y,Self-report,1,-0.293
+Sociology,Steele,Y,Self-report,2,-0.186
+Sociology,Steele,Y,Self-report,3,1.179
+Sociology,Steele,Y,Self-report,4,0.825
+Sociology,Steele,Y,Self-report,5,0.574
+Sociology,Badraan,Y,Self-report,1,0.385
+Sociology,Badraan,Y,Self-report,2,0.77
+Sociology,Badraan,Y,Self-report,3,0.434
+Sociology,Badraan,Y,Self-report,4,1.074
+Sociology,Badraan,Y,Self-report,5,0.423
+Sociology,Aamina,Y,Self-report,1,0.896
+Sociology,Aamina,Y,Self-report,2,1.13
+Sociology,Aamina,Y,Self-report,3,0.11
+Sociology,Aamina,Y,Self-report,4,-0.08
+Sociology,Aamina,Y,Self-report,5,0.829
+Health & Social Science,Linda,N,Self-report,1,1.509
+Health & Social Science,Linda,N,Self-report,2,1.41
+Health & Social Science,Linda,N,Self-report,3,1.661
+Health & Social Science,Linda,N,Self-report,4,1.547
+Health & Social Science,Linda,N,Self-report,5,1.336
+Health & Social Science,Jose,Y,Self-report,1,0.137
+Health & Social Science,Jose,Y,Self-report,2,0.331
+Health & Social Science,Jose,Y,Self-report,3,0.056
+Health & Social Science,Jose,Y,Self-report,4,0.027
+Health & Social Science,Jose,Y,Self-report,5,-0.409
+Health & Social Science,William,N,Self-report,1,1.756
+Health & Social Science,William,N,Self-report,2,1.031
+Health & Social Science,William,N,Self-report,3,2.215
+Health & Social Science,William,N,Self-report,4,2.289
+Health & Social Science,William,N,Self-report,5,2.508
+Health & Social Science,Mufliha,Y,Self-report,1,0.935
+Health & Social Science,Mufliha,Y,Self-report,2,1.38
+Health & Social Science,Mufliha,Y,Self-report,3,1.441
+Health & Social Science,Mufliha,Y,Self-report,4,0.851
+Health & Social Science,Mufliha,Y,Self-report,5,0.877
+Health & Social Science,Amber,Y,Self-report,1,0.663
+Health & Social Science,Amber,Y,Self-report,2,0.753
+Health & Social Science,Amber,Y,Self-report,3,1.008
+Health & Social Science,Amber,Y,Self-report,4,0.163
+Health & Social Science,Amber,Y,Self-report,5,0.001
+Health & Social Science,Zainab,Y,Self-report,1,0.479
+Health & Social Science,Zainab,Y,Self-report,2,0.659
+Health & Social Science,Zainab,Y,Self-report,3,0.876
+Health & Social Science,Zainab,Y,Self-report,4,0.699
+Health & Social Science,Zainab,Y,Self-report,5,0.975
+Health & Social Science,Azhaar,N,Self-report,1,0.992
+Health & Social Science,Azhaar,N,Self-report,2,1.014
+Health & Social Science,Azhaar,N,Self-report,3,1.247
+Health & Social Science,Azhaar,N,Self-report,4,0.603
+Health & Social Science,Azhaar,N,Self-report,5,0.754
+Health & Social Science,Mark,N,Self-report,1,0.135
+Health & Social Science,Mark,N,Self-report,2,0.76
+Health & Social Science,Mark,N,Self-report,3,0.479
+Health & Social Science,Mark,N,Self-report,4,0.947
+Health & Social Science,Mark,N,Self-report,5,1.108
+Health & Social Science,Cristo,Y,Self-report,1,0.943
+Health & Social Science,Cristo,Y,Self-report,2,1.301
+Health & Social Science,Cristo,Y,Self-report,3,-0.368
+Health & Social Science,Cristo,Y,Self-report,4,0.483
+Health & Social Science,Cristo,Y,Self-report,5,0.148
+Health & Social Science,Brandon G,N,Self-report,1,1.038
+Health & Social Science,Brandon G,N,Self-report,2,0.957
+Health & Social Science,Brandon G,N,Self-report,3,0.193
+Health & Social Science,Brandon G,N,Self-report,4,0.966
+Health & Social Science,Brandon G,N,Self-report,5,0.807
+Health & Social Science,Zuhair,Y,Self-report,1,-0.175
+Health & Social Science,Zuhair,Y,Self-report,2,0.759
+Health & Social Science,Zuhair,Y,Self-report,3,0.911
+Health & Social Science,Zuhair,Y,Self-report,4,1.34
+Health & Social Science,Zuhair,Y,Self-report,5,0.789
+Health & Social Science,Ethan,Y,Self-report,1,1.186
+Health & Social Science,Ethan,Y,Self-report,2,0.706
+Health & Social Science,Ethan,Y,Self-report,3,0.287
+Health & Social Science,Ethan,Y,Self-report,4,0.472
+Health & Social Science,Ethan,Y,Self-report,5,-0.9
+Health & Social Science,Brandon Y,Y,Self-report,1,0.627
+Health & Social Science,Brandon Y,Y,Self-report,2,0.939
+Health & Social Science,Brandon Y,Y,Self-report,3,0.417
+Health & Social Science,Brandon Y,Y,Self-report,4,1.006
+Health & Social Science,Brandon Y,Y,Self-report,5,0.689
+Health & Social Science,Katelyn,Y,Self-report,1,1.702
+Health & Social Science,Katelyn,Y,Self-report,2,1.177
+Health & Social Science,Katelyn,Y,Self-report,3,1.479
+Health & Social Science,Katelyn,Y,Self-report,4,0.973
+Health & Social Science,Katelyn,Y,Self-report,5,0.635
+Health & Social Science,Hayden,Y,Self-report,1,0.939
+Health & Social Science,Hayden,Y,Self-report,2,0.116
+Health & Social Science,Hayden,Y,Self-report,3,0.796
+Health & Social Science,Hayden,Y,Self-report,4,0.027
+Health & Social Science,Hayden,Y,Self-report,5,0.234
+Health & Social Science,Hamza,Y,Self-report,1,1.154
+Health & Social Science,Hamza,Y,Self-report,2,0.507
+Health & Social Science,Hamza,Y,Self-report,3,0.104
+Health & Social Science,Hamza,Y,Self-report,4,1.147
+Health & Social Science,Hamza,Y,Self-report,5,0.782
+Health & Social Science,Aubrey,N,Self-report,1,1.869
+Health & Social Science,Aubrey,N,Self-report,2,0.961
+Health & Social Science,Aubrey,N,Self-report,3,1.566
+Health & Social Science,Aubrey,N,Self-report,4,0.589
+Health & Social Science,Aubrey,N,Self-report,5,0.912
+Health & Social Science,Rachel,Y,Self-report,1,1.365
+Health & Social Science,Rachel,Y,Self-report,2,1.624
+Health & Social Science,Rachel,Y,Self-report,3,1.302
+Health & Social Science,Rachel,Y,Self-report,4,0.847
+Health & Social Science,Rachel,Y,Self-report,5,0.989
+Health & Social Science,Anthony,Y,Self-report,1,1.2
+Health & Social Science,Anthony,Y,Self-report,2,0.899
+Health & Social Science,Anthony,Y,Self-report,3,0.755
+Health & Social Science,Anthony,Y,Self-report,4,1.899
+Health & Social Science,Anthony,Y,Self-report,5,1.997
+Health & Social Science,Korey,Y,Self-report,1,0.903
+Health & Social Science,Korey,Y,Self-report,2,0.69
+Health & Social Science,Korey,Y,Self-report,3,1.467
+Health & Social Science,Korey,Y,Self-report,4,0.633
+Health & Social Science,Korey,Y,Self-report,5,0.619
+LEL,Bryce,Y,Self-report,1,-2.119
+LEL,Bryce,Y,Self-report,2,-2.013
+LEL,Bryce,Y,Self-report,3,-1.418
+LEL,Bryce,Y,Self-report,4,-2.188
+LEL,Bryce,Y,Self-report,5,-2.753
+LEL,Joshua R,Y,Self-report,1,-1.341
+LEL,Joshua R,Y,Self-report,2,-1.503
+LEL,Joshua R,Y,Self-report,3,-1.38
+LEL,Joshua R,Y,Self-report,4,-1.778
+LEL,Joshua R,Y,Self-report,5,-1.561
+LEL,Marisol,N,Self-report,1,-2.225
+LEL,Marisol,N,Self-report,2,-1.966
+LEL,Marisol,N,Self-report,3,-2.714
+LEL,Marisol,N,Self-report,4,-1.384
+LEL,Marisol,N,Self-report,5,-2.286
+LEL,Timothy,Y,Self-report,1,-1.473
+LEL,Timothy,Y,Self-report,2,-0.981
+LEL,Timothy,Y,Self-report,3,-1.562
+LEL,Timothy,Y,Self-report,4,-0.981
+LEL,Timothy,Y,Self-report,5,-1.453
+LEL,Mallory,Y,Self-report,1,-1.458
+LEL,Mallory,Y,Self-report,2,-1.767
+LEL,Mallory,Y,Self-report,3,-1.27
+LEL,Mallory,Y,Self-report,4,-1.775
+LEL,Mallory,Y,Self-report,5,-1.028
+LEL,Clare,N,Self-report,1,-1.845
+LEL,Clare,N,Self-report,2,-1.64
+LEL,Clare,N,Self-report,3,-1.309
+LEL,Clare,N,Self-report,4,-0.983
+LEL,Clare,N,Self-report,5,-0.576
+LEL,Evelin,N,Self-report,1,-2.695
+LEL,Evelin,N,Self-report,2,-1.876
+LEL,Evelin,N,Self-report,3,-2.562
+LEL,Evelin,N,Self-report,4,-1.461
+LEL,Evelin,N,Self-report,5,-1.523
+LEL,Rasheeqa,N,Self-report,1,0.3
+LEL,Rasheeqa,N,Self-report,2,0.03
+LEL,Rasheeqa,N,Self-report,3,-0.479
+LEL,Rasheeqa,N,Self-report,4,0.016
+LEL,Rasheeqa,N,Self-report,5,-0.075
+LEL,Deeanna,Y,Self-report,1,-1.556
+LEL,Deeanna,Y,Self-report,2,-0.772
+LEL,Deeanna,Y,Self-report,3,-1.921
+LEL,Deeanna,Y,Self-report,4,-1.966
+LEL,Deeanna,Y,Self-report,5,-1.929
+LEL,Amanda,N,Self-report,1,-1.907
+LEL,Amanda,N,Self-report,2,-1.354
+LEL,Amanda,N,Self-report,3,-1.415
+LEL,Amanda,N,Self-report,4,-1.909
+LEL,Amanda,N,Self-report,5,-1.359
+LEL,Travis,Y,Self-report,1,-2.411
+LEL,Travis,Y,Self-report,2,-1.978
+LEL,Travis,Y,Self-report,3,-1.763
+LEL,Travis,Y,Self-report,4,-2.1
+LEL,Travis,Y,Self-report,5,-1.98
+LEL,Shanequa,N,Self-report,1,-0.91
+LEL,Shanequa,N,Self-report,2,-0.53
+LEL,Shanequa,N,Self-report,3,-1.055
+LEL,Shanequa,N,Self-report,4,-1.26
+LEL,Shanequa,N,Self-report,5,-0.947
+LEL,Barbara,Y,Self-report,1,-1.022
+LEL,Barbara,Y,Self-report,2,-0.716
+LEL,Barbara,Y,Self-report,3,-1.296
+LEL,Barbara,Y,Self-report,4,-0.92
+LEL,Barbara,Y,Self-report,5,-0.418
+LEL,Luis,Y,Self-report,1,-0.446
+LEL,Luis,Y,Self-report,2,-0.114
+LEL,Luis,Y,Self-report,3,-0.402
+LEL,Luis,Y,Self-report,4,-0.746
+LEL,Luis,Y,Self-report,5,-0.46
+LEL,Cameron,N,Self-report,1,-1.122
+LEL,Cameron,N,Self-report,2,-1.785
+LEL,Cameron,N,Self-report,3,-0.991
+LEL,Cameron,N,Self-report,4,-0.852
+LEL,Cameron,N,Self-report,5,-1.256
+LEL,Joshua E,N,Self-report,1,-0.673
+LEL,Joshua E,N,Self-report,2,-1.343
+LEL,Joshua E,N,Self-report,3,-0.43
+LEL,Joshua E,N,Self-report,4,0.092
+LEL,Joshua E,N,Self-report,5,-0.219
+LEL,Shiloh,Y,Self-report,1,-1.86
+LEL,Shiloh,Y,Self-report,2,-1.704
+LEL,Shiloh,Y,Self-report,3,-1.852
+LEL,Shiloh,Y,Self-report,4,-1.427
+LEL,Shiloh,Y,Self-report,5,-1.312
+LEL,Drew,Y,Self-report,1,-2.119
+LEL,Drew,Y,Self-report,2,-2.24
+LEL,Drew,Y,Self-report,3,-2.682
+LEL,Drew,Y,Self-report,4,-2.402
+LEL,Drew,Y,Self-report,5,-3.098
+LEL,Giorgio,N,Self-report,1,-0.714
+LEL,Giorgio,N,Self-report,2,-0.744
+LEL,Giorgio,N,Self-report,3,-0.658
+LEL,Giorgio,N,Self-report,4,0.33
+LEL,Giorgio,N,Self-report,5,0.785
+LEL,Chantel,N,Self-report,1,-1.013
+LEL,Chantel,N,Self-report,2,-0.748
+LEL,Chantel,N,Self-report,3,-1.113
+LEL,Chantel,N,Self-report,4,-0.794
+LEL,Chantel,N,Self-report,5,-1.419
+Business,Ashley F,Y,Self-report,1,-0.531
+Business,Ashley F,Y,Self-report,2,-0.829
+Business,Ashley F,Y,Self-report,3,-0.711
+Business,Ashley F,Y,Self-report,4,0.296
+Business,Ashley F,Y,Self-report,5,-0.847
+Business,Quintin,Y,Self-report,1,0.36
+Business,Quintin,Y,Self-report,2,0.289
+Business,Quintin,Y,Self-report,3,0.464
+Business,Quintin,Y,Self-report,4,0.092
+Business,Quintin,Y,Self-report,5,0.159
+Business,Tyler,Y,Self-report,1,0.112
+Business,Tyler,Y,Self-report,2,0.017
+Business,Tyler,Y,Self-report,3,0.075
+Business,Tyler,Y,Self-report,4,0.755
+Business,Tyler,Y,Self-report,5,0.217
+Business,Jori,Y,Self-report,1,0.655
+Business,Jori,Y,Self-report,2,0.336
+Business,Jori,Y,Self-report,3,0.309
+Business,Jori,Y,Self-report,4,0.415
+Business,Jori,Y,Self-report,5,0.179
+Business,Hailey,Y,Self-report,1,0.526
+Business,Hailey,Y,Self-report,2,0.221
+Business,Hailey,Y,Self-report,3,-0.248
+Business,Hailey,Y,Self-report,4,0.154
+Business,Hailey,Y,Self-report,5,-0.159
+Business,Auzhane,N,Self-report,1,0.136
+Business,Auzhane,N,Self-report,2,0.809
+Business,Auzhane,N,Self-report,3,1.543
+Business,Auzhane,N,Self-report,4,1.662
+Business,Auzhane,N,Self-report,5,1.682
+Business,Katarina,N,Self-report,1,-0.227
+Business,Katarina,N,Self-report,2,0.696
+Business,Katarina,N,Self-report,3,0.343
+Business,Katarina,N,Self-report,4,0.789
+Business,Katarina,N,Self-report,5,1.069
+Business,Christian,N,Self-report,1,0.332
+Business,Christian,N,Self-report,2,0.796
+Business,Christian,N,Self-report,3,0.828
+Business,Christian,N,Self-report,4,0.664
+Business,Christian,N,Self-report,5,0.784
+Business,Eva,N,Self-report,1,-0.24
+Business,Eva,N,Self-report,2,0.702
+Business,Eva,N,Self-report,3,0.222
+Business,Eva,N,Self-report,4,-0.278
+Business,Eva,N,Self-report,5,0.34
+Business,Shafeeq,N,Self-report,1,0.106
+Business,Shafeeq,N,Self-report,2,0.78
+Business,Shafeeq,N,Self-report,3,0.364
+Business,Shafeeq,N,Self-report,4,1.506
+Business,Shafeeq,N,Self-report,5,1.452
+Business,Jake,N,Self-report,1,0.345
+Business,Jake,N,Self-report,2,-0.519
+Business,Jake,N,Self-report,3,0.442
+Business,Jake,N,Self-report,4,0.166
+Business,Jake,N,Self-report,5,0.632
+Business,Braden,N,Self-report,1,0.473
+Business,Braden,N,Self-report,2,-0.312
+Business,Braden,N,Self-report,3,0.39
+Business,Braden,N,Self-report,4,0.034
+Business,Braden,N,Self-report,5,0.518
+Business,Joseph,N,Self-report,1,0.526
+Business,Joseph,N,Self-report,2,-0.226
+Business,Joseph,N,Self-report,3,-0.662
+Business,Joseph,N,Self-report,4,-0.166
+Business,Joseph,N,Self-report,5,0.079
+Business,Anjunea,N,Self-report,1,0.211
+Business,Anjunea,N,Self-report,2,-0.368
+Business,Anjunea,N,Self-report,3,0.717
+Business,Anjunea,N,Self-report,4,0.351
+Business,Anjunea,N,Self-report,5,-0.371
+Business,Ashley P,N,Self-report,1,-0.093
+Business,Ashley P,N,Self-report,2,0.337
+Business,Ashley P,N,Self-report,3,1.111
+Business,Ashley P,N,Self-report,4,1.221
+Business,Ashley P,N,Self-report,5,1.708
+Business,Aruwa,Y,Self-report,1,0.321
+Business,Aruwa,Y,Self-report,2,1.117
+Business,Aruwa,Y,Self-report,3,-0.505
+Business,Aruwa,Y,Self-report,4,0.161
+Business,Aruwa,Y,Self-report,5,-0.462
+Business,Joshua W,Y,Self-report,1,0.043
+Business,Joshua W,Y,Self-report,2,0.402
+Business,Joshua W,Y,Self-report,3,-0.243
+Business,Joshua W,Y,Self-report,4,0.173
+Business,Joshua W,Y,Self-report,5,-0.314
+Business,Katherine,Y,Self-report,1,-0.023
+Business,Katherine,Y,Self-report,2,-0.703
+Business,Katherine,Y,Self-report,3,-0.795
+Business,Katherine,Y,Self-report,4,-0.86
+Business,Katherine,Y,Self-report,5,-1.514
+Business,Christopher,Y,Self-report,1,0.881
+Business,Christopher,Y,Self-report,2,0.022
+Business,Christopher,Y,Self-report,3,0.423
+Business,Christopher,Y,Self-report,4,-0.139
+Business,Christopher,Y,Self-report,5,0.813
+Business,Kayla,N,Self-report,1,0.197
+Business,Kayla,N,Self-report,2,0.5
+Business,Kayla,N,Self-report,3,-0.225
+Business,Kayla,N,Self-report,4,-0.039
+Business,Kayla,N,Self-report,5,-0.239
+PolSci,Carli,Y,Self-report,1,1.095
+PolSci,Carli,Y,Self-report,2,1.383
+PolSci,Carli,Y,Self-report,3,1.487
+PolSci,Carli,Y,Self-report,4,0.048
+PolSci,Carli,Y,Self-report,5,0.089
+PolSci,Nolan,Y,Self-report,1,1.801
+PolSci,Nolan,Y,Self-report,2,1.191
+PolSci,Nolan,Y,Self-report,3,1.357
+PolSci,Nolan,Y,Self-report,4,0.541
+PolSci,Nolan,Y,Self-report,5,1.01
+PolSci,Ayryauna,Y,Self-report,1,1.343
+PolSci,Ayryauna,Y,Self-report,2,1.396
+PolSci,Ayryauna,Y,Self-report,3,0.663
+PolSci,Ayryauna,Y,Self-report,4,1.884
+PolSci,Ayryauna,Y,Self-report,5,1.65
+PolSci,Mckenzie,N,Self-report,1,1.029
+PolSci,Mckenzie,N,Self-report,2,0.385
+PolSci,Mckenzie,N,Self-report,3,0.847
+PolSci,Mckenzie,N,Self-report,4,1.332
+PolSci,Mckenzie,N,Self-report,5,1.108
+PolSci,Sarah,Y,Self-report,1,1.721
+PolSci,Sarah,Y,Self-report,2,1.231
+PolSci,Sarah,Y,Self-report,3,0.876
+PolSci,Sarah,Y,Self-report,4,1.193
+PolSci,Sarah,Y,Self-report,5,0.846
+PolSci,Shaakir,Y,Self-report,1,0.988
+PolSci,Shaakir,Y,Self-report,2,1.447
+PolSci,Shaakir,Y,Self-report,3,0.943
+PolSci,Shaakir,Y,Self-report,4,0.764
+PolSci,Shaakir,Y,Self-report,5,0.758
+PolSci,Nina,Y,Self-report,1,0.94
+PolSci,Nina,Y,Self-report,2,1
+PolSci,Nina,Y,Self-report,3,1.62
+PolSci,Nina,Y,Self-report,4,1.409
+PolSci,Nina,Y,Self-report,5,0.66
+PolSci,Josephine,Y,Self-report,1,1.862
+PolSci,Josephine,Y,Self-report,2,2.437
+PolSci,Josephine,Y,Self-report,3,1.703
+PolSci,Josephine,Y,Self-report,4,1.804
+PolSci,Josephine,Y,Self-report,5,1.608
+PolSci,Ireshea,Y,Self-report,1,0.637
+PolSci,Ireshea,Y,Self-report,2,0.74
+PolSci,Ireshea,Y,Self-report,3,0.584
+PolSci,Ireshea,Y,Self-report,4,0.859
+PolSci,Ireshea,Y,Self-report,5,0.807
+PolSci,Christopher,N,Self-report,1,0.261
+PolSci,Christopher,N,Self-report,2,0.784
+PolSci,Christopher,N,Self-report,3,1.249
+PolSci,Christopher,N,Self-report,4,1.261
+PolSci,Christopher,N,Self-report,5,2
+PolSci,Maazina,Y,Self-report,1,1.594
+PolSci,Maazina,Y,Self-report,2,1.221
+PolSci,Maazina,Y,Self-report,3,1.503
+PolSci,Maazina,Y,Self-report,4,0.885
+PolSci,Maazina,Y,Self-report,5,1.326
+PolSci,Aspen,Y,Self-report,1,0.716
+PolSci,Aspen,Y,Self-report,2,1.452
+PolSci,Aspen,Y,Self-report,3,0.969
+PolSci,Aspen,Y,Self-report,4,0.522
+PolSci,Aspen,Y,Self-report,5,-0.398
+PolSci,Aasim,N,Self-report,1,1.693
+PolSci,Aasim,N,Self-report,2,1.769
+PolSci,Aasim,N,Self-report,3,1.659
+PolSci,Aasim,N,Self-report,4,1.88
+PolSci,Aasim,N,Self-report,5,2.002
+PolSci,Kaila,N,Self-report,1,1.193
+PolSci,Kaila,N,Self-report,2,1
+PolSci,Kaila,N,Self-report,3,1.862
+PolSci,Kaila,N,Self-report,4,2.029
+PolSci,Kaila,N,Self-report,5,1.975
+PolSci,Vanya,N,Self-report,1,1.016
+PolSci,Vanya,N,Self-report,2,1.373
+PolSci,Vanya,N,Self-report,3,1.05
+PolSci,Vanya,N,Self-report,4,1.851
+PolSci,Vanya,N,Self-report,5,0.965
+PolSci,Selina,Y,Self-report,1,1.684
+PolSci,Selina,Y,Self-report,2,1.226
+PolSci,Selina,Y,Self-report,3,1.429
+PolSci,Selina,Y,Self-report,4,0.761
+PolSci,Selina,Y,Self-report,5,0.427
+PolSci,Rachel,N,Self-report,1,1.058
+PolSci,Rachel,N,Self-report,2,1.41
+PolSci,Rachel,N,Self-report,3,0.382
+PolSci,Rachel,N,Self-report,4,1.473
+PolSci,Rachel,N,Self-report,5,1.768
+PolSci,Lalana,N,Self-report,1,1.028
+PolSci,Lalana,N,Self-report,2,0.048
+PolSci,Lalana,N,Self-report,3,1.549
+PolSci,Lalana,N,Self-report,4,1.109
+PolSci,Lalana,N,Self-report,5,0.241
+PolSci,Addison,Y,Self-report,1,0.321
+PolSci,Addison,Y,Self-report,2,0.707
+PolSci,Addison,Y,Self-report,3,-0.155
+PolSci,Addison,Y,Self-report,4,-0.672
+PolSci,Addison,Y,Self-report,5,-0.38
+PolSci,Devon,Y,Self-report,1,0.973
+PolSci,Devon,Y,Self-report,2,1.568
+PolSci,Devon,Y,Self-report,3,0.909
+PolSci,Devon,Y,Self-report,4,0.988
+PolSci,Devon,Y,Self-report,5,0.759
+Art,Jesseca,Y,Self-report,1,-1.395
+Art,Jesseca,Y,Self-report,2,-1.027
+Art,Jesseca,Y,Self-report,3,-2.326
+Art,Jesseca,Y,Self-report,4,-2.844
+Art,Jesseca,Y,Self-report,5,-2.752
+Art,Ryan,Y,Self-report,1,-0.789
+Art,Ryan,Y,Self-report,2,-0.605
+Art,Ryan,Y,Self-report,3,-0.891
+Art,Ryan,Y,Self-report,4,-0.789
+Art,Ryan,Y,Self-report,5,-0.623
+Art,Taylor J,Y,Self-report,1,-0.892
+Art,Taylor J,Y,Self-report,2,-1.612
+Art,Taylor J,Y,Self-report,3,-1.58
+Art,Taylor J,Y,Self-report,4,-1.583
+Art,Taylor J,Y,Self-report,5,-2.042
+Art,Oziel,Y,Self-report,1,-0.486
+Art,Oziel,Y,Self-report,2,0.23
+Art,Oziel,Y,Self-report,3,-0.287
+Art,Oziel,Y,Self-report,4,-0.594
+Art,Oziel,Y,Self-report,5,-1.162
+Art,Kohl,Y,Self-report,1,-1.33
+Art,Kohl,Y,Self-report,2,-1.049
+Art,Kohl,Y,Self-report,3,-1.177
+Art,Kohl,Y,Self-report,4,-0.784
+Art,Kohl,Y,Self-report,5,-0.755
+Art,Amanda,N,Self-report,1,-0.102
+Art,Amanda,N,Self-report,2,-0.8
+Art,Amanda,N,Self-report,3,-0.714
+Art,Amanda,N,Self-report,4,-0.316
+Art,Amanda,N,Self-report,5,-0.297
+Art,Zackery,N,Self-report,1,-1.327
+Art,Zackery,N,Self-report,2,-0.839
+Art,Zackery,N,Self-report,3,-1.443
+Art,Zackery,N,Self-report,4,-1.268
+Art,Zackery,N,Self-report,5,-1.448
+Art,Amber,N,Self-report,1,-0.02
+Art,Amber,N,Self-report,2,-0.196
+Art,Amber,N,Self-report,3,-0.495
+Art,Amber,N,Self-report,4,-0.089
+Art,Amber,N,Self-report,5,-0.526
+Art,Austin,Y,Self-report,1,-0.998
+Art,Austin,Y,Self-report,2,-0.618
+Art,Austin,Y,Self-report,3,-1.096
+Art,Austin,Y,Self-report,4,0.208
+Art,Austin,Y,Self-report,5,-0.896
+Art,Briana,N,Self-report,1,-0.352
+Art,Briana,N,Self-report,2,-0.571
+Art,Briana,N,Self-report,3,-0.987
+Art,Briana,N,Self-report,4,-0.545
+Art,Briana,N,Self-report,5,0.141
+Art,Nathan U,Y,Self-report,1,-1.499
+Art,Nathan U,Y,Self-report,2,-0.848
+Art,Nathan U,Y,Self-report,3,-0.96
+Art,Nathan U,Y,Self-report,4,-1.811
+Art,Nathan U,Y,Self-report,5,-1.587
+Art,Bianca,N,Self-report,1,-1.069
+Art,Bianca,N,Self-report,2,-1.445
+Art,Bianca,N,Self-report,3,-0.96
+Art,Bianca,N,Self-report,4,-1.799
+Art,Bianca,N,Self-report,5,-1.31
+Art,Yohannes,Y,Self-report,1,-1.322
+Art,Yohannes,Y,Self-report,2,-0.575
+Art,Yohannes,Y,Self-report,3,-1.033
+Art,Yohannes,Y,Self-report,4,-1.52
+Art,Yohannes,Y,Self-report,5,-1.551
+Art,William,Y,Self-report,1,-0.476
+Art,William,Y,Self-report,2,-0.764
+Art,William,Y,Self-report,3,-0.246
+Art,William,Y,Self-report,4,-0.29
+Art,William,Y,Self-report,5,-0.686
+Art,Nuha,Y,Self-report,1,-0.267
+Art,Nuha,Y,Self-report,2,-1.115
+Art,Nuha,Y,Self-report,3,-1.672
+Art,Nuha,Y,Self-report,4,-1.667
+Art,Nuha,Y,Self-report,5,-0.901
+Art,Markio,N,Self-report,1,-0.731
+Art,Markio,N,Self-report,2,-0.386
+Art,Markio,N,Self-report,3,-0.885
+Art,Markio,N,Self-report,4,-0.995
+Art,Markio,N,Self-report,5,-0.568
+Art,Jasmine,N,Self-report,1,-1.524
+Art,Jasmine,N,Self-report,2,-1.325
+Art,Jasmine,N,Self-report,3,-1.694
+Art,Jasmine,N,Self-report,4,-1.803
+Art,Jasmine,N,Self-report,5,-2.261
+Art,Samantha,N,Self-report,1,-1.138
+Art,Samantha,N,Self-report,2,-1.117
+Art,Samantha,N,Self-report,3,-0.909
+Art,Samantha,N,Self-report,4,-0.884
+Art,Samantha,N,Self-report,5,-1.126
+Art,Nathan C,N,Self-report,1,-0.933
+Art,Nathan C,N,Self-report,2,-1.462
+Art,Nathan C,N,Self-report,3,-0.892
+Art,Nathan C,N,Self-report,4,-0.383
+Art,Nathan C,N,Self-report,5,-0.654
+Art,Angela,N,Self-report,1,-0.986
+Art,Angela,N,Self-report,2,-0.454
+Art,Angela,N,Self-report,3,-0.686
+Art,Angela,N,Self-report,4,-1.142
+Art,Angela,N,Self-report,5,-0.671
+History,Sarah D,N,Self-report,1,-0.117
+History,Sarah D,N,Self-report,2,-0.498
+History,Sarah D,N,Self-report,3,0.068
+History,Sarah D,N,Self-report,4,-0.199
+History,Sarah D,N,Self-report,5,-0.104
+History,Stephanie,Y,Self-report,1,-0.205
+History,Stephanie,Y,Self-report,2,0.19
+History,Stephanie,Y,Self-report,3,-0.126
+History,Stephanie,Y,Self-report,4,-0.654
+History,Stephanie,Y,Self-report,5,-0.465
+History,Megan,Y,Self-report,1,-0.345
+History,Megan,Y,Self-report,2,-0.042
+History,Megan,Y,Self-report,3,-0.386
+History,Megan,Y,Self-report,4,-0.421
+History,Megan,Y,Self-report,5,-1.05
+History,Emanwela,N,Self-report,1,-0.569
+History,Emanwela,N,Self-report,2,-0.294
+History,Emanwela,N,Self-report,3,0.293
+History,Emanwela,N,Self-report,4,-0.542
+History,Emanwela,N,Self-report,5,-0.757
+History,Joshua N,Y,Self-report,1,-0.192
+History,Joshua N,Y,Self-report,2,-0.474
+History,Joshua N,Y,Self-report,3,-0.499
+History,Joshua N,Y,Self-report,4,-1.04
+History,Joshua N,Y,Self-report,5,-1.04
+History,Kanisha,N,Self-report,1,-0.15
+History,Kanisha,N,Self-report,2,-0.595
+History,Kanisha,N,Self-report,3,0.643
+History,Kanisha,N,Self-report,4,-0.227
+History,Kanisha,N,Self-report,5,-0.557
+History,Cochise,Y,Self-report,1,-0.257
+History,Cochise,Y,Self-report,2,-0.207
+History,Cochise,Y,Self-report,3,-0.863
+History,Cochise,Y,Self-report,4,-1.012
+History,Cochise,Y,Self-report,5,-0.941
+History,Dhaahir,Y,Self-report,1,0.021
+History,Dhaahir,Y,Self-report,2,-0.456
+History,Dhaahir,Y,Self-report,3,0.469
+History,Dhaahir,Y,Self-report,4,-0.101
+History,Dhaahir,Y,Self-report,5,0.025
+History,Joelle,Y,Self-report,1,-0.506
+History,Joelle,Y,Self-report,2,-0.651
+History,Joelle,Y,Self-report,3,-0.701
+History,Joelle,Y,Self-report,4,-1.465
+History,Joelle,Y,Self-report,5,-2.001
+History,Jonathan,N,Self-report,1,-0.13
+History,Jonathan,N,Self-report,2,0.168
+History,Jonathan,N,Self-report,3,0.176
+History,Jonathan,N,Self-report,4,-1.392
+History,Jonathan,N,Self-report,5,-0.418
+History,Kaitlyn,Y,Self-report,1,1.231
+History,Kaitlyn,Y,Self-report,2,0.251
+History,Kaitlyn,Y,Self-report,3,1.14
+History,Kaitlyn,Y,Self-report,4,0.436
+History,Kaitlyn,Y,Self-report,5,-0.259
+History,Hazm,N,Self-report,1,-0.23
+History,Hazm,N,Self-report,2,0.689
+History,Hazm,N,Self-report,3,0.73
+History,Hazm,N,Self-report,4,0.925
+History,Hazm,N,Self-report,5,0.848
+History,Tiffany,Y,Self-report,1,0.442
+History,Tiffany,Y,Self-report,2,0.945
+History,Tiffany,Y,Self-report,3,0.891
+History,Tiffany,Y,Self-report,4,0.154
+History,Tiffany,Y,Self-report,5,0.316
+History,Lily,Y,Self-report,1,-0.651
+History,Lily,Y,Self-report,2,-0.098
+History,Lily,Y,Self-report,3,-0.316
+History,Lily,Y,Self-report,4,-0.871
+History,Lily,Y,Self-report,5,-0.99
+History,Dakota,N,Self-report,1,-0.765
+History,Dakota,N,Self-report,2,-0.096
+History,Dakota,N,Self-report,3,-0.172
+History,Dakota,N,Self-report,4,-0.261
+History,Dakota,N,Self-report,5,0.13
+History,Sarah T,Y,Self-report,1,-0.919
+History,Sarah T,Y,Self-report,2,-0.884
+History,Sarah T,Y,Self-report,3,-0.847
+History,Sarah T,Y,Self-report,4,-0.894
+History,Sarah T,Y,Self-report,5,-0.805
+History,John,N,Self-report,1,0.506
+History,John,N,Self-report,2,0.412
+History,John,N,Self-report,3,-0.25
+History,John,N,Self-report,4,-0.145
+History,John,N,Self-report,5,-0.622
+History,Tahiyya,N,Self-report,1,0.316
+History,Tahiyya,N,Self-report,2,0.536
+History,Tahiyya,N,Self-report,3,-0.119
+History,Tahiyya,N,Self-report,4,0.544
+History,Tahiyya,N,Self-report,5,0.4
+History,Sloan,N,Self-report,1,-0.054
+History,Sloan,N,Self-report,2,-0.353
+History,Sloan,N,Self-report,3,-0.453
+History,Sloan,N,Self-report,4,-0.28
+History,Sloan,N,Self-report,5,-0.446
+History,Madelyn,N,Self-report,1,0.805
+History,Madelyn,N,Self-report,2,0.554
+History,Madelyn,N,Self-report,3,0.894
+History,Madelyn,N,Self-report,4,1.661
+History,Madelyn,N,Self-report,5,1.294
+Theology,Ericka,N,Self-report,1,-1.293
+Theology,Ericka,N,Self-report,2,-0.674
+Theology,Ericka,N,Self-report,3,-1.401
+Theology,Ericka,N,Self-report,4,-0.56
+Theology,Ericka,N,Self-report,5,-1.239
+Theology,Ashley,N,Self-report,1,-0.856
+Theology,Ashley,N,Self-report,2,-0.633
+Theology,Ashley,N,Self-report,3,-1.226
+Theology,Ashley,N,Self-report,4,-0.846
+Theology,Ashley,N,Self-report,5,-1.108
+Theology,Kayte,N,Self-report,1,-1.081
+Theology,Kayte,N,Self-report,2,-0.615
+Theology,Kayte,N,Self-report,3,-0.264
+Theology,Kayte,N,Self-report,4,-0.975
+Theology,Kayte,N,Self-report,5,-0.263
+Theology,Brittany,N,Self-report,1,-0.22
+Theology,Brittany,N,Self-report,2,-0.216
+Theology,Brittany,N,Self-report,3,-0.375
+Theology,Brittany,N,Self-report,4,-0.264
+Theology,Brittany,N,Self-report,5,-0.002
+Theology,Corey,N,Self-report,1,-0.9
+Theology,Corey,N,Self-report,2,-0.63
+Theology,Corey,N,Self-report,3,-0.549
+Theology,Corey,N,Self-report,4,-0.793
+Theology,Corey,N,Self-report,5,-0.721
+Theology,Jazmyne,Y,Self-report,1,-1.583
+Theology,Jazmyne,Y,Self-report,2,-1.617
+Theology,Jazmyne,Y,Self-report,3,-0.995
+Theology,Jazmyne,Y,Self-report,4,-1.7
+Theology,Jazmyne,Y,Self-report,5,-1.849
+Theology,Alyssa,Y,Self-report,1,-1.98
+Theology,Alyssa,Y,Self-report,2,-2.257
+Theology,Alyssa,Y,Self-report,3,-1.366
+Theology,Alyssa,Y,Self-report,4,-1.226
+Theology,Alyssa,Y,Self-report,5,-1.156
+Theology,Klancey,Y,Self-report,1,-1.15
+Theology,Klancey,Y,Self-report,2,-1.001
+Theology,Klancey,Y,Self-report,3,-1.263
+Theology,Klancey,Y,Self-report,4,-1.498
+Theology,Klancey,Y,Self-report,5,-1.603
+Theology,Zachary,N,Self-report,1,-0.14
+Theology,Zachary,N,Self-report,2,0.058
+Theology,Zachary,N,Self-report,3,0.376
+Theology,Zachary,N,Self-report,4,0.5
+Theology,Zachary,N,Self-report,5,0.418
+Theology,Elizabeth,Y,Self-report,1,-2.688
+Theology,Elizabeth,Y,Self-report,2,-2.714
+Theology,Elizabeth,Y,Self-report,3,-2.082
+Theology,Elizabeth,Y,Self-report,4,-2.948
+Theology,Elizabeth,Y,Self-report,5,-2.925
+Theology,Fawzi,N,Self-report,1,-0.98
+Theology,Fawzi,N,Self-report,2,-1.294
+Theology,Fawzi,N,Self-report,3,-0.898
+Theology,Fawzi,N,Self-report,4,-0.934
+Theology,Fawzi,N,Self-report,5,0.019
+Theology,Sakib,Y,Self-report,1,-2.644
+Theology,Sakib,Y,Self-report,2,-2.466
+Theology,Sakib,Y,Self-report,3,-2.729
+Theology,Sakib,Y,Self-report,4,-2.359
+Theology,Sakib,Y,Self-report,5,-2.554
+Theology,Michelle,N,Self-report,1,-2.152
+Theology,Michelle,N,Self-report,2,-2.047
+Theology,Michelle,N,Self-report,3,-1.749
+Theology,Michelle,N,Self-report,4,-2.142
+Theology,Michelle,N,Self-report,5,-1.227
+Theology,Joseph,Y,Self-report,1,-2.16
+Theology,Joseph,Y,Self-report,2,-1.595
+Theology,Joseph,Y,Self-report,3,-1.52
+Theology,Joseph,Y,Self-report,4,-2.239
+Theology,Joseph,Y,Self-report,5,-1.634
+Theology,Brendon,N,Self-report,1,-1.027
+Theology,Brendon,N,Self-report,2,-0.875
+Theology,Brendon,N,Self-report,3,-1.361
+Theology,Brendon,N,Self-report,4,-0.898
+Theology,Brendon,N,Self-report,5,-0.795
+Theology,Steven,N,Self-report,1,-0.432
+Theology,Steven,N,Self-report,2,-0.648
+Theology,Steven,N,Self-report,3,-0.459
+Theology,Steven,N,Self-report,4,-0.308
+Theology,Steven,N,Self-report,5,-0.33
+Theology,Bassil,N,Self-report,1,-1.531
+Theology,Bassil,N,Self-report,2,-1.79
+Theology,Bassil,N,Self-report,3,-1.449
+Theology,Bassil,N,Self-report,4,-1.817
+Theology,Bassil,N,Self-report,5,-1.525
+Theology,Dominic,N,Self-report,1,-0.954
+Theology,Dominic,N,Self-report,2,-1.244
+Theology,Dominic,N,Self-report,3,-0.799
+Theology,Dominic,N,Self-report,4,-1.16
+Theology,Dominic,N,Self-report,5,-2.269
+Theology,Dhaakir,N,Self-report,1,-0.355
+Theology,Dhaakir,N,Self-report,2,0.123
+Theology,Dhaakir,N,Self-report,3,0.272
+Theology,Dhaakir,N,Self-report,4,-0.397
+Theology,Dhaakir,N,Self-report,5,0.205
+Theology,Andrew,N,Self-report,1,-1.91
+Theology,Andrew,N,Self-report,2,-1.397
+Theology,Andrew,N,Self-report,3,-1.077
+Theology,Andrew,N,Self-report,4,-1.646
+Theology,Andrew,N,Self-report,5,-0.634
+Psych,Holly,N,Self-report,1,-0.417
+Psych,Holly,N,Self-report,2,0.924
+Psych,Holly,N,Self-report,3,0.634
+Psych,Holly,N,Self-report,4,1.212
+Psych,Holly,N,Self-report,5,0.506
+Psych,Tom,Y,Self-report,1,-0.557
+Psych,Tom,Y,Self-report,2,-0.036
+Psych,Tom,Y,Self-report,3,-0.349
+Psych,Tom,Y,Self-report,4,-0.409
+Psych,Tom,Y,Self-report,5,-0.891
+Psych,Dan,N,Self-report,1,-0.171
+Psych,Dan,N,Self-report,2,-0.251
+Psych,Dan,N,Self-report,3,-0.029
+Psych,Dan,N,Self-report,4,-0.005
+Psych,Dan,N,Self-report,5,0.147
+Psych,Umberto,N,Self-report,1,-0.387
+Psych,Umberto,N,Self-report,2,0.075
+Psych,Umberto,N,Self-report,3,0.46
+Psych,Umberto,N,Self-report,4,0.177
+Psych,Umberto,N,Self-report,5,0.795
+Psych,Hannah,N,Self-report,1,0.523
+Psych,Hannah,N,Self-report,2,0.536
+Psych,Hannah,N,Self-report,3,-0.339
+Psych,Hannah,N,Self-report,4,0.257
+Psych,Hannah,N,Self-report,5,0.423
+Psych,Josiah,Y,Self-report,1,0.378
+Psych,Josiah,Y,Self-report,2,0.899
+Psych,Josiah,Y,Self-report,3,0.291
+Psych,Josiah,Y,Self-report,4,0.713
+Psych,Josiah,Y,Self-report,5,0.325
+Psych,Zachary,Y,Self-report,1,-0.268
+Psych,Zachary,Y,Self-report,2,-0.257
+Psych,Zachary,Y,Self-report,3,-0.794
+Psych,Zachary,Y,Self-report,4,-0.606
+Psych,Zachary,Y,Self-report,5,-1.079
+Psych,Steve,Y,Self-report,1,0.071
+Psych,Steve,Y,Self-report,2,-0.275
+Psych,Steve,Y,Self-report,3,-0.931
+Psych,Steve,Y,Self-report,4,-0.802
+Psych,Steve,Y,Self-report,5,-1.176
+Psych,Graham,Y,Self-report,1,0.284
+Psych,Graham,Y,Self-report,2,1.088
+Psych,Graham,Y,Self-report,3,0.566
+Psych,Graham,Y,Self-report,4,0.312
+Psych,Graham,Y,Self-report,5,1.145
+Psych,Sarah,Y,Self-report,1,-0.434
+Psych,Sarah,Y,Self-report,2,-0.269
+Psych,Sarah,Y,Self-report,3,-1.097
+Psych,Sarah,Y,Self-report,4,-0.486
+Psych,Sarah,Y,Self-report,5,-0.848
+Psych,Cristina,Y,Self-report,1,0.14
+Psych,Cristina,Y,Self-report,2,0.167
+Psych,Cristina,Y,Self-report,3,-0.596
+Psych,Cristina,Y,Self-report,4,-0.138
+Psych,Cristina,Y,Self-report,5,-0.542
+Psych,Jasna,N,Self-report,1,0.492
+Psych,Jasna,N,Self-report,2,0.781
+Psych,Jasna,N,Self-report,3,-0.075
+Psych,Jasna,N,Self-report,4,0.055
+Psych,Jasna,N,Self-report,5,0.687
+Psych,Robert,N,Self-report,1,0.351
+Psych,Robert,N,Self-report,2,0.132
+Psych,Robert,N,Self-report,3,0.008
+Psych,Robert,N,Self-report,4,0.638
+Psych,Robert,N,Self-report,5,0.712
+Psych,Daniel,N,Self-report,1,0.702
+Psych,Daniel,N,Self-report,2,0.079
+Psych,Daniel,N,Self-report,3,0.008
+Psych,Daniel,N,Self-report,4,0.003
+Psych,Daniel,N,Self-report,5,0.15
+Psych,Aja,N,Self-report,1,0.562
+Psych,Aja,N,Self-report,2,0.748
+Psych,Aja,N,Self-report,3,0.482
+Psych,Aja,N,Self-report,4,0.819
+Psych,Aja,N,Self-report,5,0.471
+Psych,Martin,N,Self-report,1,-1.269
+Psych,Martin,N,Self-report,2,-0.918
+Psych,Martin,N,Self-report,3,-0.747
+Psych,Martin,N,Self-report,4,-1.165
+Psych,Martin,N,Self-report,5,0.043
+Psych,Hugh,N,Self-report,1,1.113
+Psych,Hugh,N,Self-report,2,0.602
+Psych,Hugh,N,Self-report,3,1.218
+Psych,Hugh,N,Self-report,4,1.366
+Psych,Hugh,N,Self-report,5,0.827
+Psych,Monica,N,Self-report,1,0.479
+Psych,Monica,N,Self-report,2,0.589
+Psych,Monica,N,Self-report,3,0.734
+Psych,Monica,N,Self-report,4,0.493
+Psych,Monica,N,Self-report,5,0.45
+Psych,Emma,N,Self-report,1,0.149
+Psych,Emma,N,Self-report,2,0.035
+Psych,Emma,N,Self-report,3,1.122
+Psych,Emma,N,Self-report,4,0.277
+Psych,Emma,N,Self-report,5,1.17
+Psych,John,N,Self-report,1,-0.072
+Psych,John,N,Self-report,2,-0.417
+Psych,John,N,Self-report,3,-0.318
+Psych,John,N,Self-report,4,-0.439
+Psych,John,N,Self-report,5,0.206
