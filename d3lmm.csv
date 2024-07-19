@@ -1,0 +1,113 @@
+age,lifesat,dwelling,size
+40,31,Aberdeen,>100k
+45,56,Glasgow,>100k
+40,51,Glasgow,>100k
+40,55,Dundee,>100k
+40,41,Dundee,>100k
+55,69,Perth,<100k
+40,43,Fort William,<100k
+45,60,Dundee,>100k
+45,75,Dunfermline,<100k
+45,52,Stirling,<100k
+30,43,Paisley,<100k
+25,69,Glasgow,>100k
+35,42,Dumfries,<100k
+45,56,Dundee,>100k
+40,56,Glasgow,>100k
+45,32,Kirkcaldy,<100k
+50,72,Stirling,<100k
+35,53,Fort William,<100k
+40,49,Edinburgh,>100k
+15,55,Stirling,<100k
+35,51,Glasgow,>100k
+35,44,Fort William,<100k
+35,27,Fort William,<100k
+65,20,Kirkcaldy,<100k
+30,57,Dunfermline,<100k
+50,36,Fort William,<100k
+35,51,Dundee,>100k
+50,45,Fort William,<100k
+60,54,Glasgow,>100k
+45,82,Dunfermline,<100k
+50,62,Stirling,<100k
+50,62,Dumfries,<100k
+45,50,Edinburgh,>100k
+35,43,Edinburgh,>100k
+35,53,Edinburgh,>100k
+40,64,Dunfermline,<100k
+45,60,Edinburgh,>100k
+35,63,Dunfermline,<100k
+55,69,Dunfermline,<100k
+50,45,Aberdeen,>100k
+40,40,Inverness,<100k
+30,48,Dundee,>100k
+45,62,Stirling,<100k
+20,45,Edinburgh,>100k
+45,76,Dunfermline,<100k
+50,46,Dumfries,<100k
+40,39,Paisley,<100k
+25,60,Dundee,>100k
+50,66,Aberdeen,>100k
+25,26,Edinburgh,>100k
+55,58,Paisley,<100k
+55,74,Dunfermline,<100k
+40,57,Dumfries,<100k
+40,32,Fort William,<100k
+45,53,Inverness,<100k
+40,42,Inverness,<100k
+40,28,Paisley,<100k
+40,64,Dundee,>100k
+45,31,Paisley,<100k
+30,28,Inverness,<100k
+20,22,Aberdeen,>100k
+35,50,Perth,<100k
+40,52,Dunfermline,<100k
+45,45,Fort William,<100k
+55,69,Inverness,<100k
+60,63,Dumfries,<100k
+40,55,Dumfries,<100k
+50,60,Edinburgh,>100k
+55,42,Paisley,<100k
+40,49,Dumfries,<100k
+45,53,Stirling,<100k
+35,32,Aberdeen,>100k
+25,49,Perth,<100k
+35,38,Aberdeen,>100k
+45,59,Glasgow,>100k
+40,43,Aberdeen,>100k
+50,44,Inverness,<100k
+50,56,Paisley,<100k
+40,66,Stirling,<100k
+25,44,Glasgow,>100k
+50,46,Inverness,<100k
+50,66,Stirling,<100k
+60,55,Fort William,<100k
+50,55,Perth,<100k
+35,53,Inverness,<100k
+25,56,Glasgow,>100k
+25,26,Dumfries,<100k
+30,39,Stirling,<100k
+55,56,Fort William,<100k
+40,68,Edinburgh,>100k
+30,38,Perth,<100k
+35,46,Paisley,<100k
+35,50,Edinburgh,>100k
+35,39,Dumfries,<100k
+40,56,Perth,<100k
+45,50,Dundee,>100k
+40,40,Inverness,<100k
+40,45,Paisley,<100k
+35,35,Aberdeen,>100k
+25,47,Perth,<100k
+35,58,Dundee,>100k
+35,43,Dumfries,<100k
+50,70,Dunfermline,<100k
+35,48,Stirling,<100k
+35,67,Glasgow,>100k
+30,40,Inverness,<100k
+45,65,Perth,<100k
+35,48,Perth,<100k
+40,42,Paisley,<100k
+15,11,Aberdeen,>100k
+25,39,Perth,<100k
+35,45,Aberdeen,>100k
