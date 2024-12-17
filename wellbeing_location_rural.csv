@@ -1,0 +1,201 @@
+age,outdoor_time,social_int,routine,wellbeing,isRural
+28,12,13,1,36,rural
+56,5,15,1,41,rural
+25,19,11,1,35,rural
+60,25,15,0,35,rural
+19,9,18,1,32,rural
+34,18,13,1,34,rural
+41,17,19,1,39,rural
+41,11,12,1,43,rural
+35,12,13,0,35,rural
+53,13,15,1,37,rural
+62,26,7,0,35,rural
+30,22,10,0,36,rural
+22,10,7,1,33,rural
+38,33,12,0,33,rural
+39,29,14,1,45,rural
+19,23,17,0,26,rural
+51,15,16,0,39,rural
+66,17,16,1,34,rural
+58,22,10,1,39,rural
+47,22,9,0,33,rural
+32,19,10,0,33,rural
+32,23,18,1,33,rural
+25,26,12,0,31,rural
+38,18,9,1,33,rural
+69,2,19,0,39,rural
+27,26,19,0,35,rural
+53,17,16,0,31,rural
+56,16,12,0,31,rural
+40,15,16,1,33,rural
+30,29,9,0,36,rural
+62,12,16,0,38,rural
+53,10,14,0,29,rural
+59,18,16,1,29,rural
+68,18,6,1,37,rural
+63,10,16,1,32,rural
+42,17,12,1,34,rural
+19,21,12,1,41,rural
+60,7,14,0,33,rural
+34,20,20,0,39,rural
+49,30,9,1,33,rural
+50,19,18,1,35,rural
+32,17,13,1,32,rural
+46,8,16,1,35,rural
+54,23,12,1,39,rural
+21,22,12,0,32,rural
+50,19,11,1,35,rural
+28,9,6,0,32,rural
+43,16,20,1,35,rural
+60,12,10,1,38,rural
+47,24,15,0,27,rural
+48,13,10,1,35,rural
+50,23,8,0,32,rural
+58,31,16,1,30,rural
+63,12,15,1,35,rural
+21,15,5,0,31,rural
+27,1,11,1,38,rural
+41,27,7,0,28,rural
+35,19,17,0,26,rural
+53,35,14,1,35,rural
+44,5,7,1,35,rural
+26,19,17,1,34,rural
+44,25,11,0,26,rural
+56,23,12,1,33,rural
+22,24,11,0,34,rural
+69,17,12,1,31,rural
+25,26,14,1,41,rural
+51,20,18,0,37,rural
+22,17,5,0,30,rural
+18,18,9,1,33,rural
+43,9,9,1,32,rural
+24,24,7,0,35,rural
+63,10,21,1,41,rural
+23,29,5,1,36,rural
+47,14,9,1,33,rural
+30,10,4,1,36,rural
+46,19,19,1,28,rural
+63,15,10,1,35,rural
+36,19,16,0,22,rural
+19,7,21,0,39,rural
+35,13,14,1,41,rural
+50,18,8,1,32,rural
+42,9,11,0,39,rural
+30,20,13,0,33,rural
+65,30,12,1,35,rural
+39,10,7,0,27,rural
+28,11,11,0,27,rural
+66,24,15,0,36,rural
+22,19,17,1,34,rural
+33,4,10,0,32,rural
+58,12,16,0,35,rural
+63,23,7,1,34,rural
+27,13,7,1,34,rural
+19,29,15,1,34,rural
+36,16,11,1,33,rural
+44,14,8,0,29,rural
+42,33,10,1,39,rural
+18,17,11,1,29,rural
+21,9,7,1,32,rural
+43,22,15,1,32,rural
+45,24,11,1,34,rural
+66,12,6,0,26,not rural
+43,15,7,1,35,not rural
+30,8,16,1,42,not rural
+53,17,8,1,42,not rural
+19,21,12,0,33,not rural
+33,30,17,0,43,not rural
+67,19,21,0,43,not rural
+56,20,15,0,46,not rural
+23,26,19,1,59,not rural
+31,25,9,1,45,not rural
+42,17,10,0,36,not rural
+64,9,11,1,35,not rural
+24,23,15,0,48,not rural
+20,9,12,0,32,not rural
+68,14,12,0,41,not rural
+55,8,13,0,28,not rural
+38,30,12,0,36,not rural
+22,16,11,1,39,not rural
+41,12,13,0,42,not rural
+50,29,11,1,42,not rural
+25,18,16,0,35,not rural
+59,27,14,0,42,not rural
+56,9,6,1,32,not rural
+40,26,7,0,35,not rural
+38,27,8,1,46,not rural
+39,28,11,1,49,not rural
+21,7,5,1,30,not rural
+36,16,10,1,30,not rural
+66,21,8,1,36,not rural
+44,20,10,0,29,not rural
+18,28,4,0,32,not rural
+29,21,18,1,41,not rural
+69,22,18,1,34,not rural
+60,19,9,0,34,not rural
+47,23,7,0,36,not rural
+48,22,16,1,38,not rural
+44,29,14,1,42,not rural
+44,7,10,1,34,not rural
+54,23,14,0,42,not rural
+37,11,19,0,43,not rural
+58,31,14,0,41,not rural
+52,21,9,0,38,not rural
+70,21,10,1,40,not rural
+52,19,17,1,43,not rural
+42,18,12,0,37,not rural
+57,11,8,0,32,not rural
+46,11,9,0,32,not rural
+21,18,14,1,43,not rural
+21,34,13,1,48,not rural
+31,21,13,0,35,not rural
+34,29,11,1,50,not rural
+63,18,6,0,33,not rural
+23,18,13,1,39,not rural
+41,18,13,1,40,not rural
+45,15,7,1,36,not rural
+28,17,14,0,36,not rural
+31,6,12,0,33,not rural
+52,13,9,1,32,not rural
+69,11,4,0,31,not rural
+64,20,10,0,34,not rural
+56,14,12,1,41,not rural
+54,14,15,1,39,not rural
+22,22,11,1,47,not rural
+65,23,13,1,41,not rural
+62,31,3,1,37,not rural
+30,26,13,0,47,not rural
+24,18,18,1,47,not rural
+36,26,12,1,41,not rural
+35,10,20,1,46,not rural
+26,27,7,0,36,not rural
+44,7,15,1,34,not rural
+34,31,10,1,43,not rural
+36,25,18,0,47,not rural
+61,23,12,1,39,not rural
+40,12,13,0,34,not rural
+21,9,24,1,35,not rural
+39,22,9,0,34,not rural
+43,11,8,1,36,not rural
+57,14,6,1,41,not rural
+38,15,11,1,38,not rural
+51,17,13,1,38,not rural
+21,25,8,0,33,not rural
+54,14,8,1,40,not rural
+68,23,10,0,45,not rural
+37,24,7,1,36,not rural
+60,7,8,0,30,not rural
+40,18,12,1,42,not rural
+46,16,17,0,43,not rural
+41,16,12,1,39,not rural
+31,18,11,1,39,not rural
+32,17,11,1,39,not rural
+67,13,13,0,33,not rural
+38,21,16,1,45,not rural
+22,10,12,0,33,not rural
+66,22,12,1,43,not rural
+42,10,11,0,34,not rural
+56,32,7,1,41,not rural
+26,10,10,0,32,not rural
+25,23,12,1,43,not rural
+36,22,15,0,40,not rural
