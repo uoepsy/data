@@ -1,0 +1,721 @@
+pair,lengthknown,gid,dial,absdial,spectrum,category,score
+grp_1,4,1,63,6.3,High brow <--> Low brow,social,42.06273755674425
+grp_1,4,1,56,5.6,Large number <--> Small number,quantifiable,31.372737556744248
+grp_1,4,1,21,2.1,Fascinating topic <--> Boring topic,qualitative,13.84273755674425
+grp_1,4,1,-105,10.5,Good pizza topping <--> Bad pizza topping,qualitative,45.03273755674425
+grp_1,4,1,-98,9.8,Global issue <--> Local issue,social,34.76273755674425
+grp_1,4,1,14,1.4,Democracy <--> Dictatorship,social,33.242737556744245
+grp_1,4,1,7,0.7,Undiscovered Gem <--> Garbage,social,28.81273755674425
+grp_1,4,1,-49,4.9,Hard <--> Soft,quantifiable,28.942737556744248
+grp_1,4,1,-77,7.7,Long <--> Short,quantifiable,33.18273755674425
+grp_1,4,1,84,8.4,Loud <--> Quiet,quantifiable,36.14273755674425
+grp_1,4,1,-35,3.5,Art <--> Not art,social,30.66273755674425
+grp_1,4,1,-28,2.8,Best year in history <--> Worst year in history,qualitative,22.08273755674425
+grp_1,4,1,91,9.1,Best day of the year <--> Worst day of the year,qualitative,30.57273755674425
+grp_1,4,1,35,3.5,Terrifying <--> Thrilling,qualitative,27.552737556744248
+grp_1,4,1,-56,5.6,Good candy <--> Bad candy,qualitative,26.76273755674425
+grp_1,4,1,-63,6.3,Avant garde <--> Old fashioned,social,34.66273755674425
+grp_1,4,1,-42,4.2,Beautiful <--> Ugly,qualitative,34.842737556744254
+grp_1,4,1,-21,2.1,Strong <--> Weak,quantifiable,24.08273755674425
+grp_1,4,1,28,2.8,For adults <--> For kids,social,42.11273755674425
+grp_1,4,1,0,0,Wet <--> Dry,quantifiable,20.46273755674425
+grp_1,4,1,77,7.7,Good movie <--> Bad movie,qualitative,29.91273755674425
+grp_1,4,1,-70,7,High calorie <--> Low calorie,quantifiable,30.71273755674425
+grp_1,4,1,-7,0.7,Cold <--> Hot,quantifiable,26.942737556744248
+grp_1,4,1,98,9.8,Light <--> Dark,quantifiable,43.64273755674425
+grp_1,4,1,-84,8.4,Classic <--> Fad,social,34.982737556744254
+grp_1,4,1,42,4.2,Elitist <--> Popular,social,37.352737556744245
+grp_1,4,1,49,4.9,Good <--> Bad,qualitative,26.72273755674425
+grp_1,4,1,-91,9.1,Flavorful <--> Flavorless,quantifiable,37.58273755674425
+grp_1,4,1,-14,1.4,Talented <--> Untalented,qualitative,21.192737556744248
+grp_1,4,1,70,7,Reform <--> Revolution,social,40.40273755674425
+grp_10,4,0,56,5.6,For adults <--> For kids,social,34.33273755674425
+grp_10,4,0,-28,2.8,Best year in history <--> Worst year in history,qualitative,18.59273755674425
+grp_10,4,0,-35,3.5,Good movie <--> Bad movie,qualitative,22.70273755674425
+grp_10,4,0,28,2.8,Democracy <--> Dictatorship,social,36.96273755674425
+grp_10,4,0,-21,2.1,Undiscovered Gem <--> Garbage,social,35.89273755674425
+grp_10,4,0,14,1.4,Long <--> Short,quantifiable,28.82273755674425
+grp_10,4,0,21,2.1,Strong <--> Weak,quantifiable,22.26273755674425
+grp_10,4,0,-49,4.9,Terrifying <--> Thrilling,qualitative,11.36273755674425
+grp_10,4,0,-14,1.4,Loud <--> Quiet,quantifiable,18.84273755674425
+grp_10,4,0,-98,9.8,Elitist <--> Popular,social,36.11273755674425
+grp_10,4,0,0,0,Talented <--> Untalented,qualitative,24.39273755674425
+grp_10,4,0,42,4.2,Avant garde <--> Old fashioned,social,36.882737556744246
+grp_10,4,0,98,9.8,Cold <--> Hot,quantifiable,19.53273755674425
+grp_10,4,0,-84,8.4,Wet <--> Dry,quantifiable,27.32273755674425
+grp_10,4,0,84,8.4,Hard <--> Soft,quantifiable,32.67273755674425
+grp_10,4,0,-63,6.3,Good <--> Bad,qualitative,14.082737556744249
+grp_10,4,0,-7,0.7,Reform <--> Revolution,social,30.03273755674425
+grp_10,4,0,49,4.9,Good pizza topping <--> Bad pizza topping,qualitative,18.38273755674425
+grp_10,4,0,-42,4.2,Large number <--> Small number,quantifiable,30.89273755674425
+grp_10,4,0,77,7.7,Best day of the year <--> Worst day of the year,qualitative,2.482737556744249
+grp_10,4,0,-70,7,Fascinating topic <--> Boring topic,qualitative,10.172737556744249
+grp_10,4,0,-56,5.6,Global issue <--> Local issue,social,31.15273755674425
+grp_10,4,0,35,3.5,Flavorful <--> Flavorless,quantifiable,30.95273755674425
+grp_10,4,0,7,0.7,Beautiful <--> Ugly,qualitative,18.01273755674425
+grp_10,4,0,-77,7.7,Classic <--> Fad,social,33.68273755674425
+grp_10,4,0,70,7,Art <--> Not art,social,33.852737556744245
+grp_10,4,0,-105,10.5,High calorie <--> Low calorie,quantifiable,23.08273755674425
+grp_10,4,0,63,6.3,Light <--> Dark,quantifiable,21.99273755674425
+grp_10,4,0,-91,9.1,Good candy <--> Bad candy,qualitative,10.512737556744248
+grp_10,4,0,91,9.1,High brow <--> Low brow,social,39.91273755674425
+grp_11,5,0,84,8.4,Long <--> Short,quantifiable,35.732737556744254
+grp_11,5,0,63,6.3,Democracy <--> Dictatorship,social,35.94273755674425
+grp_11,5,0,-35,3.5,Reform <--> Revolution,social,26.74273755674425
+grp_11,5,0,21,2.1,Wet <--> Dry,quantifiable,25.74273755674425
+grp_11,5,0,-7,0.7,Terrifying <--> Thrilling,qualitative,13.31273755674425
+grp_11,5,0,42,4.2,Loud <--> Quiet,quantifiable,NA
+grp_11,5,0,49,4.9,Good candy <--> Bad candy,qualitative,14.89273755674425
+grp_11,5,0,-49,4.9,Best day of the year <--> Worst day of the year,qualitative,9.11273755674425
+grp_11,5,0,77,7.7,Avant garde <--> Old fashioned,social,20.82273755674425
+grp_11,5,0,56,5.6,Elitist <--> Popular,social,25.942737556744248
+grp_11,5,0,-42,4.2,High brow <--> Low brow,social,24.18273755674425
+grp_11,5,0,98,9.8,Global issue <--> Local issue,social,22.36273755674425
+grp_11,5,0,-14,1.4,Flavorful <--> Flavorless,quantifiable,27.692737556744248
+grp_11,5,0,-63,6.3,Art <--> Not art,social,29.102737556744252
+grp_11,5,0,28,2.8,Talented <--> Untalented,qualitative,17.73273755674425
+grp_11,5,0,-56,5.6,High calorie <--> Low calorie,quantifiable,9.47273755674425
+grp_11,5,0,-21,2.1,Good pizza topping <--> Bad pizza topping,qualitative,NA
+grp_11,5,0,-105,10.5,Light <--> Dark,quantifiable,28.38273755674425
+grp_11,5,0,-28,2.8,Classic <--> Fad,social,16.47273755674425
+grp_11,5,0,35,3.5,Undiscovered Gem <--> Garbage,social,22.48273755674425
+grp_11,5,0,7,0.7,Best year in history <--> Worst year in history,qualitative,19.40273755674425
+grp_11,5,0,-84,8.4,Beautiful <--> Ugly,qualitative,23.39273755674425
+grp_11,5,0,0,0,Large number <--> Small number,quantifiable,14.89273755674425
+grp_11,5,0,-70,7,Good movie <--> Bad movie,qualitative,14.35273755674425
+grp_11,5,0,14,1.4,Hard <--> Soft,quantifiable,32.04273755674425
+grp_11,5,0,91,9.1,Good <--> Bad,qualitative,14.12273755674425
+grp_11,5,0,-98,9.8,Cold <--> Hot,quantifiable,19.92273755674425
+grp_11,5,0,-77,7.7,For adults <--> For kids,social,21.31273755674425
+grp_11,5,0,70,7,Strong <--> Weak,quantifiable,24.75273755674425
+grp_11,5,0,-91,9.1,Fascinating topic <--> Boring topic,qualitative,13.22273755674425
+grp_12,3,1,-63,6.3,Democracy <--> Dictatorship,social,36.71273755674425
+grp_12,3,1,-84,8.4,Hard <--> Soft,quantifiable,NA
+grp_12,3,1,-35,3.5,Fascinating topic <--> Boring topic,qualitative,17.692737556744248
+grp_12,3,1,-70,7,Long <--> Short,quantifiable,34.102737556744245
+grp_12,3,1,-14,1.4,High brow <--> Low brow,social,31.77273755674425
+grp_12,3,1,21,2.1,Light <--> Dark,quantifiable,24.27273755674425
+grp_12,3,1,63,6.3,Avant garde <--> Old fashioned,social,32.82273755674425
+grp_12,3,1,35,3.5,Flavorful <--> Flavorless,quantifiable,31.34273755674425
+grp_12,3,1,-56,5.6,Good <--> Bad,qualitative,19.73273755674425
+grp_12,3,1,-21,2.1,Art <--> Not art,social,23.91273755674425
+grp_12,3,1,70,7,For adults <--> For kids,social,42.492737556744245
+grp_12,3,1,-42,4.2,Best year in history <--> Worst year in history,qualitative,26.982737556744247
+grp_12,3,1,98,9.8,Large number <--> Small number,quantifiable,42.65273755674425
+grp_12,3,1,7,0.7,Best day of the year <--> Worst day of the year,qualitative,21.72273755674425
+grp_12,3,1,-105,10.5,Wet <--> Dry,quantifiable,43.50273755674425
+grp_12,3,1,-7,0.7,Elitist <--> Popular,social,22.692737556744248
+grp_12,3,1,91,9.1,Good candy <--> Bad candy,qualitative,24.79273755674425
+grp_12,3,1,77,7.7,Undiscovered Gem <--> Garbage,social,51.95273755674425
+grp_12,3,1,49,4.9,Beautiful <--> Ugly,qualitative,15.36273755674425
+grp_12,3,1,56,5.6,Good movie <--> Bad movie,qualitative,23.622737556744248
+grp_12,3,1,28,2.8,Global issue <--> Local issue,social,21.34273755674425
+grp_12,3,1,0,0,High calorie <--> Low calorie,quantifiable,19.45273755674425
+grp_12,3,1,-77,7.7,Classic <--> Fad,social,38.882737556744246
+grp_12,3,1,42,4.2,Reform <--> Revolution,social,36.17273755674425
+grp_12,3,1,14,1.4,Cold <--> Hot,quantifiable,22.74273755674425
+grp_12,3,1,84,8.4,Loud <--> Quiet,quantifiable,42.00273755674425
+grp_12,3,1,-28,2.8,Terrifying <--> Thrilling,qualitative,30.732737556744247
+grp_12,3,1,-49,4.9,Strong <--> Weak,quantifiable,24.00273755674425
+grp_12,3,1,-98,9.8,Talented <--> Untalented,qualitative,18.15273755674425
+grp_12,3,1,-91,9.1,Good pizza topping <--> Bad pizza topping,qualitative,28.68273755674425
+grp_13,2,1,-84,8.4,Art <--> Not art,social,37.07273755674425
+grp_13,2,1,-21,2.1,Avant garde <--> Old fashioned,social,23.942737556744248
+grp_13,2,1,77,7.7,High brow <--> Low brow,social,39.17273755674425
+grp_13,2,1,63,6.3,Long <--> Short,quantifiable,23.43273755674425
+grp_13,2,1,84,8.4,Fascinating topic <--> Boring topic,qualitative,13.86273755674425
+grp_13,2,1,35,3.5,Good movie <--> Bad movie,qualitative,13.56273755674425
+grp_13,2,1,7,0.7,Loud <--> Quiet,quantifiable,20.73273755674425
+grp_13,2,1,42,4.2,Good <--> Bad,qualitative,17.75273755674425
+grp_13,2,1,-70,7,Best day of the year <--> Worst day of the year,qualitative,19.06273755674425
+grp_13,2,1,21,2.1,Elitist <--> Popular,social,11.09273755674425
+grp_13,2,1,-77,7.7,Light <--> Dark,quantifiable,22.70273755674425
+grp_13,2,1,-91,9.1,Best year in history <--> Worst year in history,qualitative,30.422737556744252
+grp_13,2,1,-63,6.3,Good candy <--> Bad candy,qualitative,16.85273755674425
+grp_13,2,1,0,0,Flavorful <--> Flavorless,quantifiable,13.00273755674425
+grp_13,2,1,-14,1.4,Democracy <--> Dictatorship,social,33.01273755674425
+grp_13,2,1,56,5.6,Classic <--> Fad,social,23.77273755674425
+grp_13,2,1,91,9.1,Large number <--> Small number,quantifiable,45.07273755674425
+grp_13,2,1,98,9.8,Good pizza topping <--> Bad pizza topping,qualitative,32.77273755674425
+grp_13,2,1,70,7,High calorie <--> Low calorie,quantifiable,16.11273755674425
+grp_13,2,1,-56,5.6,Cold <--> Hot,quantifiable,32.132737556744246
+grp_13,2,1,28,2.8,Beautiful <--> Ugly,qualitative,13.16273755674425
+grp_13,2,1,49,4.9,For adults <--> For kids,social,39.95273755674425
+grp_13,2,1,-42,4.2,Hard <--> Soft,quantifiable,22.58273755674425
+grp_13,2,1,-105,10.5,Global issue <--> Local issue,social,36.842737556744254
+grp_13,2,1,-28,2.8,Wet <--> Dry,quantifiable,18.50273755674425
+grp_13,2,1,-98,9.8,Reform <--> Revolution,social,41.81273755674425
+grp_13,2,1,-7,0.7,Talented <--> Untalented,qualitative,19.942737556744248
+grp_13,2,1,-35,3.5,Strong <--> Weak,quantifiable,30.41273755674425
+grp_13,2,1,-49,4.9,Undiscovered Gem <--> Garbage,social,32.482737556744254
+grp_13,2,1,14,1.4,Terrifying <--> Thrilling,qualitative,18.61273755674425
+grp_14,6,1,35,3.5,Best year in history <--> Worst year in history,qualitative,14.88273755674425
+grp_14,6,1,7,0.7,Long <--> Short,quantifiable,18.17273755674425
+grp_14,6,1,-21,2.1,High calorie <--> Low calorie,quantifiable,25.76273755674425
+grp_14,6,1,-63,6.3,Good movie <--> Bad movie,qualitative,17.442737556744248
+grp_14,6,1,14,1.4,Elitist <--> Popular,social,11.87273755674425
+grp_14,6,1,-35,3.5,Global issue <--> Local issue,social,13.64273755674425
+grp_14,6,1,-91,9.1,Best day of the year <--> Worst day of the year,qualitative,20.41273755674425
+grp_14,6,1,-98,9.8,Avant garde <--> Old fashioned,social,18.55273755674425
+grp_14,6,1,-84,8.4,Good candy <--> Bad candy,qualitative,8.96273755674425
+grp_14,6,1,63,6.3,Good <--> Bad,qualitative,19.31273755674425
+grp_14,6,1,-42,4.2,Beautiful <--> Ugly,qualitative,19.10273755674425
+grp_14,6,1,56,5.6,Wet <--> Dry,quantifiable,19.77273755674425
+grp_14,6,1,-77,7.7,Large number <--> Small number,quantifiable,31.54273755674425
+grp_14,6,1,77,7.7,For adults <--> For kids,social,27.08273755674425
+grp_14,6,1,28,2.8,Cold <--> Hot,quantifiable,13.63273755674425
+grp_14,6,1,98,9.8,Terrifying <--> Thrilling,qualitative,8.82273755674425
+grp_14,6,1,84,8.4,Fascinating topic <--> Boring topic,qualitative,14.34273755674425
+grp_14,6,1,-105,10.5,Hard <--> Soft,quantifiable,26.99273755674425
+grp_14,6,1,-7,0.7,Good pizza topping <--> Bad pizza topping,qualitative,6.0027375567442505
+grp_14,6,1,42,4.2,Art <--> Not art,social,20.68273755674425
+grp_14,6,1,91,9.1,Flavorful <--> Flavorless,quantifiable,28.86273755674425
+grp_14,6,1,-14,1.4,Talented <--> Untalented,qualitative,3.2927375567442496
+grp_14,6,1,49,4.9,Democracy <--> Dictatorship,social,36.982737556744254
+grp_14,6,1,-49,4.9,Loud <--> Quiet,quantifiable,20.91273755674425
+grp_14,6,1,0,0,Classic <--> Fad,social,11.73273755674425
+grp_14,6,1,21,2.1,Undiscovered Gem <--> Garbage,social,24.06273755674425
+grp_14,6,1,70,7,Light <--> Dark,quantifiable,18.40273755674425
+grp_14,6,1,-28,2.8,Reform <--> Revolution,social,16.99273755674425
+grp_14,6,1,-56,5.6,High brow <--> Low brow,social,24.53273755674425
+grp_14,6,1,-70,7,Strong <--> Weak,quantifiable,20.122737556744248
+grp_15,3,0,-91,9.1,Long <--> Short,quantifiable,37.61273755674425
+grp_15,3,0,56,5.6,Classic <--> Fad,social,20.79273755674425
+grp_15,3,0,63,6.3,High calorie <--> Low calorie,quantifiable,26.84273755674425
+grp_15,3,0,49,4.9,Global issue <--> Local issue,social,19.08273755674425
+grp_15,3,0,-21,2.1,Best day of the year <--> Worst day of the year,qualitative,9.012737556744248
+grp_15,3,0,98,9.8,Reform <--> Revolution,social,41.72273755674425
+grp_15,3,0,21,2.1,Fascinating topic <--> Boring topic,qualitative,15.58273755674425
+grp_15,3,0,-63,6.3,Flavorful <--> Flavorless,quantifiable,42.69273755674425
+grp_15,3,0,91,9.1,Wet <--> Dry,quantifiable,36.732737556744254
+grp_15,3,0,-35,3.5,Strong <--> Weak,quantifiable,29.04273755674425
+grp_15,3,0,42,4.2,Talented <--> Untalented,qualitative,18.32273755674425
+grp_15,3,0,35,3.5,Good pizza topping <--> Bad pizza topping,qualitative,22.90273755674425
+grp_15,3,0,-14,1.4,Good candy <--> Bad candy,qualitative,14.652737556744249
+grp_15,3,0,7,0.7,Beautiful <--> Ugly,qualitative,22.692737556744248
+grp_15,3,0,77,7.7,For adults <--> For kids,social,43.93273755674425
+grp_15,3,0,-49,4.9,Good movie <--> Bad movie,qualitative,10.71273755674425
+grp_15,3,0,-70,7,Large number <--> Small number,quantifiable,36.482737556744254
+grp_15,3,0,-56,5.6,Terrifying <--> Thrilling,qualitative,22.95273755674425
+grp_15,3,0,28,2.8,Cold <--> Hot,quantifiable,32.61273755674425
+grp_15,3,0,-77,7.7,Undiscovered Gem <--> Garbage,social,39.44273755674425
+grp_15,3,0,-98,9.8,High brow <--> Low brow,social,44.102737556744245
+grp_15,3,0,14,1.4,Loud <--> Quiet,quantifiable,29.52273755674425
+grp_15,3,0,-7,0.7,Art <--> Not art,social,20.67273755674425
+grp_15,3,0,-84,8.4,Avant garde <--> Old fashioned,social,32.53273755674425
+grp_15,3,0,84,8.4,Good <--> Bad,qualitative,14.88273755674425
+grp_15,3,0,-42,4.2,Elitist <--> Popular,social,32.80273755674425
+grp_15,3,0,-28,2.8,Hard <--> Soft,quantifiable,34.872737556744255
+grp_15,3,0,70,7,Light <--> Dark,quantifiable,31.14273755674425
+grp_15,3,0,0,0,Best year in history <--> Worst year in history,qualitative,18.99273755674425
+grp_15,3,0,-105,10.5,Democracy <--> Dictatorship,social,38.872737556744255
+grp_16,3,1,-84,8.4,Long <--> Short,quantifiable,20.95273755674425
+grp_16,3,1,70,7,Strong <--> Weak,quantifiable,22.99273755674425
+grp_16,3,1,63,6.3,Good pizza topping <--> Bad pizza topping,qualitative,22.61273755674425
+grp_16,3,1,21,2.1,Cold <--> Hot,quantifiable,15.322737556744249
+grp_16,3,1,-91,9.1,Wet <--> Dry,quantifiable,12.62273755674425
+grp_16,3,1,77,7.7,Flavorful <--> Flavorless,quantifiable,18.84273755674425
+grp_16,3,1,7,0.7,Good movie <--> Bad movie,qualitative,6.992737556744249
+grp_16,3,1,35,3.5,Democracy <--> Dictatorship,social,28.68273755674425
+grp_16,3,1,-105,10.5,Undiscovered Gem <--> Garbage,social,35.352737556744245
+grp_16,3,1,28,2.8,Best year in history <--> Worst year in history,qualitative,16.04273755674425
+grp_16,3,1,-42,4.2,Loud <--> Quiet,quantifiable,16.47273755674425
+grp_16,3,1,-49,4.9,Talented <--> Untalented,qualitative,13.41273755674425
+grp_16,3,1,42,4.2,Fascinating topic <--> Boring topic,qualitative,10.18273755674425
+grp_16,3,1,-98,9.8,Good <--> Bad,qualitative,18.34273755674425
+grp_16,3,1,-63,6.3,Light <--> Dark,quantifiable,16.50273755674425
+grp_16,3,1,98,9.8,Elitist <--> Popular,social,31.01273755674425
+grp_16,3,1,91,9.1,Terrifying <--> Thrilling,qualitative,22.27273755674425
+grp_16,3,1,14,1.4,High brow <--> Low brow,social,17.21273755674425
+grp_16,3,1,49,4.9,Beautiful <--> Ugly,qualitative,19.03273755674425
+grp_16,3,1,-7,0.7,Best day of the year <--> Worst day of the year,qualitative,9.69273755674425
+grp_16,3,1,-70,7,Avant garde <--> Old fashioned,social,17.67273755674425
+grp_16,3,1,56,5.6,Classic <--> Fad,social,17.50273755674425
+grp_16,3,1,-14,1.4,High calorie <--> Low calorie,quantifiable,9.37273755674425
+grp_16,3,1,84,8.4,Hard <--> Soft,quantifiable,30.422737556744252
+grp_16,3,1,-21,2.1,Reform <--> Revolution,social,15.44273755674425
+grp_16,3,1,-28,2.8,Art <--> Not art,social,18.13273755674425
+grp_16,3,1,-56,5.6,Good candy <--> Bad candy,qualitative,12.02273755674425
+grp_16,3,1,-35,3.5,Large number <--> Small number,quantifiable,12.47273755674425
+grp_16,3,1,-77,7.7,Global issue <--> Local issue,social,16.24273755674425
+grp_16,3,1,0,0,For adults <--> For kids,social,12.26273755674425
+grp_17,3,0,28,2.8,Cold <--> Hot,quantifiable,5.17273755674425
+grp_17,3,0,-77,7.7,Hard <--> Soft,quantifiable,25.672737556744252
+grp_17,3,0,70,7,Elitist <--> Popular,social,19.05273755674425
+grp_17,3,0,0,0,For adults <--> For kids,social,22.07273755674425
+grp_17,3,0,56,5.6,High brow <--> Low brow,social,29.88273755674425
+grp_17,3,0,-49,4.9,Loud <--> Quiet,quantifiable,16.05273755674425
+grp_17,3,0,-105,10.5,Large number <--> Small number,quantifiable,24.47273755674425
+grp_17,3,0,-28,2.8,Long <--> Short,quantifiable,14.55273755674425
+grp_17,3,0,91,9.1,Good <--> Bad,qualitative,17.63273755674425
+grp_17,3,0,42,4.2,Fascinating topic <--> Boring topic,qualitative,5.62273755674425
+grp_17,3,0,49,4.9,Avant garde <--> Old fashioned,social,24.50273755674425
+grp_17,3,0,77,7.7,Good movie <--> Bad movie,qualitative,18.48273755674425
+grp_17,3,0,7,0.7,Classic <--> Fad,social,19.16273755674425
+grp_17,3,0,35,3.5,Talented <--> Untalented,qualitative,17.54273755674425
+grp_17,3,0,63,6.3,Best year in history <--> Worst year in history,qualitative,17.14273755674425
+grp_17,3,0,14,1.4,Best day of the year <--> Worst day of the year,qualitative,12.56273755674425
+grp_17,3,0,-63,6.3,Art <--> Not art,social,26.88273755674425
+grp_17,3,0,-84,8.4,High calorie <--> Low calorie,quantifiable,11.88273755674425
+grp_17,3,0,98,9.8,Good candy <--> Bad candy,qualitative,8.482737556744251
+grp_17,3,0,-56,5.6,Wet <--> Dry,quantifiable,13.79273755674425
+grp_17,3,0,84,8.4,Reform <--> Revolution,social,28.58273755674425
+grp_17,3,0,-7,0.7,Good pizza topping <--> Bad pizza topping,qualitative,14.54273755674425
+grp_17,3,0,-91,9.1,Democracy <--> Dictatorship,social,29.49273755674425
+grp_17,3,0,-14,1.4,Strong <--> Weak,quantifiable,17.83273755674425
+grp_17,3,0,21,2.1,Flavorful <--> Flavorless,quantifiable,8.992737556744249
+grp_17,3,0,-21,2.1,Light <--> Dark,quantifiable,10.402737556744249
+grp_17,3,0,-70,7,Global issue <--> Local issue,social,16.89273755674425
+grp_17,3,0,-35,3.5,Beautiful <--> Ugly,qualitative,17.942737556744248
+grp_17,3,0,-98,9.8,Undiscovered Gem <--> Garbage,social,35.22273755674425
+grp_17,3,0,-42,4.2,Terrifying <--> Thrilling,qualitative,11.62273755674425
+grp_18,2,1,-21,2.1,Classic <--> Fad,social,18.33273755674425
+grp_18,2,1,98,9.8,Reform <--> Revolution,social,39.64273755674425
+grp_18,2,1,91,9.1,Light <--> Dark,quantifiable,18.78273755674425
+grp_18,2,1,-14,1.4,Undiscovered Gem <--> Garbage,social,31.85273755674425
+grp_18,2,1,-42,4.2,Loud <--> Quiet,quantifiable,12.57273755674425
+grp_18,2,1,-56,5.6,Best day of the year <--> Worst day of the year,qualitative,5.072737556744249
+grp_18,2,1,49,4.9,Hard <--> Soft,quantifiable,33.16273755674425
+grp_18,2,1,-28,2.8,Beautiful <--> Ugly,qualitative,12.582737556744249
+grp_18,2,1,-77,7.7,Large number <--> Small number,quantifiable,19.622737556744248
+grp_18,2,1,-105,10.5,Long <--> Short,quantifiable,27.89273755674425
+grp_18,2,1,0,0,Global issue <--> Local issue,social,17.50273755674425
+grp_18,2,1,-63,6.3,Avant garde <--> Old fashioned,social,19.58273755674425
+grp_18,2,1,-7,0.7,Best year in history <--> Worst year in history,qualitative,20.102737556744252
+grp_18,2,1,28,2.8,Talented <--> Untalented,qualitative,9.97273755674425
+grp_18,2,1,-84,8.4,Democracy <--> Dictatorship,social,35.482737556744254
+grp_18,2,1,84,8.4,Elitist <--> Popular,social,23.57273755674425
+grp_18,2,1,-35,3.5,Art <--> Not art,social,26.36273755674425
+grp_18,2,1,35,3.5,High brow <--> Low brow,social,27.75273755674425
+grp_18,2,1,21,2.1,Good movie <--> Bad movie,qualitative,20.97273755674425
+grp_18,2,1,56,5.6,Good <--> Bad,qualitative,18.65273755674425
+grp_18,2,1,77,7.7,Wet <--> Dry,quantifiable,20.36273755674425
+grp_18,2,1,14,1.4,For adults <--> For kids,social,21.74273755674425
+grp_18,2,1,42,4.2,Good candy <--> Bad candy,qualitative,9.652737556744249
+grp_18,2,1,-49,4.9,High calorie <--> Low calorie,quantifiable,20.71273755674425
+grp_18,2,1,63,6.3,Cold <--> Hot,quantifiable,19.07273755674425
+grp_18,2,1,-70,7,Terrifying <--> Thrilling,qualitative,NA
+grp_18,2,1,7,0.7,Strong <--> Weak,quantifiable,18.872737556744248
+grp_18,2,1,-98,9.8,Flavorful <--> Flavorless,quantifiable,33.632737556744246
+grp_18,2,1,70,7,Fascinating topic <--> Boring topic,qualitative,6.552737556744249
+grp_18,2,1,-91,9.1,Good pizza topping <--> Bad pizza topping,qualitative,23.872737556744248
+grp_19,2,0,0,0,High brow <--> Low brow,social,20.90273755674425
+grp_19,2,0,98,9.8,Avant garde <--> Old fashioned,social,29.36273755674425
+grp_19,2,0,42,4.2,Art <--> Not art,social,27.06273755674425
+grp_19,2,0,7,0.7,Undiscovered Gem <--> Garbage,social,12.61273755674425
+grp_19,2,0,-70,7,Beautiful <--> Ugly,qualitative,16.54273755674425
+grp_19,2,0,-21,2.1,Best year in history <--> Worst year in history,qualitative,14.43273755674425
+grp_19,2,0,49,4.9,Good <--> Bad,qualitative,16.68273755674425
+grp_19,2,0,28,2.8,For adults <--> For kids,social,25.192737556744248
+grp_19,2,0,77,7.7,Flavorful <--> Flavorless,quantifiable,14.83273755674425
+grp_19,2,0,-98,9.8,High calorie <--> Low calorie,quantifiable,17.77273755674425
+grp_19,2,0,-28,2.8,Classic <--> Fad,social,16.90273755674425
+grp_19,2,0,70,7,Long <--> Short,quantifiable,15.44273755674425
+grp_19,2,0,-105,10.5,Fascinating topic <--> Boring topic,qualitative,16.95273755674425
+grp_19,2,0,63,6.3,Reform <--> Revolution,social,8.93273755674425
+grp_19,2,0,21,2.1,Democracy <--> Dictatorship,social,23.122737556744248
+grp_19,2,0,56,5.6,Elitist <--> Popular,social,18.84273755674425
+grp_19,2,0,-84,8.4,Good movie <--> Bad movie,qualitative,16.14273755674425
+grp_19,2,0,-77,7.7,Talented <--> Untalented,qualitative,15.73273755674425
+grp_19,2,0,-91,9.1,Cold <--> Hot,quantifiable,14.17273755674425
+grp_19,2,0,-49,4.9,Light <--> Dark,quantifiable,17.81273755674425
+grp_19,2,0,91,9.1,Best day of the year <--> Worst day of the year,qualitative,23.27273755674425
+grp_19,2,0,-42,4.2,Strong <--> Weak,quantifiable,19.47273755674425
+grp_19,2,0,-14,1.4,Global issue <--> Local issue,social,9.392737556744251
+grp_19,2,0,-7,0.7,Wet <--> Dry,quantifiable,16.79273755674425
+grp_19,2,0,-56,5.6,Hard <--> Soft,quantifiable,23.86273755674425
+grp_19,2,0,35,3.5,Loud <--> Quiet,quantifiable,26.58273755674425
+grp_19,2,0,14,1.4,Good candy <--> Bad candy,qualitative,15.33273755674425
+grp_19,2,0,-35,3.5,Large number <--> Small number,quantifiable,28.63273755674425
+grp_19,2,0,84,8.4,Good pizza topping <--> Bad pizza topping,qualitative,23.11273755674425
+grp_19,2,0,-63,6.3,Terrifying <--> Thrilling,qualitative,13.01273755674425
+grp_2,6,0,77,7.7,Terrifying <--> Thrilling,qualitative,20.52273755674425
+grp_2,6,0,42,4.2,Hard <--> Soft,quantifiable,34.61273755674425
+grp_2,6,0,-63,6.3,Good candy <--> Bad candy,qualitative,12.57273755674425
+grp_2,6,0,-84,8.4,Talented <--> Untalented,qualitative,20.56273755674425
+grp_2,6,0,91,9.1,Good <--> Bad,qualitative,25.89273755674425
+grp_2,6,0,-42,4.2,Large number <--> Small number,quantifiable,24.89273755674425
+grp_2,6,0,7,0.7,Reform <--> Revolution,social,27.352737556744252
+grp_2,6,0,-28,2.8,Long <--> Short,quantifiable,25.88273755674425
+grp_2,6,0,-35,3.5,Avant garde <--> Old fashioned,social,28.01273755674425
+grp_2,6,0,-105,10.5,Best day of the year <--> Worst day of the year,qualitative,15.19273755674425
+grp_2,6,0,98,9.8,Undiscovered Gem <--> Garbage,social,48.67273755674425
+grp_2,6,0,-7,0.7,For adults <--> For kids,social,25.50273755674425
+grp_2,6,0,28,2.8,Art <--> Not art,social,32.342737556744254
+grp_2,6,0,35,3.5,Democracy <--> Dictatorship,social,42.65273755674425
+grp_2,6,0,63,6.3,Light <--> Dark,quantifiable,28.372737556744248
+grp_2,6,0,84,8.4,Global issue <--> Local issue,social,32.41273755674425
+grp_2,6,0,0,0,Elitist <--> Popular,social,30.09273755674425
+grp_2,6,0,-14,1.4,Classic <--> Fad,social,31.482737556744247
+grp_2,6,0,-77,7.7,Cold <--> Hot,quantifiable,19.58273755674425
+grp_2,6,0,21,2.1,Beautiful <--> Ugly,qualitative,25.34273755674425
+grp_2,6,0,-70,7,Wet <--> Dry,quantifiable,28.68273755674425
+grp_2,6,0,56,5.6,Good pizza topping <--> Bad pizza topping,qualitative,20.76273755674425
+grp_2,6,0,-49,4.9,Loud <--> Quiet,quantifiable,25.102737556744252
+grp_2,6,0,70,7,Fascinating topic <--> Boring topic,qualitative,28.34273755674425
+grp_2,6,0,49,4.9,Flavorful <--> Flavorless,quantifiable,27.852737556744252
+grp_2,6,0,-21,2.1,Best year in history <--> Worst year in history,qualitative,21.54273755674425
+grp_2,6,0,-98,9.8,Good movie <--> Bad movie,qualitative,24.65273755674425
+grp_2,6,0,14,1.4,Strong <--> Weak,quantifiable,21.20273755674425
+grp_2,6,0,-56,5.6,High brow <--> Low brow,social,29.54273755674425
+grp_2,6,0,-91,9.1,High calorie <--> Low calorie,quantifiable,20.72273755674425
+grp_20,3,1,84,8.4,Good pizza topping <--> Bad pizza topping,qualitative,27.70273755674425
+grp_20,3,1,56,5.6,Large number <--> Small number,quantifiable,44.67273755674425
+grp_20,3,1,35,3.5,Undiscovered Gem <--> Garbage,social,43.122737556744255
+grp_20,3,1,49,4.9,High brow <--> Low brow,social,28.79273755674425
+grp_20,3,1,-98,9.8,Flavorful <--> Flavorless,quantifiable,45.86273755674425
+grp_20,3,1,14,1.4,Best day of the year <--> Worst day of the year,qualitative,12.16273755674425
+grp_20,3,1,-14,1.4,Hard <--> Soft,quantifiable,14.73273755674425
+grp_20,3,1,98,9.8,Reform <--> Revolution,social,36.28273755674425
+grp_20,3,1,-105,10.5,Loud <--> Quiet,quantifiable,56.69273755674425
+grp_20,3,1,-77,7.7,Strong <--> Weak,quantifiable,44.482737556744254
+grp_20,3,1,-21,2.1,Talented <--> Untalented,qualitative,26.99273755674425
+grp_20,3,1,-70,7,Beautiful <--> Ugly,qualitative,26.53273755674425
+grp_20,3,1,-28,2.8,Wet <--> Dry,quantifiable,31.92273755674425
+grp_20,3,1,21,2.1,Long <--> Short,quantifiable,26.75273755674425
+grp_20,3,1,-63,6.3,Good movie <--> Bad movie,qualitative,16.63273755674425
+grp_20,3,1,0,0,Best year in history <--> Worst year in history,qualitative,13.29273755674425
+grp_20,3,1,-91,9.1,High calorie <--> Low calorie,quantifiable,33.22273755674425
+grp_20,3,1,63,6.3,Cold <--> Hot,quantifiable,26.04273755674425
+grp_20,3,1,77,7.7,Classic <--> Fad,social,35.41273755674425
+grp_20,3,1,-42,4.2,Good candy <--> Bad candy,qualitative,2.6327375567442495
+grp_20,3,1,-56,5.6,For adults <--> For kids,social,35.872737556744255
+grp_20,3,1,7,0.7,Democracy <--> Dictatorship,social,28.39273755674425
+grp_20,3,1,91,9.1,Light <--> Dark,quantifiable,20.052737556744248
+grp_20,3,1,-7,0.7,Art <--> Not art,social,23.56273755674425
+grp_20,3,1,42,4.2,Avant garde <--> Old fashioned,social,27.122737556744248
+grp_20,3,1,-49,4.9,Good <--> Bad,qualitative,19.41273755674425
+grp_20,3,1,70,7,Terrifying <--> Thrilling,qualitative,16.78273755674425
+grp_20,3,1,28,2.8,Global issue <--> Local issue,social,28.91273755674425
+grp_20,3,1,-84,8.4,Fascinating topic <--> Boring topic,qualitative,17.78273755674425
+grp_20,3,1,-35,3.5,Elitist <--> Popular,social,27.57273755674425
+grp_21,4,1,84,8.4,Best day of the year <--> Worst day of the year,qualitative,26.28273755674425
+grp_21,4,1,-49,4.9,Beautiful <--> Ugly,qualitative,27.22273755674425
+grp_21,4,1,98,9.8,Cold <--> Hot,quantifiable,43.20273755674425
+grp_21,4,1,-77,7.7,Undiscovered Gem <--> Garbage,social,47.882737556744246
+grp_21,4,1,-70,7,Terrifying <--> Thrilling,qualitative,23.51273755674425
+grp_21,4,1,28,2.8,Fascinating topic <--> Boring topic,qualitative,21.20273755674425
+grp_21,4,1,-35,3.5,Large number <--> Small number,quantifiable,34.68273755674425
+grp_21,4,1,7,0.7,Good pizza topping <--> Bad pizza topping,qualitative,19.50273755674425
+grp_21,4,1,-14,1.4,Art <--> Not art,social,24.49273755674425
+grp_21,4,1,-91,9.1,Classic <--> Fad,social,42.04273755674425
+grp_21,4,1,21,2.1,High calorie <--> Low calorie,quantifiable,23.48273755674425
+grp_21,4,1,-56,5.6,Long <--> Short,quantifiable,37.46273755674425
+grp_21,4,1,-7,0.7,Best year in history <--> Worst year in history,qualitative,17.59273755674425
+grp_21,4,1,-21,2.1,Avant garde <--> Old fashioned,social,NA
+grp_21,4,1,-98,9.8,Elitist <--> Popular,social,47.492737556744245
+grp_21,4,1,-105,10.5,Good movie <--> Bad movie,qualitative,31.86273755674425
+grp_21,4,1,14,1.4,Wet <--> Dry,quantifiable,29.78273755674425
+grp_21,4,1,0,0,Loud <--> Quiet,quantifiable,26.57273755674425
+grp_21,4,1,56,5.6,For adults <--> For kids,social,33.122737556744255
+grp_21,4,1,91,9.1,Talented <--> Untalented,qualitative,35.56273755674425
+grp_21,4,1,-84,8.4,Light <--> Dark,quantifiable,44.27273755674425
+grp_21,4,1,-28,2.8,Good <--> Bad,qualitative,18.33273755674425
+grp_21,4,1,77,7.7,Global issue <--> Local issue,social,35.592737556744254
+grp_21,4,1,49,4.9,Hard <--> Soft,quantifiable,40.16273755674425
+grp_21,4,1,63,6.3,Reform <--> Revolution,social,34.07273755674425
+grp_21,4,1,35,3.5,Flavorful <--> Flavorless,quantifiable,37.45273755674425
+grp_21,4,1,-63,6.3,Good candy <--> Bad candy,qualitative,22.31273755674425
+grp_21,4,1,70,7,Democracy <--> Dictatorship,social,48.572737556744244
+grp_21,4,1,-42,4.2,Strong <--> Weak,quantifiable,34.22273755674425
+grp_21,4,1,42,4.2,High brow <--> Low brow,social,28.302737556744248
+grp_22,4,1,-49,4.9,Light <--> Dark,quantifiable,28.21273755674425
+grp_22,4,1,49,4.9,Wet <--> Dry,quantifiable,29.04273755674425
+grp_22,4,1,-84,8.4,Flavorful <--> Flavorless,quantifiable,41.05273755674425
+grp_22,4,1,63,6.3,Best day of the year <--> Worst day of the year,qualitative,14.32273755674425
+grp_22,4,1,70,7,Strong <--> Weak,quantifiable,24.922737556744252
+grp_22,4,1,-63,6.3,Good movie <--> Bad movie,qualitative,19.40273755674425
+grp_22,4,1,-14,1.4,Good <--> Bad,qualitative,20.33273755674425
+grp_22,4,1,21,2.1,Reform <--> Revolution,social,8.172737556744249
+grp_22,4,1,28,2.8,Art <--> Not art,social,20.102737556744252
+grp_22,4,1,-56,5.6,Loud <--> Quiet,quantifiable,39.83273755674425
+grp_22,4,1,-70,7,Global issue <--> Local issue,social,14.10273755674425
+grp_22,4,1,7,0.7,Elitist <--> Popular,social,14.95273755674425
+grp_22,4,1,-7,0.7,High brow <--> Low brow,social,28.75273755674425
+grp_22,4,1,91,9.1,Talented <--> Untalented,qualitative,19.67273755674425
+grp_22,4,1,42,4.2,High calorie <--> Low calorie,quantifiable,26.53273755674425
+grp_22,4,1,-35,3.5,Beautiful <--> Ugly,qualitative,19.95273755674425
+grp_22,4,1,-105,10.5,Long <--> Short,quantifiable,37.92273755674425
+grp_22,4,1,-91,9.1,Classic <--> Fad,social,9.93273755674425
+grp_22,4,1,14,1.4,Best year in history <--> Worst year in history,qualitative,15.04273755674425
+grp_22,4,1,-42,4.2,Good candy <--> Bad candy,qualitative,8.57273755674425
+grp_22,4,1,-77,7.7,Avant garde <--> Old fashioned,social,28.22273755674425
+grp_22,4,1,-28,2.8,For adults <--> For kids,social,22.17273755674425
+grp_22,4,1,98,9.8,Fascinating topic <--> Boring topic,qualitative,15.94273755674425
+grp_22,4,1,35,3.5,Large number <--> Small number,quantifiable,23.00273755674425
+grp_22,4,1,77,7.7,Hard <--> Soft,quantifiable,40.27273755674425
+grp_22,4,1,-98,9.8,Democracy <--> Dictatorship,social,21.25273755674425
+grp_22,4,1,56,5.6,Undiscovered Gem <--> Garbage,social,33.79273755674425
+grp_22,4,1,-21,2.1,Good pizza topping <--> Bad pizza topping,qualitative,14.38273755674425
+grp_22,4,1,0,0,Terrifying <--> Thrilling,qualitative,14.45273755674425
+grp_22,4,1,84,8.4,Cold <--> Hot,quantifiable,24.03273755674425
+grp_23,4,0,63,6.3,Beautiful <--> Ugly,qualitative,12.72273755674425
+grp_23,4,0,35,3.5,High calorie <--> Low calorie,quantifiable,21.22273755674425
+grp_23,4,0,98,9.8,Best day of the year <--> Worst day of the year,qualitative,17.442737556744248
+grp_23,4,0,-84,8.4,Good pizza topping <--> Bad pizza topping,qualitative,35.29273755674425
+grp_23,4,0,0,0,Strong <--> Weak,quantifiable,13.18273755674425
+grp_23,4,0,-28,2.8,Good candy <--> Bad candy,qualitative,22.06273755674425
+grp_23,4,0,-105,10.5,Long <--> Short,quantifiable,28.982737556744247
+grp_23,4,0,91,9.1,Large number <--> Small number,quantifiable,29.84273755674425
+grp_23,4,0,14,1.4,Hard <--> Soft,quantifiable,21.16273755674425
+grp_23,4,0,-49,4.9,For adults <--> For kids,social,37.69273755674425
+grp_23,4,0,-77,7.7,Democracy <--> Dictatorship,social,35.242737556744245
+grp_23,4,0,-56,5.6,Best year in history <--> Worst year in history,qualitative,22.64273755674425
+grp_23,4,0,21,2.1,Cold <--> Hot,quantifiable,24.39273755674425
+grp_23,4,0,28,2.8,Elitist <--> Popular,social,23.13273755674425
+grp_23,4,0,-70,7,Talented <--> Untalented,qualitative,13.68273755674425
+grp_23,4,0,-21,2.1,Avant garde <--> Old fashioned,social,18.48273755674425
+grp_23,4,0,-42,4.2,Reform <--> Revolution,social,31.84273755674425
+grp_23,4,0,-91,9.1,Fascinating topic <--> Boring topic,qualitative,10.30273755674425
+grp_23,4,0,-14,1.4,Good movie <--> Bad movie,qualitative,27.172737556744252
+grp_23,4,0,77,7.7,High brow <--> Low brow,social,32.86273755674425
+grp_23,4,0,7,0.7,Classic <--> Fad,social,23.78273755674425
+grp_23,4,0,-98,9.8,Light <--> Dark,quantifiable,35.96273755674425
+grp_23,4,0,-35,3.5,Loud <--> Quiet,quantifiable,25.66273755674425
+grp_23,4,0,42,4.2,Art <--> Not art,social,29.76273755674425
+grp_23,4,0,56,5.6,Undiscovered Gem <--> Garbage,social,35.04273755674425
+grp_23,4,0,-63,6.3,Global issue <--> Local issue,social,28.28273755674425
+grp_23,4,0,-7,0.7,Flavorful <--> Flavorless,quantifiable,18.04273755674425
+grp_23,4,0,84,8.4,Terrifying <--> Thrilling,qualitative,20.872737556744248
+grp_23,4,0,70,7,Wet <--> Dry,quantifiable,34.89273755674425
+grp_23,4,0,49,4.9,Good <--> Bad,qualitative,13.84273755674425
+grp_24,2,1,28,2.8,Good pizza topping <--> Bad pizza topping,qualitative,22.14273755674425
+grp_24,2,1,-42,4.2,Flavorful <--> Flavorless,quantifiable,27.09273755674425
+grp_24,2,1,84,8.4,Good movie <--> Bad movie,qualitative,18.04273755674425
+grp_24,2,1,-21,2.1,High brow <--> Low brow,social,21.442737556744248
+grp_24,2,1,-35,3.5,Hard <--> Soft,quantifiable,27.172737556744252
+grp_24,2,1,42,4.2,Large number <--> Small number,quantifiable,27.82273755674425
+grp_24,2,1,-84,8.4,Wet <--> Dry,quantifiable,35.14273755674425
+grp_24,2,1,0,0,Best day of the year <--> Worst day of the year,qualitative,15.152737556744249
+grp_24,2,1,-7,0.7,Best year in history <--> Worst year in history,qualitative,19.76273755674425
+grp_24,2,1,-63,6.3,Art <--> Not art,social,26.45273755674425
+grp_24,2,1,98,9.8,Classic <--> Fad,social,31.96273755674425
+grp_24,2,1,-14,1.4,Good <--> Bad,qualitative,19.96273755674425
+grp_24,2,1,14,1.4,Democracy <--> Dictatorship,social,42.56273755674425
+grp_24,2,1,91,9.1,Loud <--> Quiet,quantifiable,41.19273755674425
+grp_24,2,1,-91,9.1,Beautiful <--> Ugly,qualitative,27.83273755674425
+grp_24,2,1,70,7,For adults <--> For kids,social,42.372737556744255
+grp_24,2,1,-77,7.7,Terrifying <--> Thrilling,qualitative,23.53273755674425
+grp_24,2,1,-70,7,Avant garde <--> Old fashioned,social,28.872737556744248
+grp_24,2,1,21,2.1,Strong <--> Weak,quantifiable,19.802737556744248
+grp_24,2,1,77,7.7,Talented <--> Untalented,qualitative,20.29273755674425
+grp_24,2,1,63,6.3,Light <--> Dark,quantifiable,24.45273755674425
+grp_24,2,1,-56,5.6,Fascinating topic <--> Boring topic,qualitative,21.26273755674425
+grp_24,2,1,7,0.7,Reform <--> Revolution,social,25.86273755674425
+grp_24,2,1,-98,9.8,Long <--> Short,quantifiable,28.39273755674425
+grp_24,2,1,-28,2.8,Elitist <--> Popular,social,25.552737556744248
+grp_24,2,1,-49,4.9,Cold <--> Hot,quantifiable,26.11273755674425
+grp_24,2,1,-105,10.5,Global issue <--> Local issue,social,21.33273755674425
+grp_24,2,1,56,5.6,High calorie <--> Low calorie,quantifiable,25.872737556744248
+grp_24,2,1,49,4.9,Undiscovered Gem <--> Garbage,social,36.97273755674425
+grp_24,2,1,35,3.5,Good candy <--> Bad candy,qualitative,18.25273755674425
+grp_3,4,1,7,0.7,Elitist <--> Popular,social,21.39273755674425
+grp_3,4,1,-63,6.3,Long <--> Short,quantifiable,36.992737556744245
+grp_3,4,1,0,0,Large number <--> Small number,quantifiable,21.49273755674425
+grp_3,4,1,91,9.1,Good candy <--> Bad candy,qualitative,23.91273755674425
+grp_3,4,1,-49,4.9,Strong <--> Weak,quantifiable,25.99273755674425
+grp_3,4,1,63,6.3,Light <--> Dark,quantifiable,39.58273755674425
+grp_3,4,1,-77,7.7,Art <--> Not art,social,52.86273755674425
+grp_3,4,1,-42,4.2,For adults <--> For kids,social,39.86273755674425
+grp_3,4,1,28,2.8,Fascinating topic <--> Boring topic,qualitative,12.832737556744249
+grp_3,4,1,-91,9.1,Classic <--> Fad,social,33.602737556744245
+grp_3,4,1,-105,10.5,High brow <--> Low brow,social,43.25273755674425
+grp_3,4,1,-70,7,Undiscovered Gem <--> Garbage,social,36.16273755674425
+grp_3,4,1,77,7.7,Good movie <--> Bad movie,qualitative,30.88273755674425
+grp_3,4,1,42,4.2,Avant garde <--> Old fashioned,social,31.56273755674425
+grp_3,4,1,-35,3.5,Democracy <--> Dictatorship,social,34.08273755674425
+grp_3,4,1,98,9.8,Reform <--> Revolution,social,39.75273755674425
+grp_3,4,1,-84,8.4,Global issue <--> Local issue,social,39.70273755674425
+grp_3,4,1,49,4.9,Beautiful <--> Ugly,qualitative,29.38273755674425
+grp_3,4,1,-28,2.8,Flavorful <--> Flavorless,quantifiable,33.52273755674425
+grp_3,4,1,70,7,Terrifying <--> Thrilling,qualitative,21.24273755674425
+grp_3,4,1,-21,2.1,Loud <--> Quiet,quantifiable,25.76273755674425
+grp_3,4,1,84,8.4,Hard <--> Soft,quantifiable,47.08273755674425
+grp_3,4,1,35,3.5,Best year in history <--> Worst year in history,qualitative,27.27273755674425
+grp_3,4,1,56,5.6,Best day of the year <--> Worst day of the year,qualitative,19.20273755674425
+grp_3,4,1,-7,0.7,Cold <--> Hot,quantifiable,23.03273755674425
+grp_3,4,1,-98,9.8,Good <--> Bad,qualitative,27.32273755674425
+grp_3,4,1,14,1.4,Talented <--> Untalented,qualitative,25.40273755674425
+grp_3,4,1,-56,5.6,Good pizza topping <--> Bad pizza topping,qualitative,29.01273755674425
+grp_3,4,1,-14,1.4,High calorie <--> Low calorie,quantifiable,24.58273755674425
+grp_3,4,1,21,2.1,Wet <--> Dry,quantifiable,27.872737556744248
+grp_4,8,1,-21,2.1,Terrifying <--> Thrilling,qualitative,28.442737556744248
+grp_4,8,1,42,4.2,Best year in history <--> Worst year in history,qualitative,27.15273755674425
+grp_4,8,1,-70,7,Best day of the year <--> Worst day of the year,qualitative,22.31273755674425
+grp_4,8,1,98,9.8,Beautiful <--> Ugly,qualitative,39.982737556744254
+grp_4,8,1,-56,5.6,High brow <--> Low brow,social,43.492737556744245
+grp_4,8,1,-77,7.7,Hard <--> Soft,quantifiable,38.852737556744245
+grp_4,8,1,49,4.9,Avant garde <--> Old fashioned,social,38.372737556744255
+grp_4,8,1,14,1.4,Good pizza topping <--> Bad pizza topping,qualitative,26.77273755674425
+grp_4,8,1,7,0.7,Undiscovered Gem <--> Garbage,social,40.592737556744254
+grp_4,8,1,21,2.1,Flavorful <--> Flavorless,quantifiable,35.03273755674425
+grp_4,8,1,84,8.4,Cold <--> Hot,quantifiable,34.80273755674425
+grp_4,8,1,-35,3.5,Loud <--> Quiet,quantifiable,42.56273755674425
+grp_4,8,1,-105,10.5,Light <--> Dark,quantifiable,36.81273755674425
+grp_4,8,1,-28,2.8,Good <--> Bad,qualitative,20.88273755674425
+grp_4,8,1,35,3.5,For adults <--> For kids,social,45.742737556744245
+grp_4,8,1,28,2.8,Global issue <--> Local issue,social,38.232737556744254
+grp_4,8,1,-84,8.4,Talented <--> Untalented,qualitative,30.86273755674425
+grp_4,8,1,-7,0.7,Good candy <--> Bad candy,qualitative,19.65273755674425
+grp_4,8,1,70,7,Art <--> Not art,social,52.55273755674425
+grp_4,8,1,-91,9.1,Fascinating topic <--> Boring topic,qualitative,29.04273755674425
+grp_4,8,1,91,9.1,Long <--> Short,quantifiable,41.43273755674425
+grp_4,8,1,-49,4.9,Democracy <--> Dictatorship,social,35.30273755674425
+grp_4,8,1,0,0,Good movie <--> Bad movie,qualitative,23.59273755674425
+grp_4,8,1,-14,1.4,Classic <--> Fad,social,41.58273755674425
+grp_4,8,1,77,7.7,Reform <--> Revolution,social,41.25273755674425
+grp_4,8,1,-98,9.8,Large number <--> Small number,quantifiable,41.31273755674425
+grp_4,8,1,-42,4.2,Wet <--> Dry,quantifiable,NA
+grp_4,8,1,-63,6.3,Elitist <--> Popular,social,39.18273755674425
+grp_4,8,1,63,6.3,Strong <--> Weak,quantifiable,35.79273755674425
+grp_4,8,1,56,5.6,High calorie <--> Low calorie,quantifiable,37.872737556744255
+grp_5,3,1,-56,5.6,Undiscovered Gem <--> Garbage,social,37.72273755674425
+grp_5,3,1,-42,4.2,High calorie <--> Low calorie,quantifiable,39.80273755674425
+grp_5,3,1,-84,8.4,For adults <--> For kids,social,44.21273755674425
+grp_5,3,1,0,0,Elitist <--> Popular,social,12.28273755674425
+grp_5,3,1,91,9.1,Loud <--> Quiet,quantifiable,58.822737556744244
+grp_5,3,1,-28,2.8,Best day of the year <--> Worst day of the year,qualitative,16.86273755674425
+grp_5,3,1,-35,3.5,Art <--> Not art,social,19.58273755674425
+grp_5,3,1,14,1.4,Good candy <--> Bad candy,qualitative,NA
+grp_5,3,1,98,9.8,Global issue <--> Local issue,social,16.05273755674425
+grp_5,3,1,28,2.8,Democracy <--> Dictatorship,social,26.28273755674425
+grp_5,3,1,-14,1.4,Good movie <--> Bad movie,qualitative,28.63273755674425
+grp_5,3,1,35,3.5,Best year in history <--> Worst year in history,qualitative,NA
+grp_5,3,1,21,2.1,Flavorful <--> Flavorless,quantifiable,31.11273755674425
+grp_5,3,1,-105,10.5,Light <--> Dark,quantifiable,60.42273755674425
+grp_5,3,1,84,8.4,Long <--> Short,quantifiable,51.92273755674425
+grp_5,3,1,-91,9.1,Strong <--> Weak,quantifiable,53.08273755674425
+grp_5,3,1,42,4.2,Cold <--> Hot,quantifiable,23.96273755674425
+grp_5,3,1,-7,0.7,Avant garde <--> Old fashioned,social,25.02273755674425
+grp_5,3,1,70,7,Fascinating topic <--> Boring topic,qualitative,21.98273755674425
+grp_5,3,1,-49,4.9,Reform <--> Revolution,social,33.28273755674425
+grp_5,3,1,49,4.9,Good pizza topping <--> Bad pizza topping,qualitative,36.44273755674425
+grp_5,3,1,56,5.6,Classic <--> Fad,social,31.49273755674425
+grp_5,3,1,-98,9.8,Good <--> Bad,qualitative,32.33273755674425
+grp_5,3,1,-63,6.3,Large number <--> Small number,quantifiable,53.122737556744255
+grp_5,3,1,-70,7,High brow <--> Low brow,social,35.602737556744245
+grp_5,3,1,7,0.7,Terrifying <--> Thrilling,qualitative,21.68273755674425
+grp_5,3,1,63,6.3,Hard <--> Soft,quantifiable,45.70273755674425
+grp_5,3,1,-21,2.1,Talented <--> Untalented,qualitative,28.13273755674425
+grp_5,3,1,-77,7.7,Wet <--> Dry,quantifiable,47.80273755674425
+grp_5,3,1,77,7.7,Beautiful <--> Ugly,qualitative,35.54273755674425
+grp_6,3,1,-28,2.8,Wet <--> Dry,quantifiable,24.89273755674425
+grp_6,3,1,-14,1.4,For adults <--> For kids,social,21.06273755674425
+grp_6,3,1,91,9.1,Talented <--> Untalented,qualitative,15.21273755674425
+grp_6,3,1,98,9.8,Beautiful <--> Ugly,qualitative,14.18273755674425
+grp_6,3,1,35,3.5,High brow <--> Low brow,social,22.602737556744252
+grp_6,3,1,-35,3.5,Strong <--> Weak,quantifiable,34.29273755674425
+grp_6,3,1,42,4.2,Good pizza topping <--> Bad pizza topping,qualitative,21.25273755674425
+grp_6,3,1,77,7.7,Large number <--> Small number,quantifiable,36.54273755674425
+grp_6,3,1,-84,8.4,Classic <--> Fad,social,21.83273755674425
+grp_6,3,1,84,8.4,Reform <--> Revolution,social,24.122737556744248
+grp_6,3,1,14,1.4,Flavorful <--> Flavorless,quantifiable,17.86273755674425
+grp_6,3,1,0,0,Good movie <--> Bad movie,qualitative,21.04273755674425
+grp_6,3,1,-91,9.1,Good <--> Bad,qualitative,14.17273755674425
+grp_6,3,1,-42,4.2,Good candy <--> Bad candy,qualitative,8.742737556744249
+grp_6,3,1,-98,9.8,Undiscovered Gem <--> Garbage,social,43.03273755674425
+grp_6,3,1,56,5.6,Global issue <--> Local issue,social,13.77273755674425
+grp_6,3,1,63,6.3,High calorie <--> Low calorie,quantifiable,31.352737556744252
+grp_6,3,1,-21,2.1,Avant garde <--> Old fashioned,social,14.55273755674425
+grp_6,3,1,-63,6.3,Terrifying <--> Thrilling,qualitative,12.46273755674425
+grp_6,3,1,28,2.8,Long <--> Short,quantifiable,26.51273755674425
+grp_6,3,1,49,4.9,Hard <--> Soft,quantifiable,46.77273755674425
+grp_6,3,1,-49,4.9,Light <--> Dark,quantifiable,24.602737556744252
+grp_6,3,1,-56,5.6,Democracy <--> Dictatorship,social,22.872737556744248
+grp_6,3,1,-105,10.5,Elitist <--> Popular,social,17.08273755674425
+grp_6,3,1,21,2.1,Best year in history <--> Worst year in history,qualitative,16.24273755674425
+grp_6,3,1,-70,7,Art <--> Not art,social,33.36273755674425
+grp_6,3,1,-7,0.7,Best day of the year <--> Worst day of the year,qualitative,0.002737556744250469
+grp_6,3,1,70,7,Fascinating topic <--> Boring topic,qualitative,19.89273755674425
+grp_6,3,1,-77,7.7,Loud <--> Quiet,quantifiable,32.132737556744246
+grp_6,3,1,7,0.7,Cold <--> Hot,quantifiable,25.28273755674425
+grp_7,3,0,-91,9.1,Art <--> Not art,social,45.72273755674425
+grp_7,3,0,35,3.5,Good <--> Bad,qualitative,10.05273755674425
+grp_7,3,0,84,8.4,Terrifying <--> Thrilling,qualitative,25.672737556744252
+grp_7,3,0,7,0.7,Large number <--> Small number,quantifiable,21.13273755674425
+grp_7,3,0,91,9.1,Classic <--> Fad,social,33.22273755674425
+grp_7,3,0,-84,8.4,Best day of the year <--> Worst day of the year,qualitative,15.18273755674425
+grp_7,3,0,-14,1.4,For adults <--> For kids,social,30.692737556744248
+grp_7,3,0,56,5.6,Reform <--> Revolution,social,34.122737556744255
+grp_7,3,0,77,7.7,Elitist <--> Popular,social,34.14273755674425
+grp_7,3,0,28,2.8,Undiscovered Gem <--> Garbage,social,37.55273755674425
+grp_7,3,0,-56,5.6,Good pizza topping <--> Bad pizza topping,qualitative,25.352737556744252
+grp_7,3,0,0,0,Good movie <--> Bad movie,qualitative,20.46273755674425
+grp_7,3,0,-70,7,Global issue <--> Local issue,social,18.14273755674425
+grp_7,3,0,-77,7.7,Loud <--> Quiet,quantifiable,32.18273755674425
+grp_7,3,0,49,4.9,Fascinating topic <--> Boring topic,qualitative,17.45273755674425
+grp_7,3,0,-28,2.8,Avant garde <--> Old fashioned,social,27.31273755674425
+grp_7,3,0,-35,3.5,High brow <--> Low brow,social,24.76273755674425
+grp_7,3,0,98,9.8,High calorie <--> Low calorie,quantifiable,30.04273755674425
+grp_7,3,0,-105,10.5,Talented <--> Untalented,qualitative,16.97273755674425
+grp_7,3,0,14,1.4,Wet <--> Dry,quantifiable,28.102737556744252
+grp_7,3,0,-21,2.1,Best year in history <--> Worst year in history,qualitative,15.72273755674425
+grp_7,3,0,-63,6.3,Beautiful <--> Ugly,qualitative,28.53273755674425
+grp_7,3,0,-7,0.7,Long <--> Short,quantifiable,19.48273755674425
+grp_7,3,0,-42,4.2,Strong <--> Weak,quantifiable,17.26273755674425
+grp_7,3,0,21,2.1,Cold <--> Hot,quantifiable,20.552737556744248
+grp_7,3,0,42,4.2,Democracy <--> Dictatorship,social,32.43273755674425
+grp_7,3,0,-98,9.8,Light <--> Dark,quantifiable,19.36273755674425
+grp_7,3,0,70,7,Hard <--> Soft,quantifiable,28.25273755674425
+grp_7,3,0,63,6.3,Good candy <--> Bad candy,qualitative,11.402737556744249
+grp_7,3,0,-49,4.9,Flavorful <--> Flavorless,quantifiable,35.54273755674425
+grp_8,3,0,14,1.4,Best day of the year <--> Worst day of the year,qualitative,NA
+grp_8,3,0,77,7.7,Good candy <--> Bad candy,qualitative,4.802737556744249
+grp_8,3,0,-7,0.7,Elitist <--> Popular,social,17.192737556744248
+grp_8,3,0,-21,2.1,Fascinating topic <--> Boring topic,qualitative,9.97273755674425
+grp_8,3,0,49,4.9,Democracy <--> Dictatorship,social,34.96273755674425
+grp_8,3,0,84,8.4,Classic <--> Fad,social,23.942737556744248
+grp_8,3,0,-98,9.8,Beautiful <--> Ugly,qualitative,16.11273755674425
+grp_8,3,0,-77,7.7,Light <--> Dark,quantifiable,23.372737556744248
+grp_8,3,0,56,5.6,Hard <--> Soft,quantifiable,32.732737556744254
+grp_8,3,0,70,7,For adults <--> For kids,social,36.15273755674425
+grp_8,3,0,-42,4.2,Cold <--> Hot,quantifiable,18.24273755674425
+grp_8,3,0,-35,3.5,Wet <--> Dry,quantifiable,26.29273755674425
+grp_8,3,0,-28,2.8,Undiscovered Gem <--> Garbage,social,28.83273755674425
+grp_8,3,0,-49,4.9,Large number <--> Small number,quantifiable,26.63273755674425
+grp_8,3,0,63,6.3,Avant garde <--> Old fashioned,social,21.61273755674425
+grp_8,3,0,-91,9.1,Global issue <--> Local issue,social,8.732737556744251
+grp_8,3,0,-14,1.4,Long <--> Short,quantifiable,16.52273755674425
+grp_8,3,0,98,9.8,Reform <--> Revolution,social,38.372737556744255
+grp_8,3,0,42,4.2,High brow <--> Low brow,social,20.84273755674425
+grp_8,3,0,-105,10.5,High calorie <--> Low calorie,quantifiable,29.59273755674425
+grp_8,3,0,7,0.7,Good <--> Bad,qualitative,17.08273755674425
+grp_8,3,0,-56,5.6,Terrifying <--> Thrilling,qualitative,12.50273755674425
+grp_8,3,0,91,9.1,Talented <--> Untalented,qualitative,9.44273755674425
+grp_8,3,0,35,3.5,Flavorful <--> Flavorless,quantifiable,22.70273755674425
+grp_8,3,0,-70,7,Good movie <--> Bad movie,qualitative,17.36273755674425
+grp_8,3,0,-63,6.3,Good pizza topping <--> Bad pizza topping,qualitative,27.90273755674425
+grp_8,3,0,28,2.8,Strong <--> Weak,quantifiable,19.23273755674425
+grp_8,3,0,-84,8.4,Art <--> Not art,social,24.86273755674425
+grp_8,3,0,21,2.1,Loud <--> Quiet,quantifiable,24.57273755674425
+grp_8,3,0,0,0,Best year in history <--> Worst year in history,qualitative,18.06273755674425
+grp_9,4,0,35,3.5,Cold <--> Hot,quantifiable,37.81273755674425
+grp_9,4,0,21,2.1,Wet <--> Dry,quantifiable,27.59273755674425
+grp_9,4,0,77,7.7,Classic <--> Fad,social,22.28273755674425
+grp_9,4,0,-77,7.7,Democracy <--> Dictatorship,social,26.65273755674425
+grp_9,4,0,49,4.9,Flavorful <--> Flavorless,quantifiable,31.96273755674425
+grp_9,4,0,-70,7,High brow <--> Low brow,social,24.91273755674425
+grp_9,4,0,14,1.4,Global issue <--> Local issue,social,23.50273755674425
+grp_9,4,0,-98,9.8,Loud <--> Quiet,quantifiable,37.79273755674425
+grp_9,4,0,-42,4.2,Good movie <--> Bad movie,qualitative,17.59273755674425
+grp_9,4,0,-63,6.3,Good candy <--> Bad candy,qualitative,19.74273755674425
+grp_9,4,0,91,9.1,Good <--> Bad,qualitative,20.50273755674425
+grp_9,4,0,-28,2.8,Best day of the year <--> Worst day of the year,qualitative,19.53273755674425
+grp_9,4,0,-84,8.4,Reform <--> Revolution,social,31.34273755674425
+grp_9,4,0,63,6.3,Avant garde <--> Old fashioned,social,27.34273755674425
+grp_9,4,0,-105,10.5,Beautiful <--> Ugly,qualitative,29.02273755674425
+grp_9,4,0,70,7,Hard <--> Soft,quantifiable,37.102737556744245
+grp_9,4,0,-91,9.1,Fascinating topic <--> Boring topic,qualitative,15.992737556744249
+grp_9,4,0,98,9.8,Best year in history <--> Worst year in history,qualitative,31.422737556744252
+grp_9,4,0,84,8.4,Art <--> Not art,social,33.17273755674425
+grp_9,4,0,-7,0.7,Terrifying <--> Thrilling,qualitative,20.49273755674425
+grp_9,4,0,42,4.2,Elitist <--> Popular,social,16.63273755674425
+grp_9,4,0,0,0,Undiscovered Gem <--> Garbage,social,15.19273755674425
+grp_9,4,0,-14,1.4,Light <--> Dark,quantifiable,24.20273755674425
+grp_9,4,0,-49,4.9,Talented <--> Untalented,qualitative,19.41273755674425
+grp_9,4,0,-35,3.5,Large number <--> Small number,quantifiable,28.78273755674425
+grp_9,4,0,7,0.7,Long <--> Short,quantifiable,28.71273755674425
+grp_9,4,0,28,2.8,Good pizza topping <--> Bad pizza topping,qualitative,26.352737556744252
+grp_9,4,0,-56,5.6,High calorie <--> Low calorie,quantifiable,31.20273755674425
+grp_9,4,0,-21,2.1,Strong <--> Weak,quantifiable,34.482737556744254
+grp_9,4,0,56,5.6,For adults <--> For kids,social,35.53273755674425
