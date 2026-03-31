@@ -1,0 +1,901 @@
+outdoordays,funding,schoolid,mood
+0,private,Kilsyth Academy,16
+1,private,Kilsyth Academy,37
+2,private,Kilsyth Academy,26
+3,private,Kilsyth Academy,32
+4,private,Kilsyth Academy,31
+5,private,Kilsyth Academy,23
+0,private,Kilsyth Academy,17
+1,private,Kilsyth Academy,27
+2,private,Kilsyth Academy,13
+3,private,Kilsyth Academy,39
+4,private,Kilsyth Academy,23
+5,private,Kilsyth Academy,30
+0,private,Kilsyth Academy,16
+1,private,Kilsyth Academy,27
+2,private,Kilsyth Academy,22
+3,private,Kilsyth Academy,23
+4,private,Kilsyth Academy,31
+5,private,Kilsyth Academy,23
+0,private,Kilsyth Academy,20
+1,private,Kilsyth Academy,20
+2,private,Kilsyth Academy,26
+3,private,Kilsyth Academy,24
+4,private,Kilsyth Academy,23
+5,private,Kilsyth Academy,31
+0,private,Kilsyth Academy,23
+1,private,Kilsyth Academy,24
+2,private,Kilsyth Academy,31
+3,private,Kilsyth Academy,29
+4,private,Kilsyth Academy,24
+5,private,Kilsyth Academy,33
+0,private,St Andrew's Academy,21
+1,private,St Andrew's Academy,14
+2,private,St Andrew's Academy,19
+3,private,St Andrew's Academy,24
+4,private,St Andrew's Academy,23
+5,private,St Andrew's Academy,22
+0,private,St Andrew's Academy,12
+1,private,St Andrew's Academy,28
+2,private,St Andrew's Academy,13
+3,private,St Andrew's Academy,20
+4,private,St Andrew's Academy,27
+5,private,St Andrew's Academy,13
+0,private,St Andrew's Academy,30
+1,private,St Andrew's Academy,19
+2,private,St Andrew's Academy,24
+3,private,St Andrew's Academy,18
+4,private,St Andrew's Academy,27
+5,private,St Andrew's Academy,16
+0,private,St Andrew's Academy,23
+1,private,St Andrew's Academy,12
+2,private,St Andrew's Academy,32
+3,private,St Andrew's Academy,14
+4,private,St Andrew's Academy,38
+5,private,St Andrew's Academy,20
+0,private,St Andrew's Academy,26
+1,private,St Andrew's Academy,28
+2,private,St Andrew's Academy,12
+3,private,St Andrew's Academy,25
+4,private,St Andrew's Academy,27
+5,private,St Andrew's Academy,26
+0,state,Bo'ness Academy,24
+1,state,Bo'ness Academy,27
+2,state,Bo'ness Academy,21
+3,state,Bo'ness Academy,35
+4,state,Bo'ness Academy,36
+5,state,Bo'ness Academy,31
+0,state,Bo'ness Academy,25
+1,state,Bo'ness Academy,23
+2,state,Bo'ness Academy,24
+3,state,Bo'ness Academy,26
+4,state,Bo'ness Academy,26
+5,state,Bo'ness Academy,35
+0,state,Bo'ness Academy,30
+1,state,Bo'ness Academy,21
+2,state,Bo'ness Academy,29
+3,state,Bo'ness Academy,35
+4,state,Bo'ness Academy,27
+5,state,Bo'ness Academy,45
+0,state,Bo'ness Academy,21
+1,state,Bo'ness Academy,20
+2,state,Bo'ness Academy,36
+3,state,Bo'ness Academy,36
+4,state,Bo'ness Academy,31
+5,state,Bo'ness Academy,29
+0,state,Bo'ness Academy,23
+1,state,Bo'ness Academy,31
+2,state,Bo'ness Academy,35
+3,state,Bo'ness Academy,37
+4,state,Bo'ness Academy,34
+5,state,Bo'ness Academy,29
+0,state,Craigie High School,28
+1,state,Craigie High School,16
+2,state,Craigie High School,26
+3,state,Craigie High School,22
+4,state,Craigie High School,31
+5,state,Craigie High School,38
+0,state,Craigie High School,23
+1,state,Craigie High School,20
+2,state,Craigie High School,32
+3,state,Craigie High School,27
+4,state,Craigie High School,29
+5,state,Craigie High School,43
+0,state,Craigie High School,12
+1,state,Craigie High School,24
+2,state,Craigie High School,31
+3,state,Craigie High School,33
+4,state,Craigie High School,42
+5,state,Craigie High School,43
+0,state,Craigie High School,20
+1,state,Craigie High School,24
+2,state,Craigie High School,31
+3,state,Craigie High School,31
+4,state,Craigie High School,36
+5,state,Craigie High School,41
+0,state,Craigie High School,28
+1,state,Craigie High School,26
+2,state,Craigie High School,22
+3,state,Craigie High School,34
+4,state,Craigie High School,28
+5,state,Craigie High School,36
+0,private,Calderglen High School,31
+1,private,Calderglen High School,28
+2,private,Calderglen High School,30
+3,private,Calderglen High School,31
+4,private,Calderglen High School,34
+5,private,Calderglen High School,15
+0,private,Calderglen High School,37
+1,private,Calderglen High School,20
+2,private,Calderglen High School,15
+3,private,Calderglen High School,26
+4,private,Calderglen High School,29
+5,private,Calderglen High School,34
+0,private,Calderglen High School,30
+1,private,Calderglen High School,31
+2,private,Calderglen High School,32
+3,private,Calderglen High School,19
+4,private,Calderglen High School,24
+5,private,Calderglen High School,26
+0,private,Calderglen High School,32
+1,private,Calderglen High School,36
+2,private,Calderglen High School,25
+3,private,Calderglen High School,20
+4,private,Calderglen High School,20
+5,private,Calderglen High School,34
+0,private,Calderglen High School,20
+1,private,Calderglen High School,25
+2,private,Calderglen High School,26
+3,private,Calderglen High School,27
+4,private,Calderglen High School,26
+5,private,Calderglen High School,21
+0,state,Strathaven Academy,20
+1,state,Strathaven Academy,24
+2,state,Strathaven Academy,29
+3,state,Strathaven Academy,24
+4,state,Strathaven Academy,34
+5,state,Strathaven Academy,37
+0,state,Strathaven Academy,20
+1,state,Strathaven Academy,14
+2,state,Strathaven Academy,17
+3,state,Strathaven Academy,29
+4,state,Strathaven Academy,34
+5,state,Strathaven Academy,40
+0,state,Strathaven Academy,20
+1,state,Strathaven Academy,38
+2,state,Strathaven Academy,19
+3,state,Strathaven Academy,13
+4,state,Strathaven Academy,40
+5,state,Strathaven Academy,38
+0,state,Strathaven Academy,20
+1,state,Strathaven Academy,17
+2,state,Strathaven Academy,38
+3,state,Strathaven Academy,37
+4,state,Strathaven Academy,30
+5,state,Strathaven Academy,40
+0,state,Strathaven Academy,34
+1,state,Strathaven Academy,28
+2,state,Strathaven Academy,21
+3,state,Strathaven Academy,35
+4,state,Strathaven Academy,34
+5,state,Strathaven Academy,38
+0,state,St Andrew's and St Bride's High School,41
+1,state,St Andrew's and St Bride's High School,33
+2,state,St Andrew's and St Bride's High School,28
+3,state,St Andrew's and St Bride's High School,33
+4,state,St Andrew's and St Bride's High School,49
+5,state,St Andrew's and St Bride's High School,37
+0,state,St Andrew's and St Bride's High School,28
+1,state,St Andrew's and St Bride's High School,37
+2,state,St Andrew's and St Bride's High School,39
+3,state,St Andrew's and St Bride's High School,41
+4,state,St Andrew's and St Bride's High School,39
+5,state,St Andrew's and St Bride's High School,39
+0,state,St Andrew's and St Bride's High School,21
+1,state,St Andrew's and St Bride's High School,31
+2,state,St Andrew's and St Bride's High School,36
+3,state,St Andrew's and St Bride's High School,49
+4,state,St Andrew's and St Bride's High School,41
+5,state,St Andrew's and St Bride's High School,33
+0,state,St Andrew's and St Bride's High School,20
+1,state,St Andrew's and St Bride's High School,36
+2,state,St Andrew's and St Bride's High School,27
+3,state,St Andrew's and St Bride's High School,29
+4,state,St Andrew's and St Bride's High School,32
+5,state,St Andrew's and St Bride's High School,46
+0,state,St Andrew's and St Bride's High School,30
+1,state,St Andrew's and St Bride's High School,29
+2,state,St Andrew's and St Bride's High School,26
+3,state,St Andrew's and St Bride's High School,31
+4,state,St Andrew's and St Bride's High School,29
+5,state,St Andrew's and St Bride's High School,30
+0,private,St Ambrose High School,44
+1,private,St Ambrose High School,29
+2,private,St Ambrose High School,25
+3,private,St Ambrose High School,38
+4,private,St Ambrose High School,38
+5,private,St Ambrose High School,35
+0,private,St Ambrose High School,31
+1,private,St Ambrose High School,28
+2,private,St Ambrose High School,38
+3,private,St Ambrose High School,41
+4,private,St Ambrose High School,42
+5,private,St Ambrose High School,47
+0,private,St Ambrose High School,21
+1,private,St Ambrose High School,39
+2,private,St Ambrose High School,24
+3,private,St Ambrose High School,36
+4,private,St Ambrose High School,34
+5,private,St Ambrose High School,45
+0,private,St Ambrose High School,26
+1,private,St Ambrose High School,32
+2,private,St Ambrose High School,45
+3,private,St Ambrose High School,38
+4,private,St Ambrose High School,44
+5,private,St Ambrose High School,45
+0,private,St Ambrose High School,25
+1,private,St Ambrose High School,22
+2,private,St Ambrose High School,25
+3,private,St Ambrose High School,40
+4,private,St Ambrose High School,36
+5,private,St Ambrose High School,43
+0,state,Farr High School,18
+1,state,Farr High School,12
+2,state,Farr High School,25
+3,state,Farr High School,28
+4,state,Farr High School,23
+5,state,Farr High School,38
+0,state,Farr High School,17
+1,state,Farr High School,35
+2,state,Farr High School,23
+3,state,Farr High School,35
+4,state,Farr High School,33
+5,state,Farr High School,28
+0,state,Farr High School,12
+1,state,Farr High School,22
+2,state,Farr High School,29
+3,state,Farr High School,30
+4,state,Farr High School,24
+5,state,Farr High School,37
+0,state,Farr High School,21
+1,state,Farr High School,34
+2,state,Farr High School,37
+3,state,Farr High School,29
+4,state,Farr High School,34
+5,state,Farr High School,36
+0,state,Farr High School,22
+1,state,Farr High School,33
+2,state,Farr High School,27
+3,state,Farr High School,29
+4,state,Farr High School,25
+5,state,Farr High School,28
+0,state,Broughton High School,23
+1,state,Broughton High School,31
+2,state,Broughton High School,31
+3,state,Broughton High School,27
+4,state,Broughton High School,33
+5,state,Broughton High School,36
+0,state,Broughton High School,18
+1,state,Broughton High School,22
+2,state,Broughton High School,32
+3,state,Broughton High School,33
+4,state,Broughton High School,28
+5,state,Broughton High School,55
+0,state,Broughton High School,34
+1,state,Broughton High School,29
+2,state,Broughton High School,28
+3,state,Broughton High School,38
+4,state,Broughton High School,35
+5,state,Broughton High School,56
+0,state,Broughton High School,21
+1,state,Broughton High School,23
+2,state,Broughton High School,42
+3,state,Broughton High School,43
+4,state,Broughton High School,38
+5,state,Broughton High School,43
+0,state,Broughton High School,14
+1,state,Broughton High School,26
+2,state,Broughton High School,39
+3,state,Broughton High School,48
+4,state,Broughton High School,56
+5,state,Broughton High School,54
+0,private,Beeslack Community High School,26
+1,private,Beeslack Community High School,26
+2,private,Beeslack Community High School,33
+3,private,Beeslack Community High School,30
+4,private,Beeslack Community High School,27
+5,private,Beeslack Community High School,30
+0,private,Beeslack Community High School,28
+1,private,Beeslack Community High School,29
+2,private,Beeslack Community High School,24
+3,private,Beeslack Community High School,22
+4,private,Beeslack Community High School,41
+5,private,Beeslack Community High School,30
+0,private,Beeslack Community High School,23
+1,private,Beeslack Community High School,27
+2,private,Beeslack Community High School,21
+3,private,Beeslack Community High School,28
+4,private,Beeslack Community High School,38
+5,private,Beeslack Community High School,36
+0,private,Beeslack Community High School,38
+1,private,Beeslack Community High School,31
+2,private,Beeslack Community High School,35
+3,private,Beeslack Community High School,25
+4,private,Beeslack Community High School,28
+5,private,Beeslack Community High School,36
+0,private,Beeslack Community High School,28
+1,private,Beeslack Community High School,35
+2,private,Beeslack Community High School,23
+3,private,Beeslack Community High School,46
+4,private,Beeslack Community High School,30
+5,private,Beeslack Community High School,34
+0,private,The Mary Erskine School,25
+1,private,The Mary Erskine School,16
+2,private,The Mary Erskine School,24
+3,private,The Mary Erskine School,30
+4,private,The Mary Erskine School,38
+5,private,The Mary Erskine School,31
+0,private,The Mary Erskine School,19
+1,private,The Mary Erskine School,23
+2,private,The Mary Erskine School,13
+3,private,The Mary Erskine School,26
+4,private,The Mary Erskine School,28
+5,private,The Mary Erskine School,26
+0,private,The Mary Erskine School,28
+1,private,The Mary Erskine School,23
+2,private,The Mary Erskine School,25
+3,private,The Mary Erskine School,26
+4,private,The Mary Erskine School,30
+5,private,The Mary Erskine School,32
+0,private,The Mary Erskine School,33
+1,private,The Mary Erskine School,20
+2,private,The Mary Erskine School,26
+3,private,The Mary Erskine School,25
+4,private,The Mary Erskine School,40
+5,private,The Mary Erskine School,42
+0,private,The Mary Erskine School,12
+1,private,The Mary Erskine School,21
+2,private,The Mary Erskine School,16
+3,private,The Mary Erskine School,22
+4,private,The Mary Erskine School,41
+5,private,The Mary Erskine School,36
+0,private,Tarbert Academy,28
+1,private,Tarbert Academy,28
+2,private,Tarbert Academy,26
+3,private,Tarbert Academy,34
+4,private,Tarbert Academy,35
+5,private,Tarbert Academy,40
+0,private,Tarbert Academy,28
+1,private,Tarbert Academy,21
+2,private,Tarbert Academy,33
+3,private,Tarbert Academy,32
+4,private,Tarbert Academy,47
+5,private,Tarbert Academy,38
+0,private,Tarbert Academy,21
+1,private,Tarbert Academy,32
+2,private,Tarbert Academy,28
+3,private,Tarbert Academy,32
+4,private,Tarbert Academy,34
+5,private,Tarbert Academy,42
+0,private,Tarbert Academy,35
+1,private,Tarbert Academy,34
+2,private,Tarbert Academy,12
+3,private,Tarbert Academy,35
+4,private,Tarbert Academy,39
+5,private,Tarbert Academy,45
+0,private,Tarbert Academy,23
+1,private,Tarbert Academy,18
+2,private,Tarbert Academy,41
+3,private,Tarbert Academy,23
+4,private,Tarbert Academy,30
+5,private,Tarbert Academy,58
+0,private,Stewarton Academy,21
+1,private,Stewarton Academy,31
+2,private,Stewarton Academy,32
+3,private,Stewarton Academy,20
+4,private,Stewarton Academy,16
+5,private,Stewarton Academy,25
+0,private,Stewarton Academy,25
+1,private,Stewarton Academy,25
+2,private,Stewarton Academy,37
+3,private,Stewarton Academy,31
+4,private,Stewarton Academy,17
+5,private,Stewarton Academy,24
+0,private,Stewarton Academy,31
+1,private,Stewarton Academy,22
+2,private,Stewarton Academy,31
+3,private,Stewarton Academy,24
+4,private,Stewarton Academy,31
+5,private,Stewarton Academy,25
+0,private,Stewarton Academy,40
+1,private,Stewarton Academy,17
+2,private,Stewarton Academy,30
+3,private,Stewarton Academy,24
+4,private,Stewarton Academy,24
+5,private,Stewarton Academy,27
+0,private,Stewarton Academy,32
+1,private,Stewarton Academy,21
+2,private,Stewarton Academy,33
+3,private,Stewarton Academy,26
+4,private,Stewarton Academy,32
+5,private,Stewarton Academy,12
+0,state,Anderson High School,27
+1,state,Anderson High School,30
+2,state,Anderson High School,19
+3,state,Anderson High School,37
+4,state,Anderson High School,35
+5,state,Anderson High School,38
+0,state,Anderson High School,29
+1,state,Anderson High School,27
+2,state,Anderson High School,32
+3,state,Anderson High School,29
+4,state,Anderson High School,28
+5,state,Anderson High School,41
+0,state,Anderson High School,22
+1,state,Anderson High School,30
+2,state,Anderson High School,34
+3,state,Anderson High School,20
+4,state,Anderson High School,40
+5,state,Anderson High School,32
+0,state,Anderson High School,37
+1,state,Anderson High School,29
+2,state,Anderson High School,36
+3,state,Anderson High School,26
+4,state,Anderson High School,24
+5,state,Anderson High School,39
+0,state,Anderson High School,21
+1,state,Anderson High School,25
+2,state,Anderson High School,31
+3,state,Anderson High School,44
+4,state,Anderson High School,32
+5,state,Anderson High School,42
+0,state,Kilwinning Academy,33
+1,state,Kilwinning Academy,31
+2,state,Kilwinning Academy,30
+3,state,Kilwinning Academy,28
+4,state,Kilwinning Academy,33
+5,state,Kilwinning Academy,44
+0,state,Kilwinning Academy,21
+1,state,Kilwinning Academy,22
+2,state,Kilwinning Academy,44
+3,state,Kilwinning Academy,40
+4,state,Kilwinning Academy,42
+5,state,Kilwinning Academy,34
+0,state,Kilwinning Academy,32
+1,state,Kilwinning Academy,28
+2,state,Kilwinning Academy,33
+3,state,Kilwinning Academy,25
+4,state,Kilwinning Academy,38
+5,state,Kilwinning Academy,43
+0,state,Kilwinning Academy,29
+1,state,Kilwinning Academy,30
+2,state,Kilwinning Academy,43
+3,state,Kilwinning Academy,49
+4,state,Kilwinning Academy,48
+5,state,Kilwinning Academy,51
+0,state,Kilwinning Academy,28
+1,state,Kilwinning Academy,38
+2,state,Kilwinning Academy,43
+3,state,Kilwinning Academy,29
+4,state,Kilwinning Academy,35
+5,state,Kilwinning Academy,37
+0,state,Balwearie High School,21
+1,state,Balwearie High School,12
+2,state,Balwearie High School,25
+3,state,Balwearie High School,37
+4,state,Balwearie High School,44
+5,state,Balwearie High School,40
+0,state,Balwearie High School,14
+1,state,Balwearie High School,28
+2,state,Balwearie High School,28
+3,state,Balwearie High School,32
+4,state,Balwearie High School,37
+5,state,Balwearie High School,45
+0,state,Balwearie High School,24
+1,state,Balwearie High School,20
+2,state,Balwearie High School,27
+3,state,Balwearie High School,20
+4,state,Balwearie High School,34
+5,state,Balwearie High School,50
+0,state,Balwearie High School,14
+1,state,Balwearie High School,21
+2,state,Balwearie High School,26
+3,state,Balwearie High School,43
+4,state,Balwearie High School,46
+5,state,Balwearie High School,47
+0,state,Balwearie High School,27
+1,state,Balwearie High School,13
+2,state,Balwearie High School,38
+3,state,Balwearie High School,24
+4,state,Balwearie High School,40
+5,state,Balwearie High School,51
+0,private,St Columba's High School,30
+1,private,St Columba's High School,24
+2,private,St Columba's High School,46
+3,private,St Columba's High School,42
+4,private,St Columba's High School,46
+5,private,St Columba's High School,53
+0,private,St Columba's High School,31
+1,private,St Columba's High School,35
+2,private,St Columba's High School,37
+3,private,St Columba's High School,35
+4,private,St Columba's High School,43
+5,private,St Columba's High School,38
+0,private,St Columba's High School,21
+1,private,St Columba's High School,22
+2,private,St Columba's High School,42
+3,private,St Columba's High School,36
+4,private,St Columba's High School,36
+5,private,St Columba's High School,49
+0,private,St Columba's High School,17
+1,private,St Columba's High School,24
+2,private,St Columba's High School,39
+3,private,St Columba's High School,43
+4,private,St Columba's High School,46
+5,private,St Columba's High School,51
+0,private,St Columba's High School,27
+1,private,St Columba's High School,45
+2,private,St Columba's High School,40
+3,private,St Columba's High School,44
+4,private,St Columba's High School,31
+5,private,St Columba's High School,42
+0,state,Dunfermline High School,20
+1,state,Dunfermline High School,21
+2,state,Dunfermline High School,12
+3,state,Dunfermline High School,18
+4,state,Dunfermline High School,15
+5,state,Dunfermline High School,17
+0,state,Dunfermline High School,12
+1,state,Dunfermline High School,23
+2,state,Dunfermline High School,19
+3,state,Dunfermline High School,17
+4,state,Dunfermline High School,20
+5,state,Dunfermline High School,19
+0,state,Dunfermline High School,22
+1,state,Dunfermline High School,21
+2,state,Dunfermline High School,14
+3,state,Dunfermline High School,15
+4,state,Dunfermline High School,18
+5,state,Dunfermline High School,31
+0,state,Dunfermline High School,16
+1,state,Dunfermline High School,17
+2,state,Dunfermline High School,12
+3,state,Dunfermline High School,12
+4,state,Dunfermline High School,20
+5,state,Dunfermline High School,12
+0,state,Dunfermline High School,14
+1,state,Dunfermline High School,14
+2,state,Dunfermline High School,22
+3,state,Dunfermline High School,17
+4,state,Dunfermline High School,18
+5,state,Dunfermline High School,17
+0,state,Gryffe High School,22
+1,state,Gryffe High School,33
+2,state,Gryffe High School,20
+3,state,Gryffe High School,40
+4,state,Gryffe High School,40
+5,state,Gryffe High School,46
+0,state,Gryffe High School,20
+1,state,Gryffe High School,31
+2,state,Gryffe High School,33
+3,state,Gryffe High School,32
+4,state,Gryffe High School,36
+5,state,Gryffe High School,48
+0,state,Gryffe High School,29
+1,state,Gryffe High School,29
+2,state,Gryffe High School,28
+3,state,Gryffe High School,38
+4,state,Gryffe High School,44
+5,state,Gryffe High School,49
+0,state,Gryffe High School,14
+1,state,Gryffe High School,25
+2,state,Gryffe High School,34
+3,state,Gryffe High School,34
+4,state,Gryffe High School,34
+5,state,Gryffe High School,40
+0,state,Gryffe High School,23
+1,state,Gryffe High School,17
+2,state,Gryffe High School,37
+3,state,Gryffe High School,31
+4,state,Gryffe High School,48
+5,state,Gryffe High School,41
+0,state,Grantown Grammar School,31
+1,state,Grantown Grammar School,27
+2,state,Grantown Grammar School,29
+3,state,Grantown Grammar School,26
+4,state,Grantown Grammar School,39
+5,state,Grantown Grammar School,34
+0,state,Grantown Grammar School,29
+1,state,Grantown Grammar School,23
+2,state,Grantown Grammar School,35
+3,state,Grantown Grammar School,41
+4,state,Grantown Grammar School,45
+5,state,Grantown Grammar School,37
+0,state,Grantown Grammar School,26
+1,state,Grantown Grammar School,23
+2,state,Grantown Grammar School,23
+3,state,Grantown Grammar School,42
+4,state,Grantown Grammar School,43
+5,state,Grantown Grammar School,60
+0,state,Grantown Grammar School,26
+1,state,Grantown Grammar School,27
+2,state,Grantown Grammar School,33
+3,state,Grantown Grammar School,48
+4,state,Grantown Grammar School,40
+5,state,Grantown Grammar School,43
+0,state,Grantown Grammar School,18
+1,state,Grantown Grammar School,38
+2,state,Grantown Grammar School,29
+3,state,Grantown Grammar School,33
+4,state,Grantown Grammar School,38
+5,state,Grantown Grammar School,32
+0,private,Castlebrae Community High School,30
+1,private,Castlebrae Community High School,24
+2,private,Castlebrae Community High School,25
+3,private,Castlebrae Community High School,30
+4,private,Castlebrae Community High School,20
+5,private,Castlebrae Community High School,44
+0,private,Castlebrae Community High School,22
+1,private,Castlebrae Community High School,32
+2,private,Castlebrae Community High School,15
+3,private,Castlebrae Community High School,32
+4,private,Castlebrae Community High School,47
+5,private,Castlebrae Community High School,37
+0,private,Castlebrae Community High School,15
+1,private,Castlebrae Community High School,20
+2,private,Castlebrae Community High School,12
+3,private,Castlebrae Community High School,26
+4,private,Castlebrae Community High School,41
+5,private,Castlebrae Community High School,35
+0,private,Castlebrae Community High School,12
+1,private,Castlebrae Community High School,17
+2,private,Castlebrae Community High School,17
+3,private,Castlebrae Community High School,32
+4,private,Castlebrae Community High School,16
+5,private,Castlebrae Community High School,32
+0,private,Castlebrae Community High School,23
+1,private,Castlebrae Community High School,19
+2,private,Castlebrae Community High School,27
+3,private,Castlebrae Community High School,36
+4,private,Castlebrae Community High School,49
+5,private,Castlebrae Community High School,30
+0,state,Wellington School,27
+1,state,Wellington School,37
+2,state,Wellington School,33
+3,state,Wellington School,53
+4,state,Wellington School,42
+5,state,Wellington School,52
+0,state,Wellington School,21
+1,state,Wellington School,31
+2,state,Wellington School,30
+3,state,Wellington School,42
+4,state,Wellington School,35
+5,state,Wellington School,57
+0,state,Wellington School,26
+1,state,Wellington School,24
+2,state,Wellington School,41
+3,state,Wellington School,24
+4,state,Wellington School,46
+5,state,Wellington School,60
+0,state,Wellington School,22
+1,state,Wellington School,36
+2,state,Wellington School,34
+3,state,Wellington School,38
+4,state,Wellington School,34
+5,state,Wellington School,51
+0,state,Wellington School,27
+1,state,Wellington School,26
+2,state,Wellington School,29
+3,state,Wellington School,37
+4,state,Wellington School,37
+5,state,Wellington School,51
+0,state,Montrose Academy,20
+1,state,Montrose Academy,23
+2,state,Montrose Academy,32
+3,state,Montrose Academy,35
+4,state,Montrose Academy,34
+5,state,Montrose Academy,50
+0,state,Montrose Academy,25
+1,state,Montrose Academy,32
+2,state,Montrose Academy,31
+3,state,Montrose Academy,32
+4,state,Montrose Academy,39
+5,state,Montrose Academy,41
+0,state,Montrose Academy,30
+1,state,Montrose Academy,23
+2,state,Montrose Academy,21
+3,state,Montrose Academy,25
+4,state,Montrose Academy,40
+5,state,Montrose Academy,43
+0,state,Montrose Academy,30
+1,state,Montrose Academy,42
+2,state,Montrose Academy,33
+3,state,Montrose Academy,28
+4,state,Montrose Academy,29
+5,state,Montrose Academy,16
+0,state,Montrose Academy,29
+1,state,Montrose Academy,29
+2,state,Montrose Academy,33
+3,state,Montrose Academy,22
+4,state,Montrose Academy,29
+5,state,Montrose Academy,38
+0,state,Jordanhill School,28
+1,state,Jordanhill School,20
+2,state,Jordanhill School,34
+3,state,Jordanhill School,29
+4,state,Jordanhill School,27
+5,state,Jordanhill School,26
+0,state,Jordanhill School,25
+1,state,Jordanhill School,16
+2,state,Jordanhill School,33
+3,state,Jordanhill School,31
+4,state,Jordanhill School,21
+5,state,Jordanhill School,36
+0,state,Jordanhill School,26
+1,state,Jordanhill School,24
+2,state,Jordanhill School,12
+3,state,Jordanhill School,28
+4,state,Jordanhill School,26
+5,state,Jordanhill School,38
+0,state,Jordanhill School,26
+1,state,Jordanhill School,25
+2,state,Jordanhill School,26
+3,state,Jordanhill School,29
+4,state,Jordanhill School,32
+5,state,Jordanhill School,30
+0,state,Jordanhill School,21
+1,state,Jordanhill School,14
+2,state,Jordanhill School,27
+3,state,Jordanhill School,28
+4,state,Jordanhill School,37
+5,state,Jordanhill School,36
+0,private,Penicuik High School,29
+1,private,Penicuik High School,35
+2,private,Penicuik High School,40
+3,private,Penicuik High School,46
+4,private,Penicuik High School,39
+5,private,Penicuik High School,45
+0,private,Penicuik High School,22
+1,private,Penicuik High School,24
+2,private,Penicuik High School,33
+3,private,Penicuik High School,40
+4,private,Penicuik High School,46
+5,private,Penicuik High School,45
+0,private,Penicuik High School,32
+1,private,Penicuik High School,37
+2,private,Penicuik High School,39
+3,private,Penicuik High School,34
+4,private,Penicuik High School,48
+5,private,Penicuik High School,37
+0,private,Penicuik High School,33
+1,private,Penicuik High School,24
+2,private,Penicuik High School,30
+3,private,Penicuik High School,39
+4,private,Penicuik High School,46
+5,private,Penicuik High School,48
+0,private,Penicuik High School,30
+1,private,Penicuik High School,36
+2,private,Penicuik High School,44
+3,private,Penicuik High School,39
+4,private,Penicuik High School,44
+5,private,Penicuik High School,39
+0,state,St Matthew's Academy,26
+1,state,St Matthew's Academy,18
+2,state,St Matthew's Academy,32
+3,state,St Matthew's Academy,39
+4,state,St Matthew's Academy,45
+5,state,St Matthew's Academy,50
+0,state,St Matthew's Academy,26
+1,state,St Matthew's Academy,30
+2,state,St Matthew's Academy,25
+3,state,St Matthew's Academy,28
+4,state,St Matthew's Academy,34
+5,state,St Matthew's Academy,59
+0,state,St Matthew's Academy,29
+1,state,St Matthew's Academy,33
+2,state,St Matthew's Academy,35
+3,state,St Matthew's Academy,36
+4,state,St Matthew's Academy,50
+5,state,St Matthew's Academy,54
+0,state,St Matthew's Academy,19
+1,state,St Matthew's Academy,30
+2,state,St Matthew's Academy,40
+3,state,St Matthew's Academy,35
+4,state,St Matthew's Academy,39
+5,state,St Matthew's Academy,60
+0,state,St Matthew's Academy,35
+1,state,St Matthew's Academy,25
+2,state,St Matthew's Academy,31
+3,state,St Matthew's Academy,40
+4,state,St Matthew's Academy,40
+5,state,St Matthew's Academy,41
+0,state,Ardnamurchan High School,16
+1,state,Ardnamurchan High School,16
+2,state,Ardnamurchan High School,49
+3,state,Ardnamurchan High School,38
+4,state,Ardnamurchan High School,35
+5,state,Ardnamurchan High School,50
+0,state,Ardnamurchan High School,16
+1,state,Ardnamurchan High School,30
+2,state,Ardnamurchan High School,32
+3,state,Ardnamurchan High School,49
+4,state,Ardnamurchan High School,51
+5,state,Ardnamurchan High School,48
+0,state,Ardnamurchan High School,26
+1,state,Ardnamurchan High School,33
+2,state,Ardnamurchan High School,26
+3,state,Ardnamurchan High School,32
+4,state,Ardnamurchan High School,40
+5,state,Ardnamurchan High School,46
+0,state,Ardnamurchan High School,36
+1,state,Ardnamurchan High School,24
+2,state,Ardnamurchan High School,30
+3,state,Ardnamurchan High School,40
+4,state,Ardnamurchan High School,33
+5,state,Ardnamurchan High School,47
+0,state,Ardnamurchan High School,13
+1,state,Ardnamurchan High School,17
+2,state,Ardnamurchan High School,34
+3,state,Ardnamurchan High School,41
+4,state,Ardnamurchan High School,29
+5,state,Ardnamurchan High School,54
+0,state,Stirling High School,23
+1,state,Stirling High School,27
+2,state,Stirling High School,34
+3,state,Stirling High School,23
+4,state,Stirling High School,38
+5,state,Stirling High School,40
+0,state,Stirling High School,28
+1,state,Stirling High School,38
+2,state,Stirling High School,30
+3,state,Stirling High School,34
+4,state,Stirling High School,41
+5,state,Stirling High School,41
+0,state,Stirling High School,24
+1,state,Stirling High School,32
+2,state,Stirling High School,29
+3,state,Stirling High School,32
+4,state,Stirling High School,26
+5,state,Stirling High School,25
+0,state,Stirling High School,19
+1,state,Stirling High School,30
+2,state,Stirling High School,17
+3,state,Stirling High School,31
+4,state,Stirling High School,31
+5,state,Stirling High School,27
+0,state,Stirling High School,22
+1,state,Stirling High School,23
+2,state,Stirling High School,38
+3,state,Stirling High School,30
+4,state,Stirling High School,25
+5,state,Stirling High School,28
+0,state,Hutchesons' Grammar School,21
+1,state,Hutchesons' Grammar School,19
+2,state,Hutchesons' Grammar School,22
+3,state,Hutchesons' Grammar School,26
+4,state,Hutchesons' Grammar School,26
+5,state,Hutchesons' Grammar School,35
+0,state,Hutchesons' Grammar School,23
+1,state,Hutchesons' Grammar School,13
+2,state,Hutchesons' Grammar School,17
+3,state,Hutchesons' Grammar School,37
+4,state,Hutchesons' Grammar School,18
+5,state,Hutchesons' Grammar School,30
+0,state,Hutchesons' Grammar School,17
+1,state,Hutchesons' Grammar School,25
+2,state,Hutchesons' Grammar School,24
+3,state,Hutchesons' Grammar School,36
+4,state,Hutchesons' Grammar School,36
+5,state,Hutchesons' Grammar School,34
+0,state,Hutchesons' Grammar School,25
+1,state,Hutchesons' Grammar School,12
+2,state,Hutchesons' Grammar School,12
+3,state,Hutchesons' Grammar School,26
+4,state,Hutchesons' Grammar School,29
+5,state,Hutchesons' Grammar School,18
+0,state,Hutchesons' Grammar School,17
+1,state,Hutchesons' Grammar School,21
+2,state,Hutchesons' Grammar School,25
+3,state,Hutchesons' Grammar School,23
+4,state,Hutchesons' Grammar School,16
+5,state,Hutchesons' Grammar School,46
