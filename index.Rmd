@@ -1,8 +1,9 @@
 ---
 title: "DATASETS"
 author: "[uoepsy.github.io](https://uoepsy.github.io)"
-date: "06/04/2021"
+date: "`r Sys.Date()`"
 output: html_document
+encoding: UTF-8
 ---
 
 ```{r setup, include=FALSE}
@@ -19,10 +20,14 @@ dd <- tibble(
 printdatasummary = function(f){
   cat(paste0("# [",f,"](",f,")  \n"))
   if(str_detect(tolower(f), ".csv")){
-    readr::read_csv(f) %>% mutate_if(is.character,factor) %>%
+    readr::read_csv(f) %>% 
+      mutate_if(is.character, ~str_replace_all(., "[^[:alnum:] ]", "")) %>%
+      mutate_if(is.character,factor) %>%
       summary() %>% pander(.,missing="")
   } else if(str_detect(tolower(f), ".xls")){
-    readxl::read_excel(f) %>% mutate_if(is.character,factor) %>%
+    readxl::read_excel(f) %>% 
+      mutate_if(is.character, ~str_replace_all(., "[^[:alnum:] ]", "")) %>%
+      mutate_if(is.character,factor) %>%
       summary() %>% pander(.,missing="")
   }
   cat("  \n")
