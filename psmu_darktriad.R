@@ -7,10 +7,10 @@ set.seed(1)
 
 n_obs <- 80
 
-# correls with PSMU from path coefs in Fig 2
+# correls with PSMU = same or more extreme versions of path coefs in Fig 2
 corr_MachPSMU  <-  0.23
-corr_PsycPSMU  <- -0.20
-corr_NarcPSMU  <-  0.30
+corr_PsycPSMU  <- -0.10
+corr_NarcPSMU  <-  0.40
 
 # inter-predictor correlations from Table 2 in paper
 corr_MachPsyc  <-  0.57
@@ -45,7 +45,7 @@ psmu_data <- as_tibble(corr_df) |>
 write_csv(psmu_data, 'psmu_darktriad.csv')
 
 # table(psmu_data$PSMU) / 80
-# m1 <- glm(PSMU ~ Mach_z + Psyc_z + Narc_z, data = psmu_data)
+# m1 <- glm(PSMU ~ Mach_z + Psyc_z + Narc_z, data = psmu_data, family = binomial)
 # summary(m1)
 # car::vif(m1)
 # rstandard(m1, type = 'deviance') |> plot()
