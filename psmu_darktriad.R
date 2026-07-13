@@ -19,7 +19,7 @@ corr_PsycNarc  <-  0.38
 
 corr_df <- MASS::mvrnorm(
   n = n_obs,
-  mu = c(0.00613, 0, 0, 0),  # average is just some random small number that's not 0
+  mu = c(-0.8, 0, 0, 0),
   Sigma = Matrix::nearPD(
     matrix(
       c(1,             corr_MachPSMU, corr_PsycPSMU, corr_NarcPSMU,
@@ -32,12 +32,20 @@ corr_df <- MASS::mvrnorm(
   empirical = TRUE
 )
 
-colnames(corr_df) <- c('PSMU', 'Mach', 'Psyc', 'Narc')
+colnames(corr_df) <- c('PSMU_logodds', 'Mach_z', 'Psyc_z', 'Narc_z')
+
 psmu_data <- as_tibble(corr_df) |>
-  rownames_to_column(var = 'subjID')
+  rownames_to_column(var = 'subjID') |>
+  mutate(
+     PSMU = ifelse(PSMU_logodds > 0, 1, 0),
+  ) |>
+  mutate(across(Mach_z:Narc_z, \(x) round(x, 3))) |>
+  select(-PSMU_logodds)
+
 write_csv(psmu_data, 'psmu_darktriad.csv')
 
-# m1 <- glm(PSMU ~ Mach + Psyc + Narc, data = psmu_data)
+# table(psmu_data$PSMU) / 80
+# m1 <- glm(PSMU ~ Mach_z + Psyc_z + Narc_z, data = psmu_data)
 # summary(m1)
 # car::vif(m1)
 # rstandard(m1, type = 'deviance') |> plot()
