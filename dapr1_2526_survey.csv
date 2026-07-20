@@ -1,3 +1,4 @@
-pseudonym,birthmonth,am_pm,n_sibling,eye_colour,distance_born,sleepqual,procrast,multitask,fav_color,catdog,threewords
-testjo,january,morning person,2,NA,120,60,50,40,green,both,i don't know
-testjo2,march,evening person,5,blue,164,80,59,30,brown,dog,still not sure
+pseudonym,birthmonth,am_pm,n_sibling,spicy,eye_colour,distance_born,sleepqual,procrast,multitask,fav_color,catdog,threewords
+testjo,january,morning person,2,NA,NA,120,60,50,40,green,both,i don't know
+testjo2,march,evening person,5,NA,blue,164,80,59,30,brown,dog,still not sure
+NA,february,morning person,8,hot,amber,4,67,73,25,blue,cat,i've no idea
