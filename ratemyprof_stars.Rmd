@@ -1,0 +1,31 @@
+---
+title: "Subset RateMyProfessor.com student star/difficulty data"
+output: html_notebook
+---
+
+For Spearman's rho correlation.
+
+[Data downloaded from He (2020)](https://data.mendeley.com/datasets/fvtfjyvw7d/2){target="_blank"}.
+
+This notebook subsets that full dataset for only the columns
+
+- `student_difficult`: students' difficulty rating of the given instructor (1 to 5, integers only)
+- `student_star`: students' difficulty rating of the given instructor (1 to 5, half stars also possible)
+
+```{r}
+rmp_data <- read_csv('RateMyProfessor_Sample data.csv') |>
+  select(student_star, student_difficult) |>
+  drop_na()
+
+write_csv(rmp_data, 'ratemyprof_stars.csv')
+```
+
+```{r eval=F}
+cor.test(
+  rmp_data$student_difficult,
+  rmp_data$student_star,
+  method = 'spearman'
+)
+
+# raises warning bc of "tied ranks" but nbd
+```
