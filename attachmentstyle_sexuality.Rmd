@@ -1,0 +1,57 @@
+---
+title: "Simulate attachment style / sexuality data for chi-squared test of independence"
+output: html_notebook
+---
+
+Data simulated based on:
+
+Ridge, S. R., & Feeney, J. A. (1998). Relationship History and Relationship Attitudes in Gay Males and Lesbians: Attachment Style and Gender Differences. Australian & New Zealand Journal of Psychiatry, 32(6), 848–859. https://doi.org/10.3109/00048679809073875
+
+```{r}
+library(tidyverse)
+
+# Frequencies from RidgeFeeney1998, Table 2, p. 853
+ridgefeeney1998_tab2 <- tribble(
+  ~style,   ~sex, ~sexuality, ~count,
+  'Secure', 'M',  'Homo', 26,
+  'Secure', 'F',  'Homo', 41,
+  'Fearful', 'M', 'Homo', 19,
+  'Fearful', 'F', 'Homo', 22,
+  'Preoccupied', 'M', 'Homo', 16,
+  'Preoccupied', 'F', 'Homo', 12,
+  'Dismissing', 'M', 'Homo', 16,
+  'Dismissing', 'F', 'Homo', 25,
+  'Secure', 'M',  'Hetero', 15,
+  'Secure', 'F',  'Hetero', 53,
+  'Fearful', 'M', 'Hetero', 8,
+  'Fearful', 'F', 'Hetero', 26,
+  'Preoccupied', 'M', 'Hetero', 10,
+  'Preoccupied', 'F', 'Hetero', 11,
+  'Dismissing', 'M', 'Hetero', 6,
+  'Dismissing', 'F', 'Hetero', 21
+)
+
+# aggregating over sex for simplicity's sake
+attach_data <- ridgefeeney1998_tab2 |>
+  group_by(style, sexuality) |>
+  summarise(
+    count = sum(count)
+  ) |>
+  ungroup() |>
+  uncount(count)
+
+write_csv(attach_data, 'attachmentstyle_sexuality.csv')
+```
+
+
+```{r eval=F}
+attach_data
+
+stats::xtabs(~ style + sexuality, data = attach_data)
+
+attach_test <- chisq.test(attach_data$style, attach_data$sexuality)
+attach_test
+
+attach_test$residuals
+attach_test$expected  
+```
